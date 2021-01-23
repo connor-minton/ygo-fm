@@ -20,6 +20,21 @@ function gsAbbr(fullGuardianStar) {
   return abbrs[fullGuardianStar.toLowerCase().substring(0,2)];
 }
 
+function normalizeType(inputType) {
+  const typeLC = inputType.toLowerCase();
+  if (typeLC === 'beastwarrior') {
+    return 'Beast Warrior';
+  }
+  if (typeLC === 'wingedbeast') {
+    return 'Winged Beast';
+  }
+  if (typeLC === 'seaserpent') {
+    return 'Sea Serpent';
+  }
+
+  return titleCase(inputType);
+}
+
 class GuideParser {
   constructor(guide) {
     this.lines = guide.toString().split('\n');
@@ -43,7 +58,6 @@ class GuideParser {
     let lineNum = this.lineNum;
     // first line is always card #
     lineNum += this._addLineToCard(lineNum, card);
-    console.log(card.number);
     let line;
     do {
       lineNum += this._addLineToCard(lineNum, card);
@@ -81,7 +95,7 @@ class GuideParser {
     }
     else if (line.startsWith('Type')) {
       const field = line.split(':')[1];
-      card.type = field.trim();
+      card.type = normalizeType(field.trim());
     }
     else if (line.startsWith('G.S')) {
       const field = line.split(':')[1];

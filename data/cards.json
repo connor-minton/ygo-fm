@@ -24,22 +24,22 @@
     ],
     "attack": 800,
     "defense": 2000,
-    "password": "",
-    "starCost": null
+    "password": "15025844",
+    "starCost": 160
   },
   {
     "number": 3,
     "name": "Hitotsu-Me Giant",
     "level": 4,
-    "type": "BeastWarrior",
+    "type": "Beast Warrior",
     "guardianStars": [
       "mon",
       "mrs"
     ],
     "attack": 1200,
     "defense": 1000,
-    "password": "",
-    "starCost": null
+    "password": "76184692",
+    "starCost": 70
   },
   {
     "number": 4,
@@ -47,7 +47,8 @@
     "level": 3,
     "type": "Dragon",
     "guardianStars": [
-      "urn"
+      "urn",
+      "sun"
     ],
     "attack": 1200,
     "defense": 700,
@@ -80,7 +81,7 @@
     "attack": 1300,
     "defense": 1400,
     "password": "41392891",
-    "starCost": null
+    "starCost": 140
   },
   {
     "number": 7,
@@ -108,7 +109,7 @@
     "attack": 800,
     "defense": 600,
     "password": "14181608",
-    "starCost": null
+    "starCost": 30
   },
   {
     "number": 9,
@@ -129,6 +130,10 @@
     "name": "Blackland Fire Dragon",
     "level": 4,
     "type": "Dragon",
+    "guardianStars": [
+      "mrc",
+      "mon"
+    ],
     "attack": 1500,
     "defense": 800,
     "password": "87564352",
@@ -166,7 +171,7 @@
     "number": 13,
     "name": "Tyhone",
     "level": 4,
-    "type": "WingedBeast",
+    "type": "Winged Beast",
     "guardianStars": [
       "stn",
       "vns"
@@ -180,7 +185,7 @@
     "number": 14,
     "name": "Battle Steer",
     "level": 5,
-    "type": "BeastWarrior",
+    "type": "Beast Warrior",
     "guardianStars": [
       "mon",
       "urn"
@@ -196,8 +201,11 @@
     "level": 5,
     "type": "Warrior",
     "guardianStars": [
-      null
+      "mrs",
+      "sun"
     ],
+    "attack": 1800,
+    "defense": 1600,
     "password": "45231177",
     "starCost": 320
   },
@@ -261,7 +269,7 @@
     "number": 20,
     "name": "Sealed Exodia's Left Arm",
     "level": 1,
-    "type": "spellcaster",
+    "type": "Spellcaster",
     "guardianStars": [
       "mrc",
       "plt"
@@ -345,7 +353,7 @@
     "number": 26,
     "name": "Battle Ox",
     "level": 4,
-    "type": "Beast warrior",
+    "type": "Beast Warrior",
     "guardianStars": [
       "jpt",
       "mon"
@@ -387,7 +395,7 @@
     "number": 29,
     "name": "Mountain Warrior",
     "level": 3,
-    "type": "BeastWarrior",
+    "type": "Beast Warrior",
     "guardianStars": [
       "urn",
       "mrs"
@@ -457,7 +465,7 @@
     "number": 34,
     "name": "Saggi the Dark Clown",
     "level": 3,
-    "type": "spellcaster",
+    "type": "Spellcaster",
     "guardianStars": [
       "mrc",
       "mon"
@@ -471,7 +479,7 @@
     "number": 35,
     "name": "Dark Magician",
     "level": 7,
-    "type": "spellcaster",
+    "type": "Spellcaster",
     "guardianStars": [
       "mrc",
       "mrs"
@@ -555,7 +563,7 @@
     "number": 41,
     "name": "Celtic Guardian",
     "level": 4,
-    "type": "warrior",
+    "type": "Warrior",
     "guardianStars": [
       "sun",
       "urn"
@@ -569,7 +577,7 @@
     "number": 42,
     "name": "Illusionist Faceless Mage",
     "level": 5,
-    "type": "spellcaster",
+    "type": "Spellcaster",
     "guardianStars": [
       "vns",
       "mrs"
@@ -627,7 +635,8 @@
     "level": 4,
     "type": "Beast",
     "guardianStars": [
-      "jpt"
+      "jpt",
+      "mrc"
     ],
     "attack": 1200,
     "defense": 1500,
@@ -680,7 +689,7 @@
     "number": 50,
     "name": "Basic Insect",
     "level": 2,
-    "type": "insect",
+    "type": "Insect",
     "guardianStars": [
       "jpt",
       "plt"
@@ -736,7 +745,7 @@
     "number": 54,
     "name": "Gokibore",
     "level": 4,
-    "type": "Incest",
+    "type": "Insect",
     "guardianStars": [
       "jpt",
       "mon"
@@ -848,7 +857,7 @@
     "number": 62,
     "name": "Harpie Lady",
     "level": 4,
-    "type": "Winged beast",
+    "type": "Winged Beast",
     "guardianStars": [
       "stn",
       "npt"
@@ -862,7 +871,7 @@
     "number": 63,
     "name": "Harpie Lady Sisters",
     "level": 6,
-    "type": "Winged beast",
+    "type": "Winged Beast",
     "guardianStars": [
       "stn",
       "mrs"
@@ -876,7 +885,7 @@
     "number": 64,
     "name": "Tiger Axe",
     "level": 4,
-    "type": "BeastWarrior",
+    "type": "Beast Warrior",
     "guardianStars": [
       "jpt",
       "npt"
@@ -932,7 +941,7 @@
     "number": 68,
     "name": "Garoozis",
     "level": 5,
-    "type": "BeastWarrior",
+    "type": "Beast Warrior",
     "guardianStars": [
       "mrs",
       "vns"
@@ -1002,7 +1011,7 @@
     "number": 73,
     "name": "Kairyu-Shin",
     "level": 5,
-    "type": "SeaSerpent",
+    "type": "Sea Serpent",
     "guardianStars": [
       "npt",
       "mrs"
@@ -1024,7 +1033,7 @@
     "attack": 1300,
     "defense": 2000,
     "password": "13039848",
-    "starCost": null
+    "starCost": 290
   },
   {
     "number": 75,
@@ -1268,7 +1277,7 @@
     "number": 92,
     "name": "Rabid Horseman",
     "level": 6,
-    "type": "BeastWarrior",
+    "type": "Beast Warrior",
     "guardianStars": [
       "jpt",
       "plt"
@@ -1436,7 +1445,7 @@
     "number": 104,
     "name": "Curtain of the Dark Ones",
     "level": 2,
-    "type": "spellcaster",
+    "type": "Spellcaster",
     "guardianStars": [
       "mrc",
       "jpt"
@@ -1618,7 +1627,7 @@
     "number": 117,
     "name": "Spirit of the Books",
     "level": 4,
-    "type": "Wingedbeast",
+    "type": "Winged Beast",
     "guardianStars": [
       "stn",
       "mon"
@@ -1702,7 +1711,7 @@
     "number": 123,
     "name": "Dark Plant",
     "level": 1,
-    "type": "plant",
+    "type": "Plant",
     "guardianStars": [
       "mon",
       "jpt"
@@ -1730,7 +1739,7 @@
     "number": 125,
     "name": "Faith Bird",
     "level": 4,
-    "type": "wingedBeast",
+    "type": "Winged Beast",
     "guardianStars": [
       "sun",
       "jpt"
@@ -1786,7 +1795,7 @@
     "number": 129,
     "name": "Nemuriko",
     "level": 3,
-    "type": "spellcaster",
+    "type": "Spellcaster",
     "guardianStars": [
       "mrc",
       "mon"
@@ -1850,7 +1859,7 @@
     "attack": 1100,
     "defense": 800,
     "password": "37421579",
-    "starCost": null
+    "starCost": 50
   },
   {
     "number": 134,
@@ -1898,7 +1907,7 @@
     "number": 137,
     "name": "Mystery Hand",
     "level": 2,
-    "type": "feind",
+    "type": "Fiend",
     "guardianStars": [
       "mon",
       "urn"
@@ -1923,10 +1932,10 @@
     "starCost": 55
   },
   {
-    "number": 39,
+    "number": 139,
     "name": "Blue-Eyed Silver Zombie",
     "level": 3,
-    "type": "zombie",
+    "type": "Zombie",
     "guardianStars": [
       "sun",
       "plt"
@@ -1942,7 +1951,8 @@
     "level": 3,
     "type": "Aqua",
     "guardianStars": [
-      "npt"
+      "npt",
+      "vns"
     ],
     "attack": 1000,
     "defense": 1000,
@@ -1967,7 +1977,7 @@
     "number": 142,
     "name": "Flame Manipulator",
     "level": 3,
-    "type": "spellcaster",
+    "type": "Spellcaster",
     "guardianStars": [
       "mrs",
       "plt"
@@ -1995,7 +2005,7 @@
     "number": 144,
     "name": "Dijnn the Watcher of the Wind",
     "level": 3,
-    "type": "spellcaster",
+    "type": "Spellcaster",
     "guardianStars": [
       "stn",
       "mrc"
@@ -2009,7 +2019,7 @@
     "number": 145,
     "name": "The Bewitching Phantom Theif",
     "level": 2,
-    "type": "spellcaster",
+    "type": "Spellcaster",
     "guardianStars": [
       "vns",
       "plt"
@@ -2049,11 +2059,12 @@
   },
   {
     "number": 148,
-    "name": "The Shadow that Controls the Dark",
+    "name": "The Shadow Who Controls the Dark",
     "level": 3,
     "type": "Fiend",
     "guardianStars": [
-      "mrc"
+      "mrc",
+      "jpt"
     ],
     "attack": 800,
     "defense": 700,
@@ -2064,7 +2075,7 @@
     "number": 149,
     "name": "Lord of the Lamp",
     "level": 4,
-    "type": "fiend",
+    "type": "Fiend",
     "guardianStars": [
       "mrc",
       "stn"
@@ -2078,7 +2089,7 @@
     "number": 150,
     "name": "Akihiron",
     "level": 5,
-    "type": "aqua",
+    "type": "Aqua",
     "guardianStars": [
       "npt",
       "jpt"
@@ -2106,7 +2117,7 @@
     "number": 152,
     "name": "The Melting Read Shadow",
     "level": 2,
-    "type": "aqua",
+    "type": "Aqua",
     "guardianStars": [
       "mon",
       "npt"
@@ -2176,7 +2187,7 @@
     "number": 157,
     "name": "Firegrass",
     "level": 2,
-    "type": "plant",
+    "type": "Plant",
     "guardianStars": [
       "mrs",
       "mon"
@@ -2190,7 +2201,7 @@
     "number": 158,
     "name": "Man Eater",
     "level": 2,
-    "type": "plant",
+    "type": "Plant",
     "guardianStars": [
       "jpt",
       "urn"
@@ -2358,7 +2369,7 @@
     "number": 170,
     "name": "Spirit of the Harp",
     "level": 4,
-    "type": "fairy",
+    "type": "Fairy",
     "guardianStars": [
       "sun",
       "mrs"
@@ -2545,8 +2556,8 @@
       "sun",
       "jpt"
     ],
-    "attack": null,
-    "defense": null,
+    "attack": 600,
+    "defense": 800,
     "password": "03985011",
     "starCost": 30
   },
@@ -2582,7 +2593,7 @@
     "number": 186,
     "name": "Feind Refrection #2",
     "level": 4,
-    "type": "Winged beast",
+    "type": "Winged Beast",
     "guardianStars": [
       "vns",
       "mrs"
@@ -2666,7 +2677,7 @@
     "number": 192,
     "name": "Key Mace",
     "level": 1,
-    "type": "fairy",
+    "type": "Fairy",
     "guardianStars": [
       "sun",
       "stn"
@@ -2680,7 +2691,7 @@
     "number": 193,
     "name": "Turtle Tiger",
     "level": 4,
-    "type": "aqua",
+    "type": "Aqua",
     "guardianStars": [
       "npt",
       "stn"
@@ -2708,7 +2719,7 @@
     "number": 195,
     "name": "Doron",
     "level": 2,
-    "type": "warrior",
+    "type": "Warrior",
     "guardianStars": [
       "npt",
       "mon"
@@ -2722,7 +2733,7 @@
     "number": 196,
     "name": "Arma Knight",
     "level": 4,
-    "type": "aqua",
+    "type": "Aqua",
     "guardianStars": [
       "npt",
       "vns"
@@ -2750,7 +2761,7 @@
     "number": 199,
     "name": "Penguin Knight",
     "level": 3,
-    "type": "aqua",
+    "type": "Aqua",
     "guardianStars": [
       "urn",
       "mrc"
@@ -2792,7 +2803,7 @@
     "number": 202,
     "name": "Air Marmot of Nefariousness",
     "level": 2,
-    "type": "beast",
+    "type": "Beast",
     "guardianStars": [
       "mon",
       "urn"
@@ -2862,7 +2873,7 @@
     "number": 207,
     "name": "Droll Bird",
     "level": 2,
-    "type": "WingedBeast",
+    "type": "Winged Beast",
     "guardianStars": [
       "stn",
       "mon"
@@ -2890,7 +2901,7 @@
     "number": 209,
     "name": "Winged Cleaver",
     "level": 2,
-    "type": "insect",
+    "type": "Insect",
     "guardianStars": [
       "jpt",
       "mrc"
@@ -2946,15 +2957,15 @@
     "number": 213,
     "name": "Aqua Madoor",
     "level": 4,
-    "type": "spellcaster",
+    "type": "Spellcaster",
     "guardianStars": [
       "npt",
       "mrc"
     ],
     "attack": 1200,
     "defense": 2000,
-    "password": "",
-    "starCost": null
+    "password": "85639257",
+    "starCost": 250
   },
   {
     "number": 214,
@@ -2974,7 +2985,7 @@
     "number": 215,
     "name": "Flame Ghost",
     "level": 3,
-    "type": "zombie",
+    "type": "Zombie",
     "guardianStars": [
       "mrs",
       "plt"
@@ -3030,7 +3041,7 @@
     "number": 219,
     "name": "Solitude",
     "level": 3,
-    "type": "BeastWarrior",
+    "type": "Beast Warrior",
     "guardianStars": [
       "mon",
       "urn"
@@ -3058,9 +3069,10 @@
     "number": 221,
     "name": "Kumootoko",
     "level": 3,
-    "type": "insect",
+    "type": "Insect",
     "guardianStars": [
-      "jpt"
+      "jpt",
+      "plt"
     ],
     "attack": 700,
     "defense": 1400,
@@ -3104,10 +3116,10 @@
       "mrc",
       "mon"
     ],
-    "attack": null,
-    "defense": null,
-    "password": "",
-    "starCost": null
+    "attack": 500,
+    "defense": 1100,
+    "password": "46461247",
+    "starCost": 35
   },
   {
     "number": 225,
@@ -3281,7 +3293,7 @@
     "number": 237,
     "name": "Haniwa",
     "level": 2,
-    "type": "rock",
+    "type": "Rock",
     "guardianStars": [
       "urn",
       "jpt"
@@ -3379,7 +3391,7 @@
     "number": 244,
     "name": "Dissolverock",
     "level": 3,
-    "type": "rock",
+    "type": "Rock",
     "guardianStars": [
       "mrs",
       "vns"
@@ -3393,7 +3405,7 @@
     "number": 245,
     "name": "Meda Bat",
     "level": 2,
-    "type": "fiend",
+    "type": "Fiend",
     "guardianStars": [
       "mon",
       "npt"
@@ -3407,7 +3419,7 @@
     "number": 246,
     "name": "One Who Hunts Souls",
     "level": 4,
-    "type": "Beastwarrior",
+    "type": "Beast Warrior",
     "guardianStars": [
       "mon",
       "mrc"
@@ -3491,7 +3503,7 @@
     "number": 252,
     "name": "Nekogal #1",
     "level": 3,
-    "type": "beast",
+    "type": "Beast",
     "guardianStars": [
       "jpt",
       "mrc"
@@ -3505,7 +3517,7 @@
     "number": 253,
     "name": "Angelwitch",
     "level": 3,
-    "type": "spellcaster",
+    "type": "Spellcaster",
     "guardianStars": [
       "mrc",
       "npt"
@@ -3589,7 +3601,7 @@
     "number": 259,
     "name": "Ancient Sorcerer",
     "level": 4,
-    "type": "spellcaster",
+    "type": "Spellcaster",
     "guardianStars": [
       "mon",
       "mrc"
@@ -3617,7 +3629,7 @@
     "number": 261,
     "name": "Wicked Mirror",
     "level": 2,
-    "type": "Firnd",
+    "type": "Fiend",
     "guardianStars": [
       "vns",
       "jpt"
@@ -3645,7 +3657,7 @@
     "number": 263,
     "name": "Rock Ogre Grotto #2",
     "level": 3,
-    "type": "rock",
+    "type": "Rock",
     "guardianStars": [
       "urn",
       "sun"
@@ -3673,7 +3685,7 @@
     "number": 265,
     "name": "The Furious Sea King",
     "level": 3,
-    "type": "aqua",
+    "type": "Aqua",
     "guardianStars": [
       "npt",
       "jpt"
@@ -3771,7 +3783,7 @@
     "number": 272,
     "name": "Mavelus",
     "level": 4,
-    "type": "winged beast",
+    "type": "Winged Beast",
     "guardianStars": [
       "mrs",
       "mrc"
@@ -3785,7 +3797,7 @@
     "number": 273,
     "name": "Ancient Tree of Enlightenment",
     "level": 4,
-    "type": "Winged beast",
+    "type": "Winged Beast",
     "guardianStars": [
       "mrs",
       "mrc"
@@ -3799,7 +3811,7 @@
     "number": 274,
     "name": "Green Phantom King",
     "level": 3,
-    "type": "plant",
+    "type": "Plant",
     "guardianStars": [
       "jpt",
       "npt"
@@ -3827,7 +3839,7 @@
     "number": 276,
     "name": "Ray & Temperature",
     "level": 3,
-    "type": "fairy",
+    "type": "Fairy",
     "guardianStars": [
       "sun",
       "stn"
@@ -3869,7 +3881,7 @@
     "number": 279,
     "name": "King Fog",
     "level": 3,
-    "type": "fiend",
+    "type": "Fiend",
     "guardianStars": [
       "mrc",
       "npt"
@@ -3911,7 +3923,7 @@
     "number": 282,
     "name": "Mystical Sheep #2",
     "level": 3,
-    "type": "beast",
+    "type": "Beast",
     "guardianStars": [
       "vns",
       "stn"
@@ -3967,7 +3979,7 @@
     "number": 286,
     "name": "Gate Keeper",
     "level": 5,
-    "type": "machine",
+    "type": "Machine",
     "guardianStars": [
       "mrc",
       "mrs"
@@ -3981,7 +3993,7 @@
     "number": 287,
     "name": "Ogre of the Black Shadow",
     "level": 4,
-    "type": "Beastwarrior",
+    "type": "Beast Warrior",
     "guardianStars": [
       "mon",
       "stn"
@@ -4051,7 +4063,7 @@
     "number": 292,
     "name": "Psychic Kappa",
     "level": 2,
-    "type": "aqua",
+    "type": "Aqua",
     "guardianStars": [
       "npt",
       "vns"
@@ -4065,7 +4077,7 @@
     "number": 293,
     "name": "Masaki the Legendary Swordsman",
     "level": 4,
-    "type": "warrior",
+    "type": "Warrior",
     "guardianStars": [
       "sun",
       "urn"
@@ -4079,15 +4091,15 @@
     "number": 294,
     "name": "Dragoness the Wiched Knight",
     "level": 3,
-    "type": "warrior",
+    "type": "Warrior",
     "guardianStars": [
       "stn",
       "mrc"
     ],
     "attack": 1200,
     "defense": 900,
-    "password": "",
-    "starCost": null
+    "password": "70681994",
+    "starCost": 60
   },
   {
     "number": 295,
@@ -4107,7 +4119,7 @@
     "number": 296,
     "name": "One-Eyed Shield Dragon",
     "level": 3,
-    "type": "dragon",
+    "type": "Dragon",
     "guardianStars": [
       "stn",
       "plt"
@@ -4121,7 +4133,7 @@
     "number": 297,
     "name": "Cyber Soldier of Dark World",
     "level": 4,
-    "type": "machine",
+    "type": "Machine",
     "guardianStars": [
       "mon",
       "urn"
@@ -4163,7 +4175,7 @@
     "number": 300,
     "name": "Kurama",
     "level": 3,
-    "type": "wingedbeast",
+    "type": "Winged Beast",
     "guardianStars": [
       "stn",
       "npt"
@@ -4178,26 +4190,26 @@
     "name": "Legendary Sword",
     "password": "61854111",
     "starCost": 800,
-    "type": "equip magic"
+    "type": "Equip Magic"
   },
   {
     "number": 302,
     "name": "Sword of Dark Destruction",
-    "type": "equip magic",
+    "type": "Equip Magic",
     "password": "37120512",
     "starCost": 800
   },
   {
     "number": 303,
     "name": "Dark Energy",
-    "type": "equip magic",
+    "type": "Equip Magic",
     "password": "04614116",
     "starCost": 800
   },
   {
     "number": 304,
     "name": "Axe of Dispair",
-    "type": "equip magic",
+    "type": "Equip Magic",
     "attack": null,
     "defense": null,
     "password": "40619825",
@@ -4206,70 +4218,70 @@
   {
     "number": 305,
     "name": "Laser Cannon Armor",
-    "type": "equip magic",
+    "type": "Equip Magic",
     "password": "77007920",
     "starCost": 800
   },
   {
     "number": 306,
     "name": "Insect Armor with a Laser Cannon",
-    "type": "equip magic",
+    "type": "Equip Magic",
     "password": "03492538",
     "starCost": 800
   },
   {
     "number": 307,
     "name": "Elf's Light",
-    "type": "equip magic",
+    "type": "Equip Magic",
     "password": "39897277",
     "starCost": 800
   },
   {
     "number": 308,
     "name": "Beast Fangs",
-    "type": "equip magic",
+    "type": "Equip Magic",
     "password": "46009906",
     "starCost": 800
   },
   {
     "number": 309,
     "name": "Steel Shell",
-    "type": "equip magic",
+    "type": "Equip Magic",
     "password": "02370081",
     "starCost": 800
   },
   {
     "number": 310,
     "name": "Vile Grems",
-    "type": "Equip magic",
+    "type": "Equip Magic",
     "password": "39774685",
     "starCost": 800
   },
   {
     "number": 311,
     "name": "Black Pendant",
-    "type": "equip magic",
+    "type": "Equip Magic",
     "password": "65169794",
     "starCost": 800
   },
   {
     "number": 312,
     "name": "Silver Bow and Arrow",
-    "type": "equip magic",
+    "type": "Equip Magic",
     "password": "01557499",
     "starCost": 800
   },
   {
     "number": 313,
     "name": "Horn of Light",
-    "type": "equip magic",
+    "type": "Equip Magic",
     "password": "38552107",
     "starCost": 800
   },
   {
     "number": 314,
     "name": "Horn of the Unicorn",
-    "type": "equip magic",
+    "type": "Equip Magic",
     "attack": null,
     "defense": null,
     "password": "38552107",
@@ -4278,35 +4290,35 @@
   {
     "number": 315,
     "name": "Dragon Treasure",
-    "type": "equip magic",
+    "type": "Equip Magic",
     "password": "01435851",
     "starCost": 800
   },
   {
     "number": 316,
     "name": "Electro-Whip",
-    "type": "equip magic",
+    "type": "Equip Magic",
     "password": "37820550",
     "starCost": 800
   },
   {
     "number": 317,
     "name": "Cyber Shield",
-    "type": "equip magic",
+    "type": "Equip Magic",
     "password": "63224564",
     "starCost": 800
   },
   {
     "number": 318,
     "name": "Elegant Egotist",
-    "type": "Equip magic",
+    "type": "Equip Magic",
     "password": "90219263",
     "starCost": 999999
   },
   {
     "number": 319,
     "name": "Mystical Moon",
-    "type": "equip magic",
+    "type": "Equip Magic",
     "password": "36607978",
     "starCost": 800
   },
@@ -4320,56 +4332,56 @@
   {
     "number": 321,
     "name": "Malevolent Nuzzeler",
-    "type": "equip magic",
+    "type": "Equip Magic",
     "password": "99597615",
     "starCost": 800
   },
   {
     "number": 322,
     "name": "Violet Crystal",
-    "type": "equip magic",
+    "type": "Equip Magic",
     "password": "15052462",
     "starCost": 800
   },
   {
     "number": 323,
     "name": "Book of Secret Arts",
-    "type": "equip magic",
+    "type": "Equip Magic",
     "password": "91595718",
     "starCost": 800
   },
   {
     "number": 324,
     "name": "Invigoration",
-    "type": "equip magic",
+    "type": "Equip Magic",
     "password": "98374133",
     "starCost": 800
   },
   {
     "number": 325,
     "name": "Machine Conversion Factory",
-    "type": "equip magic",
+    "type": "Equip Magic",
     "password": "25769732",
     "starCost": 999999
   },
   {
     "number": 326,
     "name": "Raise Body Heat",
-    "type": "equip magic",
+    "type": "Equip Magic",
     "password": "51267887",
     "starCost": 800
   },
   {
     "number": 327,
     "name": "Follow Wind",
-    "type": "equip magic",
+    "type": "Equip Magic",
     "password": "98252586",
     "starCost": 800
   },
   {
     "number": 328,
     "name": "Power of Kaishen",
-    "type": "equip magic",
+    "type": "Equip Magic",
     "password": "77027445",
     "starCost": 800
   },
@@ -4390,70 +4402,70 @@
   {
     "number": 331,
     "name": "Wasteland",
-    "type": "Terrain magic",
+    "type": "Terrain Magic",
     "password": "23424603",
     "starCost": 55
   },
   {
     "number": 332,
     "name": "Mountain",
-    "type": "terrain magic",
+    "type": "Terrain Magic",
     "password": "50913601",
     "starCost": 55
   },
   {
     "number": 333,
     "name": "Sogen",
-    "type": "terrain magic",
+    "type": "Terrain Magic",
     "password": "86318356",
     "starCost": 55
   },
   {
     "number": 334,
     "name": "Umi",
-    "type": "terrain magic",
+    "type": "Terrain Magic",
     "password": "22702055",
     "starCost": 55
   },
   {
     "number": 335,
     "name": "Yami",
-    "type": "Magic terrain",
+    "type": "Terrain Magic",
     "password": "59197169",
     "starCost": 55
   },
   {
     "number": 336,
     "name": "Dark Hole",
-    "type": "magic",
+    "type": "Magic",
     "password": "53129443",
     "starCost": 20000
   },
   {
     "number": 337,
     "name": "Raigeki",
-    "type": "magic",
+    "type": "Magic",
     "password": "12580477",
     "starCost": 999999
   },
   {
     "number": 338,
     "name": "Mooyan Curry",
-    "type": "magic",
+    "type": "Magic",
     "password": "58074572",
     "starCost": 999999
   },
   {
     "number": 339,
     "name": "Red Medicine",
-    "type": "magic",
+    "type": "Magic",
     "password": "38199696",
     "starCost": 55
   },
   {
     "number": 340,
     "name": "Goblin's Secret Remedy",
-    "type": "magic",
+    "type": "Magic",
     "password": "11868825",
     "starCost": 20000
   },
@@ -4467,42 +4479,42 @@
   {
     "number": 342,
     "name": "Dian Keto the Curse Master",
-    "type": "magic",
+    "type": "Magic",
     "password": "84257639",
     "starCost": 999999
   },
   {
     "number": 343,
     "name": "Sparks",
-    "type": "magic",
+    "type": "Magic",
     "password": "76103675",
     "starCost": 10
   },
   {
     "number": 344,
     "name": "Hinotama",
-    "type": "magic",
+    "type": "Magic",
     "password": "46130346",
     "starCost": 55
   },
   {
     "number": 345,
     "name": "Final Flame",
-    "type": "magic",
+    "type": "Magic",
     "password": "73134081",
     "starCost": 20000
   },
   {
     "number": 346,
     "name": "Ookazi",
-    "type": "magic",
+    "type": "Magic",
     "password": "19523799",
     "starCost": 35000
   },
   {
     "number": 347,
     "name": "Tremendose Fire",
-    "type": "magic",
+    "type": "Magic",
     "attack": null,
     "defense": null,
     "password": "46918794",
@@ -4511,21 +4523,21 @@
   {
     "number": 348,
     "name": "Swords of Revealing Light",
-    "type": "magic",
+    "type": "Magic",
     "password": "72302403",
     "starCost": 999999
   },
   {
     "number": 349,
     "name": "Spellbinding Circle",
-    "type": "magic",
+    "type": "Magic",
     "password": "18807108",
     "starCost": 999999
   },
   {
     "number": 350,
     "name": "Dark Piercing Light",
-    "type": "magic",
+    "type": "Magic",
     "password": "45895206",
     "starCost": 999999
   },
@@ -4538,6 +4550,8 @@
       "mon",
       "mrc"
     ],
+    "attack": 1300,
+    "defense": 1500,
     "password": "71280811",
     "starCost": 160
   },
@@ -4550,6 +4564,8 @@
       "urn",
       "npt"
     ],
+    "attack": 1400,
+    "defense": 1400,
     "password": "12829151",
     "starCost": 160
   },
@@ -4557,7 +4573,7 @@
     "number": 353,
     "name": "Takriminos",
     "level": 4,
-    "type": "SeaSerpent",
+    "type": "Sea Serpent",
     "guardianStars": [
       "npt",
       "mrc"
@@ -4669,7 +4685,7 @@
     "number": 361,
     "name": "Flying Penguin",
     "level": 4,
-    "type": "aqua",
+    "type": "Aqua",
     "guardianStars": [
       "npt",
       "jpt"
@@ -4769,12 +4785,13 @@
     "level": 5,
     "type": "Zombie",
     "guardianStars": [
-      "mon"
+      "mon",
+      "plt"
     ],
     "attack": 1600,
     "defense": 1300,
-    "password": "",
-    "starCost": null
+    "password": "30778711",
+    "starCost": 180
   },
   {
     "number": 369,
@@ -4822,7 +4839,7 @@
     "number": 372,
     "name": "Kazejin",
     "level": 7,
-    "type": "spellcaster",
+    "type": "Spellcaster",
     "guardianStars": [
       "stn",
       "mrs"
@@ -4836,7 +4853,7 @@
     "number": 373,
     "name": "Suijin",
     "level": 7,
-    "type": "aqua",
+    "type": "Aqua",
     "guardianStars": [
       "npt",
       "stn"
@@ -4932,7 +4949,7 @@
   },
   {
     "number": 380,
-    "name": "Blue Eyes Ultimate Dragon",
+    "name": "Blue-Eyes Ultimate Dragon",
     "level": 12,
     "type": "Dragon",
     "guardianStars": [
@@ -4962,7 +4979,7 @@
     "number": 382,
     "name": "Rude Kaiser",
     "level": 5,
-    "type": "Beastwarrior",
+    "type": "Beast Warrior",
     "guardianStars": [
       "urn",
       "sun"
@@ -5032,7 +5049,7 @@
     "number": 387,
     "name": "Mystic Lamp",
     "level": 1,
-    "type": "spellcaster",
+    "type": "Spellcaster",
     "guardianStars": [
       "mrc",
       "urn"
@@ -5144,7 +5161,7 @@
     "number": 395,
     "name": "Dancing Elf",
     "level": 1,
-    "type": "fairy",
+    "type": "Fairy",
     "guardianStars": [
       "jpt",
       "sun"
@@ -5186,35 +5203,35 @@
     "number": 398,
     "name": "Ooguchi",
     "level": 1,
-    "type": "aqua",
+    "type": "Aqua",
     "guardianStars": [
       "npt",
       "mon"
     ],
     "attack": 300,
     "defense": 250,
-    "password": "",
-    "starCost": null
+    "password": "58861941",
+    "starCost": 10
   },
   {
     "number": 399,
-    "name": "A Swordsman From a Foreing Land.",
+    "name": "Swordsman From a Foreign Land",
     "level": 1,
-    "type": "warrior",
+    "type": "Warrior",
     "guardianStars": [
       "urn",
       "vns"
     ],
     "attack": 250,
     "defense": 250,
-    "password": "",
-    "starCost": null
+    "password": "85255550",
+    "starCost": 10
   },
   {
     "number": 400,
     "name": "Emperor of the Land and Sea",
     "level": 5,
-    "type": "reptile",
+    "type": "Reptile",
     "guardianStars": [
       "npt",
       "vns"
@@ -5228,29 +5245,29 @@
     "number": 401,
     "name": "Ushi Oni",
     "level": 6,
-    "type": "fiend",
+    "type": "Fiend",
     "guardianStars": [
       "jpt",
       "vns"
     ],
-    "attack": null,
-    "defense": null,
-    "password": "",
-    "starCost": null
+    "attack": 2150,
+    "defense": 1950,
+    "password": "48649353",
+    "starCost": 700
   },
   {
     "number": 402,
     "name": "Monster Eye",
     "level": 1,
-    "type": "fiend",
+    "type": "Fiend",
     "guardianStars": [
       "mon",
       "jpt"
     ],
     "attack": 250,
     "defense": 300,
-    "password": "",
-    "starCost": null
+    "password": "84133008",
+    "starCost": 15
   },
   {
     "number": 403,
@@ -5403,8 +5420,8 @@
     ],
     "attack": 1500,
     "defense": 1700,
-    "password": "",
-    "starCost": null
+    "password": "44865098",
+    "starCost": 260
   },
   {
     "number": 414,
@@ -5557,8 +5574,8 @@
     ],
     "attack": 1900,
     "defense": 1800,
-    "password": "",
-    "starCost": null
+    "password": "95288024",
+    "starCost": 1000
   },
   {
     "number": 425,
@@ -5592,7 +5609,7 @@
     "number": 427,
     "name": "Kaiser Dragon",
     "level": 7,
-    "type": "dragon",
+    "type": "Dragon",
     "guardianStars": [
       "sun",
       "jpt"
@@ -5670,7 +5687,7 @@
     "attack": 1100,
     "defense": 700,
     "password": "66836598",
-    "starCost": null
+    "starCost": 45
   },
   {
     "number": 433,
@@ -5690,7 +5707,7 @@
     "number": 434,
     "name": "Beautiful Beast Trainer",
     "level": 5,
-    "type": "warrior",
+    "type": "Warrior",
     "guardianStars": [
       "jpt",
       "npt"
@@ -5704,7 +5721,7 @@
     "number": 435,
     "name": "Water Girl",
     "level": 4,
-    "type": "aqua",
+    "type": "Aqua",
     "guardianStars": [
       "npt",
       "vns"
@@ -5732,7 +5749,7 @@
     "number": 437,
     "name": "Deep Sea Shark",
     "level": 5,
-    "type": "fish",
+    "type": "Fish",
     "guardianStars": [
       "npt",
       "mrs"
@@ -5760,7 +5777,7 @@
     "number": 439,
     "name": "Bottem Dweller",
     "level": 5,
-    "type": "fish",
+    "type": "Fish",
     "guardianStars": [
       "npt",
       "sun"
@@ -5796,13 +5813,13 @@
     "attack": 1800,
     "defense": 1500,
     "password": "50176820",
-    "starCost": null
+    "starCost": 290
   },
   {
     "number": 442,
     "name": "Aqua Dragon",
     "level": 6,
-    "type": "SeaSerpent",
+    "type": "Sea Serpent",
     "guardianStars": [
       "npt",
       "mon"
@@ -5816,7 +5833,7 @@
     "number": 443,
     "name": "Sea King Dragon",
     "level": 6,
-    "type": "SeaSerpent",
+    "type": "Sea Serpent",
     "guardianStars": [
       "npt",
       "mrc"
@@ -5830,7 +5847,7 @@
     "number": 444,
     "name": "Turu-Purun",
     "level": 2,
-    "type": "aqua",
+    "type": "Aqua",
     "guardianStars": [
       "npt",
       "jpt"
@@ -5870,7 +5887,7 @@
   },
   {
     "number": 447,
-    "name": "Giant Red Snake",
+    "name": "Giant Red Seasnake",
     "level": 4,
     "type": "Aqua",
     "guardianStars": [
@@ -5880,13 +5897,13 @@
     "attack": 1800,
     "defense": 800,
     "password": "58831685",
-    "starCost": null
+    "starCost": 120
   },
   {
     "number": 448,
     "name": "Spike Seadra",
     "level": 5,
-    "type": "seaserpent",
+    "type": "Sea Serpent",
     "guardianStars": [
       "plt",
       "mrc"
@@ -5900,15 +5917,15 @@
     "number": 449,
     "name": "30,000-Year White Turtle",
     "level": 5,
-    "type": "aqua",
+    "type": "Aqua",
     "guardianStars": [
       "npt",
       "mon"
     ],
     "attack": 1250,
     "defense": 2100,
-    "password": "",
-    "starCost": null
+    "password": "11714098",
+    "starCost": 290
   },
   {
     "number": 450,
@@ -5928,15 +5945,15 @@
     "number": 451,
     "name": "Kanikabuto",
     "level": 3,
-    "type": "aqua",
+    "type": "Aqua",
     "guardianStars": [
       "npt",
       "stn"
     ],
     "attack": 650,
     "defense": 900,
-    "password": "",
-    "starCost": null
+    "password": "84103702",
+    "starCost": 30
   },
   {
     "number": 452,
@@ -5944,12 +5961,13 @@
     "level": 2,
     "type": "Aqua",
     "guardianStars": [
-      "npt"
+      "npt",
+      "mrc"
     ],
     "attack": 600,
     "defense": 700,
-    "password": "",
-    "starCost": null
+    "password": "10598400",
+    "starCost": 30
   },
   {
     "number": 453,
@@ -5962,8 +5980,8 @@
     ],
     "attack": 2000,
     "defense": 2200,
-    "password": "",
-    "starCost": null
+    "password": "47986555",
+    "starCost": 800
   },
   {
     "number": 454,
@@ -5991,7 +6009,7 @@
     "attack": 1000,
     "defense": 1300,
     "password": "10476868",
-    "starCost": null
+    "starCost": 80
   },
   {
     "number": 456,
@@ -6039,7 +6057,7 @@
     "number": 459,
     "name": "Tripwire",
     "level": 4,
-    "type": "thunder",
+    "type": "Thunder",
     "guardianStars": [
       "plt",
       "stn"
@@ -6055,18 +6073,19 @@
     "level": 5,
     "type": "Thunder",
     "guardianStars": [
-      "plt"
+      "plt",
+      "jpt"
     ],
     "attack": 1400,
     "defense": 1500,
-    "password": "",
-    "starCost": null
+    "password": "12146024",
+    "starCost": 180
   },
   {
     "number": 461,
     "name": "Bolt Penguin",
     "level": 3,
-    "type": "thunder",
+    "type": "Thunder",
     "guardianStars": [
       "plt",
       "mon"
@@ -6080,7 +6099,7 @@
     "number": 462,
     "name": "The Immortal of Thunder",
     "level": 4,
-    "type": "thunder",
+    "type": "Thunder",
     "guardianStars": [
       "plt",
       "sun"
@@ -6094,7 +6113,7 @@
     "number": 463,
     "name": "Electric Snake",
     "level": 3,
-    "type": "thunder",
+    "type": "Thunder",
     "guardianStars": [
       "plt",
       "mrs"
@@ -6108,7 +6127,7 @@
     "number": 464,
     "name": "Wing Eagle",
     "level": 5,
-    "type": "Winged beast",
+    "type": "Winged Beast",
     "guardianStars": [
       "stn",
       "mrc"
@@ -6122,7 +6141,7 @@
     "number": 465,
     "name": "Punished Eagle",
     "level": 6,
-    "type": "wingedbeast",
+    "type": "Winged Beast",
     "guardianStars": [
       "stn",
       "plt"
@@ -6136,7 +6155,7 @@
     "number": 466,
     "name": "Skull Red Bird",
     "level": 4,
-    "type": "winged beast",
+    "type": "Winged Beast",
     "guardianStars": [
       "stn",
       "sun"
@@ -6150,21 +6169,21 @@
     "number": 467,
     "name": "Crimson Sunbird",
     "level": 6,
-    "type": "Winged beast",
+    "type": "Winged Beast",
     "guardianStars": [
       "mrs",
       "mrc"
     ],
     "attack": 2300,
-    "defense": null,
+    "defense": 1800,
     "password": "46696593",
     "starCost": 700
   },
   {
     "number": 468,
     "name": "Queen Bird",
-    "level": null,
-    "type": "5",
+    "level": 5,
+    "type": "Winged Beast",
     "guardianStars": [
       "stn",
       "mon"
@@ -6178,7 +6197,7 @@
     "number": 469,
     "name": "Armed Ninja",
     "level": 1,
-    "type": "warrior",
+    "type": "Warrior",
     "guardianStars": [
       "npt",
       "mrs"
@@ -6199,8 +6218,8 @@
     ],
     "attack": 1300,
     "defense": 1400,
-    "password": "",
-    "starCost": null
+    "password": "46474915",
+    "starCost": 140
   },
   {
     "number": 471,
@@ -6222,26 +6241,27 @@
     "level": 6,
     "type": "Fiend",
     "guardianStars": [
-      "mon"
+      "mon",
+      "stn"
     ],
     "attack": 2100,
     "defense": 1600,
-    "password": "",
-    "starCost": null
+    "password": "08353769",
+    "starCost": 1000
   },
   {
     "number": 473,
     "name": "Vermillion Sparrow",
     "level": 5,
-    "type": "pyro",
+    "type": "Pyro",
     "guardianStars": [
       "mrs",
       "plt"
     ],
     "attack": 1900,
     "defense": 1500,
-    "password": "",
-    "starCost": null
+    "password": "35752363",
+    "starCost": 320
   },
   {
     "number": 474,
@@ -6261,7 +6281,7 @@
     "number": 475,
     "name": "Sinister Serpent",
     "level": 1,
-    "type": "reptile",
+    "type": "Reptile",
     "guardianStars": [
       "npt",
       "jpt"
@@ -6275,7 +6295,7 @@
     "number": 476,
     "name": "Ganigumo",
     "level": 2,
-    "type": "insect",
+    "type": "Insect",
     "guardianStars": [
       "jpt",
       "sun"
@@ -6289,7 +6309,7 @@
     "number": 477,
     "name": "Alinsection",
     "level": 3,
-    "type": "insect",
+    "type": "Insect",
     "guardianStars": [
       "jpt",
       "mon"
@@ -6297,7 +6317,7 @@
     "attack": 950,
     "defense": 700,
     "password": "70924884",
-    "starCost": null
+    "starCost": 35
   },
   {
     "number": 478,
@@ -6317,15 +6337,15 @@
     "number": 479,
     "name": "Cockroach Knight",
     "level": 3,
-    "type": "insect",
+    "type": "Insect",
     "guardianStars": [
       "jpt",
       "vns"
     ],
     "attack": 800,
     "defense": 900,
-    "password": "",
-    "starCost": null
+    "password": "33413638",
+    "starCost": 999999
   },
   {
     "number": 480,
@@ -6353,7 +6373,7 @@
     "attack": 850,
     "defense": 800,
     "password": "06297941",
-    "starCost": null
+    "starCost": 35
   },
   {
     "number": 482,
@@ -6401,7 +6421,7 @@
     "number": 485,
     "name": "Korogashi",
     "level": 2,
-    "type": "insect",
+    "type": "Insect",
     "guardianStars": [
       "jpt",
       "npt"
@@ -6415,15 +6435,15 @@
     "number": 486,
     "name": "Boo Koo",
     "level": 2,
-    "type": "spellcaster",
+    "type": "Spellcaster",
     "guardianStars": [
       "sun",
       "jpt"
     ],
     "attack": 650,
     "defense": 500,
-    "password": "",
-    "starCost": null
+    "password": "68963107",
+    "starCost": 25
   },
   {
     "number": 487,
@@ -6443,7 +6463,7 @@
     "number": 488,
     "name": "Rainbow Flower",
     "level": 2,
-    "type": "plant",
+    "type": "Plant",
     "guardianStars": [
       "jpt",
       "mon"
@@ -6457,7 +6477,7 @@
     "number": 489,
     "name": "Barrel Lily",
     "level": 3,
-    "type": "plant",
+    "type": "Plant",
     "guardianStars": [
       "jpt",
       "vns"
@@ -6479,13 +6499,13 @@
     "attack": 750,
     "defense": 700,
     "password": "94230224",
-    "starCost": null
+    "starCost": 30
   },
   {
     "number": 491,
     "name": "Peacock",
     "level": 5,
-    "type": "winged beast",
+    "type": "Winged Beast",
     "guardianStars": [
       "jpt",
       "mrc"
@@ -6499,15 +6519,15 @@
     "number": 492,
     "name": "Hoshiningen",
     "level": 2,
-    "type": "fairy",
+    "type": "Fairy",
     "guardianStars": [
       "sun",
       "npt"
     ],
     "attack": 500,
     "defense": 700,
-    "password": "",
-    "starCost": null
+    "password": "67629977",
+    "starCost": 25
   },
   {
     "number": 493,
@@ -6555,7 +6575,7 @@
     "number": 496,
     "name": "Wilmee",
     "level": 4,
-    "type": "beast",
+    "type": "Beast",
     "guardianStars": [
       "jpt",
       "urn"
@@ -6597,21 +6617,21 @@
     "number": 499,
     "name": "Kattapillar",
     "level": 1,
-    "type": "insect",
+    "type": "Insect",
     "guardianStars": [
       "jpt",
       "npt"
     ],
     "attack": 250,
     "defense": 300,
-    "password": "999999",
-    "starCost": null
+    "password": "81179446",
+    "starCost": 999999
   },
   {
     "number": 500,
     "name": "Dragon Seeker",
     "level": 6,
-    "type": "dragon",
+    "type": "Dragon",
     "guardianStars": [
       "mon",
       "mrc"
@@ -6625,13 +6645,13 @@
     "number": 501,
     "name": "Man-Eater Bug",
     "level": 2,
-    "type": "insect",
+    "type": "Insect",
     "guardianStars": [
       "jpt",
       "plt"
     ],
     "attack": 450,
-    "defense": null,
+    "defense": 600,
     "password": "54652250",
     "starCost": 20
   },
@@ -6655,18 +6675,19 @@
     "level": 3,
     "type": "Aqua",
     "guardianStars": [
-      "jpt"
+      "jpt",
+      "sun"
     ],
     "attack": 700,
     "defense": 900,
-    "password": "",
-    "starCost": null
+    "password": "17441953",
+    "starCost": 35
   },
   {
     "number": 504,
     "name": "Fungi of the Musk",
     "level": 1,
-    "type": "plant",
+    "type": "Plant",
     "guardianStars": [
       "jpt",
       "mon"
@@ -6702,7 +6723,7 @@
     "attack": 650,
     "defense": 600,
     "password": "16229315",
-    "starCost": null
+    "starCost": 25
   },
   {
     "number": 507,
@@ -6722,7 +6743,7 @@
     "number": 508,
     "name": "Cyber Saurus",
     "level": 5,
-    "type": "machine",
+    "type": "Machine",
     "guardianStars": [
       "urn",
       "sun"
@@ -6736,7 +6757,7 @@
     "number": 509,
     "name": "Bracchio-Raidus",
     "level": 6,
-    "type": "dinosaur",
+    "type": "Dinosaur",
     "guardianStars": [
       "urn",
       "mon"
@@ -6792,7 +6813,7 @@
     "number": 513,
     "name": "Guardian of the Throne Room",
     "level": 5,
-    "type": "machine",
+    "type": "Machine",
     "guardianStars": [
       "sun",
       "stn"
@@ -6848,9 +6869,10 @@
     "number": 517,
     "name": "Sand Stone",
     "level": 5,
-    "type": "rock",
+    "type": "Rock",
     "guardianStars": [
-      "urn"
+      "urn",
+      "mrs"
     ],
     "attack": 1300,
     "defense": 1600,
@@ -6875,7 +6897,7 @@
     "number": 519,
     "name": "Fire Kraken",
     "level": 5,
-    "type": "aqua",
+    "type": "Aqua",
     "guardianStars": [
       "mrs",
       "stn"
@@ -6889,21 +6911,21 @@
     "number": 520,
     "name": "Turtle Bird",
     "level": 6,
-    "type": "aqua",
+    "type": "Aqua",
     "guardianStars": [
       "stn",
       "mrs"
     ],
     "attack": 1900,
     "defense": 1700,
-    "password": "",
-    "starCost": null
+    "password": "72929454",
+    "starCost": 400
   },
   {
     "number": 521,
     "name": "Skullbird",
     "level": 6,
-    "type": "wingedbeast",
+    "type": "Winged Beast",
     "guardianStars": [
       "stn",
       "vns"
@@ -6917,7 +6939,7 @@
     "number": 522,
     "name": "Monstrous Bird",
     "level": 6,
-    "type": "Wingedbeast",
+    "type": "Winged Beast",
     "guardianStars": [
       "stn",
       "mrc"
@@ -6938,14 +6960,14 @@
     ],
     "attack": 1800,
     "defense": 1000,
-    "password": "",
-    "starCost": null
+    "password": "71107816",
+    "starCost": 160
   },
   {
     "number": 524,
     "name": "Star Boy",
     "level": 2,
-    "type": "aqua",
+    "type": "Aqua",
     "guardianStars": [
       "npt",
       "mrs"
@@ -7029,13 +7051,13 @@
     "number": 530,
     "name": "Eldeen",
     "level": 3,
-    "type": "spellcaster",
+    "type": "Spellcaster",
     "guardianStars": [
       "mrc",
       "mon"
     ],
-    "attack": null,
-    "defense": null,
+    "attack": 950,
+    "defense": 1000,
     "password": "06367785",
     "starCost": 50
   },
@@ -7043,15 +7065,15 @@
     "number": 531,
     "name": "Mystical Sand",
     "level": 6,
-    "type": "rock",
+    "type": "Rock",
     "guardianStars": [
       "mrc",
       "stn"
     ],
     "attack": 2100,
     "defense": 1700,
-    "password": "",
-    "starCost": null
+    "password": "32751480",
+    "starCost": 500
   },
   {
     "number": 532,
@@ -7113,7 +7135,7 @@
     "number": 536,
     "name": "Mechaleon",
     "level": 2,
-    "type": "reptile",
+    "type": "Reptile",
     "guardianStars": [
       "npt",
       "stn"
@@ -7127,7 +7149,7 @@
     "number": 537,
     "name": "Mega Thunderball",
     "level": 2,
-    "type": "thunder",
+    "type": "Thunder",
     "guardianStars": [
       "plt",
       "mrc"
@@ -7141,7 +7163,7 @@
     "number": 538,
     "name": "Niwatori",
     "level": 3,
-    "type": "wingedbeast",
+    "type": "Winged Beast",
     "guardianStars": [
       "jpt",
       "vns"
@@ -7197,7 +7219,7 @@
     "number": 542,
     "name": "Misairuzame",
     "level": 5,
-    "type": "fish",
+    "type": "Fish",
     "guardianStars": [
       "npt",
       "sun"
@@ -7211,7 +7233,7 @@
     "number": 543,
     "name": "Tongyo",
     "level": 4,
-    "type": "fish",
+    "type": "Fish",
     "guardianStars": [
       "npt",
       "mon"
@@ -7267,7 +7289,7 @@
     "number": 547,
     "name": "Griggle",
     "level": 1,
-    "type": "plant",
+    "type": "Plant",
     "guardianStars": [
       "jpt",
       "mrc"
@@ -7295,7 +7317,7 @@
     "number": 549,
     "name": "Frog the Jam",
     "level": 2,
-    "type": "aqua",
+    "type": "Aqua",
     "guardianStars": [
       "npt",
       "jpt"
@@ -7323,7 +7345,7 @@
     "number": 551,
     "name": "Dark Elf",
     "level": 4,
-    "type": "spellcaster",
+    "type": "Spellcaster",
     "guardianStars": [
       "mrc",
       "jpt"
@@ -7337,7 +7359,7 @@
     "number": 552,
     "name": "Winged Dragon #2",
     "level": 4,
-    "type": "Wingedbeast",
+    "type": "Winged Beast",
     "guardianStars": [
       "stn",
       "npt"
@@ -7393,7 +7415,7 @@
     "number": 556,
     "name": "The Wandring Doomed",
     "level": 2,
-    "type": "zombie",
+    "type": "Zombie",
     "guardianStars": [
       "mon",
       "plt"
@@ -7407,7 +7429,7 @@
     "number": 557,
     "name": "Steel Ogre Grotto #1",
     "level": 5,
-    "type": "machine",
+    "type": "Machine",
     "guardianStars": [
       "mon",
       "mrs"
@@ -7449,7 +7471,7 @@
     "number": 561,
     "name": "Lesser Dragon",
     "level": 4,
-    "type": "dragon",
+    "type": "Dragon",
     "guardianStars": [
       "mon",
       "stn"
@@ -7477,9 +7499,10 @@
     "number": 563,
     "name": "Wretched Ghost of the Attic",
     "level": 2,
-    "type": "fiend",
+    "type": "Fiend",
     "guardianStars": [
-      "mrc"
+      "mrc",
+      "urn"
     ],
     "attack": 550,
     "defense": 400,
@@ -7497,8 +7520,8 @@
     ],
     "attack": 2200,
     "defense": 1800,
-    "password": "",
-    "starCost": null
+    "password": "54622031",
+    "starCost": 800
   },
   {
     "number": 565,
@@ -7511,8 +7534,8 @@
     ],
     "attack": 2100,
     "defense": 1300,
-    "password": "",
-    "starCost": null
+    "password": "80727036",
+    "starCost": 320
   },
   {
     "number": 566,
@@ -7520,18 +7543,19 @@
     "level": 3,
     "type": "Reptile",
     "guardianStars": [
-      "npt"
+      "npt",
+      "mon"
     ],
     "attack": 1200,
     "defense": 900,
-    "password": "",
-    "starCost": null
+    "password": "17115745",
+    "starCost": 60
   },
   {
     "number": 567,
     "name": "Darkworld Thorns",
     "level": 3,
-    "type": "plant",
+    "type": "Plant",
     "guardianStars": [
       "mon",
       "jpt"
@@ -7545,15 +7569,29 @@
     "number": 568,
     "name": "Anthrosaurus",
     "level": 3,
-    "type": "dinosaur",
+    "type": "Dinosaur",
     "guardianStars": [
       "urn",
       "mon"
     ],
     "attack": 1000,
     "defense": 850,
-    "password": "",
-    "starCost": null
+    "password": "89904598",
+    "starCost": 45
+  },
+  {
+    "number": 569,
+    "name": "Drooling Lizard",
+    "level": 3,
+    "type": "Reptile",
+    "guardianStars": [
+      "npt",
+      "vns"
+    ],
+    "attack": 900,
+    "defense": 800,
+    "password": "16353197",
+    "starCost": 40
   },
   {
     "number": 570,
@@ -7580,8 +7618,8 @@
     ],
     "attack": 2100,
     "defense": 1800,
-    "password": "",
-    "starCost": null
+    "password": "89832901",
+    "starCost": 999999
   },
   {
     "number": 572,
@@ -7594,8 +7632,8 @@
     ],
     "attack": 2100,
     "defense": 1700,
-    "password": "",
-    "starCost": null
+    "password": "15237615",
+    "starCost": 500
   },
   {
     "number": 573,
@@ -7603,12 +7641,13 @@
     "level": 3,
     "type": "Dinosaur",
     "guardianStars": [
-      "urn"
+      "urn",
+      "mrc"
     ],
     "attack": 1100,
     "defense": 700,
-    "password": "",
-    "starCost": null
+    "password": "42625254",
+    "starCost": 45
   },
   {
     "number": 574,
@@ -7619,16 +7658,16 @@
       "mrc",
       "plt"
     ],
-    "attack": null,
-    "defense": null,
-    "password": "",
-    "starCost": null
+    "attack": 1100,
+    "defense": 1200,
+    "password": "78010363",
+    "starCost": 80
   },
   {
     "number": 575,
     "name": "Ancient One of the Deep Forest",
     "level": 6,
-    "type": "beast",
+    "type": "Beast",
     "guardianStars": [
       "jpt",
       "sun"
@@ -7644,12 +7683,13 @@
     "level": 3,
     "type": "Insect",
     "guardianStars": [
-      "jpt"
+      "jpt",
+      "mon"
     ],
     "attack": 1100,
     "defense": 1000,
-    "password": "",
-    "starCost": null
+    "password": "41403766",
+    "starCost": 60
   },
   {
     "number": 577,
@@ -7657,12 +7697,13 @@
     "level": 5,
     "type": "Winged Beast",
     "guardianStars": [
-      "stn"
+      "stn",
+      "mrs"
     ],
     "attack": 1850,
     "defense": 1600,
-    "password": "",
-    "starCost": null
+    "password": "77998771",
+    "starCost": 320
   },
   {
     "number": 578,
@@ -7675,22 +7716,22 @@
     ],
     "attack": 1350,
     "defense": 1200,
-    "password": "",
-    "starCost": null
+    "password": "04392470",
+    "starCost": 100
   },
   {
     "number": 579,
     "name": "Abyss Flower",
     "level": 2,
-    "type": "plant",
+    "type": "Plant",
     "guardianStars": [
       "jpt",
       "vns"
     ],
     "attack": 750,
     "defense": 400,
-    "password": "",
-    "starCost": null
+    "password": "40387124",
+    "starCost": 25
   },
   {
     "number": 580,
@@ -7698,12 +7739,13 @@
     "level": 3,
     "type": "Machine",
     "guardianStars": [
-      "mon"
+      "mon",
+      "urn"
     ],
     "attack": 1100,
     "defense": 900,
-    "password": "",
-    "starCost": null
+    "password": "76775123",
+    "starCost": 55
   },
   {
     "number": 581,
@@ -7711,18 +7753,19 @@
     "level": 4,
     "type": "Winged Beast",
     "guardianStars": [
-      "stn"
+      "stn",
+      "sun"
     ],
     "attack": 1450,
     "defense": 1000,
-    "password": "",
-    "starCost": null
+    "password": "03170832",
+    "starCost": 120
   },
   {
     "number": 582,
     "name": "Dark Witch",
     "level": 5,
-    "type": "fairy",
+    "type": "Fairy",
     "guardianStars": [
       "sun",
       "npt"
@@ -7736,7 +7779,7 @@
     "number": 583,
     "name": "Weather Report",
     "level": 4,
-    "type": "aqua",
+    "type": "Aqua",
     "guardianStars": [
       "npt",
       "mrc"
@@ -7764,7 +7807,7 @@
     "number": 585,
     "name": "Mechanical Snail",
     "level": 3,
-    "type": "machine",
+    "type": "Machine",
     "guardianStars": [
       "mon",
       "npt"
@@ -7778,15 +7821,15 @@
     "number": 586,
     "name": "Greenkappa",
     "level": 3,
-    "type": "warrior",
+    "type": "Warrior",
     "guardianStars": [
       "mon",
       "mrc"
     ],
     "attack": 650,
     "defense": 900,
-    "password": "",
-    "starCost": null
+    "password": "61831093",
+    "starCost": 30
   },
   {
     "number": 587,
@@ -7794,12 +7837,13 @@
     "level": 4,
     "type": "Beast",
     "guardianStars": [
-      "jpt"
+      "jpt",
+      "mrc"
     ],
     "attack": 1300,
     "defense": 1400,
-    "password": "",
-    "starCost": null
+    "password": "07225792",
+    "starCost": 140
   },
   {
     "number": 588,
@@ -7807,26 +7851,27 @@
     "level": 3,
     "type": "Plant",
     "guardianStars": [
-      "jpt"
+      "jpt",
+      "urn"
     ],
     "attack": 900,
     "defense": 1100,
-    "password": "",
-    "starCost": null
+    "password": "34320307",
+    "starCost": 55
   },
   {
     "number": 589,
     "name": "Tentacle Plant",
     "level": 2,
-    "type": "aqua",
+    "type": "Aqua",
     "guardianStars": [
       "jpt",
       "plt"
     ],
     "attack": 500,
     "defense": 600,
-    "password": "",
-    "starCost": null
+    "password": "60715406",
+    "starCost": 25
   },
   {
     "number": 590,
@@ -7834,12 +7879,13 @@
     "level": 3,
     "type": "Reptile",
     "guardianStars": [
-      "npt"
+      "npt",
+      "jpt"
     ],
     "attack": 800,
     "defense": 900,
-    "password": "",
-    "starCost": null
+    "password": "06103114",
+    "starCost": 40
   },
   {
     "number": 591,
@@ -7847,12 +7893,13 @@
     "level": 2,
     "type": "Rock",
     "guardianStars": [
-      "urn"
+      "urn",
+      "npt"
     ],
     "attack": 700,
     "defense": 600,
-    "password": "",
-    "starCost": null
+    "password": "33508719",
+    "starCost": 30
   },
   {
     "number": 592,
@@ -7860,12 +7907,13 @@
     "level": 3,
     "type": "Fairy",
     "guardianStars": [
-      "sun"
+      "sun",
+      "mrs"
     ],
     "attack": 850,
     "defense": 900,
-    "password": "",
-    "starCost": null
+    "password": "69992868",
+    "starCost": 40
   },
   {
     "number": 593,
@@ -7892,14 +7940,14 @@
     ],
     "attack": 2000,
     "defense": 1800,
-    "password": "",
-    "starCost": null
+    "password": "32485271",
+    "starCost": 500
   },
   {
     "number": 595,
     "name": "Feind Refrection #1",
     "level": 4,
-    "type": "Winged beast",
+    "type": "Winged Beast",
     "guardianStars": [
       "vns",
       "jpt"
@@ -7920,8 +7968,8 @@
     ],
     "attack": 1600,
     "defense": 1200,
-    "password": "",
-    "starCost": null
+    "password": "95265975",
+    "starCost": 160
   },
   {
     "number": 597,
@@ -7929,12 +7977,13 @@
     "level": 4,
     "type": "Beast",
     "guardianStars": [
-      "jpt"
+      "jpt",
+      "npt"
     ],
     "attack": 1500,
     "defense": 1200,
-    "password": "",
-    "starCost": null
+    "password": "21263083",
+    "starCost": 140
   },
   {
     "number": 598,
@@ -7947,8 +7996,8 @@
     ],
     "attack": 600,
     "defense": 550,
-    "password": "",
-    "starCost": null
+    "password": "68658728",
+    "starCost": 25
   },
   {
     "number": 599,
@@ -7956,12 +8005,13 @@
     "level": 4,
     "type": "Aqua",
     "guardianStars": [
-      "npt"
+      "npt",
+      "mrc"
     ],
     "attack": 1550,
     "defense": 800,
-    "password": "",
-    "starCost": null
+    "password": "94042337",
+    "starCost": 80
   },
   {
     "number": 600,
@@ -7974,8 +8024,8 @@
     ],
     "attack": 1050,
     "defense": 1200,
-    "password": "",
-    "starCost": null
+    "password": "20541432",
+    "starCost": 70
   },
   {
     "number": 601,
@@ -8021,7 +8071,7 @@
   },
   {
     "number": 604,
-    "name": "Obese MArmot of Nefariousness",
+    "name": "Obese Marmot of Nefariousness",
     "level": 3,
     "type": "Beast",
     "guardianStars": [
@@ -8121,7 +8171,7 @@
     "number": 611,
     "name": "Hiro's Shadow Scout",
     "level": 2,
-    "type": "fiend",
+    "type": "Fiend",
     "guardianStars": [
       "mon",
       "stn"
@@ -8177,7 +8227,7 @@
     "number": 615,
     "name": "Armored Starfish",
     "level": 4,
-    "type": "aqua",
+    "type": "Aqua",
     "guardianStars": [
       "npt",
       "mon"
@@ -8199,7 +8249,7 @@
     "attack": 1100,
     "defense": 1200,
     "password": "43530283",
-    "starCost": null
+    "starCost": 80
   },
   {
     "number": 617,
@@ -8261,7 +8311,7 @@
     "number": 621,
     "name": "Succubus Knight",
     "level": 5,
-    "type": "warrior",
+    "type": "Warrior",
     "guardianStars": [
       "mrc",
       "jpt"
@@ -8345,7 +8395,7 @@
     "number": 627,
     "name": "Nekogal #2",
     "level": 6,
-    "type": "beastwarrior",
+    "type": "Beast Warrior",
     "guardianStars": [
       "jpt",
       "urn"
@@ -8387,7 +8437,7 @@
     "number": 630,
     "name": "Ancient Lizard Warrior",
     "level": 4,
-    "type": "reptile",
+    "type": "Reptile",
     "guardianStars": [
       "npt",
       "stn"
@@ -8409,7 +8459,7 @@
     "attack": 1500,
     "defense": 1300,
     "password": "79629370",
-    "starCost": null
+    "starCost": 160
   },
   {
     "number": 632,
@@ -8471,7 +8521,7 @@
     "number": 636,
     "name": "Blue Winged Crown",
     "level": 4,
-    "type": "Winged beast",
+    "type": "Winged Beast",
     "guardianStars": [
       "stn",
       "vns"
@@ -8667,7 +8717,7 @@
     "number": 650,
     "name": "Whiptail Crow",
     "level": 5,
-    "type": "fiend",
+    "type": "Fiend",
     "guardianStars": [
       "mon",
       "mrc"
@@ -8680,7 +8730,9 @@
   {
     "number": 651,
     "name": "Kunai with Chain",
-    "type": "equip magic"
+    "type": "Equip Magic",
+    "password": "37390589",
+    "starCost": 800
   },
   {
     "number": 652,
@@ -8692,23 +8744,23 @@
   {
     "number": 653,
     "name": "Warrior Elimination",
-    "type": "magic",
+    "type": "Magic",
     "password": "90873992",
     "starCost": 999999
   },
   {
     "number": 654,
     "name": "Salamandra",
-    "type": "equip magic",
+    "type": "Equip Magic",
     "password": "32268901",
     "starCost": 800
   },
   {
     "number": 655,
-    "name": "CurseBraker",
+    "name": "Cursebraker",
     "type": "Magic",
-    "password": "",
-    "starCost": null
+    "password": "69666645",
+    "starCost": 10
   },
   {
     "number": 656,
@@ -8720,14 +8772,14 @@
   {
     "number": 657,
     "name": "MegaMorph",
-    "type": "magic",
+    "type": "Magic",
     "password": "22046459",
     "starCost": 50000
   },
   {
     "number": 658,
     "name": "Metalmorph",
-    "type": "equip magic",
+    "type": "Equip Magic",
     "password": "68540058",
     "starCost": 999999
   },
@@ -8741,7 +8793,7 @@
   {
     "number": 660,
     "name": "Stain Storm",
-    "type": "magic",
+    "type": "Magic",
     "password": "21323861",
     "starCost": 999999
   },
@@ -8749,27 +8801,27 @@
     "number": 661,
     "name": "Crush Card",
     "type": "Magic",
-    "password": "577728570",
+    "password": "57728570",
     "starCost": 999999
   },
   {
     "number": 662,
     "name": "Eradicading Aerosol",
-    "type": "magic",
+    "type": "Magic",
     "password": "94716515",
     "starCost": 999999
   },
   {
     "number": 663,
     "name": "Breath of Light",
-    "type": "magic",
+    "type": "Magic",
     "password": "20101223",
     "starCost": 999999
   },
   {
     "number": 664,
     "name": "Eternal Drought",
-    "type": "magic",
+    "type": "Magic",
     "password": "56606928",
     "starCost": 999999
   },
@@ -8792,7 +8844,7 @@
     "name": "Gate Guardian Ritual",
     "type": "Ritual",
     "password": "56483330",
-    "starCost": null
+    "starCost": 999999
   },
   {
     "number": 668,
@@ -8909,28 +8961,28 @@
   {
     "number": 684,
     "name": "Ivisible",
-    "type": "trap",
+    "type": "Trap",
     "password": "15361130",
     "starCost": 999999
   },
   {
     "number": 685,
     "name": "Acid Trap Hole",
-    "type": "trap",
+    "type": "Trap",
     "password": "41356845",
     "starCost": 999999
   },
   {
     "number": 686,
     "name": "Widespread Ruin",
-    "type": "trap",
+    "type": "Trap",
     "password": "77754944",
     "starCost": 999999
   },
   {
     "number": 687,
     "name": "Goblin Fan",
-    "type": "trap",
+    "type": "Trap",
     "password": "04149689",
     "starCost": 999999
   },
@@ -8944,7 +8996,7 @@
   {
     "number": 689,
     "name": "Reverse Trap",
-    "type": "trap",
+    "type": "Trap",
     "password": "77622396",
     "starCost": 999999
   },
@@ -9041,7 +9093,7 @@
   },
   {
     "number": 702,
-    "name": "Hungery Burger",
+    "name": "Hungry Burger",
     "level": 6,
     "type": "Warrior",
     "guardianStars": [
@@ -9057,7 +9109,7 @@
     "number": 703,
     "name": "Sengenjin",
     "level": 8,
-    "type": "BeastWarrior",
+    "type": "Beast Warrior",
     "guardianStars": [
       "jpt",
       "mrc"
@@ -9139,7 +9191,7 @@
   },
   {
     "number": 709,
-    "name": "Charka",
+    "name": "Chakra",
     "level": 8,
     "type": "Fiend",
     "guardianStars": [
@@ -9199,11 +9251,12 @@
     "level": 8,
     "type": "Dragon",
     "guardianStars": [
-      "mrs"
+      "mrs",
+      "sun"
     ],
     "attack": 3500,
     "defense": 2000,
-    "password": "",
+    "password": "n/a",
     "starCost": null
   },
   {
@@ -9222,11 +9275,12 @@
   },
   {
     "number": 715,
-    "name": "Psyco Puppet",
+    "name": "Psycho-Puppet",
     "level": 7,
     "type": "Fiend",
     "guardianStars": [
-      "mon"
+      "mon",
+      "stn"
     ],
     "attack": 2000,
     "defense": 2350,
@@ -9239,7 +9293,8 @@
     "level": 7,
     "type": "Warrior",
     "guardianStars": [
-      "mon"
+      "mon",
+      "urn"
     ],
     "attack": 2550,
     "defense": 2150,
@@ -9290,41 +9345,35 @@
   },
   {
     "number": 720,
-    "name": "",
-    "level": null,
-    "type": "",
+    "name": "Mask of Shine & Dark",
+    "level": 6,
+    "type": "Spellcaster",
     "guardianStars": [
-      null
+      "vns",
+      "plt"
     ],
-    "attack": null,
-    "defense": null,
-    "password": "",
-    "starCost": null
+    "attack": 2000,
+    "defense": 1800
   },
   {
     "number": 721,
-    "name": "",
-    "level": null,
-    "type": "",
-    "guardianStars": [
-      null
-    ],
-    "attack": null,
-    "defense": null,
-    "password": "",
+    "name": "Dark Magic Ritual",
+    "type": "Ritual",
+    "password": "n/a",
     "starCost": null
   },
   {
     "number": 722,
-    "name": "",
-    "level": null,
-    "type": "",
+    "name": "Magician of Black Chaos",
+    "level": 8,
+    "type": "Spellcaster",
     "guardianStars": [
-      null
+      "mrc",
+      "mrs"
     ],
-    "attack": null,
-    "defense": null,
-    "password": "",
+    "attack": 2800,
+    "defense": 2600,
+    "password": "n/a",
     "starCost": null
   }
 ]

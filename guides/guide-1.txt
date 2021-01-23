@@ -1378,7 +1378,7 @@ Level :  4
 Type : Spellcaster
 G.S. :  Sun Jupiter
 Attack/Deffense : 800/2000
-Code # :
+Code # : 15025844 160
 Description :A delicate elf that lacks in offence but has terrific Defense backed by
 mystical power.
 Get : By Password
@@ -1389,7 +1389,7 @@ Level :4
 Type : BeastWarrior
 G.S. : Moon Mars
 Attack/Deffense : 1200/1000
-Code # :
+Code # :76184692 70
 Description : A one-eyed behemoth with thick, powerful arms made for delivering punishing blows.
 Get :
 
@@ -1397,7 +1397,7 @@ Card # :004
 Name : Baby Dragon
 Level : 3
 Type : Dragon
-G.S. :  Uranus
+G.S. :  Uranus Sun
 Attack/Deffense : 1200/700
 Code # : 88819587   999999
 Description : Much more than just a child, this dragon is gifted with untapped power.
@@ -1419,7 +1419,7 @@ Level : 4
 Type : Fiend
 G.S. : Moon Jupiter
 Attack/Deffense : 1300/1400
-Code # :41392891
+Code # :41392891 140
 Description : A playful little imp that lurks in the dark, waiting to attack an unwary enemy.
 Get :
 
@@ -1440,7 +1440,7 @@ Level : 2
 Type : Plant
 G.S. : Jupiter Sun
 Attack/Deffense : 800/600
-Code # :14181608
+Code # :14181608 30
 Description : Found in moist areas, this monster launches poison spores against its enemies.
 Get :
 
@@ -1459,6 +1459,7 @@ Card # :010
 Name : Blackland fire dragon
 Level : 4
 Type : Dragon
+G.S. : Mercury Moon
 Attack/Deffense : 1500/800
 Code # :87564352  80
 Description : A dragon that dwells in the depths of darkness. Its defensive capability suffers
@@ -1513,7 +1514,8 @@ Card # : 015
 Name : Flame Swordsman
 Level : 5
 Type : Warrior
-G.S. Mars Sun/Deffense : 1800/1600
+G.S. : Mars Sun
+Attack/Deffense : 1800/1600
 Code # :45231177    320
 Description : A fighter gifted with the power of fire. Attacks enemies with a sword that
 launches flames.
@@ -1843,7 +1845,7 @@ Card # :046
 Name :Griffore
 Level : 4
 Type : Beast
-G.S. : Jupiter
+G.S. : Jupiter Mercury
 Attack/Deffense :  1200/1500
 Code # :53829412   140
 Description : This creature's tough hide deflects just about any attack.
@@ -1926,7 +1928,7 @@ Get :
 Card # :054
 Name :Gokibore
 Level : 4
-Type : Incest
+Type : Insect
 G.S. : Jupiter  Moon
 Attack/Deffense : 1200/1400
 Code # :15367030    999999
@@ -2137,7 +2139,7 @@ Level : 3
 Type :  Rock
 G.S. : Uranus Venus
 Attack/Deffense : 1300/2000
-Code # :13039848
+Code # :13039848 290
 Description : A giant warrior made of stone. A punch from this creature has earth-shaking
 result.
 Get :
@@ -2763,7 +2765,7 @@ Level : 3
 Type : Pyro
 G.S. :  Mars Uranus
 Attack/Deffense : 1100/800
-Code # :37421579
+Code # :37421579 50
 Description : A warrior protected by a shell that can even deflect the heat of burning flames.
 Get :
 
@@ -2801,7 +2803,7 @@ Get :
 Card # :137
 Name : Mystery hand
 Level : 2
-Type : feind
+Type : Fiend
 G.S. : Moon Uranus
 Attack/Deffense : 500/500
 Code # :62793020    20
@@ -2820,7 +2822,7 @@ Description : A granite Warrior with a dragon's soul wields a powerful sword aga
 enemies.
 Get :
 
-Card # :39
+Card # :139
 Name :Blue-eyed silver zombie
 Level :3
 Type : zombie
@@ -2835,7 +2837,7 @@ Card # :140
 Name :Toad master
 Level : 3
 Type : Aqua
-G.S. : Neptunevenus
+G.S. : Neptune Venus
 Attack/Deffense : 1000/1000
 Code # :62671448     55
 Description : Thousands of years old, this frog wizard attacks enemies with an army of tadpoles.
@@ -2916,10 +2918,10 @@ Description : Awarrior hidden within an egg that attacks enemies by flinging egg
 Get :
 
 Card # :148
-Name :The shadow that controls the dark
+Name :The shadow who controls the dark
 Level : 3
 Type : Fiend
-G.S. : Mercury
+G.S. : Mercury Jupiter
 Attack/Deffense : 800/700
 Code # :63125616    30
 Description : A living shadow that dwells in the realm of darkness. It paralyze its enemies to
@@ -3281,7 +3283,7 @@ Name :Lucky trinket
 Level : 2
 Type : Spellcaster
 G.S. : Sun Jupiter
-Attack/Deffense :
+Attack/Deffense : 600/800
 Code # :03985011     30
 Description : A thin and reedy creature Protected by sacred power.
 Get :
@@ -3594,7 +3596,7 @@ Level : 4
 Type : spellcaster
 G.S. : Neptune mercury
 Attack/Deffense : 1200/2000
-Code # :
+Code # :85639257 250
 Description : A wizard of the waters that conjures up a liquid wall to crush any enemies that
 oppose him.
 Get :
@@ -3676,7 +3678,7 @@ Card # :221
 Name : Kumootoko
 Level : 3
 Type : insect
-G.S. : Jupiter
+G.S. : Jupiter Pluto
 Attack/Deffense : 700/ 1400
 Code # :56283725    60
 Description : A massive, intelligent spider that traps its enemies with webbing.
@@ -3707,8 +3709,8 @@ Name : Trap master
 Level : 3
 Type :  Warrior
 G.S. : Mercury moon
-Attack/Deffense :
-Code # :
+Attack/Deffense : 500/1100
+Code # :46461247 35
 Description : A warrior that excels in laying traps such as a bottomless pit, for eternally
 ensnaring opponents.
 Get :
@@ -4084,7 +4086,7 @@ Get :Bukara
 Card # :261
 Name :Wicked Mirror
 Level :2
-Type : Firnd
+Type : Fiend
 G.S. : Venus Jupiter
 Attack/Deffense : 700/600
 Code # :15150371    30
@@ -4432,7 +4434,7 @@ Level : 3
 Type : warrior
 G.S. : Saturn mercury
 Attack/Deffense : 1200/900
-Code # :
+Code # :70681994 60
 Description : A warrior wquippe with equipment fashioned from dragon scales.
 Get :
 
@@ -4751,7 +4753,7 @@ Get :
 
 Card # :335
 Name : Yami
-Type : Magic terrain
+Type : Terrain Magic
 Code # :59197169 55
 Description : Changes the field in favor of Magic-user and feind monsters, but unfavorable to
 fairy monsters.
@@ -4868,6 +4870,7 @@ Name :Yaranzo
 Level : 4
 Type : Zombie
 G.S. : Moon Mercury
+Attack/Deffense: 1300/1500
 Code # :71280811  160
 Description : A monster that attacks anybody who attempts to open its lid.
 Get :
@@ -4877,6 +4880,7 @@ Name :Kanan the Swordmistress
 Level : 4
 Type : Warrior
 G.S. :  Uranus Neptune
+Attack/Deffense: 1400/1400
 Code # :12829151  160
 Description : A lady swordsman that floats like a butterfly and sings like a bee.
 Get :
@@ -4915,6 +4919,8 @@ Card # :356
 Name : Super War-Lion
 Level : 7
 Type : Beast
+Ritual Magic: War-Lion Ritual
+Ritual Material: Frenzied Panda + Leogun + Garvas
 G.S. : Jupiter Venus
 Attack/Deffense : 2300/2100
 Code # :
@@ -4955,6 +4961,8 @@ Card # :360
 Name : Zera the Mant
 Level : 8
 Type : Fiend
+Ritual Magic: Zera Ritual
+Ritual Material: King of Yamimakai + Wicked Dragon with the Ersatz Head + Ryu-Kishin Powered
 G.S. : Moon Saturn
 Attack/Deffense : 2800/2300
 Code # :
@@ -4995,6 +5003,8 @@ Card # : 364
 Name : Black Luster Soldier
 Level : 8
 Type : Warrior
+Ritual Magic: Black Luster Ritual
+Ritual Material: Beaver Warrior + Gaia the Fierce Knight + Kuriboh
 G.S. : Moon Uranus
 Attack/Deffense : 3000/2500
 Code # :
@@ -5006,6 +5016,8 @@ Card # :365
 Name : Fiend's Mirror
 Level : 6
 Type : Fiend
+Ritual Magic: Beastry Mirror Ritual
+Ritual Material: Fiend Refrection #2 + Wicked Mirror + Fiend Refrection #1
 G.S. : Venus Pluto
 Attack/Deffense : 2100/1800
 Code # :
@@ -5036,9 +5048,9 @@ Card # : 368
 Name : Shadow Ghoul
 Level : 5
 Type : Zombie
-G.S : Moon/Pluto
+G.S : Moon Pluto
 Attack/Defense : 1600/1300
-Code # :
+Code # : 30778711 180
 Description : A dangerous zombie that crawls in the dark.
 Get :
 
@@ -5096,6 +5108,8 @@ Card # :374
 Name : Gate Guardian
 Level : 12
 Type : Warrior
+Ritual Magic: Gate Guardian Ritual
+Ritual Material: Sanga of the Thunder + Kazejin + Suijin
 G.S. : Moon Mars
 Attack/Deffense : 3750/3400
 Code # :
@@ -5154,9 +5168,11 @@ Description : A genie of the lamp that's at the beck and call of its master.
 Get :
 
 Card # :380
-Name : Blue eyes Ultimate Dragon
+Name : Blue-Eyes Ultimate Dragon
 Level : 12
 Type : Dragon
+Ritual Magic: Ultimate Dragon
+Ritual Material: Blue-Eyes White Dragon + Blue-Eyes White Dragon + Blue-Eyes White Dragon
 G.S. : Sun Venus
 Attack/Deffense : 4500/3800
 Code # :
@@ -5343,17 +5359,17 @@ Level : 1
 Type : aqua
 G.S. : Neptune moon
 Attack/Deffense : 300/250
-Code # :
+Code # : 58861941 10
 Description : A monstrous bullfrog with poison spikes.
 Get :
 
 Card # :399
-Name : A swordsman from a foreing land.
+Name : Swordsman from a Foreign Land
 Level : 1
 Type : warrior
 G.S. : uranus venus
 Attack/Deffense : 250/250
-Code # :
+Code # : 85255550 10
 Description : An eastern warrior armed with a cursed sword.
 Get :
 
@@ -5376,8 +5392,8 @@ Name : Ushi Oni
 Level : 6
 Type : fiend
 G.S. : jupiter venus
-Attack/Deffense :
-Code # :
+Attack/Deffense : 2150/1950
+Code # :48649353 700
 Description : A bull monster resurrected by the dark arts that appears from inside a jar.
 Get :
 
@@ -5387,7 +5403,7 @@ Level : 1
 Type : fiend
 G.S. : Moon jupiter
 Attack/Deffense : 250/300
-Code # :
+Code # :84133008 15
 Description : A servant that maintains a close watch on anything and everything. It throws up a
 smokescreen when discovered.
 Get :
@@ -5500,7 +5516,7 @@ Level : 5
 Type : Machine
 G.S. : Moon mars
 Attack/Deffense : 1500/1700
-Code # :
+Code # :44865098 260
 Description : Round-shaped soldiers that roll around and act as guardians to the machine king.
 Get :
 
@@ -5613,7 +5629,7 @@ Level :6
 Type : Dragon
 G.S. : Saturn Uranus
 Attack/Deffense : 1900/1800
-Code # :
+Code # :95288024 1000
 Description : A bird-like dragon with four bladed wings.
 Get :
 
@@ -5696,7 +5712,7 @@ Level : 3
 Type : Aqua
 G.S. : Neptune Venus
 Attack/Deffense : 1100/700
-Code # : 66836598
+Code # : 66836598 45
 Description : A fairy that wonders the seas. Rumored to have the capabilities for summoning sea
 dragons.
 Get :
@@ -5788,7 +5804,7 @@ Level : 5
 Type : Machine
 G.S. : Neptune Venus
 Attack/Deffense : 1800/1500
-Code # : 50176820
+Code # : 50176820 290
 Description : This creature carries a plasma cannon on its back.
 Get :
 
@@ -5846,12 +5862,12 @@ of its tail.
 Get :
 
 Card # :447
-Name : Giant red snake
+Name : Giant Red Seasnake
 Level : 4
 Type : Aqua
 G.S. : Neptune Sun
 Attack/Deffense : 1800/800
-Code # : 58831685
+Code # : 58831685 120
 Description : A sea serpent that bites anything that passes nearby.
 Get :
 
@@ -5872,7 +5888,7 @@ Level : 5
 Type : aqua
 G.S. : Neptune moon
 Attack/Deffense : 1250/2100
-Code # :
+Code # :11714098 290
 Description : A massive and well-protected giant turtle that has lived over 30000 years.
 Get :
 
@@ -5892,7 +5908,7 @@ Level : 3
 Type : aqua
 G.S. : Neptune saturn
 Attack/Deffense : 650/900
-Code # :
+Code # :84103702 30
 Description : A crab monster with two scissors for cutting up enemies.
 Get :
 
@@ -5900,9 +5916,9 @@ Card # : 452
 Name : Zarigun
 Level : 2
 Type : Aqua
-G.S : Neptune/Mercury
+G.S : Neptune Mercury
 Attack/Defense : 600/700
-Code # :
+Code # :10598400 30
 Description : A newly evolved crayfish with sharp scissors for clipping the
 enemy.
 Get :
@@ -5913,7 +5929,7 @@ Level : 6
 Type : Rock
 G.S. :  Uranus Jupiter
 Attack/Deffense : 2000/2200
-Code # :
+Code # :47986555 800
 Description : A golem that has protected treasure for nearly millennium.
 Get :
 
@@ -5933,7 +5949,7 @@ Level : 4
 Type : Rock
 G.S. : Uranus Moon
 Attack/Deffense : 1000/1300
-Code # : 10476868
+Code # : 10476868 80
 Description : A monster that charges into enemies firing a pair of cannons mounted on its
 shoulders.
 Get :
@@ -5982,9 +5998,9 @@ Card # : 460
 Name : Bolt Escargot
 Level : 5
 Type : Thunder
-G.S : Pluto/Jupiter
+G.S : Pluto Jupiter
 Attack/Defense : 1400/1500
-Code # :
+Code # :12146024 180
 Description : This creature spits a gooey substance that robs enemies of
 mobility and then stuns them with electric shocks.
 Get : Labyrinth Mage
@@ -6054,7 +6070,7 @@ Name :Crimson sunbird
 Level : 6
 Type : Winged beast
 G.S. : Mars Mercury
-Attack/Deffense : 2300 1800
+Attack/Deffense : 2300/1800
 Code # :46696593  700
 Description : A monster burning with flames and capable of delivering a rain of spark by
 flapping its wings
@@ -6062,8 +6078,8 @@ Get :
 
 Card # :468
 Name :Queen Bird
-Level :Wingedbeast
-Type : 5
+Level :5
+Type : Winged Beast
 G.S. : Saturn moon
 Attack/Deffense : 1200/2000
 Code # :73081602  260
@@ -6086,7 +6102,7 @@ Level : 4
 Type : Zombie
 G.S. : Moon pluto
 Attack/Deffense : 1300/1400
-Code # :
+Code # :46474915 140
 Description : This creature casts a spell of terror and confusion just before it attacking its
 enemies.
 Get :
@@ -6105,9 +6121,9 @@ Card # : 472
 Name : Air Eater
 Level : 6
 Type : Fiend
-G.S : Moon/Saturn
+G.S : Moon Saturn
 Attack/Defense : 2100/1600
-Code # :
+Code # :08353769 1000
 Description : A monster that suffocates its enemy by feeding on the
 surrounding air supply.
 Get : Gaurdian Neku
@@ -6118,7 +6134,7 @@ Level : 5
 Type : pyro
 G.S. : mars pluto
 Attack/Deffense : 1900/1500
-Code # :
+Code # :35752363 320
 Description : a fiery warrior creature that unleases intense heat from its body.
 Get :
 
@@ -6158,7 +6174,7 @@ Level : 3
 Type : insect
 G.S. : Jupiter Moon
 Attack/Deffense : 950/700
-Code # :70924884
+Code # :70924884 35
 Description : A stag beetle monster with saw-toothed horn and arms.
 Get :
 
@@ -6178,7 +6194,7 @@ Level : 3
 Type : insect
 G.S. :Jupiter venus
 Attack/Deffense :800/900
-Code # :
+Code # :33413638 999999
 Description :A cockroach warrior that hides in small spaces and emerges to attack enemies.
 Get :
 
@@ -6198,7 +6214,7 @@ Level :3
 Type : Beast
 G.S. : Jupiter Uranus
 Attack/Deffense : 850/800
-Code # : 06297941
+Code # : 06297941 35
 Description : A clever mouse with a sharpened left claw.
 Get :
 
@@ -6248,7 +6264,7 @@ Level : 2
 Type : spellcaster
 G.S. : sun jupiter
 Attack/Deffense :650/500
-Code # :
+Code # :68963107 25
 Description : A book wizard with page after page of potent spells.
 Get :
 
@@ -6289,7 +6305,7 @@ Level : 2
 Type : Fiend
 G.S. : Moon Uranus
 Attack/Deffense : 750/700
-Code # : 94230224
+Code # : 94230224 30
 Description : A ball covered in sharp needles. Usually rains down on enemies in a group.
 Get :
 
@@ -6309,7 +6325,7 @@ Level : 2
 Type : fairy
 G.S. : sun neptune
 Attack/Deffense : 500/700
-Code # :
+Code # :67629977 25
 Description : trailed by a beautiful tail, this shooting star inflicts damage when it hit an
 enemy.
 Get :
@@ -6380,7 +6396,7 @@ Level : 1
 Type : insect
 G.S. : Jupiter Neptune
 Attack/Deffense : 250/300
-Code # :999999
+Code # :81179446 999999
 Description : Attacks by blowing webs at its enemies. Nobody knows whats the final form of this
 insect might be.
 Get :
@@ -6404,7 +6420,7 @@ Name : Man-eater bug
 Level : 2
 Type : insect
 G.S. : Jupiter pluto
-Attack/Deffense : 450\600
+Attack/Deffense : 450/600
 Code # :54652250  20
 Description : A creature that slices and dices with its scissors and feeds off its victims.
 Get :
@@ -6424,9 +6440,9 @@ Card # : 503
 Name : Turtle Raccoon
 Level : 3
 Type : Aqua
-G.S : Jupiter/Sun
+G.S : Jupiter Sun
 Attack/Defense : 700/900
-Code # :
+Code # :17441953 35
 Description : A fox-like creature with a protective shell.
 Get :
 
@@ -6456,7 +6472,7 @@ Level : 2
 Type : Insect
 G.S. : Jupiter Venus
 Attack/Deffense : 650/600
-Code # : 16229315
+Code # : 16229315 25
 Description : A huge moth that generates a whirlwind containing poison dust.
 Get :
 
@@ -6565,7 +6581,7 @@ Card # :517
 Name : Sand stone
 Level : 5
 Type : rock
-G.S. : uranus
+G.S. : Uranus Mars
 Attack/Deffense : 1300/1600
 Code # :73051941  180
 Description : Appears from underground and attacks with long. snake-like tentacles.
@@ -6597,7 +6613,7 @@ Level :6
 Type : aqua
 G.S. :Saturn mars
 Attack/Deffense : 1900/1700
-Code # :
+Code # :72929454 400
 Description : A rare flying turtle that inhabits the sea.
 Get :
 
@@ -6627,7 +6643,7 @@ Level : 4
 Type : Fiend
 G.S. : Moon Saturn
 Attack/Deffense : 1800/1000
-Code # :
+Code # :71107816 160
 Description : Defeated enemies served as ingredients for this gourmet monster.
 Get :
 
@@ -6696,18 +6712,18 @@ Name :Eldeen
 Level :3
 Type : spellcaster
 G.S. : Mercury Moon
-Attack/Deffense : Uses a wand to cast various spells against an enemy.
+Attack/Deffense : 950/1000
 Code # :06367785   50
-Description :
+Description :Uses a wand to cast various spells against an enemy.
 Get :
 
 Card # :531
 Name : Mystical sand
 Level :6
 Type : rock
-G.S. : mercury saturn.
+G.S. : mercury saturn
 Attack/Deffense : 2100/1700
-Code # :
+Code # :32751480 500
 Description : Turns enemies to stone and crushes them to dust.
 Get :
 
@@ -7020,7 +7036,7 @@ Card # :563
 Name : Wretched ghost of the attic
 Level : 2
 Type : fiend
-G.S. : mercury
+G.S. : mercury Uranus
 Attack/Deffense : 550/400
 Code # :17238333 20
 Description : A harmless creature usually found in the attic of any home.
@@ -7032,7 +7048,7 @@ Level : 6
 Type : Zombie
 G.S. : Moon Pluto
 Attack/Deffense : 2200/1800
-Code # :
+Code # :54622031 800
 Description : A very unusual skeletal zombie elephant with glowing gold bones.
 Get :
 
@@ -7042,7 +7058,7 @@ Level : 5
 Type : Fish
 G.S. : Neptune Sun
 Attack/Deffense : 2100/1300
-Code # :
+Code # :80727036 320
 Description : A black shark that can deteat almost any scent in the water.
 Get :
 
@@ -7050,9 +7066,9 @@ Card # : 566
 Name : Yormungarde
 Level : 3
 Type : Reptile
-G.S : Neptune/Moon
+G.S : Neptune Moon
 Attack/Defense : 1200/900
-Code # :
+Code # :17115745 60
 Description : A very long snake that often appears in legends and myths.
 Get :
 
@@ -7073,11 +7089,11 @@ Level : 3
 Type : dinosaur
 G.S. : Uranus Moon
 Attack/Deffense : 1000/850
-Code # :
+Code # :89904598 45
 Description : Man-like dinosaur lacking in strength but with a high I,Q.
 Get :
 
-Card # 569
+Card # :569
 Name : Drooling lizard
 Level : 3
 Type : Reptile
@@ -7105,7 +7121,7 @@ Level : 6
 Type : Dragon
 G.S. : Jupiter Neptune
 Attack/Deffense : 2100/1800
-Code # :
+Code # :89832901 999999
 Description : A jet-black dragon that inhabits the jungles and feeds on trees.
 Get :
 
@@ -7115,7 +7131,7 @@ Level : 6
 Type : Warrior
 G.S. : Uranus Venus
 Attack/Deffense : 2100/1700
-Code # :
+Code # :15237615 500
 Description : Empress of the Golden Kingdom. None may refuse her will.
 Get :
 
@@ -7123,9 +7139,9 @@ Card # : 573
 Name : Little D
 Level : 3
 Type : Dinosaur
-G.S : Uranus/Mercury
+G.S : Uranus Mercury
 Attack/Defense : 1100/700
-Code # :
+Code # :42625254 45
 Description : A very ferocious monster spawned from a T-Rex
 Get :
 
@@ -7134,8 +7150,8 @@ Name : Witch of the black forest
 Level : 4
 Type : Spellcaster
 G.S. :Mercury Pluto
-Attack/Deffense :
-Code # :
+Attack/Deffense : 1100/1200
+Code # :78010363 80
 Description : This Forest-dwelling witch can see all with the eye on her forhead
 Get :
 
@@ -7154,9 +7170,9 @@ Card # : 576
 Name : Giant Scorpion of the Tundra
 Level : 3
 Type : Insect
-G.S : Jupiter/Moon
+G.S : Jupiter Moon
 Attack/Defense : 1100/1000
-Code # :
+Code # :41403766 60
 Description : A rare scarlet scorpion that can be found in the tundra -- not
 the desert.
 Get :
@@ -7165,9 +7181,9 @@ Card # : 577
 Name : Crow Goblin
 Level : 5
 Type : Winged Beast
-G.S : Saturn/Mars
+G.S : Saturn Mars
 Attack/Defense : 1850/1600
-Code # :
+Code # :77998771 320
 Description : A very wise, long-nosed goblin with supernatural powers.
 Get :
 
@@ -7177,7 +7193,7 @@ Level : 5
 Type : Spellcaster
 G.S. : Mercury Neptune
 Attack/Deffense : 1350/1200
-Code # :
+Code # :04392470 100
 Description : A wizard with a black cape that is actually a talking lion disguised as a man.
 Get :
 
@@ -7187,7 +7203,7 @@ Level : 2
 Type : plant
 G.S. : Jupiter venus
 Attack/Deffense : 750/400
-Code # :
+Code # :40387124 25
 Description : A rare flower that blooms in a pitch-dark abyss.
 Get :
 
@@ -7195,9 +7211,9 @@ Card # : 580
 Name : Patrol Robo
 Level : 3
 Type : Machine
-G.S : Moon/Uranus
+G.S : Moon Uranus
 Attack/Defense : 1100/900
-Code # :
+Code # :76775123 55
 Description : A cutting-edge robot that eliminates intruders upon detection.
 Get :
 
@@ -7205,9 +7221,9 @@ Card # : 581
 Name : Takuhee
 Level : 4
 Type : Winged Beast
-G.S : Saturn/Sun
+G.S : Saturn Sun
 Attack/Defense : 1450/1000
-Code # :
+Code # :03170832 120
 Description : This bird is a precurser to disaster!!
 Get :
 
@@ -7257,7 +7273,7 @@ Level : 3
 Type : warrior
 G.S. : moon mercury
 Attack/Deffense : 650/900
-Code # :
+Code # :61831093 30
 Description : A creature  transforms into the image of its enemy and copies every offensive
 move.
 Get :
@@ -7266,9 +7282,9 @@ Card # : 587
 Name : Mon Larvas
 Level : 4
 Type : Beast
-G.S : Jupiter/Mercury
+G.S : Jupiter Mercury
 Attack/Defense : 1300/1400
-Code # :
+Code # :07225792 140
 Description : A highly evolved Larvas that is even more powerful than before.
 Get :
 
@@ -7276,9 +7292,9 @@ Card # : 588
 Name : Living Vase
 Level : 3
 Type : Plant
-G.S : Jupiter/Uranus
+G.S : Jupiter Uranus
 Attack/Defense : 900/1100
-Code # :
+Code # :34320307 55
 Description : A living vase that blinds enemies with pollen and attacks with
 it's sharp teeth.
 Get :
@@ -7289,7 +7305,7 @@ Level : 2
 Type : aqua
 G.S. : Jupiter pluto
 Attack/Deffense : 500/600
-Code # :
+Code # :60715406 25
 Description : Attacks nearby opponents by reaching out with its blue vines.
 Get :
 
@@ -7297,9 +7313,9 @@ Card # : 590
 Name : Beaked Snake
 Level : 3
 Type : Reptile
-G.S : Neptune/Jupiter
+G.S : Neptune Jupiter
 Attack/Defense : 800/900
-Code # :
+Code # :06103114 40
 Description : Wraps it's coils around opponents and pecks them with it's huge
 beak.
 Get :
@@ -7308,9 +7324,9 @@ Card # : 591
 Name : Morphing Jar
 Level : 2
 Type : Rock
-G.S : Uranus/Neptune
+G.S : Uranus Neptune
 Attack/Defense : 700/600
-Code # :
+Code # :33508719 30
 Description : A large jar that attacks nearby enemies by unleashing the
 monster it contains inside.
 Get :
@@ -7319,9 +7335,9 @@ Card # : 592
 Name : Muse-A
 Level : 3
 Type : Fairy
-G.S : Sun/Mars
+G.S : Sun Mars
 Attack/Defense : 850/900
-Code # :
+Code # :69992868 40
 Description : A fairy of the arts and an excellent harp player.
 Get :
 
@@ -7341,7 +7357,7 @@ Level : 6
 Type : Plant
 G.S. : Moon jupiter
 Attack/Deffense : 2000/1800
-Code # :
+Code # :32485271 500
 Description : A red rose possessed by a vile spirit that feeds on the life force of others to
 provide the flower with nourishment.
 Get :
@@ -7362,7 +7378,7 @@ Level : 4
 Type : Zombie
 G.S. : Moon Pluto
 Attack/Deffense : 1600/1200
-Code # :
+Code # :95265975 160
 Description : A monster that can eat all it wants mut never is fulfilled.
 Get :
 
@@ -7370,9 +7386,9 @@ Card # : 597
 Name : Pale Beast
 Level : 4
 Type : Beast
-G.S : Jupiter/Neptune
+G.S : Jupiter Neptune
 Attack/Defense : 1500/1200
-Code # :
+Code # :21263083 140
 Description : With skin tinged a bluish white, this strange creature is a
 fearsome sight to behold.
 Get :
@@ -7383,7 +7399,7 @@ Level : 2
 Type : Beast
 G.S. : Saturn Moon
 Attack/Deffense : 600/550
-Code # :
+Code # :68658728 25
 Description : A monster created an experimental attempt to graft wings on beasts.
 Get :
 
@@ -7391,9 +7407,9 @@ Card # : 599
 Name : Violent Rain
 Level : 4
 Type : Aqua
-G.S : Neptune/Mercury
+G.S : Neptune Mercury
 Attack/Defense : 1550/800
-Code # :
+Code # :94042337 80
 Description : A monster capable of bringing on sudden rain showers.
 Get :
 
@@ -7403,7 +7419,7 @@ Level :4
 Type : Fiend
 G.S. :Mercury Moon
 Attack/Deffense : 1050/1200
-Code # :
+Code # :20541432 70
 Description : Seals away the good in a soul to create a wicked being.
 Get :
 
@@ -7567,7 +7583,7 @@ Level : 4
 Type : Fairy
 G.S. : Sun Neptune
 Attack/Deffense : 1100/1200
-Code # : 43530283
+Code # : 43530283 80
 Description : A fairy that controls the feelings of others, instilling them with bravery.
 Get :
 
@@ -7722,7 +7738,7 @@ Level : 4
 Type : Spellcaster
 G.S. : Moon Venus
 Attack/Deffense : 1500/1300
-Code # : 79629370
+Code # : 79629370 160
 Description : A lunar sorcerer that uses mystical spells to induce hallucinations.
 Get :
 
@@ -7921,6 +7937,7 @@ Get :
 Card # :651
 Name : Kunai with chain
 Type : equip magic
+Code # : 37390589 800
 Description :A boomerang featuring the two cards : The legendary sword and The sword of
 darkness.
 Get :
@@ -7947,9 +7964,9 @@ Description : Increases the strength of those who control the power of salamandr
 Get :
 
 Card # :655
-Name :CurseBraker
+Name :Cursebraker
 Type : Magic
-Code # :
+Code # :69666645 10
 Description : Cancels the magic over all level-reduced monsters and sets them at level 0.
 Get :
 
@@ -7991,7 +8008,7 @@ Get :
 Card # :661
 Name : Crush card
 Type : Magic
-Code # : 577728570  999999
+Code # : 57728570  999999
 Description : Opponent monsters in play with attack factor of 1500 or more are eliminated.
 Get :
 
@@ -8036,7 +8053,7 @@ Get :
 Card # :667
 Name :Gate guardian ritual
 Type : Ritual
-Code # :56483330
+Code # :56483330 999999
 Description : Sacrifices Kazejin, Suijin, and Sanga of the Thunder to summon Gate Guardian.
 Get :
 
@@ -8287,6 +8304,8 @@ Card # :701
 Name : Performance of sword
 Level : 6
 Type : Warrior
+Ritual Magic: Commencement Dance
+Ritual Material: Water Omotics + Dancing Elf + Bean Soldier
 G.S. : Sun Saturn
 Attack/Deffense : 1950/1850
 Code # :
@@ -8294,9 +8313,11 @@ Description : A warrior dancer with fancy dance steps.
 Get :
 
 Card # :702
-Name : Hungery Burger
+Name : Hungry Burger
 Level : 6
 Type : Warrior
+Ritual Magic: Hamburger Recipe
+Ritual Material: Battle Steer + Bio Plant + Griggle
 G.S. :Moon Mars
 Attack/Deffense : 2000/1800
 Code # :
@@ -8308,6 +8329,7 @@ Card # :703
 Name :Sengenjin
 Level : 8
 Type : BeastWarrior
+Ritual Magic: Revival of Sengenjin
 G.S. : Jupiter Mercury
 Attack/Deffense : 2750/2500
 Code # :
@@ -8318,6 +8340,8 @@ Card # :704
 Name : Skull guardian
 Level : 7
 Type : Warrior
+Ritual Magic: Novox's Prayer
+Ritual Material: M-Warrior #1 + M-Warrior #2 + Kamakiriman
 G.S. : Sun Jupiter
 Attack/Deffense :2050/2500
 Code # :
@@ -8329,6 +8353,8 @@ Card # :705
 Name : Tri-horned Dragon
 Level : 8
 Type : Dragon
+Ritual Magic: Curse of Tri-Horned Dragon
+Ritual Material: Feral Imp + Torike + B. Dragon Jungle King
 G.S. : Moon Jupiter
 Attack/Deffense : 2850/2350
 Code # :
@@ -8339,6 +8365,8 @@ Card # :706
 Name :Serpent night Dragon
 Level : 7
 Type : Dragon
+Ritual Magic: Revived of Serpent Night Dragon
+Ritual Material: Darkfire Dragon + Dragoness the Wicked Knight + Obese Marmot of Nefariousness
 G.S. : Mercury Pluto
 Attack/Deffense : 2350/2400
 Code # :
@@ -8360,6 +8388,8 @@ Card # :708
 Name : Cosmo Queen
 Level :8
 Type : Spellcaster
+Ritual Magic: Cosmo Queen's Prayer
+Ritual Material: Princess of Tsurugi + Queen's Double + Queen of Autumn Leaves
 G.S. : Venus Uranus
 Attack/Deffense : 2900/2450
 Code # :
@@ -8367,9 +8397,11 @@ Description : A queen who rules over all the stars in the universe.
 Get :
 
 Card # :709
-Name :Charka
+Name :Chakra
 Level :8
 Type : Fiend
+Ritual Magic: Resurrection of Chakra
+Ritual Material: Claw Reacher + Versago the Destroyer + Dark Artist
 G.S. : Mercury Moon
 Attack/Deffense : 2450/2000
 Code # :
@@ -8380,6 +8412,8 @@ Card # :710
 Name : Crab Turtle
 Level : 8
 Type : Aqua
+Ritual Magic: Turtle Oath
+Ritual Material: Catapult Turtle + 30,000-Year White Turtle + Kanikabuto
 G.S. : Neptune Jupiter
 Attack/Deffense :2550/2500
 Code # :
@@ -8412,10 +8446,10 @@ Card # :713
 Name :Meteor B. Dragon
 Level :8
 Type : Dragon
-G.S. :Mars/Sun
+G.S. :Mars Sun
 Attack/Deffense :3500/2000
-Code # :
-Description :With the burning hide of a meteorte, this creature vaporizes all that it touches.
+Code # : n/a
+Description :With the burning hide of a meteorite, this creature vaporizes all that it touches.
 Get :
 
 Card # :714
@@ -8429,10 +8463,12 @@ Description : A heavenly stallion that flies across the skies on scarlet wings.
 Get :
 
 Card # :715
-Name :Psyco Puppet
+Name :Psycho-Puppet
 Level :7
 Type : Fiend
-G.S. :Moon/Saturn
+Ritual Magic: Puppet Ritual
+Ritual Material: Mysterious Puppeteer + Saber Slasher + Blocker
+G.S. :Moon Saturn
 Attack/Deffense :2000/2350
 Code # :
 Description :A mysterious doll with a strange dance that robs the power of opposing monsters.
@@ -8442,7 +8478,9 @@ Card # :716
 Name :  Garma Sword
 Level : 7
 Type : Warrior
-G.S. :Moons/Uranus
+Ritual Magic: Garma Sword Oath
+Ritual Material: Vishwar Randi + Swordstalker + Succubus Knight
+G.S. :Moon Uranus
 Attack/Deffense :2550/2150
 Code # :
 Description :A skiled warrior that wields six swords, against opposing monsters.
@@ -8451,6 +8489,8 @@ Card # :717
 Name : Javelin Beetle
 Level : 8
 Type : Insect
+Ritual Magic: Javelin Beetle Pact
+Ritual Material: Hercules Beetle + Kuwagata a + Kwagar Hercules
 G.S. : Jupiter Uranus
 Attack/Deffense : 2450/ 2550
 Code # :
@@ -8461,6 +8501,8 @@ Card # :718
 Name : Fortress Whale
 Level : 8
 Type : Fish
+Ritual Magic: Fortress Whale's Oath
+Ritual Material: White Dolphin + Mech Bass + Misairuzame
 G.S. : Neptune Saturn
 Attack/Deffense : 2350/2150
 Code # :
@@ -8472,6 +8514,8 @@ Card # :719
 Name : Dokurorider
 Level : 6
 Type : Zombie
+Ritual Magic: Revival of Skeleton Rider
+Ritual Material: Temple of Skulls + Cockroach Knight + Korogashi
 G.S. : Uranus Mars
 Attack/Deffense : 1900/1850
 Code # :
@@ -8479,33 +8523,33 @@ Description : A lovely rider that races across the wasteland, raising thick clou
 Get :
 
 Card # :720
-Name :
-Level :
-Type :
-G.S. :
-Attack/Deffense :
-Code # :
-Description :
+Name : Mask of Shine & Dark
+Level : 6
+Type : Spellcaster
+Ritual Magic: Contruct of Mask
+Ritual Material: Mask of Darkness + Masked Clown + Masked Sorcerer
+G.S. : Venus Pluto
+Attack/Deffense : 2000/1800
+Description : A creature that twists the fabric of light and darkness to generate images to confuse opponents.
 Get :
 
 Card # :721
-Name :
-Level :
-Type :
-G.S. :
-Attack/Deffense :
-Code # :
-Description :
+Name : Dark Magic Ritual
+Type : Ritual
+Code # : n/a
+Description : Ceremony for summoning the Magician of Black Chaos. Sacrifice required.
 Get :
 
 Card # :722
-Name :
-Level :
-Type :
-G.S. :
-Attack/Deffense :
-Code # :
-Description :
+Name : Magician of Black Chaos
+Level : 8
+Type : Spellcaster
+Ritual Magic: Dark Magic Ritual
+Ritual Material: Winged Dragon #1 + Dark Magician + Blast Juggler
+G.S. : Mercury Mars
+Attack/Deffense : 2800/2600
+Code # : n/a
+Description : The ultimate magic-user, who wields the power of chaos born from the fusion of Dark and Light.
 Get :
 
 
