@@ -3431,7 +3431,7 @@ Code # :63545455   20
 Description : A creature of the night that attacks enemies with its rocket-powered arms
 Get :
 
-Card # 198
+Card # :198
 Name :Happy lover
 Level :2
 Type : Fairy
@@ -4919,11 +4919,11 @@ Card # :356
 Name : Super War-Lion
 Level : 7
 Type : Beast
-Ritual Magic: War-Lion Ritual
+Ritual: War-Lion Ritual
 Ritual Material: Frenzied Panda + Leogun + Garvas
 G.S. : Jupiter Venus
 Attack/Deffense : 2300/2100
-Code # :
+Code # : n/a
 Description : A very vicious lion with sharp and long claws.
 Get :
 
@@ -4961,11 +4961,11 @@ Card # :360
 Name : Zera the Mant
 Level : 8
 Type : Fiend
-Ritual Magic: Zera Ritual
+Ritual: Zera Ritual
 Ritual Material: King of Yamimakai + Wicked Dragon with the Ersatz Head + Ryu-Kishin Powered
 G.S. : Moon Saturn
 Attack/Deffense : 2800/2300
-Code # :
+Code # : n/a
 Description : A huge, brutal monster that attacks with razor-sharp claws.
 Get :
 
@@ -5003,11 +5003,11 @@ Card # : 364
 Name : Black Luster Soldier
 Level : 8
 Type : Warrior
-Ritual Magic: Black Luster Ritual
+Ritual: Black Luster Ritual
 Ritual Material: Beaver Warrior + Gaia the Fierce Knight + Kuriboh
 G.S. : Moon Uranus
 Attack/Deffense : 3000/2500
-Code # :
+Code # : n/a
 Description : A powerful warrior with the same capabilities as the legendary Blue eyes White
 Dragon.
 Get :
@@ -5016,11 +5016,11 @@ Card # :365
 Name : Fiend's Mirror
 Level : 6
 Type : Fiend
-Ritual Magic: Beastry Mirror Ritual
+Ritual: Beastry Mirror Ritual
 Ritual Material: Fiend Refrection #2 + Wicked Mirror + Fiend Refrection #1
 G.S. : Venus Pluto
 Attack/Deffense : 2100/1800
-Code # :
+Code # : n/a
 Description : An arcane glass that draws its enemies in to the mirror world.
 Get :
 
@@ -5108,11 +5108,11 @@ Card # :374
 Name : Gate Guardian
 Level : 12
 Type : Warrior
-Ritual Magic: Gate Guardian Ritual
+Ritual: Gate Guardian Ritual
 Ritual Material: Sanga of the Thunder + Kazejin + Suijin
 G.S. : Moon Mars
 Attack/Deffense : 3750/3400
-Code # :
+Code # : n/a
 Description : Sanga, Kazejin, and Suijin join to form a single, powerful monster.
 Get :
 
@@ -5171,11 +5171,11 @@ Card # :380
 Name : Blue-Eyes Ultimate Dragon
 Level : 12
 Type : Dragon
-Ritual Magic: Ultimate Dragon
+Ritual: Ultimate Dragon
 Ritual Material: Blue-Eyes White Dragon + Blue-Eyes White Dragon + Blue-Eyes White Dragon
 G.S. : Sun Venus
 Attack/Deffense : 4500/3800
-Code # :
+Code # : n/a
 Description : The Ultimate dragon formed by the fusion of the three Blue-eyes white dragon.
 Get :
 
@@ -7012,6 +7012,14 @@ Code # : 82065276  50
 Description : A strange Warrior from another dimension.
 Get :
 
+Card # : 560
+Name : Invader from Another Dimension
+Level : 4
+Type : Fiend
+G.S. : Venus Mars
+Attack/Deffense : 950/1400
+Code # : 28450915 80
+
 Card # :561
 Name : Lesser dragon
 Level : 4
@@ -8304,11 +8312,11 @@ Card # :701
 Name : Performance of sword
 Level : 6
 Type : Warrior
-Ritual Magic: Commencement Dance
+Ritual: Commencement Dance
 Ritual Material: Water Omotics + Dancing Elf + Bean Soldier
 G.S. : Sun Saturn
 Attack/Deffense : 1950/1850
-Code # :
+Code # : n/a
 Description : A warrior dancer with fancy dance steps.
 Get :
 
@@ -8316,11 +8324,11 @@ Card # :702
 Name : Hungry Burger
 Level : 6
 Type : Warrior
-Ritual Magic: Hamburger Recipe
+Ritual: Hamburger Recipe
 Ritual Material: Battle Steer + Bio Plant + Griggle
 G.S. :Moon Mars
 Attack/Deffense : 2000/1800
-Code # :
+Code # : n/a
 Description : Attracts hungry enemies with tasty aromas and eats them when they get close
 enough.
 Get :
@@ -8329,10 +8337,10 @@ Card # :703
 Name :Sengenjin
 Level : 8
 Type : BeastWarrior
-Ritual Magic: Revival of Sengenjin
+Ritual: Revival of Sengenjin
 G.S. : Jupiter Mercury
 Attack/Deffense : 2750/2500
-Code # :
+Code # : n/a
 Description : A headstrong, primitive man equipped with a Millennium item.
 Get :
 
@@ -8340,11 +8348,11 @@ Card # :704
 Name : Skull guardian
 Level : 7
 Type : Warrior
-Ritual Magic: Novox's Prayer
+Ritual: Novox's Prayer
 Ritual Material: M-Warrior #1 + M-Warrior #2 + Kamakiriman
 G.S. : Sun Jupiter
 Attack/Deffense :2050/2500
-Code # :
+Code # : n/a
 Description : A guardian of the law that doesn't forgive cheating. Attacks enemies with its
 sword-like arms.
 Get :
@@ -8353,11 +8361,11 @@ Card # :705
 Name : Tri-horned Dragon
 Level : 8
 Type : Dragon
-Ritual Magic: Curse of Tri-Horned Dragon
+Ritual: Curse of Tri-Horned Dragon
 Ritual Material: Feral Imp + Torike + B. Dragon Jungle King
 G.S. : Moon Jupiter
 Attack/Deffense : 2850/2350
-Code # :
+Code # : n/a
 Description : A wicked dragon with three horns protruding from its head.
 Get :
 
@@ -8365,11 +8373,11 @@ Card # :706
 Name :Serpent night Dragon
 Level : 7
 Type : Dragon
-Ritual Magic: Revived of Serpent Night Dragon
+Ritual: Revived of Serpent Night Dragon
 Ritual Material: Darkfire Dragon + Dragoness the Wicked Knight + Obese Marmot of Nefariousness
 G.S. : Mercury Pluto
 Attack/Deffense : 2350/2400
-Code # :
+Code # : n/a
 Description : A dragon created from the soul of a wicked Knight.
 Get :
 
@@ -8388,11 +8396,11 @@ Card # :708
 Name : Cosmo Queen
 Level :8
 Type : Spellcaster
-Ritual Magic: Cosmo Queen's Prayer
+Ritual: Cosmo Queen's Prayer
 Ritual Material: Princess of Tsurugi + Queen's Double + Queen of Autumn Leaves
 G.S. : Venus Uranus
 Attack/Deffense : 2900/2450
-Code # :
+Code # : n/a
 Description : A queen who rules over all the stars in the universe.
 Get :
 
@@ -8400,11 +8408,11 @@ Card # :709
 Name :Chakra
 Level :8
 Type : Fiend
-Ritual Magic: Resurrection of Chakra
+Ritual: Resurrection of Chakra
 Ritual Material: Claw Reacher + Versago the Destroyer + Dark Artist
 G.S. : Mercury Moon
 Attack/Deffense : 2450/2000
-Code # :
+Code # : n/a
 Description : A twisted shape that attacks with tentacle-like arms.
 Get :
 
@@ -8412,11 +8420,11 @@ Card # :710
 Name : Crab Turtle
 Level : 8
 Type : Aqua
-Ritual Magic: Turtle Oath
+Ritual: Turtle Oath
 Ritual Material: Catapult Turtle + 30,000-Year White Turtle + Kanikabuto
 G.S. : Neptune Jupiter
 Attack/Deffense :2550/2500
-Code # :
+Code # : n/a
 Description : A creature with a turtle shell and crab scissors to provide high attack and
 defense factors.
 Get :
@@ -8466,11 +8474,11 @@ Card # :715
 Name :Psycho-Puppet
 Level :7
 Type : Fiend
-Ritual Magic: Puppet Ritual
+Ritual: Puppet Ritual
 Ritual Material: Mysterious Puppeteer + Saber Slasher + Blocker
 G.S. :Moon Saturn
 Attack/Deffense :2000/2350
-Code # :
+Code # : n/a
 Description :A mysterious doll with a strange dance that robs the power of opposing monsters.
 Get :
 
@@ -8478,22 +8486,22 @@ Card # :716
 Name :  Garma Sword
 Level : 7
 Type : Warrior
-Ritual Magic: Garma Sword Oath
+Ritual: Garma Sword Oath
 Ritual Material: Vishwar Randi + Swordstalker + Succubus Knight
 G.S. :Moon Uranus
 Attack/Deffense :2550/2150
-Code # :
+Code # : n/a
 Description :A skiled warrior that wields six swords, against opposing monsters.
 
 Card # :717
 Name : Javelin Beetle
 Level : 8
 Type : Insect
-Ritual Magic: Javelin Beetle Pact
+Ritual: Javelin Beetle Pact
 Ritual Material: Hercules Beetle + Kuwagata a + Kwagar Hercules
 G.S. : Jupiter Uranus
 Attack/Deffense : 2450/ 2550
-Code # :
+Code # : n/a
 Description : A creature with lethal scissors that cut through almost anything.
 Get :
 
@@ -8501,11 +8509,11 @@ Card # :718
 Name : Fortress Whale
 Level : 8
 Type : Fish
-Ritual Magic: Fortress Whale's Oath
+Ritual: Fortress Whale's Oath
 Ritual Material: White Dolphin + Mech Bass + Misairuzame
 G.S. : Neptune Saturn
 Attack/Deffense : 2350/2150
-Code # :
+Code # : n/a
 Description : A sea monster with a cannon mounted on its back to blow its enemies out of the
 water.
 Get :
@@ -8514,11 +8522,11 @@ Card # :719
 Name : Dokurorider
 Level : 6
 Type : Zombie
-Ritual Magic: Revival of Skeleton Rider
+Ritual: Revival of Skeleton Rider
 Ritual Material: Temple of Skulls + Cockroach Knight + Korogashi
 G.S. : Uranus Mars
 Attack/Deffense : 1900/1850
-Code # :
+Code # : n/a
 Description : A lovely rider that races across the wasteland, raising thick clouds of dust.
 Get :
 
@@ -8526,10 +8534,11 @@ Card # :720
 Name : Mask of Shine & Dark
 Level : 6
 Type : Spellcaster
-Ritual Magic: Contruct of Mask
+Ritual: Contruct of Mask
 Ritual Material: Mask of Darkness + Masked Clown + Masked Sorcerer
 G.S. : Venus Pluto
 Attack/Deffense : 2000/1800
+Code # : n/a
 Description : A creature that twists the fabric of light and darkness to generate images to confuse opponents.
 Get :
 
@@ -8544,7 +8553,7 @@ Card # :722
 Name : Magician of Black Chaos
 Level : 8
 Type : Spellcaster
-Ritual Magic: Dark Magic Ritual
+Ritual: Dark Magic Ritual
 Ritual Material: Winged Dragon #1 + Dark Magician + Blast Juggler
 G.S. : Mercury Mars
 Attack/Deffense : 2800/2600

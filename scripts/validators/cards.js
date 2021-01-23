@@ -86,6 +86,10 @@ module.exports = () => {
 
   let cardNumGuess = 1;
 
+  if (cards.length !== 722) {
+    errors.push('expected 722 cards; got ' + cards.length);
+  }
+
   for (let i = 0; i < cards.length; i++, cardNumGuess++) {
     const card = cards[i];
     if (card == null) {
@@ -118,20 +122,25 @@ module.exports = () => {
       errors.push(makeError(i, card, `type "${card.type}" is an unknown type`));
     }
 
-    if (!card.password) {
-      errors.push(makeError(i, card, 'password is null, undefined, or empty'));
+    if (!card.purchasable && (card.password || card.starCost)) {
+      errors.push(makeError(i, card, 'non-purchasable card has password or starCost'));
     }
-    else if (typeof card.password !== 'string' || card.password.length !== 8) {
-      errors.push(makeError(i, card, 'password is defined but does not have exactly 8 characters'));
-    }
-    else if (_.some(card.password, c => !'0123456789'.includes(c))) {
-      errors.push(makeError(i, card, `password "${card.password}" is non-numeric`));
-    }
-    else if (card.starCost == null) {
-      errors.push(makeError(i, card, 'password is defined but starCost is null or undefined'));
-    }
-    else if (typeof card.starCost !== 'number') {
-      errors.push(makeError(i, card, 'starCost is not a number'));
+    else if (card.purchasable) {
+      if (!card.password) {
+        errors.push(makeError(i, card, 'password is null, undefined, or empty'));
+      }
+      else if (typeof card.password !== 'string' || card.password.length !== 8) {
+        errors.push(makeError(i, card, 'password is defined but does not have exactly 8 characters'));
+      }
+      else if (_.some(card.password, c => !'0123456789'.includes(c))) {
+        errors.push(makeError(i, card, `password "${card.password}" is non-numeric`));
+      }
+      else if (card.starCost == null) {
+        errors.push(makeError(i, card, 'password is defined but starCost is null or undefined'));
+      }
+      else if (typeof card.starCost !== 'number') {
+        errors.push(makeError(i, card, 'starCost is not a number'));
+      }
     }
   }
 

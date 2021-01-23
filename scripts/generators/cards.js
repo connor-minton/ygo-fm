@@ -108,8 +108,14 @@ class GuideParser {
     }
     else if (line.startsWith('Code')) {
       const [pw, stars] = line.split(':')[1].trim().split(/\s+/);
-      card.password = pw.trim();
-      card.starCost = Number.parseInt(stars);
+      if (pw === 'n/a') {
+        card.purchasable = false;
+      }
+      else {
+        card.purchasable = true;
+        card.password = pw.trim();
+        card.starCost = Number.parseInt(stars);
+      }
     }
     else if (line.startsWith('Description')) {
       const descLines = [line.split(':').slice(1).join('')];

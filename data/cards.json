@@ -10,6 +10,7 @@
     ],
     "attack": 3000,
     "defense": 2500,
+    "purchasable": true,
     "password": "89631139",
     "starCost": 999999
   },
@@ -24,6 +25,7 @@
     ],
     "attack": 800,
     "defense": 2000,
+    "purchasable": true,
     "password": "15025844",
     "starCost": 160
   },
@@ -38,6 +40,7 @@
     ],
     "attack": 1200,
     "defense": 1000,
+    "purchasable": true,
     "password": "76184692",
     "starCost": 70
   },
@@ -52,6 +55,7 @@
     ],
     "attack": 1200,
     "defense": 700,
+    "purchasable": true,
     "password": "88819587",
     "starCost": 999999
   },
@@ -66,6 +70,7 @@
     ],
     "attack": 1000,
     "defense": 500,
+    "purchasable": true,
     "password": "15303296",
     "starCost": 30
   },
@@ -80,6 +85,7 @@
     ],
     "attack": 1300,
     "defense": 1400,
+    "purchasable": true,
     "password": "41392891",
     "starCost": 140
   },
@@ -94,6 +100,7 @@
     ],
     "attack": 1400,
     "defense": 1200,
+    "purchasable": true,
     "password": "87796900",
     "starCost": 999999
   },
@@ -108,6 +115,7 @@
     ],
     "attack": 800,
     "defense": 600,
+    "purchasable": true,
     "password": "14181608",
     "starCost": 30
   },
@@ -122,6 +130,7 @@
     ],
     "attack": 500,
     "defense": 200,
+    "purchasable": true,
     "password": "40575313",
     "starCost": 15
   },
@@ -136,6 +145,7 @@
     ],
     "attack": 1500,
     "defense": 800,
+    "purchasable": true,
     "password": "87564352",
     "starCost": 80
   },
@@ -150,6 +160,7 @@
     ],
     "attack": 1750,
     "defense": 2030,
+    "purchasable": true,
     "password": "13069066",
     "starCost": 1000
   },
@@ -164,6 +175,7 @@
     ],
     "attack": 1800,
     "defense": 1500,
+    "purchasable": true,
     "password": "40453765",
     "starCost": 290
   },
@@ -178,6 +190,7 @@
     ],
     "attack": 1200,
     "defense": 1400,
+    "purchasable": true,
     "password": "72842870",
     "starCost": 120
   },
@@ -192,6 +205,7 @@
     ],
     "attack": 1800,
     "defense": 1300,
+    "purchasable": true,
     "password": "18246479",
     "starCost": 230
   },
@@ -206,6 +220,7 @@
     ],
     "attack": 1800,
     "defense": 1600,
+    "purchasable": true,
     "password": "45231177",
     "starCost": 320
   },
@@ -220,6 +235,7 @@
     ],
     "attack": 500,
     "defense": 400,
+    "purchasable": true,
     "password": "71625222",
     "starCost": 999999
   },
@@ -234,6 +250,7 @@
     ],
     "attack": 200,
     "defense": 300,
+    "purchasable": true,
     "password": "08124921",
     "starCost": 999999
   },
@@ -248,6 +265,7 @@
     ],
     "attack": 200,
     "defense": 300,
+    "purchasable": true,
     "password": "44519536",
     "starCost": 999999
   },
@@ -262,6 +280,7 @@
     ],
     "attack": 200,
     "defense": 300,
+    "purchasable": true,
     "password": "70903634",
     "starCost": 999999
   },
@@ -276,6 +295,7 @@
     ],
     "attack": 200,
     "defense": 300,
+    "purchasable": true,
     "password": "07902349",
     "starCost": 999999
   },
@@ -290,6 +310,7 @@
     ],
     "attack": 1000,
     "defense": 1000,
+    "purchasable": true,
     "password": "33396948",
     "starCost": 999999
   },
@@ -304,6 +325,7 @@
     ],
     "attack": 2500,
     "defense": 1200,
+    "purchasable": true,
     "password": "70781052",
     "starCost": 999999
   },
@@ -318,6 +340,7 @@
     ],
     "attack": 1400,
     "defense": 700,
+    "purchasable": true,
     "password": "06285791",
     "starCost": 60
   },
@@ -332,6 +355,7 @@
     ],
     "attack": 300,
     "defense": 200,
+    "purchasable": true,
     "password": "32274490",
     "starCost": 10
   },
@@ -346,6 +370,7 @@
     ],
     "attack": 1300,
     "defense": 1000,
+    "purchasable": true,
     "password": "69669405",
     "starCost": 80
   },
@@ -360,6 +385,7 @@
     ],
     "attack": 1700,
     "defense": 1000,
+    "purchasable": true,
     "password": "05053103",
     "starCost": 999999
   },
@@ -374,6 +400,7 @@
     ],
     "attack": 1200,
     "defense": 1500,
+    "purchasable": true,
     "password": "32452818",
     "starCost": 140
   },
@@ -388,6 +415,7 @@
     ],
     "attack": 800,
     "defense": 1200,
+    "purchasable": true,
     "password": "68846917",
     "starCost": 999999
   },
@@ -402,6 +430,7 @@
     ],
     "attack": 600,
     "defense": 1000,
+    "purchasable": true,
     "password": "04931562",
     "starCost": 35
   },
@@ -416,6 +445,7 @@
     ],
     "attack": 1200,
     "defense": 900,
+    "purchasable": true,
     "password": "31339260",
     "starCost": 60
   },
@@ -430,6 +460,7 @@
     ],
     "attack": 1500,
     "defense": 1200,
+    "purchasable": true,
     "password": "67724379",
     "starCost": 140
   },
@@ -444,6 +475,7 @@
     ],
     "attack": 1600,
     "defense": 1200,
+    "purchasable": true,
     "password": "94119974",
     "starCost": 160
   },
@@ -458,6 +490,7 @@
     ],
     "attack": 2200,
     "defense": 1500,
+    "purchasable": true,
     "password": "30113682",
     "starCost": 1000
   },
@@ -472,6 +505,7 @@
     ],
     "attack": 600,
     "defense": 1500,
+    "purchasable": true,
     "password": "66602787",
     "starCost": 60
   },
@@ -486,6 +520,7 @@
     ],
     "attack": 2500,
     "defense": 2100,
+    "purchasable": true,
     "password": "46986414",
     "starCost": 999999
   },
@@ -500,6 +535,7 @@
     ],
     "attack": 1500,
     "defense": 1200,
+    "purchasable": true,
     "password": "29491031",
     "starCost": 140
   },
@@ -514,6 +550,7 @@
     ],
     "attack": 2600,
     "defense": 2100,
+    "purchasable": true,
     "password": "66889139",
     "starCost": 999999
   },
@@ -528,6 +565,7 @@
     ],
     "attack": 2300,
     "defense": 2100,
+    "purchasable": true,
     "password": "06368038",
     "starCost": 999999
   },
@@ -542,6 +580,7 @@
     ],
     "attack": 2000,
     "defense": 1500,
+    "purchasable": true,
     "password": "28279543",
     "starCost": 999999
   },
@@ -556,6 +595,7 @@
     ],
     "attack": 200,
     "defense": 1800,
+    "purchasable": true,
     "password": "55763552",
     "starCost": 55
   },
@@ -570,6 +610,7 @@
     ],
     "attack": 1400,
     "defense": 1200,
+    "purchasable": true,
     "password": "91152256",
     "starCost": 120
   },
@@ -584,6 +625,7 @@
     ],
     "attack": 1200,
     "defense": 2200,
+    "purchasable": true,
     "password": "28546905",
     "starCost": 320
   },
@@ -598,6 +640,7 @@
     ],
     "attack": 1500,
     "defense": 1200,
+    "purchasable": true,
     "password": "54541900",
     "starCost": 140
   },
@@ -612,6 +655,7 @@
     ],
     "attack": 1600,
     "defense": 1000,
+    "purchasable": true,
     "password": "91939608",
     "starCost": 120
   },
@@ -626,6 +670,7 @@
     ],
     "attack": 1000,
     "defense": 500,
+    "purchasable": true,
     "password": "27324313",
     "starCost": 30
   },
@@ -640,6 +685,7 @@
     ],
     "attack": 1200,
     "defense": 1500,
+    "purchasable": true,
     "password": "53829412",
     "starCost": 140
   },
@@ -654,6 +700,7 @@
     ],
     "attack": 1200,
     "defense": 600,
+    "purchasable": true,
     "password": "80813021",
     "starCost": 45
   },
@@ -668,6 +715,7 @@
     ],
     "attack": 1000,
     "defense": 600,
+    "purchasable": true,
     "password": "26202165",
     "starCost": 35
   },
@@ -682,6 +730,7 @@
     ],
     "attack": 1200,
     "defense": 1500,
+    "purchasable": true,
     "password": "53606874",
     "starCost": 140
   },
@@ -696,6 +745,7 @@
     ],
     "attack": 500,
     "defense": 700,
+    "purchasable": true,
     "password": "89091579",
     "starCost": 25
   },
@@ -710,6 +760,7 @@
     ],
     "attack": 1500,
     "defense": 1200,
+    "purchasable": true,
     "password": "15480588",
     "starCost": 999999
   },
@@ -724,6 +775,7 @@
     ],
     "attack": 1500,
     "defense": 2000,
+    "purchasable": true,
     "password": "52584282",
     "starCost": 999999
   },
@@ -738,6 +790,7 @@
     ],
     "attack": 1200,
     "defense": 1000,
+    "purchasable": true,
     "password": "88979991",
     "starCost": 70
   },
@@ -752,6 +805,7 @@
     ],
     "attack": 1200,
     "defense": 1400,
+    "purchasable": true,
     "password": "15367030",
     "starCost": 999999
   },
@@ -766,6 +820,7 @@
     ],
     "attack": 1500,
     "defense": 1200,
+    "purchasable": true,
     "password": "41762634",
     "starCost": 140
   },
@@ -780,6 +835,7 @@
     ],
     "attack": 500,
     "defense": 400,
+    "purchasable": true,
     "password": "87756343",
     "starCost": 999999
   },
@@ -794,6 +850,7 @@
     ],
     "attack": 2600,
     "defense": 2500,
+    "purchasable": true,
     "password": "14141448",
     "starCost": 999999
   },
@@ -808,6 +865,7 @@
     ],
     "attack": 300,
     "defense": 200,
+    "purchasable": true,
     "password": "40640057",
     "starCost": 10
   },
@@ -822,6 +880,7 @@
     ],
     "attack": 1200,
     "defense": 800,
+    "purchasable": true,
     "password": "40374923",
     "starCost": 55
   },
@@ -836,6 +895,7 @@
     ],
     "attack": 1600,
     "defense": 800,
+    "purchasable": true,
     "password": "13429800",
     "starCost": 999999
   },
@@ -850,6 +910,7 @@
     ],
     "attack": 1200,
     "defense": 800,
+    "purchasable": true,
     "password": "49417509",
     "starCost": 55
   },
@@ -864,6 +925,7 @@
     ],
     "attack": 1300,
     "defense": 1400,
+    "purchasable": true,
     "password": "76812113",
     "starCost": 999999
   },
@@ -878,6 +940,7 @@
     ],
     "attack": 1950,
     "defense": 2100,
+    "purchasable": true,
     "password": "12206212",
     "starCost": 999999
   },
@@ -892,6 +955,7 @@
     ],
     "attack": 1300,
     "defense": 1100,
+    "purchasable": true,
     "password": "49791927",
     "starCost": 999999
   },
@@ -906,6 +970,7 @@
     ],
     "attack": 1200,
     "defense": 800,
+    "purchasable": true,
     "password": "90357090",
     "starCost": 55
   },
@@ -920,6 +985,7 @@
     ],
     "attack": 1500,
     "defense": 1200,
+    "purchasable": true,
     "password": "01184620",
     "starCost": 140
   },
@@ -934,6 +1000,7 @@
     ],
     "attack": 3500,
     "defense": 3000,
+    "purchasable": true,
     "password": "48579379",
     "starCost": 999999
   },
@@ -948,6 +1015,7 @@
     ],
     "attack": 1800,
     "defense": 1500,
+    "purchasable": true,
     "password": "14977074",
     "starCost": 290
   },
@@ -962,6 +1030,7 @@
     ],
     "attack": 2400,
     "defense": 2000,
+    "purchasable": true,
     "password": "41462083",
     "starCost": 999999
   },
@@ -976,6 +1045,7 @@
     ],
     "attack": 1200,
     "defense": 1400,
+    "purchasable": true,
     "password": "77456781",
     "starCost": 120
   },
@@ -990,6 +1060,7 @@
     ],
     "attack": 1200,
     "defense": 1500,
+    "purchasable": true,
     "password": "14851496",
     "starCost": 140
   },
@@ -1004,6 +1075,7 @@
     ],
     "attack": 0,
     "defense": 2000,
+    "purchasable": true,
     "password": "40240595",
     "starCost": 999999
   },
@@ -1018,6 +1090,7 @@
     ],
     "attack": 1800,
     "defense": 1500,
+    "purchasable": true,
     "password": "76634149",
     "starCost": 290
   },
@@ -1032,6 +1105,7 @@
     ],
     "attack": 1300,
     "defense": 2000,
+    "purchasable": true,
     "password": "13039848",
     "starCost": 290
   },
@@ -1046,6 +1120,7 @@
     ],
     "attack": 800,
     "defense": 600,
+    "purchasable": true,
     "password": "49127943",
     "starCost": 30
   },
@@ -1060,6 +1135,7 @@
     ],
     "attack": 1100,
     "defense": 1200,
+    "purchasable": true,
     "password": "76512652",
     "starCost": 80
   },
@@ -1074,6 +1150,7 @@
     ],
     "attack": 1300,
     "defense": 1200,
+    "purchasable": true,
     "password": "02906250",
     "starCost": 100
   },
@@ -1088,6 +1165,7 @@
     ],
     "attack": 1700,
     "defense": 1150,
+    "purchasable": true,
     "password": "48305365",
     "starCost": 160
   },
@@ -1102,6 +1180,7 @@
     ],
     "attack": 1800,
     "defense": 2000,
+    "purchasable": true,
     "password": "75390004",
     "starCost": 500
   },
@@ -1116,6 +1195,7 @@
     ],
     "attack": 1500,
     "defense": 800,
+    "purchasable": true,
     "password": "01784619",
     "starCost": 80
   },
@@ -1130,6 +1210,7 @@
     ],
     "attack": 1600,
     "defense": 1200,
+    "purchasable": true,
     "password": "38289717",
     "starCost": 160
   },
@@ -1144,6 +1225,7 @@
     ],
     "attack": 2400,
     "defense": 2000,
+    "purchasable": true,
     "password": "74677422",
     "starCost": 999999
   },
@@ -1158,6 +1240,7 @@
     ],
     "attack": 1200,
     "defense": 2500,
+    "purchasable": true,
     "password": "00062121",
     "starCost": 160
   },
@@ -1172,6 +1255,7 @@
     ],
     "attack": 1380,
     "defense": 1930,
+    "purchasable": true,
     "password": "33066139",
     "starCost": 290
   },
@@ -1186,6 +1270,7 @@
     ],
     "attack": 2000,
     "defense": 1530,
+    "purchasable": true,
     "password": "69455834",
     "starCost": 350
   },
@@ -1200,6 +1285,7 @@
     ],
     "attack": 1380,
     "defense": 1530,
+    "purchasable": true,
     "password": "06840573",
     "starCost": 180
   },
@@ -1214,6 +1300,7 @@
     ],
     "attack": 1610,
     "defense": 1460,
+    "purchasable": true,
     "password": "32344688",
     "starCost": 200
   },
@@ -1228,6 +1315,7 @@
     ],
     "attack": 1150,
     "defense": 2150,
+    "purchasable": true,
     "password": "68339286",
     "starCost": 290
   },
@@ -1242,6 +1330,7 @@
     ],
     "attack": 1000,
     "defense": 2000,
+    "purchasable": true,
     "password": "95727991",
     "starCost": 200
   },
@@ -1256,6 +1345,7 @@
     ],
     "attack": 1800,
     "defense": 2000,
+    "purchasable": true,
     "password": "31122090",
     "starCost": 500
   },
@@ -1270,6 +1360,7 @@
     ],
     "attack": 1300,
     "defense": 1550,
+    "purchasable": true,
     "password": "68516705",
     "starCost": 999999
   },
@@ -1284,6 +1375,7 @@
     ],
     "attack": 2000,
     "defense": 1700,
+    "purchasable": true,
     "password": "94905343",
     "starCost": 999999
   },
@@ -1298,6 +1390,7 @@
     ],
     "attack": 1500,
     "defense": 1700,
+    "purchasable": true,
     "password": "30090452",
     "starCost": 260
   },
@@ -1312,6 +1405,7 @@
     ],
     "attack": 1600,
     "defense": 1400,
+    "purchasable": true,
     "password": "67494157",
     "starCost": 200
   },
@@ -1326,6 +1420,7 @@
     ],
     "attack": 1350,
     "defense": 1400,
+    "purchasable": true,
     "password": "93889755",
     "starCost": 140
   },
@@ -1340,6 +1435,7 @@
     ],
     "attack": 1500,
     "defense": 0,
+    "purchasable": true,
     "password": "20277860",
     "starCost": 260
   },
@@ -1354,6 +1450,7 @@
     ],
     "attack": 1600,
     "defense": 500,
+    "purchasable": true,
     "password": "66672569",
     "starCost": 200
   },
@@ -1368,6 +1465,7 @@
     ],
     "attack": 1350,
     "defense": 0,
+    "purchasable": true,
     "password": "92667214",
     "starCost": 140
   },
@@ -1382,6 +1480,7 @@
     ],
     "attack": 1800,
     "defense": 2000,
+    "purchasable": true,
     "password": "29155212",
     "starCost": 500
   },
@@ -1396,6 +1495,7 @@
     ],
     "attack": 700,
     "defense": 1000,
+    "purchasable": true,
     "password": "55550921",
     "starCost": 40
   },
@@ -1410,6 +1510,7 @@
     ],
     "attack": 700,
     "defense": 600,
+    "purchasable": true,
     "password": "92944626",
     "starCost": 30
   },
@@ -1424,6 +1525,7 @@
     ],
     "attack": 900,
     "defense": 400,
+    "purchasable": true,
     "password": "28933734",
     "starCost": 30
   },
@@ -1438,6 +1540,7 @@
     ],
     "attack": 800,
     "defense": 1300,
+    "purchasable": true,
     "password": "55337339",
     "starCost": 999999
   },
@@ -1452,6 +1555,7 @@
     ],
     "attack": 600,
     "defense": 500,
+    "purchasable": true,
     "password": "22026707",
     "starCost": 25
   },
@@ -1466,6 +1570,7 @@
     ],
     "attack": 500,
     "defense": 400,
+    "purchasable": true,
     "password": "46457856",
     "starCost": 20
   },
@@ -1480,6 +1585,7 @@
     ],
     "attack": 1700,
     "defense": 1400,
+    "purchasable": true,
     "password": "54615781",
     "starCost": 230
   },
@@ -1494,6 +1600,7 @@
     ],
     "attack": 800,
     "defense": 600,
+    "purchasable": true,
     "password": "80600490",
     "starCost": 30
   },
@@ -1508,6 +1615,7 @@
     ],
     "attack": 700,
     "defense": 900,
+    "purchasable": true,
     "password": "27094595",
     "starCost": 35
   },
@@ -1522,6 +1630,7 @@
     ],
     "attack": 1200,
     "defense": 1000,
+    "purchasable": true,
     "password": "53493204",
     "starCost": 70
   },
@@ -1536,6 +1645,7 @@
     ],
     "attack": 1100,
     "defense": 1000,
+    "purchasable": true,
     "password": "89987208",
     "starCost": 60
   },
@@ -1550,6 +1660,7 @@
     ],
     "attack": 1600,
     "defense": 1400,
+    "purchasable": true,
     "password": "16972957",
     "starCost": 200
   },
@@ -1564,6 +1675,7 @@
     ],
     "attack": 1200,
     "defense": 1000,
+    "purchasable": true,
     "password": "52367652",
     "starCost": 70
   },
@@ -1578,6 +1690,7 @@
     ],
     "attack": 800,
     "defense": 900,
+    "purchasable": true,
     "password": "09159938",
     "starCost": 40
   },
@@ -1592,6 +1705,7 @@
     ],
     "attack": 1000,
     "defense": 700,
+    "purchasable": true,
     "password": "15150365",
     "starCost": 40
   },
@@ -1606,6 +1720,7 @@
     ],
     "attack": 1300,
     "defense": 1100,
+    "purchasable": true,
     "password": "41544074",
     "starCost": 120
   },
@@ -1620,6 +1735,7 @@
     ],
     "attack": 900,
     "defense": 800,
+    "purchasable": true,
     "password": "88643173",
     "starCost": 40
   },
@@ -1634,6 +1750,7 @@
     ],
     "attack": 1400,
     "defense": 1200,
+    "purchasable": true,
     "password": "14037717",
     "starCost": 120
   },
@@ -1648,6 +1765,7 @@
     ],
     "attack": 1000,
     "defense": 1000,
+    "purchasable": true,
     "password": "41422426",
     "starCost": 55
   },
@@ -1662,6 +1780,7 @@
     ],
     "attack": 1300,
     "defense": 900,
+    "purchasable": true,
     "password": "77827521",
     "starCost": 70
   },
@@ -1676,6 +1795,7 @@
     ],
     "attack": 1200,
     "defense": 900,
+    "purchasable": true,
     "password": "13215230",
     "starCost": 60
   },
@@ -1690,6 +1810,7 @@
     ],
     "attack": 700,
     "defense": 1700,
+    "purchasable": true,
     "password": "40200834",
     "starCost": 120
   },
@@ -1704,6 +1825,7 @@
     ],
     "attack": 900,
     "defense": 300,
+    "purchasable": true,
     "password": "76704943",
     "starCost": 25
   },
@@ -1718,6 +1840,7 @@
     ],
     "attack": 300,
     "defense": 400,
+    "purchasable": true,
     "password": "13193642",
     "starCost": 15
   },
@@ -1732,6 +1855,7 @@
     ],
     "attack": 1700,
     "defense": 1400,
+    "purchasable": true,
     "password": "49587396",
     "starCost": 230
   },
@@ -1746,6 +1870,7 @@
     ],
     "attack": 1500,
     "defense": 1100,
+    "purchasable": true,
     "password": "75582395",
     "starCost": 120
   },
@@ -1760,6 +1885,7 @@
     ],
     "attack": 1800,
     "defense": 1500,
+    "purchasable": true,
     "password": "02971090",
     "starCost": 290
   },
@@ -1774,6 +1900,7 @@
     ],
     "attack": 1700,
     "defense": 1200,
+    "purchasable": true,
     "password": "48365709",
     "starCost": 180
   },
@@ -1788,6 +1915,7 @@
     ],
     "attack": 1200,
     "defense": 1700,
+    "purchasable": true,
     "password": "48365709",
     "starCost": 180
   },
@@ -1802,6 +1930,7 @@
     ],
     "attack": 800,
     "defense": 700,
+    "purchasable": true,
     "password": "90963488",
     "starCost": 30
   },
@@ -1816,6 +1945,7 @@
     ],
     "attack": 600,
     "defense": 400,
+    "purchasable": true,
     "password": "37243151",
     "starCost": 20
   },
@@ -1830,6 +1960,7 @@
     ],
     "attack": 1600,
     "defense": 1400,
+    "purchasable": true,
     "password": "74637266",
     "starCost": 200
   },
@@ -1844,6 +1975,7 @@
     ],
     "attack": 1200,
     "defense": 900,
+    "purchasable": true,
     "password": "00032864",
     "starCost": 60
   },
@@ -1858,6 +1990,7 @@
     ],
     "attack": 1100,
     "defense": 800,
+    "purchasable": true,
     "password": "37421579",
     "starCost": 50
   },
@@ -1872,6 +2005,7 @@
     ],
     "attack": 700,
     "defense": 700,
+    "purchasable": true,
     "password": "63515678",
     "starCost": 30
   },
@@ -1886,6 +2020,7 @@
     ],
     "attack": 600,
     "defense": 600,
+    "purchasable": true,
     "password": "52800428",
     "starCost": 25
   },
@@ -1900,6 +2035,7 @@
     ],
     "attack": 1400,
     "defense": 1300,
+    "purchasable": true,
     "password": "36304921",
     "starCost": 140
   },
@@ -1914,6 +2050,7 @@
     ],
     "attack": 500,
     "defense": 500,
+    "purchasable": true,
     "password": "62793020",
     "starCost": 20
   },
@@ -1928,6 +2065,7 @@
     ],
     "attack": 1100,
     "defense": 900,
+    "purchasable": true,
     "password": "09197735",
     "starCost": 55
   },
@@ -1942,6 +2080,7 @@
     ],
     "attack": 900,
     "defense": 700,
+    "purchasable": true,
     "password": "35282433",
     "starCost": 25
   },
@@ -1956,6 +2095,7 @@
     ],
     "attack": 1000,
     "defense": 1000,
+    "purchasable": true,
     "password": "62671448",
     "starCost": 55
   },
@@ -1970,6 +2110,7 @@
     ],
     "attack": 700,
     "defense": 1300,
+    "purchasable": true,
     "password": "98075147",
     "starCost": 55
   },
@@ -1984,6 +2125,7 @@
     ],
     "attack": 900,
     "defense": 1000,
+    "purchasable": true,
     "password": "34460851",
     "starCost": 50
   },
@@ -1998,6 +2140,7 @@
     ],
     "attack": 800,
     "defense": 900,
+    "purchasable": true,
     "password": "61454890",
     "starCost": 40
   },
@@ -2012,6 +2155,7 @@
     ],
     "attack": 700,
     "defense": 900,
+    "purchasable": true,
     "password": "97843505",
     "starCost": 35
   },
@@ -2026,6 +2170,7 @@
     ],
     "attack": 700,
     "defense": 700,
+    "purchasable": true,
     "password": "24348204",
     "starCost": 30
   },
@@ -2040,6 +2185,7 @@
     ],
     "attack": 900,
     "defense": 1300,
+    "purchasable": true,
     "password": "00732302",
     "starCost": 70
   },
@@ -2054,6 +2200,7 @@
     ],
     "attack": 600,
     "defense": 900,
+    "purchasable": true,
     "password": "36121917",
     "starCost": 999999
   },
@@ -2068,6 +2215,7 @@
     ],
     "attack": 800,
     "defense": 700,
+    "purchasable": true,
     "password": "63125616",
     "starCost": 30
   },
@@ -2082,6 +2230,7 @@
     ],
     "attack": 1400,
     "defense": 1200,
+    "purchasable": true,
     "password": "99510761",
     "starCost": 120
   },
@@ -2096,6 +2245,7 @@
     ],
     "attack": 1700,
     "defense": 1400,
+    "purchasable": true,
     "password": "36904469",
     "starCost": 230
   },
@@ -2110,6 +2260,7 @@
     ],
     "attack": 1200,
     "defense": 1300,
+    "purchasable": true,
     "password": "62403074",
     "starCost": 100
   },
@@ -2124,6 +2275,7 @@
     ],
     "attack": 500,
     "defense": 700,
+    "purchasable": true,
     "password": "98898173",
     "starCost": 25
   },
@@ -2138,6 +2290,7 @@
     ],
     "attack": 900,
     "defense": 1200,
+    "purchasable": true,
     "password": "25882881",
     "starCost": 60
   },
@@ -2152,6 +2305,7 @@
     ],
     "attack": 700,
     "defense": 500,
+    "purchasable": true,
     "password": "53581214",
     "starCost": 25
   },
@@ -2166,6 +2320,7 @@
     ],
     "attack": 800,
     "defense": 1000,
+    "purchasable": true,
     "password": "94675535",
     "starCost": 45
   },
@@ -2180,6 +2335,7 @@
     ],
     "attack": 300,
     "defense": 1200,
+    "purchasable": true,
     "password": "20060230",
     "starCost": 30
   },
@@ -2194,6 +2350,7 @@
     ],
     "attack": 700,
     "defense": 600,
+    "purchasable": true,
     "password": "53293545",
     "starCost": 30
   },
@@ -2208,6 +2365,7 @@
     ],
     "attack": 800,
     "defense": 600,
+    "purchasable": true,
     "password": "93553943",
     "starCost": 30
   },
@@ -2222,6 +2380,7 @@
     ],
     "attack": 500,
     "defense": 800,
+    "purchasable": true,
     "password": "29948642",
     "starCost": 30
   },
@@ -2236,6 +2395,7 @@
     ],
     "attack": 1000,
     "defense": 500,
+    "purchasable": true,
     "password": "56342351",
     "starCost": 30
   },
@@ -2250,6 +2410,7 @@
     ],
     "attack": 500,
     "defense": 1000,
+    "purchasable": true,
     "password": "92731455",
     "starCost": 30
   },
@@ -2264,6 +2425,7 @@
     ],
     "attack": 1250,
     "defense": 800,
+    "purchasable": true,
     "password": "28725004",
     "starCost": 55
   },
@@ -2278,6 +2440,7 @@
     ],
     "attack": 1300,
     "defense": 1300,
+    "purchasable": true,
     "password": "55210709",
     "starCost": 120
   },
@@ -2292,6 +2455,7 @@
     ],
     "attack": 1300,
     "defense": 1000,
+    "purchasable": true,
     "password": "81618817",
     "starCost": 80
   },
@@ -2306,6 +2470,7 @@
     ],
     "attack": 1400,
     "defense": 700,
+    "purchasable": true,
     "password": "28003512",
     "starCost": 60
   },
@@ -2320,6 +2485,7 @@
     ],
     "attack": 1000,
     "defense": 1500,
+    "purchasable": true,
     "password": "54098121",
     "starCost": 100
   },
@@ -2334,6 +2500,7 @@
     ],
     "attack": 400,
     "defense": 200,
+    "purchasable": true,
     "password": "81492226",
     "starCost": 15
   },
@@ -2348,6 +2515,7 @@
     ],
     "attack": 1500,
     "defense": 1250,
+    "purchasable": true,
     "password": "17881964",
     "starCost": 140
   },
@@ -2362,6 +2530,7 @@
     ],
     "attack": 1200,
     "defense": 800,
+    "purchasable": true,
     "password": "53375573",
     "starCost": 55
   },
@@ -2376,6 +2545,7 @@
     ],
     "attack": 800,
     "defense": 2000,
+    "purchasable": true,
     "password": "80770678",
     "starCost": 160
   },
@@ -2390,6 +2560,7 @@
     ],
     "attack": 1200,
     "defense": 1000,
+    "purchasable": true,
     "password": "16768387",
     "starCost": 70
   },
@@ -2404,6 +2575,7 @@
     ],
     "attack": 700,
     "defense": 1300,
+    "purchasable": true,
     "password": "53153481",
     "starCost": 55
   },
@@ -2418,6 +2590,7 @@
     ],
     "attack": 600,
     "defense": 1000,
+    "purchasable": true,
     "password": "89558090",
     "starCost": 35
   },
@@ -2432,6 +2605,7 @@
     ],
     "attack": 900,
     "defense": 200,
+    "purchasable": true,
     "password": "15042735",
     "starCost": 25
   },
@@ -2446,6 +2620,7 @@
     ],
     "attack": 1000,
     "defense": 700,
+    "purchasable": true,
     "password": "42431843",
     "starCost": 40
   },
@@ -2460,6 +2635,7 @@
     ],
     "attack": 800,
     "defense": 600,
+    "purchasable": true,
     "password": "88435542",
     "starCost": 30
   },
@@ -2474,6 +2650,7 @@
     ],
     "attack": 800,
     "defense": 1000,
+    "purchasable": true,
     "password": "15820147",
     "starCost": 45
   },
@@ -2488,6 +2665,7 @@
     ],
     "attack": 1000,
     "defense": 800,
+    "purchasable": true,
     "password": "41218256",
     "starCost": 45
   },
@@ -2502,6 +2680,7 @@
     ],
     "attack": 700,
     "defense": 600,
+    "purchasable": true,
     "password": "77603950",
     "starCost": 30
   },
@@ -2516,6 +2695,7 @@
     ],
     "attack": 800,
     "defense": 1000,
+    "purchasable": true,
     "password": "14708569",
     "starCost": 45
   },
@@ -2530,6 +2710,7 @@
     ],
     "attack": 1000,
     "defense": 1000,
+    "purchasable": true,
     "password": "40196604",
     "starCost": 55
   },
@@ -2544,6 +2725,7 @@
     ],
     "attack": 500,
     "defense": 700,
+    "purchasable": true,
     "password": "77581312",
     "starCost": 25
   },
@@ -2558,6 +2740,7 @@
     ],
     "attack": 600,
     "defense": 800,
+    "purchasable": true,
     "password": "03985011",
     "starCost": 30
   },
@@ -2572,6 +2755,7 @@
     ],
     "attack": 600,
     "defense": 900,
+    "purchasable": true,
     "password": "49370026",
     "starCost": 30
   },
@@ -2586,6 +2770,7 @@
     ],
     "attack": 600,
     "defense": 500,
+    "purchasable": true,
     "password": "64511793",
     "starCost": 25
   },
@@ -2600,6 +2785,7 @@
     ],
     "attack": 1100,
     "defense": 1400,
+    "purchasable": true,
     "password": "02863439",
     "starCost": 100
   },
@@ -2614,6 +2800,7 @@
     ],
     "attack": 700,
     "defense": 800,
+    "purchasable": true,
     "password": "49258578",
     "starCost": 30
   },
@@ -2628,6 +2815,7 @@
     ],
     "attack": 800,
     "defense": 900,
+    "purchasable": true,
     "password": "75646173",
     "starCost": 40
   },
@@ -2642,6 +2830,7 @@
     ],
     "attack": 900,
     "defense": 700,
+    "purchasable": true,
     "password": "01641882",
     "starCost": 35
   },
@@ -2656,6 +2845,7 @@
     ],
     "attack": 1000,
     "defense": 800,
+    "purchasable": true,
     "password": "38035986",
     "starCost": 45
   },
@@ -2670,6 +2860,7 @@
     ],
     "attack": 600,
     "defense": 600,
+    "purchasable": true,
     "password": "09430387",
     "starCost": 25
   },
@@ -2684,6 +2875,7 @@
     ],
     "attack": 400,
     "defense": 300,
+    "purchasable": true,
     "password": "01929294",
     "starCost": 15
   },
@@ -2698,6 +2890,7 @@
     ],
     "attack": 1000,
     "defense": 1500,
+    "purchasable": true,
     "password": "37313348",
     "starCost": 100
   },
@@ -2712,6 +2905,7 @@
     ],
     "attack": 1200,
     "defense": 1300,
+    "purchasable": true,
     "password": "63308047",
     "starCost": 100
   },
@@ -2726,6 +2920,7 @@
     ],
     "attack": 900,
     "defense": 500,
+    "purchasable": true,
     "password": "36151751",
     "starCost": 30
   },
@@ -2740,6 +2935,7 @@
     ],
     "attack": 1000,
     "defense": 1200,
+    "purchasable": true,
     "password": "00756652",
     "starCost": 70
   },
@@ -2754,8 +2950,24 @@
     ],
     "attack": 500,
     "defense": 400,
+    "purchasable": true,
     "password": "63545455",
     "starCost": 20
+  },
+  {
+    "number": 198,
+    "name": "Happy Lover",
+    "level": 2,
+    "type": "Fairy",
+    "guardianStars": [
+      "sun",
+      "urn"
+    ],
+    "attack": 800,
+    "defense": 500,
+    "purchasable": true,
+    "password": "99030164",
+    "starCost": 30
   },
   {
     "number": 199,
@@ -2768,6 +2980,7 @@
     ],
     "attack": 900,
     "defense": 800,
+    "purchasable": true,
     "password": "36039163",
     "starCost": 40
   },
@@ -2782,6 +2995,7 @@
     ],
     "attack": 600,
     "defense": 700,
+    "purchasable": true,
     "password": "75356564",
     "starCost": 30
   },
@@ -2796,6 +3010,7 @@
     ],
     "attack": 1200,
     "defense": 1000,
+    "purchasable": true,
     "password": "98818516",
     "starCost": 70
   },
@@ -2810,6 +3025,7 @@
     ],
     "attack": 400,
     "defense": 600,
+    "purchasable": true,
     "password": "75889523",
     "starCost": 20
   },
@@ -2824,6 +3040,7 @@
     ],
     "attack": 600,
     "defense": 800,
+    "purchasable": true,
     "password": "61201220",
     "starCost": 30
   },
@@ -2838,6 +3055,7 @@
     ],
     "attack": 1700,
     "defense": 1400,
+    "purchasable": true,
     "password": "98795934",
     "starCost": 230
   },
@@ -2852,6 +3070,7 @@
     ],
     "attack": 900,
     "defense": 800,
+    "purchasable": true,
     "password": "24194033",
     "starCost": 40
   },
@@ -2866,6 +3085,7 @@
     ],
     "attack": 900,
     "defense": 700,
+    "purchasable": true,
     "password": "60589682",
     "starCost": 35
   },
@@ -2880,6 +3100,7 @@
     ],
     "attack": 600,
     "defense": 500,
+    "purchasable": true,
     "password": "97973387",
     "starCost": 25
   },
@@ -2894,6 +3115,7 @@
     ],
     "attack": 600,
     "defense": 900,
+    "purchasable": true,
     "password": "38142739",
     "starCost": 30
   },
@@ -2908,6 +3130,7 @@
     ],
     "attack": 700,
     "defense": 700,
+    "purchasable": true,
     "password": "39175982",
     "starCost": 30
   },
@@ -2922,6 +3145,7 @@
     ],
     "attack": 600,
     "defense": 500,
+    "purchasable": true,
     "password": "96851799",
     "starCost": 25
   },
@@ -2936,6 +3160,7 @@
     ],
     "attack": 700,
     "defense": 600,
+    "purchasable": true,
     "password": "15510988",
     "starCost": 30
   },
@@ -2950,6 +3175,7 @@
     ],
     "attack": 700,
     "defense": 600,
+    "purchasable": true,
     "password": "53832650",
     "starCost": 30
   },
@@ -2964,6 +3190,7 @@
     ],
     "attack": 1200,
     "defense": 2000,
+    "purchasable": true,
     "password": "85639257",
     "starCost": 250
   },
@@ -2978,6 +3205,7 @@
     ],
     "attack": 800,
     "defense": 400,
+    "purchasable": true,
     "password": "15401633",
     "starCost": 25
   },
@@ -2992,6 +3220,7 @@
     ],
     "attack": 1000,
     "defense": 800,
+    "purchasable": true,
     "password": "58528964",
     "starCost": 45
   },
@@ -3006,6 +3235,7 @@
     ],
     "attack": 1200,
     "defense": 1400,
+    "purchasable": true,
     "password": "84916669",
     "starCost": 120
   },
@@ -3020,6 +3250,7 @@
     ],
     "attack": 3200,
     "defense": 2500,
+    "purchasable": true,
     "password": "11901678",
     "starCost": 999999
   },
@@ -3034,6 +3265,7 @@
     ],
     "attack": 900,
     "defense": 700,
+    "purchasable": true,
     "password": "57305373",
     "starCost": 35
   },
@@ -3048,6 +3280,7 @@
     ],
     "attack": 1050,
     "defense": 1000,
+    "purchasable": true,
     "password": "84794011",
     "starCost": 55
   },
@@ -3062,6 +3295,7 @@
     ],
     "attack": 900,
     "defense": 1400,
+    "purchasable": true,
     "password": "10189126",
     "starCost": 80
   },
@@ -3076,6 +3310,7 @@
     ],
     "attack": 700,
     "defense": 1400,
+    "purchasable": true,
     "password": "56283725",
     "starCost": 60
   },
@@ -3090,6 +3325,7 @@
     ],
     "attack": 800,
     "defense": 600,
+    "purchasable": true,
     "password": "83678433",
     "starCost": 30
   },
@@ -3104,6 +3340,7 @@
     ],
     "attack": 2100,
     "defense": 1800,
+    "purchasable": true,
     "password": "19066538",
     "starCost": 550
   },
@@ -3118,6 +3355,7 @@
     ],
     "attack": 500,
     "defense": 1100,
+    "purchasable": true,
     "password": "46461247",
     "starCost": 35
   },
@@ -3132,6 +3370,7 @@
     ],
     "attack": 1400,
     "defense": 800,
+    "purchasable": true,
     "password": "22855882",
     "starCost": 70
   },
@@ -3146,6 +3385,7 @@
     ],
     "attack": 900,
     "defense": 800,
+    "purchasable": true,
     "password": "54844990",
     "starCost": 40
   },
@@ -3160,6 +3400,7 @@
     ],
     "attack": 600,
     "defense": 700,
+    "purchasable": true,
     "password": "46718686",
     "starCost": 30
   },
@@ -3174,6 +3415,7 @@
     ],
     "attack": 1000,
     "defense": 900,
+    "purchasable": true,
     "password": "17733394",
     "starCost": 50
   },
@@ -3188,6 +3430,7 @@
     ],
     "attack": 700,
     "defense": 600,
+    "purchasable": true,
     "password": "08783685",
     "starCost": 30
   },
@@ -3202,6 +3445,7 @@
     ],
     "attack": 1500,
     "defense": 1200,
+    "purchasable": true,
     "password": "80516007",
     "starCost": 140
   },
@@ -3216,6 +3460,7 @@
     ],
     "attack": 800,
     "defense": 1200,
+    "purchasable": true,
     "password": "17511156",
     "starCost": 55
   },
@@ -3230,6 +3475,7 @@
     ],
     "attack": 600,
     "defense": 800,
+    "purchasable": true,
     "password": "43905751",
     "starCost": 30
   },
@@ -3244,6 +3490,7 @@
     ],
     "attack": 1300,
     "defense": 1100,
+    "purchasable": true,
     "password": "89494469",
     "starCost": 120
   },
@@ -3258,6 +3505,7 @@
     ],
     "attack": 1600,
     "defense": 800,
+    "purchasable": true,
     "password": "16899564",
     "starCost": 120
   },
@@ -3272,6 +3520,7 @@
     ],
     "attack": 900,
     "defense": 1200,
+    "purchasable": true,
     "password": "42883273",
     "starCost": 999999
   },
@@ -3286,6 +3535,7 @@
     ],
     "attack": 1000,
     "defense": 1200,
+    "purchasable": true,
     "password": "89272878",
     "starCost": 70
   },
@@ -3300,6 +3550,7 @@
     ],
     "attack": 500,
     "defense": 500,
+    "purchasable": true,
     "password": "84285623",
     "starCost": 20
   },
@@ -3314,6 +3565,7 @@
     ],
     "attack": 800,
     "defense": 600,
+    "purchasable": true,
     "password": "41061625",
     "starCost": 30
   },
@@ -3328,6 +3580,7 @@
     ],
     "attack": 900,
     "defense": 700,
+    "purchasable": true,
     "password": "78556320",
     "starCost": 35
   },
@@ -3342,6 +3595,7 @@
     ],
     "attack": 700,
     "defense": 800,
+    "purchasable": true,
     "password": "08944575",
     "starCost": 30
   },
@@ -3356,6 +3610,7 @@
     ],
     "attack": 1200,
     "defense": 1200,
+    "purchasable": true,
     "password": "41949033",
     "starCost": 120
   },
@@ -3370,6 +3625,7 @@
     ],
     "attack": 600,
     "defense": 600,
+    "purchasable": true,
     "password": "47695416",
     "starCost": 25
   },
@@ -3384,6 +3640,7 @@
     ],
     "attack": 900,
     "defense": 700,
+    "purchasable": true,
     "password": "03732747",
     "starCost": 35
   },
@@ -3398,6 +3655,7 @@
     ],
     "attack": 900,
     "defense": 1000,
+    "purchasable": true,
     "password": "40826495",
     "starCost": 50
   },
@@ -3412,6 +3670,7 @@
     ],
     "attack": 800,
     "defense": 400,
+    "purchasable": true,
     "password": "76211194",
     "starCost": 25
   },
@@ -3426,6 +3685,7 @@
     ],
     "attack": 1100,
     "defense": 1000,
+    "purchasable": true,
     "password": "03606209",
     "starCost": 60
   },
@@ -3440,6 +3700,7 @@
     ],
     "attack": 900,
     "defense": 800,
+    "purchasable": true,
     "password": "39004808",
     "starCost": 40
   },
@@ -3454,6 +3715,7 @@
     ],
     "attack": 1200,
     "defense": 1000,
+    "purchasable": true,
     "password": "75499502",
     "starCost": 70
   },
@@ -3468,6 +3730,7 @@
     ],
     "attack": 1400,
     "defense": 1200,
+    "purchasable": true,
     "password": "02483611",
     "starCost": 120
   },
@@ -3482,6 +3745,7 @@
     ],
     "attack": 800,
     "defense": 1200,
+    "purchasable": true,
     "password": "38982356",
     "starCost": 55
   },
@@ -3496,6 +3760,7 @@
     ],
     "attack": 1200,
     "defense": 900,
+    "purchasable": true,
     "password": "75376965",
     "starCost": 60
   },
@@ -3510,6 +3775,7 @@
     ],
     "attack": 1100,
     "defense": 900,
+    "purchasable": true,
     "password": "01761063",
     "starCost": 999999
   },
@@ -3524,6 +3790,7 @@
     ],
     "attack": 800,
     "defense": 1000,
+    "purchasable": true,
     "password": "37160778",
     "starCost": 45
   },
@@ -3538,6 +3805,7 @@
     ],
     "attack": 500,
     "defense": 750,
+    "purchasable": true,
     "password": "64154377",
     "starCost": 25
   },
@@ -3552,6 +3820,7 @@
     ],
     "attack": 500,
     "defense": 2000,
+    "purchasable": true,
     "password": "00549481",
     "starCost": 100
   },
@@ -3566,6 +3835,7 @@
     ],
     "attack": 1200,
     "defense": 1000,
+    "purchasable": true,
     "password": "37043180",
     "starCost": 70
   },
@@ -3580,6 +3850,7 @@
     ],
     "attack": 800,
     "defense": 1200,
+    "purchasable": true,
     "password": "63432835",
     "starCost": 55
   },
@@ -3594,6 +3865,7 @@
     ],
     "attack": 1000,
     "defense": 1100,
+    "purchasable": true,
     "password": "99426834",
     "starCost": 60
   },
@@ -3608,6 +3880,7 @@
     ],
     "attack": 1000,
     "defense": 1300,
+    "purchasable": true,
     "password": "36821538",
     "starCost": 80
   },
@@ -3622,6 +3895,7 @@
     ],
     "attack": 750,
     "defense": 1100,
+    "purchasable": true,
     "password": "62210247",
     "starCost": 45
   },
@@ -3636,6 +3910,7 @@
     ],
     "attack": 700,
     "defense": 600,
+    "purchasable": true,
     "password": "15150371",
     "starCost": 30
   },
@@ -3650,6 +3925,7 @@
     ],
     "attack": 800,
     "defense": 1300,
+    "purchasable": true,
     "password": "25109950",
     "starCost": 60
   },
@@ -3664,6 +3940,7 @@
     ],
     "attack": 700,
     "defense": 1400,
+    "purchasable": true,
     "password": "62193699",
     "starCost": 60
   },
@@ -3678,6 +3955,7 @@
     ],
     "attack": 500,
     "defense": 1300,
+    "purchasable": true,
     "password": "98582704",
     "starCost": 45
   },
@@ -3692,6 +3970,7 @@
     ],
     "attack": 800,
     "defense": 700,
+    "purchasable": true,
     "password": "18710707",
     "starCost": 30
   },
@@ -3706,6 +3985,7 @@
     ],
     "attack": 900,
     "defense": 700,
+    "purchasable": true,
     "password": "51371017",
     "starCost": 35
   },
@@ -3720,6 +4000,7 @@
     ],
     "attack": 1000,
     "defense": 500,
+    "purchasable": true,
     "password": "97360116",
     "starCost": 30
   },
@@ -3734,6 +4015,7 @@
     ],
     "attack": 700,
     "defense": 500,
+    "purchasable": true,
     "password": "15507080",
     "starCost": 25
   },
@@ -3748,6 +4030,7 @@
     ],
     "attack": 1100,
     "defense": 900,
+    "purchasable": true,
     "password": "50259460",
     "starCost": 55
   },
@@ -3762,6 +4045,7 @@
     ],
     "attack": 1000,
     "defense": 900,
+    "purchasable": true,
     "password": "96643568",
     "starCost": 50
   },
@@ -3776,6 +4060,7 @@
     ],
     "attack": 900,
     "defense": 600,
+    "purchasable": true,
     "password": "23032273",
     "starCost": 30
   },
@@ -3790,6 +4075,7 @@
     ],
     "attack": 1300,
     "defense": 900,
+    "purchasable": true,
     "password": "59036972",
     "starCost": 70
   },
@@ -3804,6 +4090,7 @@
     ],
     "attack": 1300,
     "defense": 900,
+    "purchasable": true,
     "password": "86421986",
     "starCost": 60
   },
@@ -3818,6 +4105,7 @@
     ],
     "attack": 500,
     "defense": 1600,
+    "purchasable": true,
     "password": "22910685",
     "starCost": 60
   },
@@ -3832,6 +4120,7 @@
     ],
     "attack": 1500,
     "defense": 1000,
+    "purchasable": true,
     "password": "58314394",
     "starCost": 100
   },
@@ -3846,6 +4135,7 @@
     ],
     "attack": 1000,
     "defense": 1000,
+    "purchasable": true,
     "password": "85309439",
     "starCost": 55
   },
@@ -3860,6 +4150,7 @@
     ],
     "attack": 300,
     "defense": 1300,
+    "purchasable": true,
     "password": "11793047",
     "starCost": 35
   },
@@ -3874,6 +4165,7 @@
     ],
     "attack": 300,
     "defense": 200,
+    "purchasable": true,
     "password": "58192742",
     "starCost": 10
   },
@@ -3888,6 +4180,7 @@
     ],
     "attack": 1000,
     "defense": 900,
+    "purchasable": true,
     "password": "84686841",
     "starCost": 50
   },
@@ -3902,6 +4195,7 @@
     ],
     "attack": 800,
     "defense": 1500,
+    "purchasable": true,
     "password": "10071456",
     "starCost": 80
   },
@@ -3916,6 +4210,7 @@
     ],
     "attack": 1500,
     "defense": 1000,
+    "purchasable": true,
     "password": "47060154",
     "starCost": 100
   },
@@ -3930,6 +4225,7 @@
     ],
     "attack": 800,
     "defense": 1000,
+    "purchasable": true,
     "password": "83464209",
     "starCost": 45
   },
@@ -3944,6 +4240,7 @@
     ],
     "attack": 1100,
     "defense": 700,
+    "purchasable": true,
     "password": "10859908",
     "starCost": 45
   },
@@ -3958,6 +4255,7 @@
     ],
     "attack": 1200,
     "defense": 900,
+    "purchasable": true,
     "password": "46247516",
     "starCost": 999999
   },
@@ -3972,6 +4270,7 @@
     ],
     "attack": 700,
     "defense": 600,
+    "purchasable": true,
     "password": "82742611",
     "starCost": 30
   },
@@ -3986,6 +4285,7 @@
     ],
     "attack": 1500,
     "defense": 1800,
+    "purchasable": true,
     "password": "19737320",
     "starCost": 290
   },
@@ -4000,6 +4300,7 @@
     ],
     "attack": 1200,
     "defense": 1400,
+    "purchasable": true,
     "password": "45121025",
     "starCost": 120
   },
@@ -4014,6 +4315,7 @@
     ],
     "attack": 600,
     "defense": 1400,
+    "purchasable": true,
     "password": "72520073",
     "starCost": 999999
   },
@@ -4028,6 +4330,7 @@
     ],
     "attack": 400,
     "defense": 300,
+    "purchasable": true,
     "password": "18914778",
     "starCost": 15
   },
@@ -4042,6 +4345,7 @@
     ],
     "attack": 1100,
     "defense": 1000,
+    "purchasable": true,
     "password": "45909477",
     "starCost": 60
   },
@@ -4056,6 +4360,7 @@
     ],
     "attack": 1300,
     "defense": 1000,
+    "purchasable": true,
     "password": "71407486",
     "starCost": 80
   },
@@ -4070,6 +4375,7 @@
     ],
     "attack": 400,
     "defense": 1000,
+    "purchasable": true,
     "password": "07892180",
     "starCost": 30
   },
@@ -4084,6 +4390,7 @@
     ],
     "attack": 1100,
     "defense": 1100,
+    "purchasable": true,
     "password": "44287299",
     "starCost": 70
   },
@@ -4098,6 +4405,7 @@
     ],
     "attack": 1200,
     "defense": 900,
+    "purchasable": true,
     "password": "70681994",
     "starCost": 60
   },
@@ -4112,6 +4420,7 @@
     ],
     "attack": 600,
     "defense": 1300,
+    "purchasable": true,
     "password": "07670542",
     "starCost": 50
   },
@@ -4126,6 +4435,7 @@
     ],
     "attack": 700,
     "defense": 1300,
+    "purchasable": true,
     "password": "33064647",
     "starCost": 55
   },
@@ -4140,6 +4450,7 @@
     ],
     "attack": 1400,
     "defense": 1200,
+    "purchasable": true,
     "password": "75559356",
     "starCost": 120
   },
@@ -4154,6 +4465,7 @@
     ],
     "attack": 900,
     "defense": 900,
+    "purchasable": true,
     "password": "02957055",
     "starCost": 45
   },
@@ -4168,6 +4480,7 @@
     ],
     "attack": 1200,
     "defense": 900,
+    "purchasable": true,
     "password": "38942059",
     "starCost": 999999
   },
@@ -4182,12 +4495,14 @@
     ],
     "attack": 800,
     "defense": 800,
+    "purchasable": true,
     "password": "85705804",
     "starCost": 35
   },
   {
     "number": 301,
     "name": "Legendary Sword",
+    "purchasable": true,
     "password": "61854111",
     "starCost": 800,
     "type": "Equip Magic"
@@ -4196,6 +4511,7 @@
     "number": 302,
     "name": "Sword of Dark Destruction",
     "type": "Equip Magic",
+    "purchasable": true,
     "password": "37120512",
     "starCost": 800
   },
@@ -4203,6 +4519,7 @@
     "number": 303,
     "name": "Dark Energy",
     "type": "Equip Magic",
+    "purchasable": true,
     "password": "04614116",
     "starCost": 800
   },
@@ -4212,6 +4529,7 @@
     "type": "Equip Magic",
     "attack": null,
     "defense": null,
+    "purchasable": true,
     "password": "40619825",
     "starCost": 800
   },
@@ -4219,6 +4537,7 @@
     "number": 305,
     "name": "Laser Cannon Armor",
     "type": "Equip Magic",
+    "purchasable": true,
     "password": "77007920",
     "starCost": 800
   },
@@ -4226,6 +4545,7 @@
     "number": 306,
     "name": "Insect Armor with a Laser Cannon",
     "type": "Equip Magic",
+    "purchasable": true,
     "password": "03492538",
     "starCost": 800
   },
@@ -4233,6 +4553,7 @@
     "number": 307,
     "name": "Elf's Light",
     "type": "Equip Magic",
+    "purchasable": true,
     "password": "39897277",
     "starCost": 800
   },
@@ -4240,6 +4561,7 @@
     "number": 308,
     "name": "Beast Fangs",
     "type": "Equip Magic",
+    "purchasable": true,
     "password": "46009906",
     "starCost": 800
   },
@@ -4247,6 +4569,7 @@
     "number": 309,
     "name": "Steel Shell",
     "type": "Equip Magic",
+    "purchasable": true,
     "password": "02370081",
     "starCost": 800
   },
@@ -4254,6 +4577,7 @@
     "number": 310,
     "name": "Vile Grems",
     "type": "Equip Magic",
+    "purchasable": true,
     "password": "39774685",
     "starCost": 800
   },
@@ -4261,6 +4585,7 @@
     "number": 311,
     "name": "Black Pendant",
     "type": "Equip Magic",
+    "purchasable": true,
     "password": "65169794",
     "starCost": 800
   },
@@ -4268,6 +4593,7 @@
     "number": 312,
     "name": "Silver Bow and Arrow",
     "type": "Equip Magic",
+    "purchasable": true,
     "password": "01557499",
     "starCost": 800
   },
@@ -4275,6 +4601,7 @@
     "number": 313,
     "name": "Horn of Light",
     "type": "Equip Magic",
+    "purchasable": true,
     "password": "38552107",
     "starCost": 800
   },
@@ -4284,6 +4611,7 @@
     "type": "Equip Magic",
     "attack": null,
     "defense": null,
+    "purchasable": true,
     "password": "38552107",
     "starCost": 800
   },
@@ -4291,6 +4619,7 @@
     "number": 315,
     "name": "Dragon Treasure",
     "type": "Equip Magic",
+    "purchasable": true,
     "password": "01435851",
     "starCost": 800
   },
@@ -4298,6 +4627,7 @@
     "number": 316,
     "name": "Electro-Whip",
     "type": "Equip Magic",
+    "purchasable": true,
     "password": "37820550",
     "starCost": 800
   },
@@ -4305,6 +4635,7 @@
     "number": 317,
     "name": "Cyber Shield",
     "type": "Equip Magic",
+    "purchasable": true,
     "password": "63224564",
     "starCost": 800
   },
@@ -4312,6 +4643,7 @@
     "number": 318,
     "name": "Elegant Egotist",
     "type": "Equip Magic",
+    "purchasable": true,
     "password": "90219263",
     "starCost": 999999
   },
@@ -4319,6 +4651,7 @@
     "number": 319,
     "name": "Mystical Moon",
     "type": "Equip Magic",
+    "purchasable": true,
     "password": "36607978",
     "starCost": 800
   },
@@ -4326,6 +4659,7 @@
     "number": 320,
     "name": "Stop Defense",
     "type": "Magic",
+    "purchasable": true,
     "password": "63102017",
     "starCost": 800
   },
@@ -4333,6 +4667,7 @@
     "number": 321,
     "name": "Malevolent Nuzzeler",
     "type": "Equip Magic",
+    "purchasable": true,
     "password": "99597615",
     "starCost": 800
   },
@@ -4340,6 +4675,7 @@
     "number": 322,
     "name": "Violet Crystal",
     "type": "Equip Magic",
+    "purchasable": true,
     "password": "15052462",
     "starCost": 800
   },
@@ -4347,6 +4683,7 @@
     "number": 323,
     "name": "Book of Secret Arts",
     "type": "Equip Magic",
+    "purchasable": true,
     "password": "91595718",
     "starCost": 800
   },
@@ -4354,6 +4691,7 @@
     "number": 324,
     "name": "Invigoration",
     "type": "Equip Magic",
+    "purchasable": true,
     "password": "98374133",
     "starCost": 800
   },
@@ -4361,6 +4699,7 @@
     "number": 325,
     "name": "Machine Conversion Factory",
     "type": "Equip Magic",
+    "purchasable": true,
     "password": "25769732",
     "starCost": 999999
   },
@@ -4368,6 +4707,7 @@
     "number": 326,
     "name": "Raise Body Heat",
     "type": "Equip Magic",
+    "purchasable": true,
     "password": "51267887",
     "starCost": 800
   },
@@ -4375,6 +4715,7 @@
     "number": 327,
     "name": "Follow Wind",
     "type": "Equip Magic",
+    "purchasable": true,
     "password": "98252586",
     "starCost": 800
   },
@@ -4382,6 +4723,7 @@
     "number": 328,
     "name": "Power of Kaishen",
     "type": "Equip Magic",
+    "purchasable": true,
     "password": "77027445",
     "starCost": 800
   },
@@ -4389,6 +4731,7 @@
     "number": 329,
     "name": "Dragon Capture Jar",
     "type": "Magic",
+    "purchasable": true,
     "password": "50045299",
     "starCost": 999999
   },
@@ -4396,6 +4739,7 @@
     "number": 330,
     "name": "Forest",
     "type": "Terrain Magic",
+    "purchasable": true,
     "password": "87430998",
     "starCost": 55
   },
@@ -4403,6 +4747,7 @@
     "number": 331,
     "name": "Wasteland",
     "type": "Terrain Magic",
+    "purchasable": true,
     "password": "23424603",
     "starCost": 55
   },
@@ -4410,6 +4755,7 @@
     "number": 332,
     "name": "Mountain",
     "type": "Terrain Magic",
+    "purchasable": true,
     "password": "50913601",
     "starCost": 55
   },
@@ -4417,6 +4763,7 @@
     "number": 333,
     "name": "Sogen",
     "type": "Terrain Magic",
+    "purchasable": true,
     "password": "86318356",
     "starCost": 55
   },
@@ -4424,6 +4771,7 @@
     "number": 334,
     "name": "Umi",
     "type": "Terrain Magic",
+    "purchasable": true,
     "password": "22702055",
     "starCost": 55
   },
@@ -4431,6 +4779,7 @@
     "number": 335,
     "name": "Yami",
     "type": "Terrain Magic",
+    "purchasable": true,
     "password": "59197169",
     "starCost": 55
   },
@@ -4438,6 +4787,7 @@
     "number": 336,
     "name": "Dark Hole",
     "type": "Magic",
+    "purchasable": true,
     "password": "53129443",
     "starCost": 20000
   },
@@ -4445,6 +4795,7 @@
     "number": 337,
     "name": "Raigeki",
     "type": "Magic",
+    "purchasable": true,
     "password": "12580477",
     "starCost": 999999
   },
@@ -4452,6 +4803,7 @@
     "number": 338,
     "name": "Mooyan Curry",
     "type": "Magic",
+    "purchasable": true,
     "password": "58074572",
     "starCost": 999999
   },
@@ -4459,6 +4811,7 @@
     "number": 339,
     "name": "Red Medicine",
     "type": "Magic",
+    "purchasable": true,
     "password": "38199696",
     "starCost": 55
   },
@@ -4466,6 +4819,7 @@
     "number": 340,
     "name": "Goblin's Secret Remedy",
     "type": "Magic",
+    "purchasable": true,
     "password": "11868825",
     "starCost": 20000
   },
@@ -4473,6 +4827,7 @@
     "number": 341,
     "name": "Soul of the Pure",
     "type": "Magic",
+    "purchasable": true,
     "password": "47852924",
     "starCost": 35000
   },
@@ -4480,6 +4835,7 @@
     "number": 342,
     "name": "Dian Keto the Curse Master",
     "type": "Magic",
+    "purchasable": true,
     "password": "84257639",
     "starCost": 999999
   },
@@ -4487,6 +4843,7 @@
     "number": 343,
     "name": "Sparks",
     "type": "Magic",
+    "purchasable": true,
     "password": "76103675",
     "starCost": 10
   },
@@ -4494,6 +4851,7 @@
     "number": 344,
     "name": "Hinotama",
     "type": "Magic",
+    "purchasable": true,
     "password": "46130346",
     "starCost": 55
   },
@@ -4501,6 +4859,7 @@
     "number": 345,
     "name": "Final Flame",
     "type": "Magic",
+    "purchasable": true,
     "password": "73134081",
     "starCost": 20000
   },
@@ -4508,6 +4867,7 @@
     "number": 346,
     "name": "Ookazi",
     "type": "Magic",
+    "purchasable": true,
     "password": "19523799",
     "starCost": 35000
   },
@@ -4517,6 +4877,7 @@
     "type": "Magic",
     "attack": null,
     "defense": null,
+    "purchasable": true,
     "password": "46918794",
     "starCost": 999999
   },
@@ -4524,6 +4885,7 @@
     "number": 348,
     "name": "Swords of Revealing Light",
     "type": "Magic",
+    "purchasable": true,
     "password": "72302403",
     "starCost": 999999
   },
@@ -4531,6 +4893,7 @@
     "number": 349,
     "name": "Spellbinding Circle",
     "type": "Magic",
+    "purchasable": true,
     "password": "18807108",
     "starCost": 999999
   },
@@ -4538,6 +4901,7 @@
     "number": 350,
     "name": "Dark Piercing Light",
     "type": "Magic",
+    "purchasable": true,
     "password": "45895206",
     "starCost": 999999
   },
@@ -4552,6 +4916,7 @@
     ],
     "attack": 1300,
     "defense": 1500,
+    "purchasable": true,
     "password": "71280811",
     "starCost": 160
   },
@@ -4566,6 +4931,7 @@
     ],
     "attack": 1400,
     "defense": 1400,
+    "purchasable": true,
     "password": "12829151",
     "starCost": 160
   },
@@ -4580,6 +4946,7 @@
     ],
     "attack": 1500,
     "defense": 1200,
+    "purchasable": true,
     "password": "44073668",
     "starCost": 140
   },
@@ -4594,6 +4961,7 @@
     ],
     "attack": 1200,
     "defense": 900,
+    "purchasable": true,
     "password": "71068263",
     "starCost": 60
   },
@@ -4608,6 +4976,7 @@
     ],
     "attack": 1500,
     "defense": 1800,
+    "purchasable": true,
     "password": "07562372",
     "starCost": 290
   },
@@ -4622,8 +4991,7 @@
     ],
     "attack": 2300,
     "defense": 2100,
-    "password": "",
-    "starCost": null
+    "purchasable": false
   },
   {
     "number": 357,
@@ -4636,6 +5004,7 @@
     ],
     "attack": 1600,
     "defense": 1800,
+    "purchasable": true,
     "password": "70345785",
     "starCost": 320
   },
@@ -4650,6 +5019,7 @@
     ],
     "attack": 2500,
     "defense": 2300,
+    "purchasable": true,
     "password": "06740720",
     "starCost": 1700
   },
@@ -4664,6 +5034,7 @@
     ],
     "attack": 1100,
     "defense": 800,
+    "purchasable": true,
     "password": "33734439",
     "starCost": 50
   },
@@ -4678,8 +5049,7 @@
     ],
     "attack": 2800,
     "defense": 2300,
-    "password": "",
-    "starCost": null
+    "purchasable": false
   },
   {
     "number": 361,
@@ -4692,6 +5062,7 @@
     ],
     "attack": 1200,
     "defense": 1000,
+    "purchasable": true,
     "password": "05628232",
     "starCost": 70
   },
@@ -4706,6 +5077,7 @@
     ],
     "attack": 0,
     "defense": 3000,
+    "purchasable": true,
     "password": "32012841",
     "starCost": 200
   },
@@ -4720,6 +5092,7 @@
     ],
     "attack": 1400,
     "defense": 1000,
+    "purchasable": true,
     "password": "68401546",
     "starCost": 120
   },
@@ -4734,8 +5107,7 @@
     ],
     "attack": 3000,
     "defense": 2500,
-    "password": "",
-    "starCost": null
+    "purchasable": false
   },
   {
     "number": 365,
@@ -4748,8 +5120,7 @@
     ],
     "attack": 2100,
     "defense": 1800,
-    "password": "",
-    "starCost": null
+    "purchasable": false
   },
   {
     "number": 366,
@@ -4762,6 +5133,7 @@
     ],
     "attack": 0,
     "defense": 3000,
+    "purchasable": true,
     "password": "67284908",
     "starCost": 200
   },
@@ -4776,6 +5148,7 @@
     ],
     "attack": 2200,
     "defense": 100,
+    "purchasable": true,
     "password": "94773007",
     "starCost": 80
   },
@@ -4790,6 +5163,7 @@
     ],
     "attack": 1600,
     "defense": 1300,
+    "purchasable": true,
     "password": "30778711",
     "starCost": 180
   },
@@ -4804,6 +5178,7 @@
     ],
     "attack": 1600,
     "defense": 3000,
+    "purchasable": true,
     "password": "63182310",
     "starCost": 999999
   },
@@ -4818,6 +5193,7 @@
     ],
     "attack": 2400,
     "defense": 2400,
+    "purchasable": true,
     "password": "99551425",
     "starCost": 999999
   },
@@ -4832,6 +5208,7 @@
     ],
     "attack": 2600,
     "defense": 2200,
+    "purchasable": true,
     "password": "25955164",
     "starCost": 999999
   },
@@ -4846,6 +5223,7 @@
     ],
     "attack": 2400,
     "defense": 2200,
+    "purchasable": true,
     "password": "62340868",
     "starCost": 999999
   },
@@ -4860,6 +5238,7 @@
     ],
     "attack": 2500,
     "defense": 2400,
+    "purchasable": true,
     "password": "98434877",
     "starCost": 999999
   },
@@ -4874,8 +5253,7 @@
     ],
     "attack": 3750,
     "defense": 3400,
-    "password": "",
-    "starCost": null
+    "purchasable": false
   },
   {
     "number": 375,
@@ -4888,6 +5266,7 @@
     ],
     "attack": 1800,
     "defense": 1500,
+    "purchasable": true,
     "password": "51228280",
     "starCost": 290
   },
@@ -4902,6 +5281,7 @@
     ],
     "attack": 1800,
     "defense": 1600,
+    "purchasable": true,
     "password": "97612389",
     "starCost": 320
   },
@@ -4916,6 +5296,7 @@
     ],
     "attack": 1600,
     "defense": 1200,
+    "purchasable": true,
     "password": "24611934",
     "starCost": 160
   },
@@ -4930,6 +5311,7 @@
     ],
     "attack": 2000,
     "defense": 1600,
+    "purchasable": true,
     "password": "50005633",
     "starCost": 400
   },
@@ -4944,6 +5326,7 @@
     ],
     "attack": 1800,
     "defense": 1000,
+    "purchasable": true,
     "password": "97590747",
     "starCost": 160
   },
@@ -4958,8 +5341,7 @@
     ],
     "attack": 4500,
     "defense": 3800,
-    "password": "",
-    "starCost": null
+    "purchasable": false
   },
   {
     "number": 381,
@@ -4972,6 +5354,7 @@
     ],
     "attack": 800,
     "defense": 1600,
+    "purchasable": true,
     "password": "59383041",
     "starCost": 120
   },
@@ -4986,6 +5369,7 @@
     ],
     "attack": 1800,
     "defense": 1600,
+    "purchasable": true,
     "password": "26378150",
     "starCost": 320
   },
@@ -5000,6 +5384,7 @@
     ],
     "attack": 2000,
     "defense": 1300,
+    "purchasable": true,
     "password": "62762898",
     "starCost": 290
   },
@@ -5014,6 +5399,7 @@
     ],
     "attack": 1100,
     "defense": 1500,
+    "purchasable": true,
     "password": "99261403",
     "starCost": 120
   },
@@ -5028,6 +5414,7 @@
     ],
     "attack": 2300,
     "defense": 2000,
+    "purchasable": true,
     "password": "25655502",
     "starCost": 900
   },
@@ -5042,6 +5429,7 @@
     ],
     "attack": 2000,
     "defense": 2500,
+    "purchasable": true,
     "password": "52040216",
     "starCost": 999999
   },
@@ -5056,6 +5444,7 @@
     ],
     "attack": 400,
     "defense": 300,
+    "purchasable": true,
     "password": "98049915",
     "starCost": 15
   },
@@ -5070,6 +5459,7 @@
     ],
     "attack": 1750,
     "defense": 2000,
+    "purchasable": true,
     "password": "24433920",
     "starCost": 1000
   },
@@ -5084,6 +5474,7 @@
     ],
     "attack": 1850,
     "defense": 1500,
+    "purchasable": true,
     "password": "51828629",
     "starCost": 290
   },
@@ -5098,6 +5489,7 @@
     ],
     "attack": 2200,
     "defense": 2500,
+    "purchasable": true,
     "password": "87322377",
     "starCost": 999999
   },
@@ -5112,6 +5504,7 @@
     ],
     "attack": 2600,
     "defense": 1900,
+    "purchasable": true,
     "password": "24311372",
     "starCost": 999999
   },
@@ -5126,6 +5519,7 @@
     ],
     "attack": 3000,
     "defense": 2300,
+    "purchasable": true,
     "password": "50705071",
     "starCost": 999999
   },
@@ -5140,6 +5534,7 @@
     ],
     "attack": 250,
     "defense": 200,
+    "purchasable": true,
     "password": "86100785",
     "starCost": 10
   },
@@ -5154,6 +5549,7 @@
     ],
     "attack": 250,
     "defense": 300,
+    "purchasable": true,
     "password": "13599884",
     "starCost": 10
   },
@@ -5168,6 +5564,7 @@
     ],
     "attack": 300,
     "defense": 200,
+    "purchasable": true,
     "password": "59983499",
     "starCost": 10
   },
@@ -5182,6 +5579,7 @@
     ],
     "attack": 1550,
     "defense": 1650,
+    "purchasable": true,
     "password": "86088138",
     "starCost": 260
   },
@@ -5196,6 +5594,7 @@
     ],
     "attack": 300,
     "defense": 350,
+    "purchasable": true,
     "password": "12472242",
     "starCost": 15
   },
@@ -5210,6 +5609,7 @@
     ],
     "attack": 300,
     "defense": 250,
+    "purchasable": true,
     "password": "58861941",
     "starCost": 10
   },
@@ -5224,6 +5624,7 @@
     ],
     "attack": 250,
     "defense": 250,
+    "purchasable": true,
     "password": "85255550",
     "starCost": 10
   },
@@ -5238,6 +5639,7 @@
     ],
     "attack": 1800,
     "defense": 1500,
+    "purchasable": true,
     "password": "11250655",
     "starCost": 290
   },
@@ -5252,6 +5654,7 @@
     ],
     "attack": 2150,
     "defense": 1950,
+    "purchasable": true,
     "password": "48649353",
     "starCost": 700
   },
@@ -5266,6 +5669,7 @@
     ],
     "attack": 250,
     "defense": 300,
+    "purchasable": true,
     "password": "84133008",
     "starCost": 15
   },
@@ -5280,6 +5684,7 @@
     ],
     "attack": 1750,
     "defense": 1550,
+    "purchasable": true,
     "password": "10536007",
     "starCost": 290
   },
@@ -5294,6 +5699,7 @@
     ],
     "attack": 1350,
     "defense": 1600,
+    "purchasable": true,
     "password": "47922711",
     "starCost": 180
   },
@@ -5308,6 +5714,7 @@
     ],
     "attack": 1450,
     "defense": 1500,
+    "purchasable": true,
     "password": "73911410",
     "starCost": 180
   },
@@ -5322,6 +5729,7 @@
     ],
     "attack": 1000,
     "defense": 1300,
+    "purchasable": true,
     "password": "10315429",
     "starCost": 80
   },
@@ -5336,6 +5744,7 @@
     ],
     "attack": 2200,
     "defense": 2000,
+    "purchasable": true,
     "password": "46700124",
     "starCost": 800
   },
@@ -5350,6 +5759,7 @@
     ],
     "attack": 1750,
     "defense": 1900,
+    "purchasable": true,
     "password": "72299832",
     "starCost": 400
   },
@@ -5364,6 +5774,7 @@
     ],
     "attack": 1850,
     "defense": 1700,
+    "purchasable": true,
     "password": "09293977",
     "starCost": 350
   },
@@ -5378,6 +5789,7 @@
     ],
     "attack": 400,
     "defense": 500,
+    "purchasable": true,
     "password": "45688586",
     "starCost": 20
   },
@@ -5392,6 +5804,7 @@
     ],
     "attack": 300,
     "defense": 350,
+    "purchasable": true,
     "password": "72076281",
     "starCost": 15
   },
@@ -5406,6 +5819,7 @@
     ],
     "attack": 1200,
     "defense": 1400,
+    "purchasable": true,
     "password": "08471389",
     "starCost": 120
   },
@@ -5420,6 +5834,7 @@
     ],
     "attack": 1500,
     "defense": 1700,
+    "purchasable": true,
     "password": "44865098",
     "starCost": 260
   },
@@ -5434,6 +5849,7 @@
     ],
     "attack": 900,
     "defense": 1200,
+    "purchasable": true,
     "password": "71950093",
     "starCost": 60
   },
@@ -5448,6 +5864,7 @@
     ],
     "attack": 1850,
     "defense": 800,
+    "purchasable": true,
     "password": "07359741",
     "starCost": 120
   },
@@ -5462,6 +5879,7 @@
     ],
     "attack": 850,
     "defense": 1800,
+    "purchasable": true,
     "password": "34743446",
     "starCost": 120
   },
@@ -5476,6 +5894,7 @@
     ],
     "attack": 800,
     "defense": 900,
+    "purchasable": true,
     "password": "70138455",
     "starCost": 40
   },
@@ -5490,6 +5909,7 @@
     ],
     "attack": 900,
     "defense": 1600,
+    "purchasable": true,
     "password": "07526150",
     "starCost": 100
   },
@@ -5504,6 +5924,7 @@
     ],
     "attack": 1700,
     "defense": 1800,
+    "purchasable": true,
     "password": "33621868",
     "starCost": 350
   },
@@ -5518,6 +5939,7 @@
     ],
     "attack": 700,
     "defense": 500,
+    "purchasable": true,
     "password": "69015963",
     "starCost": 25
   },
@@ -5532,6 +5954,7 @@
     ],
     "attack": 750,
     "defense": 700,
+    "purchasable": true,
     "password": "06400512",
     "starCost": 30
   },
@@ -5546,6 +5969,7 @@
     ],
     "attack": 500,
     "defense": 400,
+    "purchasable": true,
     "password": "32809211",
     "starCost": 20
   },
@@ -5560,6 +5984,7 @@
     ],
     "attack": 1650,
     "defense": 1800,
+    "purchasable": true,
     "password": "69893315",
     "starCost": 320
   },
@@ -5574,6 +5999,7 @@
     ],
     "attack": 1900,
     "defense": 1800,
+    "purchasable": true,
     "password": "95288024",
     "starCost": 1000
   },
@@ -5588,6 +6014,7 @@
     ],
     "attack": 1600,
     "defense": 1500,
+    "purchasable": true,
     "password": "31786629",
     "starCost": 230
   },
@@ -5602,6 +6029,7 @@
     ],
     "attack": 2000,
     "defense": 2300,
+    "purchasable": true,
     "password": "68171737",
     "starCost": 900
   },
@@ -5616,6 +6044,7 @@
     ],
     "attack": 2300,
     "defense": 2000,
+    "purchasable": true,
     "password": "94566432",
     "starCost": 900
   },
@@ -5630,6 +6059,7 @@
     ],
     "attack": 300,
     "defense": 400,
+    "purchasable": true,
     "password": "31560081",
     "starCost": 999999
   },
@@ -5644,6 +6074,7 @@
     ],
     "attack": 950,
     "defense": 700,
+    "purchasable": true,
     "password": "67959180",
     "starCost": 999999
   },
@@ -5658,6 +6089,7 @@
     ],
     "attack": 1400,
     "defense": 1000,
+    "purchasable": true,
     "password": "93343894",
     "starCost": 120
   },
@@ -5672,6 +6104,7 @@
     ],
     "attack": 1150,
     "defense": 900,
+    "purchasable": true,
     "password": "20848593",
     "starCost": 55
   },
@@ -5686,6 +6119,7 @@
     ],
     "attack": 1100,
     "defense": 700,
+    "purchasable": true,
     "password": "66836598",
     "starCost": 45
   },
@@ -5700,6 +6134,7 @@
     ],
     "attack": 1450,
     "defense": 1200,
+    "purchasable": true,
     "password": "93221206",
     "starCost": 120
   },
@@ -5714,6 +6149,7 @@
     ],
     "attack": 1750,
     "defense": 1500,
+    "purchasable": true,
     "password": "29616941",
     "starCost": 260
   },
@@ -5728,6 +6164,7 @@
     ],
     "attack": 1250,
     "defense": 1000,
+    "purchasable": true,
     "password": "55014050",
     "starCost": 70
   },
@@ -5742,6 +6179,7 @@
     ],
     "attack": 500,
     "defense": 400,
+    "purchasable": true,
     "password": "92409659",
     "starCost": 50
   },
@@ -5756,6 +6194,7 @@
     ],
     "attack": 1900,
     "defense": 1600,
+    "purchasable": true,
     "password": "28593363",
     "starCost": 350
   },
@@ -5770,6 +6209,7 @@
     ],
     "attack": 1600,
     "defense": 1900,
+    "purchasable": true,
     "password": "55998462",
     "starCost": 350
   },
@@ -5784,6 +6224,7 @@
     ],
     "attack": 1650,
     "defense": 1700,
+    "purchasable": true,
     "password": "81386177",
     "starCost": 290
   },
@@ -5798,6 +6239,7 @@
     ],
     "attack": 1800,
     "defense": 800,
+    "purchasable": true,
     "password": "23771716",
     "starCost": 120
   },
@@ -5812,6 +6254,7 @@
     ],
     "attack": 1800,
     "defense": 1500,
+    "purchasable": true,
     "password": "50176820",
     "starCost": 290
   },
@@ -5826,6 +6269,7 @@
     ],
     "attack": 2250,
     "defense": 1900,
+    "purchasable": true,
     "password": "86164529",
     "starCost": 700
   },
@@ -5840,6 +6284,7 @@
     ],
     "attack": 2000,
     "defense": 1700,
+    "purchasable": true,
     "password": "23659124",
     "starCost": 1000
   },
@@ -5854,6 +6299,7 @@
     ],
     "attack": 450,
     "defense": 500,
+    "purchasable": true,
     "password": "59053232",
     "starCost": 20
   },
@@ -5868,6 +6314,7 @@
     ],
     "attack": 1300,
     "defense": 1000,
+    "purchasable": true,
     "password": "85448931",
     "starCost": 80
   },
@@ -5882,6 +6329,7 @@
     ],
     "attack": 1050,
     "defense": 900,
+    "purchasable": true,
     "password": "12436646",
     "starCost": 50
   },
@@ -5896,6 +6344,7 @@
     ],
     "attack": 1800,
     "defense": 800,
+    "purchasable": true,
     "password": "58831685",
     "starCost": 120
   },
@@ -5910,6 +6359,7 @@
     ],
     "attack": 1600,
     "defense": 1300,
+    "purchasable": true,
     "password": "85326399",
     "starCost": 180
   },
@@ -5924,6 +6374,7 @@
     ],
     "attack": 1250,
     "defense": 2100,
+    "purchasable": true,
     "password": "11714098",
     "starCost": 290
   },
@@ -5938,6 +6389,7 @@
     ],
     "attack": 1200,
     "defense": 900,
+    "purchasable": true,
     "password": "48109103",
     "starCost": 60
   },
@@ -5952,6 +6404,7 @@
     ],
     "attack": 650,
     "defense": 900,
+    "purchasable": true,
     "password": "84103702",
     "starCost": 30
   },
@@ -5966,6 +6419,7 @@
     ],
     "attack": 600,
     "defense": 700,
+    "purchasable": true,
     "password": "10598400",
     "starCost": 30
   },
@@ -5980,6 +6434,7 @@
     ],
     "attack": 2000,
     "defense": 2200,
+    "purchasable": true,
     "password": "47986555",
     "starCost": 800
   },
@@ -5994,6 +6449,7 @@
     ],
     "attack": 1500,
     "defense": 1000,
+    "purchasable": true,
     "password": "73481154",
     "starCost": 100
   },
@@ -6008,6 +6464,7 @@
     ],
     "attack": 1000,
     "defense": 1300,
+    "purchasable": true,
     "password": "10476868",
     "starCost": 80
   },
@@ -6022,6 +6479,7 @@
     ],
     "attack": 1300,
     "defense": 1200,
+    "purchasable": true,
     "password": "46864967",
     "starCost": 100
   },
@@ -6036,6 +6494,7 @@
     ],
     "attack": 1200,
     "defense": 1000,
+    "purchasable": true,
     "password": "72269672",
     "starCost": 70
   },
@@ -6050,6 +6509,7 @@
     ],
     "attack": 1900,
     "defense": 1400,
+    "purchasable": true,
     "password": "09653271",
     "starCost": 290
   },
@@ -6064,6 +6524,7 @@
     ],
     "attack": 1200,
     "defense": 1300,
+    "purchasable": true,
     "password": "45042329",
     "starCost": 100
   },
@@ -6078,6 +6539,7 @@
     ],
     "attack": 1400,
     "defense": 1500,
+    "purchasable": true,
     "password": "12146024",
     "starCost": 180
   },
@@ -6092,6 +6554,7 @@
     ],
     "attack": 1100,
     "defense": 800,
+    "purchasable": true,
     "password": "48531733",
     "starCost": 50
   },
@@ -6106,6 +6569,7 @@
     ],
     "attack": 1500,
     "defense": 1300,
+    "purchasable": true,
     "password": "84926738",
     "starCost": 160
   },
@@ -6120,6 +6584,7 @@
     ],
     "attack": 800,
     "defense": 900,
+    "purchasable": true,
     "password": "11324436",
     "starCost": 40
   },
@@ -6134,6 +6599,7 @@
     ],
     "attack": 1800,
     "defense": 1500,
+    "purchasable": true,
     "password": "47319141",
     "starCost": 290
   },
@@ -6148,6 +6614,7 @@
     ],
     "attack": 2100,
     "defense": 1800,
+    "purchasable": true,
     "password": "74703140",
     "starCost": 550
   },
@@ -6162,6 +6629,7 @@
     ],
     "attack": 1550,
     "defense": 1200,
+    "purchasable": true,
     "password": "10202894",
     "starCost": 140
   },
@@ -6176,6 +6644,7 @@
     ],
     "attack": 2300,
     "defense": 1800,
+    "purchasable": true,
     "password": "46696593",
     "starCost": 700
   },
@@ -6190,6 +6659,7 @@
     ],
     "attack": 1200,
     "defense": 2000,
+    "purchasable": true,
     "password": "73081602",
     "starCost": 260
   },
@@ -6204,6 +6674,7 @@
     ],
     "attack": 300,
     "defense": 300,
+    "purchasable": true,
     "password": "09076207",
     "starCost": 15
   },
@@ -6218,6 +6689,7 @@
     ],
     "attack": 1300,
     "defense": 1400,
+    "purchasable": true,
     "password": "46474915",
     "starCost": 140
   },
@@ -6232,6 +6704,7 @@
     ],
     "attack": 2200,
     "defense": 1800,
+    "purchasable": true,
     "password": "72869010",
     "starCost": 800
   },
@@ -6246,6 +6719,7 @@
     ],
     "attack": 2100,
     "defense": 1600,
+    "purchasable": true,
     "password": "08353769",
     "starCost": 1000
   },
@@ -6260,6 +6734,7 @@
     ],
     "attack": 1900,
     "defense": 1500,
+    "purchasable": true,
     "password": "35752363",
     "starCost": 320
   },
@@ -6274,6 +6749,7 @@
     ],
     "attack": 1100,
     "defense": 1300,
+    "purchasable": true,
     "password": "71746462",
     "starCost": 120
   },
@@ -6288,6 +6764,7 @@
     ],
     "attack": 300,
     "defense": 250,
+    "purchasable": true,
     "password": "08131171",
     "starCost": 10
   },
@@ -6302,6 +6779,7 @@
     ],
     "attack": 600,
     "defense": 800,
+    "purchasable": true,
     "password": "34536276",
     "starCost": 30
   },
@@ -6316,6 +6794,7 @@
     ],
     "attack": 950,
     "defense": 700,
+    "purchasable": true,
     "password": "70924884",
     "starCost": 35
   },
@@ -6330,6 +6809,7 @@
     ],
     "attack": 1000,
     "defense": 800,
+    "purchasable": true,
     "password": "07019529",
     "starCost": 45
   },
@@ -6344,6 +6824,7 @@
     ],
     "attack": 800,
     "defense": 900,
+    "purchasable": true,
     "password": "33413638",
     "starCost": 999999
   },
@@ -6358,6 +6839,7 @@
     ],
     "attack": 1250,
     "defense": 1000,
+    "purchasable": true,
     "password": "60802233",
     "starCost": 70
   },
@@ -6372,6 +6854,7 @@
     ],
     "attack": 850,
     "defense": 800,
+    "purchasable": true,
     "password": "06297941",
     "starCost": 35
   },
@@ -6386,6 +6869,7 @@
     ],
     "attack": 1900,
     "defense": 1500,
+    "purchasable": true,
     "password": "33691040",
     "starCost": 320
   },
@@ -6400,6 +6884,7 @@
     ],
     "attack": 2000,
     "defense": 1700,
+    "purchasable": true,
     "password": "69780745",
     "starCost": 1000
   },
@@ -6414,6 +6899,7 @@
     ],
     "attack": 300,
     "defense": 350,
+    "purchasable": true,
     "password": "95174353",
     "starCost": 15
   },
@@ -6428,6 +6914,7 @@
     ],
     "attack": 550,
     "defense": 400,
+    "purchasable": true,
     "password": "32569498",
     "starCost": 20
   },
@@ -6442,6 +6929,7 @@
     ],
     "attack": 650,
     "defense": 500,
+    "purchasable": true,
     "password": "68963107",
     "starCost": 25
   },
@@ -6456,6 +6944,7 @@
     ],
     "attack": 1800,
     "defense": 1400,
+    "purchasable": true,
     "password": "95952802",
     "starCost": 260
   },
@@ -6470,6 +6959,7 @@
     ],
     "attack": 400,
     "defense": 500,
+    "purchasable": true,
     "password": "21347810",
     "starCost": 20
   },
@@ -6484,6 +6974,7 @@
     ],
     "attack": 1100,
     "defense": 600,
+    "purchasable": true,
     "password": "67841515",
     "starCost": 40
   },
@@ -6498,6 +6989,7 @@
     ],
     "attack": 750,
     "defense": 700,
+    "purchasable": true,
     "password": "94230224",
     "starCost": 30
   },
@@ -6512,6 +7004,7 @@
     ],
     "attack": 1700,
     "defense": 1500,
+    "purchasable": true,
     "password": "20624263",
     "starCost": 260
   },
@@ -6526,6 +7019,7 @@
     ],
     "attack": 500,
     "defense": 700,
+    "purchasable": true,
     "password": "67629977",
     "starCost": 25
   },
@@ -6540,6 +7034,7 @@
     ],
     "attack": 1550,
     "defense": 1400,
+    "purchasable": true,
     "password": "93013676",
     "starCost": 180
   },
@@ -6554,6 +7049,7 @@
     ],
     "attack": 1550,
     "defense": 1700,
+    "purchasable": true,
     "password": "29402771",
     "starCost": 260
   },
@@ -6568,6 +7064,7 @@
     ],
     "attack": 1750,
     "defense": 1500,
+    "purchasable": true,
     "password": "56907389",
     "starCost": 260
   },
@@ -6582,6 +7079,7 @@
     ],
     "attack": 1000,
     "defense": 1200,
+    "purchasable": true,
     "password": "92391084",
     "starCost": 70
   },
@@ -6596,6 +7094,7 @@
     ],
     "attack": 900,
     "defense": 1700,
+    "purchasable": true,
     "password": "29380133",
     "starCost": 120
   },
@@ -6610,6 +7109,7 @@
     ],
     "attack": 1550,
     "defense": 1300,
+    "purchasable": true,
     "password": "55784832",
     "starCost": 160
   },
@@ -6624,6 +7124,7 @@
     ],
     "attack": 250,
     "defense": 300,
+    "purchasable": true,
     "password": "81179446",
     "starCost": 999999
   },
@@ -6638,6 +7139,7 @@
     ],
     "attack": 2100,
     "defense": 2000,
+    "purchasable": true,
     "password": "28563545",
     "starCost": 700
   },
@@ -6652,6 +7154,7 @@
     ],
     "attack": 450,
     "defense": 600,
+    "purchasable": true,
     "password": "54652250",
     "starCost": 20
   },
@@ -6666,6 +7169,7 @@
     ],
     "attack": 1300,
     "defense": 1100,
+    "purchasable": true,
     "password": "81057959",
     "starCost": 120
   },
@@ -6680,6 +7184,7 @@
     ],
     "attack": 700,
     "defense": 900,
+    "purchasable": true,
     "password": "17441953",
     "starCost": 35
   },
@@ -6694,6 +7199,7 @@
     ],
     "attack": 400,
     "defense": 300,
+    "purchasable": true,
     "password": "53830602",
     "starCost": 15
   },
@@ -6708,6 +7214,7 @@
     ],
     "attack": 800,
     "defense": 1000,
+    "purchasable": true,
     "password": "80234301",
     "starCost": 45
   },
@@ -6722,6 +7229,7 @@
     ],
     "attack": 650,
     "defense": 600,
+    "purchasable": true,
     "password": "16229315",
     "starCost": 25
   },
@@ -6736,6 +7244,7 @@
     ],
     "attack": 1600,
     "defense": 1200,
+    "purchasable": true,
     "password": "53713014",
     "starCost": 160
   },
@@ -6750,6 +7259,7 @@
     ],
     "attack": 1800,
     "defense": 1400,
+    "purchasable": true,
     "password": "89112729",
     "starCost": 260
   },
@@ -6764,6 +7274,7 @@
     ],
     "attack": 2200,
     "defense": 2000,
+    "purchasable": true,
     "password": "16507828",
     "starCost": 800
   },
@@ -6778,6 +7289,7 @@
     ],
     "attack": 900,
     "defense": 500,
+    "purchasable": true,
     "password": "42591472",
     "starCost": 30
   },
@@ -6792,6 +7304,7 @@
     ],
     "attack": 1400,
     "defense": 1300,
+    "purchasable": true,
     "password": "84990171",
     "starCost": 140
   },
@@ -6806,6 +7319,7 @@
     ],
     "attack": 1400,
     "defense": 1300,
+    "purchasable": true,
     "password": "11384280",
     "starCost": 140
   },
@@ -6820,6 +7334,7 @@
     ],
     "attack": 1650,
     "defense": 1600,
+    "purchasable": true,
     "password": "47879985",
     "starCost": 260
   },
@@ -6834,6 +7349,7 @@
     ],
     "attack": 1300,
     "defense": 1000,
+    "purchasable": true,
     "password": "74277583",
     "starCost": 80
   },
@@ -6848,6 +7364,7 @@
     ],
     "attack": 1100,
     "defense": 1400,
+    "purchasable": true,
     "password": "10262698",
     "starCost": 100
   },
@@ -6862,6 +7379,7 @@
     ],
     "attack": 600,
     "defense": 300,
+    "purchasable": true,
     "password": "46657337",
     "starCost": 20
   },
@@ -6876,6 +7394,7 @@
     ],
     "attack": 1300,
     "defense": 1600,
+    "purchasable": true,
     "password": "73051941",
     "starCost": 180
   },
@@ -6890,6 +7409,7 @@
     ],
     "attack": 1450,
     "defense": 2200,
+    "purchasable": true,
     "password": "09540040",
     "starCost": 400
   },
@@ -6904,6 +7424,7 @@
     ],
     "attack": 1600,
     "defense": 1500,
+    "purchasable": true,
     "password": "46534755",
     "starCost": 230
   },
@@ -6918,6 +7439,7 @@
     ],
     "attack": 1900,
     "defense": 1700,
+    "purchasable": true,
     "password": "72929454",
     "starCost": 400
   },
@@ -6932,6 +7454,7 @@
     ],
     "attack": 1900,
     "defense": 1700,
+    "purchasable": true,
     "password": "08327462",
     "starCost": 400
   },
@@ -6946,6 +7469,7 @@
     ],
     "attack": 2000,
     "defense": 1900,
+    "purchasable": true,
     "password": "35712107",
     "starCost": 550
   },
@@ -6960,6 +7484,7 @@
     ],
     "attack": 1800,
     "defense": 1000,
+    "purchasable": true,
     "password": "71107816",
     "starCost": 160
   },
@@ -6974,6 +7499,7 @@
     ],
     "attack": 550,
     "defense": 500,
+    "purchasable": true,
     "password": "08201910",
     "starCost": 20
   },
@@ -6988,6 +7514,7 @@
     ],
     "attack": 1300,
     "defense": 1800,
+    "purchasable": true,
     "password": "34690519",
     "starCost": 230
   },
@@ -7002,6 +7529,7 @@
     ],
     "attack": 1750,
     "defense": 1900,
+    "purchasable": true,
     "password": "70084224",
     "starCost": 400
   },
@@ -7016,6 +7544,7 @@
     ],
     "attack": 300,
     "defense": 250,
+    "purchasable": true,
     "password": "07489323",
     "starCost": 10
   },
@@ -7030,6 +7559,7 @@
     ],
     "attack": 1600,
     "defense": 1800,
+    "purchasable": true,
     "password": "33878931",
     "starCost": 320
   },
@@ -7044,6 +7574,7 @@
     ],
     "attack": 2100,
     "defense": 1800,
+    "purchasable": true,
     "password": "60862676",
     "starCost": 550
   },
@@ -7058,6 +7589,7 @@
     ],
     "attack": 950,
     "defense": 1000,
+    "purchasable": true,
     "password": "06367785",
     "starCost": 50
   },
@@ -7072,6 +7604,7 @@
     ],
     "attack": 2100,
     "defense": 1700,
+    "purchasable": true,
     "password": "32751480",
     "starCost": 500
   },
@@ -7086,6 +7619,7 @@
     ],
     "attack": 1900,
     "defense": 900,
+    "purchasable": true,
     "password": "69140098",
     "starCost": 160
   },
@@ -7100,6 +7634,7 @@
     ],
     "attack": 1900,
     "defense": 1700,
+    "purchasable": true,
     "password": "95144193",
     "starCost": 400
   },
@@ -7114,6 +7649,7 @@
     ],
     "attack": 850,
     "defense": 750,
+    "purchasable": true,
     "password": "32539892",
     "starCost": 35
   },
@@ -7128,6 +7664,7 @@
     ],
     "attack": 1150,
     "defense": 1400,
+    "purchasable": true,
     "password": "68928540",
     "starCost": 100
   },
@@ -7142,6 +7679,7 @@
     ],
     "attack": 800,
     "defense": 600,
+    "purchasable": true,
     "password": "94412545",
     "starCost": 30
   },
@@ -7156,6 +7694,7 @@
     ],
     "attack": 750,
     "defense": 600,
+    "purchasable": true,
     "password": "21817254",
     "starCost": 30
   },
@@ -7170,6 +7709,7 @@
     ],
     "attack": 900,
     "defense": 800,
+    "purchasable": true,
     "password": "07805359",
     "starCost": 40
   },
@@ -7184,6 +7724,7 @@
     ],
     "attack": 110,
     "defense": 700,
+    "purchasable": true,
     "password": "34290067",
     "starCost": 45
   },
@@ -7198,6 +7739,7 @@
     ],
     "attack": 900,
     "defense": 400,
+    "purchasable": true,
     "password": "60694662",
     "starCost": 30
   },
@@ -7212,6 +7754,7 @@
     ],
     "attack": 450,
     "defense": 500,
+    "purchasable": true,
     "password": "07089711",
     "starCost": 999999
   },
@@ -7226,6 +7769,7 @@
     ],
     "attack": 1400,
     "defense": 1600,
+    "purchasable": true,
     "password": "33178416",
     "starCost": 200
   },
@@ -7240,6 +7784,7 @@
     ],
     "attack": 1350,
     "defense": 800,
+    "purchasable": true,
     "password": "69572024",
     "starCost": 60
   },
@@ -7254,6 +7799,7 @@
     ],
     "attack": 900,
     "defense": 500,
+    "purchasable": true,
     "password": "96967123",
     "starCost": 30
   },
@@ -7268,6 +7814,7 @@
     ],
     "attack": 1700,
     "defense": 1900,
+    "purchasable": true,
     "password": "32355828",
     "starCost": 999999
   },
@@ -7282,6 +7829,7 @@
     ],
     "attack": 1250,
     "defense": 900,
+    "purchasable": true,
     "password": "69750536",
     "starCost": 60
   },
@@ -7296,6 +7844,7 @@
     ],
     "attack": 350,
     "defense": 300,
+    "purchasable": true,
     "password": "95744531",
     "starCost": 15
   },
@@ -7310,6 +7859,7 @@
     ],
     "attack": 400,
     "defense": 300,
+    "purchasable": true,
     "password": "21239280",
     "starCost": 15
   },
@@ -7324,6 +7874,7 @@
     ],
     "attack": 700,
     "defense": 500,
+    "purchasable": true,
     "password": "68638985",
     "starCost": 25
   },
@@ -7338,6 +7889,7 @@
     ],
     "attack": 1350,
     "defense": 1000,
+    "purchasable": true,
     "password": "94022093",
     "starCost": 80
   },
@@ -7352,6 +7904,7 @@
     ],
     "attack": 2000,
     "defense": 800,
+    "purchasable": true,
     "password": "21417692",
     "starCost": 160
   },
@@ -7366,6 +7919,7 @@
     ],
     "attack": 1200,
     "defense": 1000,
+    "purchasable": true,
     "password": "57405307",
     "starCost": 70
   },
@@ -7380,6 +7934,7 @@
     ],
     "attack": 1250,
     "defense": 800,
+    "purchasable": true,
     "password": "93900406",
     "starCost": 55
   },
@@ -7394,6 +7949,7 @@
     ],
     "attack": 1550,
     "defense": 1800,
+    "purchasable": true,
     "password": "20394040",
     "starCost": 999999
   },
@@ -7408,6 +7964,7 @@
     ],
     "attack": 1700,
     "defense": 1900,
+    "purchasable": true,
     "password": "56789759",
     "starCost": 999999
   },
@@ -7422,6 +7979,7 @@
     ],
     "attack": 800,
     "defense": 600,
+    "purchasable": true,
     "password": "93788854",
     "starCost": 30
   },
@@ -7436,6 +7994,7 @@
     ],
     "attack": 1400,
     "defense": 1800,
+    "purchasable": true,
     "password": "29172562",
     "starCost": 260
   },
@@ -7450,6 +8009,7 @@
     ],
     "attack": 400,
     "defense": 400,
+    "purchasable": true,
     "password": "55567161",
     "starCost": 20
   },
@@ -7464,8 +8024,24 @@
     ],
     "attack": 1250,
     "defense": 700,
+    "purchasable": true,
     "password": "82065276",
     "starCost": 50
+  },
+  {
+    "number": 560,
+    "name": "Invader From Another Dimension",
+    "level": 4,
+    "type": "Fiend",
+    "guardianStars": [
+      "vns",
+      "mrs"
+    ],
+    "attack": 950,
+    "defense": 1400,
+    "purchasable": true,
+    "password": "28450915",
+    "starCost": 80
   },
   {
     "number": 561,
@@ -7478,6 +8054,7 @@
     ],
     "attack": 1200,
     "defense": 1000,
+    "purchasable": true,
     "password": "55444629",
     "starCost": 70
   },
@@ -7492,6 +8069,7 @@
     ],
     "attack": 750,
     "defense": 600,
+    "purchasable": true,
     "password": "81843628",
     "starCost": 999999
   },
@@ -7506,6 +8084,7 @@
     ],
     "attack": 550,
     "defense": 400,
+    "purchasable": true,
     "password": "17238333",
     "starCost": 20
   },
@@ -7520,6 +8099,7 @@
     ],
     "attack": 2200,
     "defense": 1800,
+    "purchasable": true,
     "password": "54622031",
     "starCost": 800
   },
@@ -7534,6 +8114,7 @@
     ],
     "attack": 2100,
     "defense": 1300,
+    "purchasable": true,
     "password": "80727036",
     "starCost": 320
   },
@@ -7548,6 +8129,7 @@
     ],
     "attack": 1200,
     "defense": 900,
+    "purchasable": true,
     "password": "17115745",
     "starCost": 60
   },
@@ -7562,6 +8144,7 @@
     ],
     "attack": 1200,
     "defense": 900,
+    "purchasable": true,
     "password": "43500484",
     "starCost": 60
   },
@@ -7576,6 +8159,7 @@
     ],
     "attack": 1000,
     "defense": 850,
+    "purchasable": true,
     "password": "89904598",
     "starCost": 45
   },
@@ -7590,6 +8174,7 @@
     ],
     "attack": 900,
     "defense": 800,
+    "purchasable": true,
     "password": "16353197",
     "starCost": 40
   },
@@ -7604,6 +8189,7 @@
     ],
     "attack": 1300,
     "defense": 800,
+    "purchasable": true,
     "password": "42348802",
     "starCost": 60
   },
@@ -7618,6 +8204,7 @@
     ],
     "attack": 2100,
     "defense": 1800,
+    "purchasable": true,
     "password": "89832901",
     "starCost": 999999
   },
@@ -7632,6 +8219,7 @@
     ],
     "attack": 2100,
     "defense": 1700,
+    "purchasable": true,
     "password": "15237615",
     "starCost": 500
   },
@@ -7646,6 +8234,7 @@
     ],
     "attack": 1100,
     "defense": 700,
+    "purchasable": true,
     "password": "42625254",
     "starCost": 45
   },
@@ -7660,6 +8249,7 @@
     ],
     "attack": 1100,
     "defense": 1200,
+    "purchasable": true,
     "password": "78010363",
     "starCost": 80
   },
@@ -7674,6 +8264,7 @@
     ],
     "attack": 1800,
     "defense": 1900,
+    "purchasable": true,
     "password": "14015067",
     "starCost": 1000
   },
@@ -7688,6 +8279,7 @@
     ],
     "attack": 1100,
     "defense": 1000,
+    "purchasable": true,
     "password": "41403766",
     "starCost": 60
   },
@@ -7702,6 +8294,7 @@
     ],
     "attack": 1850,
     "defense": 1600,
+    "purchasable": true,
     "password": "77998771",
     "starCost": 320
   },
@@ -7716,6 +8309,7 @@
     ],
     "attack": 1350,
     "defense": 1200,
+    "purchasable": true,
     "password": "04392470",
     "starCost": 100
   },
@@ -7730,6 +8324,7 @@
     ],
     "attack": 750,
     "defense": 400,
+    "purchasable": true,
     "password": "40387124",
     "starCost": 25
   },
@@ -7744,6 +8339,7 @@
     ],
     "attack": 1100,
     "defense": 900,
+    "purchasable": true,
     "password": "76775123",
     "starCost": 55
   },
@@ -7758,6 +8354,7 @@
     ],
     "attack": 1450,
     "defense": 1000,
+    "purchasable": true,
     "password": "03170832",
     "starCost": 120
   },
@@ -7772,6 +8369,7 @@
     ],
     "attack": 1800,
     "defense": 1700,
+    "purchasable": true,
     "password": "35565537",
     "starCost": 350
   },
@@ -7786,6 +8384,7 @@
     ],
     "attack": 950,
     "defense": 1500,
+    "purchasable": true,
     "password": "72053645",
     "starCost": 120
   },
@@ -7800,6 +8399,7 @@
     ],
     "attack": 1000,
     "defense": 1100,
+    "purchasable": true,
     "password": "08058240",
     "starCost": 60
   },
@@ -7814,6 +8414,7 @@
     ],
     "attack": 800,
     "defense": 1000,
+    "purchasable": true,
     "password": "34442949",
     "starCost": 45
   },
@@ -7828,6 +8429,7 @@
     ],
     "attack": 650,
     "defense": 900,
+    "purchasable": true,
     "password": "61831093",
     "starCost": 30
   },
@@ -7842,6 +8444,7 @@
     ],
     "attack": 1300,
     "defense": 1400,
+    "purchasable": true,
     "password": "07225792",
     "starCost": 140
   },
@@ -7856,6 +8459,7 @@
     ],
     "attack": 900,
     "defense": 1100,
+    "purchasable": true,
     "password": "34320307",
     "starCost": 55
   },
@@ -7870,6 +8474,7 @@
     ],
     "attack": 500,
     "defense": 600,
+    "purchasable": true,
     "password": "60715406",
     "starCost": 25
   },
@@ -7884,6 +8489,7 @@
     ],
     "attack": 800,
     "defense": 900,
+    "purchasable": true,
     "password": "06103114",
     "starCost": 40
   },
@@ -7898,6 +8504,7 @@
     ],
     "attack": 700,
     "defense": 600,
+    "purchasable": true,
     "password": "33508719",
     "starCost": 30
   },
@@ -7912,6 +8519,7 @@
     ],
     "attack": 850,
     "defense": 900,
+    "purchasable": true,
     "password": "69992868",
     "starCost": 40
   },
@@ -7926,6 +8534,7 @@
     ],
     "attack": 1400,
     "defense": 1800,
+    "purchasable": true,
     "password": "96981563",
     "starCost": 260
   },
@@ -7940,6 +8549,7 @@
     ],
     "attack": 2000,
     "defense": 1800,
+    "purchasable": true,
     "password": "32485271",
     "starCost": 500
   },
@@ -7954,6 +8564,7 @@
     ],
     "attack": 1300,
     "defense": 1400,
+    "purchasable": true,
     "password": "68870276",
     "starCost": 140
   },
@@ -7968,6 +8579,7 @@
     ],
     "attack": 1600,
     "defense": 1200,
+    "purchasable": true,
     "password": "95265975",
     "starCost": 160
   },
@@ -7982,6 +8594,7 @@
     ],
     "attack": 1500,
     "defense": 1200,
+    "purchasable": true,
     "password": "21263083",
     "starCost": 140
   },
@@ -7996,6 +8609,7 @@
     ],
     "attack": 600,
     "defense": 550,
+    "purchasable": true,
     "password": "68658728",
     "starCost": 25
   },
@@ -8010,6 +8624,7 @@
     ],
     "attack": 1550,
     "defense": 800,
+    "purchasable": true,
     "password": "94042337",
     "starCost": 80
   },
@@ -8024,6 +8639,7 @@
     ],
     "attack": 1050,
     "defense": 1200,
+    "purchasable": true,
     "password": "20541432",
     "starCost": 70
   },
@@ -8038,6 +8654,7 @@
     ],
     "attack": 700,
     "defense": 1400,
+    "purchasable": true,
     "password": "57935140",
     "starCost": 60
   },
@@ -8052,6 +8669,7 @@
     ],
     "attack": 750,
     "defense": 500,
+    "purchasable": true,
     "password": "93920745",
     "starCost": 25
   },
@@ -8066,6 +8684,7 @@
     ],
     "attack": 1100,
     "defense": 1200,
+    "purchasable": true,
     "password": "20315854",
     "starCost": 999999
   },
@@ -8080,6 +8699,7 @@
     ],
     "attack": 750,
     "defense": 800,
+    "purchasable": true,
     "password": "56713552",
     "starCost": 30
   },
@@ -8094,6 +8714,7 @@
     ],
     "attack": 950,
     "defense": 800,
+    "purchasable": true,
     "password": "93108297",
     "starCost": 40
   },
@@ -8108,6 +8729,7 @@
     ],
     "attack": 850,
     "defense": 700,
+    "purchasable": true,
     "password": "29692206",
     "starCost": 30
   },
@@ -8122,6 +8744,7 @@
     ],
     "attack": 1250,
     "defense": 1300,
+    "purchasable": true,
     "password": "55691901",
     "starCost": 100
   },
@@ -8136,6 +8759,7 @@
     ],
     "attack": 1300,
     "defense": 1100,
+    "purchasable": true,
     "password": "82085619",
     "starCost": 120
   },
@@ -8150,6 +8774,7 @@
     ],
     "attack": 600,
     "defense": 700,
+    "purchasable": true,
     "password": "28470714",
     "starCost": 30
   },
@@ -8164,6 +8789,7 @@
     ],
     "attack": 850,
     "defense": 800,
+    "purchasable": true,
     "password": "55875323",
     "starCost": 35
   },
@@ -8178,6 +8804,7 @@
     ],
     "attack": 650,
     "defense": 500,
+    "purchasable": true,
     "password": "81863068",
     "starCost": 25
   },
@@ -8192,6 +8819,7 @@
     ],
     "attack": 1100,
     "defense": 800,
+    "purchasable": true,
     "password": "17358176",
     "starCost": 50
   },
@@ -8206,6 +8834,7 @@
     ],
     "attack": 2800,
     "defense": 2100,
+    "purchasable": true,
     "password": "54752875",
     "starCost": 1900
   },
@@ -8220,6 +8849,7 @@
     ],
     "attack": 1600,
     "defense": 1400,
+    "purchasable": true,
     "password": "80141480",
     "starCost": 200
   },
@@ -8234,6 +8864,7 @@
     ],
     "attack": 850,
     "defense": 1400,
+    "purchasable": true,
     "password": "17535588",
     "starCost": 70
   },
@@ -8248,6 +8879,7 @@
     ],
     "attack": 1100,
     "defense": 1200,
+    "purchasable": true,
     "password": "43530283",
     "starCost": 80
   },
@@ -8262,6 +8894,7 @@
     ],
     "attack": 1700,
     "defense": 1600,
+    "purchasable": true,
     "password": "29929832",
     "starCost": 290
   },
@@ -8276,6 +8909,7 @@
     ],
     "attack": 1900,
     "defense": 1700,
+    "purchasable": true,
     "password": "56413937",
     "starCost": 400
   },
@@ -8290,6 +8924,7 @@
     ],
     "attack": 1650,
     "defense": 1900,
+    "purchasable": true,
     "password": "82818645",
     "starCost": 350
   },
@@ -8304,6 +8939,7 @@
     ],
     "attack": 1000,
     "defense": 1200,
+    "purchasable": true,
     "password": "29802344",
     "starCost": 70
   },
@@ -8318,6 +8954,7 @@
     ],
     "attack": 1650,
     "defense": 1300,
+    "purchasable": true,
     "password": "55291359",
     "starCost": 180
   },
@@ -8332,6 +8969,7 @@
     ],
     "attack": 1600,
     "defense": 1500,
+    "purchasable": true,
     "password": "81686058",
     "starCost": 230
   },
@@ -8346,6 +8984,7 @@
     ],
     "attack": 1200,
     "defense": 1300,
+    "purchasable": true,
     "password": "18180762",
     "starCost": 100
   },
@@ -8360,6 +8999,7 @@
     ],
     "attack": 1650,
     "defense": 1300,
+    "purchasable": true,
     "password": "54579801",
     "starCost": 180
   },
@@ -8374,6 +9014,7 @@
     ],
     "attack": 1600,
     "defense": 1100,
+    "purchasable": true,
     "password": "81563416",
     "starCost": 140
   },
@@ -8388,6 +9029,7 @@
     ],
     "attack": 1300,
     "defense": 1400,
+    "purchasable": true,
     "password": "17968114",
     "starCost": 140
   },
@@ -8402,6 +9044,7 @@
     ],
     "attack": 1900,
     "defense": 2000,
+    "purchasable": true,
     "password": "43352213",
     "starCost": 550
   },
@@ -8416,6 +9059,7 @@
     ],
     "attack": 550,
     "defense": 500,
+    "purchasable": true,
     "password": "80741828",
     "starCost": 999999
   },
@@ -8430,6 +9074,7 @@
     ],
     "attack": 950,
     "defense": 1100,
+    "purchasable": true,
     "password": "16246527",
     "starCost": 55
   },
@@ -8444,6 +9089,7 @@
     ],
     "attack": 1400,
     "defense": 1100,
+    "purchasable": true,
     "password": "43230671",
     "starCost": 100
   },
@@ -8458,6 +9104,7 @@
     ],
     "attack": 1500,
     "defense": 1300,
+    "purchasable": true,
     "password": "79629370",
     "starCost": 160
   },
@@ -8472,6 +9119,7 @@
     ],
     "attack": 1600,
     "defense": 1500,
+    "purchasable": true,
     "password": "15023985",
     "starCost": 230
   },
@@ -8486,6 +9134,7 @@
     ],
     "attack": 1400,
     "defense": 1700,
+    "purchasable": true,
     "password": "42418084",
     "starCost": 230
   },
@@ -8500,6 +9149,7 @@
     ],
     "attack": 1150,
     "defense": 1300,
+    "purchasable": true,
     "password": "78402798",
     "starCost": 120
   },
@@ -8514,6 +9164,7 @@
     ],
     "attack": 350,
     "defense": 300,
+    "purchasable": true,
     "password": "05901497",
     "starCost": 15
   },
@@ -8528,6 +9179,7 @@
     ],
     "attack": 1600,
     "defense": 1200,
+    "purchasable": true,
     "password": "41396436",
     "starCost": 160
   },
@@ -8542,6 +9194,7 @@
     ],
     "attack": 1500,
     "defense": 1800,
+    "purchasable": true,
     "password": "78780140",
     "starCost": 290
   },
@@ -8556,6 +9209,7 @@
     ],
     "attack": 1800,
     "defense": 1500,
+    "purchasable": true,
     "password": "04179849",
     "starCost": 290
   },
@@ -8570,6 +9224,7 @@
     ],
     "attack": 1850,
     "defense": 1300,
+    "purchasable": true,
     "password": "40173854",
     "starCost": 230
   },
@@ -8584,6 +9239,7 @@
     ],
     "attack": 900,
     "defense": 700,
+    "purchasable": true,
     "password": "77568553",
     "starCost": 999999
   },
@@ -8598,6 +9254,7 @@
     ],
     "attack": 1350,
     "defense": 1700,
+    "purchasable": true,
     "password": "03056267",
     "starCost": 200
   },
@@ -8612,6 +9269,7 @@
     ],
     "attack": 1150,
     "defense": 900,
+    "purchasable": true,
     "password": "30451366",
     "starCost": 55
   },
@@ -8626,6 +9284,7 @@
     ],
     "attack": 1350,
     "defense": 1000,
+    "purchasable": true,
     "password": "76446915",
     "starCost": 80
   },
@@ -8640,6 +9299,7 @@
     ],
     "attack": 400,
     "defense": 450,
+    "purchasable": true,
     "password": "02830619",
     "starCost": 20
   },
@@ -8654,6 +9314,7 @@
     ],
     "attack": 1900,
     "defense": 2200,
+    "purchasable": true,
     "password": "39239728",
     "starCost": 700
   },
@@ -8668,6 +9329,7 @@
     ],
     "attack": 1300,
     "defense": 700,
+    "purchasable": true,
     "password": "65623423",
     "starCost": 55
   },
@@ -8682,6 +9344,7 @@
     ],
     "attack": 1500,
     "defense": 900,
+    "purchasable": true,
     "password": "02118022",
     "starCost": 120
   },
@@ -8696,6 +9359,7 @@
     ],
     "attack": 1600,
     "defense": 1300,
+    "purchasable": true,
     "password": "38116136",
     "starCost": 180
   },
@@ -8710,6 +9374,7 @@
     ],
     "attack": 1450,
     "defense": 1000,
+    "purchasable": true,
     "password": "64501875",
     "starCost": 120
   },
@@ -8724,6 +9389,7 @@
     ],
     "attack": 1650,
     "defense": 1600,
+    "purchasable": true,
     "password": "91996584",
     "starCost": 260
   },
@@ -8731,6 +9397,7 @@
     "number": 651,
     "name": "Kunai with Chain",
     "type": "Equip Magic",
+    "purchasable": true,
     "password": "37390589",
     "starCost": 800
   },
@@ -8738,6 +9405,7 @@
     "number": 652,
     "name": "Magic Labyrinth",
     "type": "Magic",
+    "purchasable": true,
     "password": "64389297",
     "starCost": 10
   },
@@ -8745,6 +9413,7 @@
     "number": 653,
     "name": "Warrior Elimination",
     "type": "Magic",
+    "purchasable": true,
     "password": "90873992",
     "starCost": 999999
   },
@@ -8752,6 +9421,7 @@
     "number": 654,
     "name": "Salamandra",
     "type": "Equip Magic",
+    "purchasable": true,
     "password": "32268901",
     "starCost": 800
   },
@@ -8759,6 +9429,7 @@
     "number": 655,
     "name": "Cursebraker",
     "type": "Magic",
+    "purchasable": true,
     "password": "69666645",
     "starCost": 10
   },
@@ -8766,6 +9437,7 @@
     "number": 656,
     "name": "Eternal Rest",
     "type": "Magic",
+    "purchasable": true,
     "password": "95051344",
     "starCost": 999999
   },
@@ -8773,6 +9445,7 @@
     "number": 657,
     "name": "MegaMorph",
     "type": "Magic",
+    "purchasable": true,
     "password": "22046459",
     "starCost": 50000
   },
@@ -8780,6 +9453,7 @@
     "number": 658,
     "name": "Metalmorph",
     "type": "Equip Magic",
+    "purchasable": true,
     "password": "68540058",
     "starCost": 999999
   },
@@ -8787,6 +9461,7 @@
     "number": 659,
     "name": "Winged Trumpeter",
     "type": "Magic",
+    "purchasable": true,
     "password": "94939166",
     "starCost": 800
   },
@@ -8794,6 +9469,7 @@
     "number": 660,
     "name": "Stain Storm",
     "type": "Magic",
+    "purchasable": true,
     "password": "21323861",
     "starCost": 999999
   },
@@ -8801,6 +9477,7 @@
     "number": 661,
     "name": "Crush Card",
     "type": "Magic",
+    "purchasable": true,
     "password": "57728570",
     "starCost": 999999
   },
@@ -8808,6 +9485,7 @@
     "number": 662,
     "name": "Eradicading Aerosol",
     "type": "Magic",
+    "purchasable": true,
     "password": "94716515",
     "starCost": 999999
   },
@@ -8815,6 +9493,7 @@
     "number": 663,
     "name": "Breath of Light",
     "type": "Magic",
+    "purchasable": true,
     "password": "20101223",
     "starCost": 999999
   },
@@ -8822,6 +9501,7 @@
     "number": 664,
     "name": "Eternal Drought",
     "type": "Magic",
+    "purchasable": true,
     "password": "56606928",
     "starCost": 999999
   },
@@ -8829,6 +9509,7 @@
     "number": 665,
     "name": "Curse of the Millennium Shield",
     "type": "Ritual",
+    "purchasable": true,
     "password": "83094937",
     "starCost": 10
   },
@@ -8836,6 +9517,7 @@
     "number": 666,
     "name": "Yamadron Ritual",
     "type": "Ritual",
+    "purchasable": true,
     "password": "29089635",
     "starCost": 10
   },
@@ -8843,6 +9525,7 @@
     "number": 667,
     "name": "Gate Guardian Ritual",
     "type": "Ritual",
+    "purchasable": true,
     "password": "56483330",
     "starCost": 999999
   },
@@ -8850,6 +9533,7 @@
     "number": 668,
     "name": "Bright Caslte",
     "type": "Magic",
+    "purchasable": true,
     "password": "82878489",
     "starCost": 800
   },
@@ -8857,6 +9541,7 @@
     "number": 669,
     "name": "Shadow Spell",
     "type": "Magic",
+    "purchasable": true,
     "password": "29267084",
     "starCost": 999999
   },
@@ -8864,6 +9549,7 @@
     "number": 670,
     "name": "Black Luster Ritual",
     "type": "Ritual",
+    "purchasable": true,
     "password": "55761792",
     "starCost": 100
   },
@@ -8871,6 +9557,7 @@
     "number": 671,
     "name": "Zera Ritual",
     "type": "Ritual",
+    "purchasable": true,
     "password": "81756897",
     "starCost": 100
   },
@@ -8878,6 +9565,7 @@
     "number": 672,
     "name": "Harpie's Feather Duster",
     "type": "Magic",
+    "purchasable": true,
     "password": "18144506",
     "starCost": 999999
   },
@@ -8885,6 +9573,7 @@
     "number": 673,
     "name": "War-Lion Ritual",
     "type": "Ritual",
+    "purchasable": true,
     "password": "54539105",
     "starCost": 100
   },
@@ -8892,6 +9581,7 @@
     "number": 674,
     "name": "Beastry Mirror Ritual",
     "type": "Ritual",
+    "purchasable": true,
     "password": "81933259",
     "starCost": 100
   },
@@ -8899,6 +9589,7 @@
     "number": 675,
     "name": "Ultimate Dragon",
     "type": "Ritual",
+    "purchasable": true,
     "password": "17928958",
     "starCost": 999999
   },
@@ -8906,6 +9597,7 @@
     "number": 676,
     "name": "Commencement Dance",
     "type": "Ritual",
+    "purchasable": true,
     "password": "43417563",
     "starCost": 50
   },
@@ -8913,6 +9605,7 @@
     "number": 677,
     "name": "Hamburger Recipe",
     "type": "Ritual",
+    "purchasable": true,
     "password": "80811661",
     "starCost": 50
   },
@@ -8920,6 +9613,7 @@
     "number": 678,
     "name": "Revival O Senmen Genjin",
     "type": "Ritual",
+    "purchasable": true,
     "password": "16206366",
     "starCost": 50
   },
@@ -8927,6 +9621,7 @@
     "number": 679,
     "name": "Novox's Prayer",
     "type": "Ritual",
+    "purchasable": true,
     "password": "43694075",
     "starCost": 50
   },
@@ -8934,6 +9629,7 @@
     "number": 680,
     "name": "Curse of Tri-Horned Dragon",
     "type": "Ritual",
+    "purchasable": true,
     "password": "79699070",
     "starCost": 50
   },
@@ -8941,6 +9637,7 @@
     "number": 681,
     "name": "House of Adhesive Tape",
     "type": "Trap",
+    "purchasable": true,
     "password": "15083728",
     "starCost": 999999
   },
@@ -8948,6 +9645,7 @@
     "number": 682,
     "name": "Eatgaboon",
     "type": "Trap",
+    "purchasable": true,
     "password": "42578427",
     "starCost": 999999
   },
@@ -8955,6 +9653,7 @@
     "number": 683,
     "name": "Bear Trap",
     "type": "Trap",
+    "purchasable": true,
     "password": "78977532",
     "starCost": 999999
   },
@@ -8962,6 +9661,7 @@
     "number": 684,
     "name": "Ivisible",
     "type": "Trap",
+    "purchasable": true,
     "password": "15361130",
     "starCost": 999999
   },
@@ -8969,6 +9669,7 @@
     "number": 685,
     "name": "Acid Trap Hole",
     "type": "Trap",
+    "purchasable": true,
     "password": "41356845",
     "starCost": 999999
   },
@@ -8976,6 +9677,7 @@
     "number": 686,
     "name": "Widespread Ruin",
     "type": "Trap",
+    "purchasable": true,
     "password": "77754944",
     "starCost": 999999
   },
@@ -8983,6 +9685,7 @@
     "number": 687,
     "name": "Goblin Fan",
     "type": "Trap",
+    "purchasable": true,
     "password": "04149689",
     "starCost": 999999
   },
@@ -8990,6 +9693,7 @@
     "number": 688,
     "name": "Bad Reaction to Simochi",
     "type": "Trap",
+    "purchasable": true,
     "password": "40633297",
     "starCost": 999999
   },
@@ -8997,6 +9701,7 @@
     "number": 689,
     "name": "Reverse Trap",
     "type": "Trap",
+    "purchasable": true,
     "password": "77622396",
     "starCost": 999999
   },
@@ -9004,6 +9709,7 @@
     "number": 690,
     "name": "Fake Trap",
     "type": "Trap",
+    "purchasable": true,
     "password": "03027001",
     "starCost": 999999
   },
@@ -9011,6 +9717,7 @@
     "number": 691,
     "name": "Revival of Serpent Night Dragon",
     "type": "Ritual",
+    "purchasable": true,
     "password": "39411600",
     "starCost": 50
   },
@@ -9018,6 +9725,7 @@
     "number": 692,
     "name": "Turtle Oath",
     "type": "Ritual",
+    "purchasable": true,
     "password": "76806714",
     "starCost": 100
   },
@@ -9025,6 +9733,7 @@
     "number": 693,
     "name": "Contruct of Mask",
     "type": "Ritual",
+    "purchasable": true,
     "password": "02304453",
     "starCost": 100
   },
@@ -9032,6 +9741,7 @@
     "number": 694,
     "name": "Resurrection of Chakra",
     "type": "Ritual",
+    "purchasable": true,
     "password": "39399168",
     "starCost": 100
   },
@@ -9039,6 +9749,7 @@
     "number": 695,
     "name": "Puppet Ritual",
     "type": "Ritual",
+    "purchasable": true,
     "password": "05783166",
     "starCost": 50
   },
@@ -9046,6 +9757,7 @@
     "number": 696,
     "name": "Javelin Beetle Pact",
     "type": "Ritual",
+    "purchasable": true,
     "password": "41182875",
     "starCost": 999999
   },
@@ -9053,6 +9765,7 @@
     "number": 697,
     "name": "Garma Sword Oath",
     "type": "Ritual",
+    "purchasable": true,
     "password": "78577570",
     "starCost": 50
   },
@@ -9060,6 +9773,7 @@
     "number": 698,
     "name": "Cosmo Queen's Prayer",
     "type": "Ritual",
+    "purchasable": true,
     "password": "04561679",
     "starCost": 50
   },
@@ -9067,6 +9781,7 @@
     "number": 699,
     "name": "Revival of Skeleton Rider",
     "type": "Ritual",
+    "purchasable": true,
     "password": "31066283",
     "starCost": 10
   },
@@ -9074,6 +9789,7 @@
     "number": 700,
     "name": "Fortress Whale's Oath",
     "type": "Ritual",
+    "purchasable": true,
     "password": "77454922",
     "starCost": 10
   },
@@ -9088,8 +9804,7 @@
     ],
     "attack": 1950,
     "defense": 1850,
-    "password": "",
-    "starCost": null
+    "purchasable": false
   },
   {
     "number": 702,
@@ -9102,8 +9817,7 @@
     ],
     "attack": 2000,
     "defense": 1800,
-    "password": "",
-    "starCost": null
+    "purchasable": false
   },
   {
     "number": 703,
@@ -9116,8 +9830,7 @@
     ],
     "attack": 2750,
     "defense": 2500,
-    "password": "",
-    "starCost": null
+    "purchasable": false
   },
   {
     "number": 704,
@@ -9130,8 +9843,7 @@
     ],
     "attack": 2050,
     "defense": 2500,
-    "password": "",
-    "starCost": null
+    "purchasable": false
   },
   {
     "number": 705,
@@ -9144,8 +9856,7 @@
     ],
     "attack": 2850,
     "defense": 2350,
-    "password": "",
-    "starCost": null
+    "purchasable": false
   },
   {
     "number": 706,
@@ -9158,8 +9869,7 @@
     ],
     "attack": 2350,
     "defense": 2400,
-    "password": "",
-    "starCost": null
+    "purchasable": false
   },
   {
     "number": 707,
@@ -9172,6 +9882,7 @@
     ],
     "attack": 2650,
     "defense": 2250,
+    "purchasable": true,
     "password": "02504891",
     "starCost": 999999
   },
@@ -9186,8 +9897,7 @@
     ],
     "attack": 2900,
     "defense": 2450,
-    "password": "",
-    "starCost": null
+    "purchasable": false
   },
   {
     "number": 709,
@@ -9200,8 +9910,7 @@
     ],
     "attack": 2450,
     "defense": 2000,
-    "password": "",
-    "starCost": null
+    "purchasable": false
   },
   {
     "number": 710,
@@ -9214,8 +9923,7 @@
     ],
     "attack": 2550,
     "defense": 2500,
-    "password": "",
-    "starCost": null
+    "purchasable": false
   },
   {
     "number": 711,
@@ -9228,6 +9936,7 @@
     ],
     "attack": 2200,
     "defense": 2350,
+    "purchasable": true,
     "password": "38277918",
     "starCost": 999999
   },
@@ -9242,6 +9951,7 @@
     ],
     "attack": 1800,
     "defense": 2000,
+    "purchasable": true,
     "password": "64271667",
     "starCost": 999999
   },
@@ -9256,8 +9966,7 @@
     ],
     "attack": 3500,
     "defense": 2000,
-    "password": "n/a",
-    "starCost": null
+    "purchasable": false
   },
   {
     "number": 714,
@@ -9270,6 +9979,7 @@
     ],
     "attack": 2250,
     "defense": 1800,
+    "purchasable": true,
     "password": "27054370",
     "starCost": 999999
   },
@@ -9284,8 +9994,7 @@
     ],
     "attack": 2000,
     "defense": 2350,
-    "password": "",
-    "starCost": null
+    "purchasable": false
   },
   {
     "number": 716,
@@ -9298,8 +10007,7 @@
     ],
     "attack": 2550,
     "defense": 2150,
-    "password": "",
-    "starCost": null
+    "purchasable": false
   },
   {
     "number": 717,
@@ -9312,8 +10020,7 @@
     ],
     "attack": 2450,
     "defense": 2550,
-    "password": "",
-    "starCost": null
+    "purchasable": false
   },
   {
     "number": 718,
@@ -9326,8 +10033,7 @@
     ],
     "attack": 2350,
     "defense": 2150,
-    "password": "",
-    "starCost": null
+    "purchasable": false
   },
   {
     "number": 719,
@@ -9340,8 +10046,7 @@
     ],
     "attack": 1900,
     "defense": 1850,
-    "password": "",
-    "starCost": null
+    "purchasable": false
   },
   {
     "number": 720,
@@ -9353,14 +10058,14 @@
       "plt"
     ],
     "attack": 2000,
-    "defense": 1800
+    "defense": 1800,
+    "purchasable": false
   },
   {
     "number": 721,
     "name": "Dark Magic Ritual",
     "type": "Ritual",
-    "password": "n/a",
-    "starCost": null
+    "purchasable": false
   },
   {
     "number": 722,
@@ -9373,7 +10078,6 @@
     ],
     "attack": 2800,
     "defense": 2600,
-    "password": "n/a",
-    "starCost": null
+    "purchasable": false
   }
 ]
