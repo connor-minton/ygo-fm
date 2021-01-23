@@ -1,0 +1,589 @@
+-------------
+[AngelWinged]
+These are monsters that have wings like those of an angel.
+More precisely, these are monsters that fuse with The Wicked Worm Beast to
+become Garvas.
+-------------
+Ancient Brain
+Angelwitch
+Dancing Elf
+Dark Witch
+Fusionist
+Happy Lover
+Hourglass of Courage
+Hourglass of Life
+LaMoon
+Lunar Queen Elzaim
+Maiden of the Moonlight
+Ocubeam
+Petit Angel
+Shining Friendship
+Skelengel
+Tenderness
+Wing Egg Elf
+Winged Egg of New Life
+Witch's Apprentice
+
+------
+[Aqua]
+These are monsters of primary type Aqua.
+------
+
+...
+
+-------
+[Beast]
+These are monsters of primary type Beast.
+-------
+
+...
+
+------------
+[Bugrothian]
+These are monsters with strictly less than 1850 attack points that have primary
+type Aqua or first guardian star Neptune and that are not Fish with strictly
+less than 1600 attack points nor Sea Serpents.
+-----------
+
+...
+
+----------
+[Dinosaur]
+These are monsters with primary type Dinosaur.
+----------
+
+...
+
+--------
+[Dragon]
+These are
+- monsters with primary type Dragon with attack level less than 2800;
+- monsters with primary type Sea Serpent;
+- monsters with the word 'dragon' or 'D.' in their names and attack level less
+than 2800, except D. Human, Dragon Piper, Dragon Seeker, Dragoness the Wicked
+Knight, Giltia the D. Knight, Waterdragon Fairy and Winged Dragon #2;
+- Skelgon
+- optionally all monsters with primary type Dragon and attack level
+greater than or equal to 2800, namely B. Skull Dragon,
+Blue-eyes Ultimate Dragon, Blue-eyes White Dragon
+Meteor B. Dragon and Tri-horned Dragon;
+- optionally all monsters with the word 'dragon' or 'D.' in their names and
+attack level greater than or equal to 2800, namely B. Skull Dragon,
+Blue-eyes Ultimate Dragon, Blue-eyes White Dragon, Meteor B. Dragon,
+Tri-horned Dragon and Twin-headed Thunder Dragon
+
+Note: every dragon can be equipped with Dragon Treasure, but there are 36
+monsters that can be equipped with Dragon Treasure that are not dragons.
+--------
+
+...
+
+-----
+[Egg]
+These are monsters with the word 'egg' in their name, except Three-legged
+Zombies.
+-----
+Gorgon Egg
+Monster Egg
+Wing Egg Elf
+Winged Egg of New Life
+
+-----
+[Elf]
+These are
+- monsters with the word 'elf' in their names with attack level less
+than 2000
+- Celtic Guardian
+- optionally the monster with the word 'elf' in its name and attack level
+greater than or equal to 2000, namely Dark Elf.
+-----
+Ancient Elf
+Celtic Guardian
+Dancing Elf
+Gemini Elf
+Mystical Elf
+Wing Egg Elf
+
+-------
+[Fairy]
+These are monsters with primary type Fairy.
+-------
+
+...
+
+-----------------
+[FeatherFromBear]
+These are cards that fuse with Bear Trap to become Harpie's Feather Duster.
+-----------------
+Angelwitch
+Blue-winged Crown
+Faith Bird
+Fusionist
+Happy Lover
+Harpie Lady
+Harpie Lady Sisters
+Hourglass of Life
+LaMoon
+Lisark
+Mavelus
+Monstrous Bird
+Peacock
+Punished Eagle
+Queen Bird
+Skull Red Bird
+Takuhee
+Wing Eagle
+Wing Egg Elf
+
+-------------------
+[FeatherFromHarpie]
+These are cards that fuse with Harpie Lady and Harpie Lady Sisters to become
+Harpie's Feather Duster.
+-------------------
+Bear Trap
+Eatgaboon
+Harpie Lady
+Harpie Lady Sisters
+House of Adhesive Tape
+Invisible Wire
+Machine Conversion Factory
+Magical Labyrinth
+
+--------------------
+[FeatherFromMachine]
+These are cards that fuse with Machine Conversion Factory to become
+Harpie's Feather Duster. All FeatherFromBear cards are included.
+Generally speaking, these are cards with feathers.
+--------------------
+Angelwitch
+Blue-winged Crown
+Crimson Sunbird
+Dark Witch
+Faith Bird
+Fiend Refrection #2
+Flying Penguin
+Follow Wind
+Fusionist
+Hane-Hane
+Happy Lover
+Harpie Lady
+Harpie Lady Sisters
+Hourglass of Courage
+Hourglass of Life
+LaMoon
+Lisark
+Maiden of the Moonlight
+Mavelus
+Monstrous Bird
+Peacock
+Punished Eagle
+Queen Bird
+Shining Friendship
+Skelengel
+Skull Red Bird
+Sky Dragon
+Takuhee
+Tenderness
+Wing Eagle
+Wing Egg Elf
+Winged Egg of New Life
+Winged Trumpeter
+
+--------
+[Female]
+These are monsters that fuse with Stone Ogre Grotto to become Mystical Sand.
+Notes:
+- Performance of Sword, Spirit of the Harp and Spirit of the Winds are not
+female, even though they can be equipped with Cyber Shield and certainly look
+female.
+- Mystical Sand, Empress Judge and Cosmo Queen can be
+considered female, as they can be equipped with Cyber Shield and look female,
+but they don't participate in any fusions as females because their attack level
+is too high.
+- every female and every monster that can be equipped with Cyber Shield can be
+equipped with Electro-whip, but there are dozens of monsters that can be
+equipped with Electro-whip that aren't female and can't be equipped with
+Cyber Shield
+- all females can be equipped with Malevolent Nuzzler
+--------
+Amazon of the Seas
+Ancient Elf
+Angelwitch
+Arlownay
+Beautiful Beast Trainer
+Beautiful Headhuntress
+Dancing Elf
+Dark Elf
+Dark Witch
+Dryad
+Eldeen
+Enchanting Mermaid
+Fairy of the Fountain
+Fairy's Gift
+Gemini Elf
+Goddess of Whim
+Goddess with the Third Eye
+Gyakutenno Megami
+Harpie Lady
+Harpie Lady Sisters
+Hibikime
+Ice Water
+Ill Witch
+Invader of the Throne
+Kanan the Swordmistress
+Key Mace
+Key Mace #2
+LaMoon
+Lady of Faith
+Lunar Queen Elzaim
+Magician of Faith
+Maiden of the Moonlight
+Muse-A
+Mystical Elf
+Nekogal #1
+Nekogal #2
+Nemuriko
+Princess of Tsurugi
+Protector of the Throne
+Queen of Autumn Leaves
+Queen's Double
+Rainbow Marine Mermaid
+Rose Spectre of Dunn
+Sonic Maid
+Succubus Knight
+Vishwar Randi
+Warrior of Tradition
+Water Element
+Water Girl
+Water Magician
+Water Omotics
+Waterdragon Fairy
+Witch of the Black Forest
+Witch's Apprentice
+
+-------
+[Fiend]
+These are monsters of primary type Fiend.
+-------
+
+...
+
+------
+[Fish]
+These are monsters of primary type Fish.
+------
+
+...
+
+-----------
+[Koumorian]
+These are monsters with strictly less than 1500 attack points that
+- have first guardian star Moon and primary type Beast, Beast-Warrior, Dinosaur,
+Dragon, Fiend or Insect or
+- are Kuriboh or Mammoth Graveyard.
+----------
+
+...
+
+--------
+[Insect]
+These are monsters of primary type Insect.
+--------
+
+...
+
+-----
+[Jar]
+These are monsters whose names contain 'jar', 'piper' or 'pot'.
+-----
+Ancient Jar
+Dragon Piper
+Morphing Jar
+Pot the Trick
+
+---------
+[Machine]
+These are monsters of primary type Machine.
+---------
+
+...
+
+---------------
+[MercuryMagicUser]
+These are
+- monsters that have Mercury as their first guardian star with attack strictly
+less than 2000, except Mammoth Graveyard, Kuriboh, Dark Chimera and
+Man-eating Plant
+- Guardian of the Labyrinth
+- optionally, monsters with Mercury as their first guardian star and attack
+greater than or equal to 2000 can be included, namely Chakra, Dark Elf
+Dark Magician, Gaia the Fierce Knight, Magician of Black Chaos,
+Mystical Sand, Serpent Night Dragon and Skull Knight
+---------------
+
+...
+
+-----------------
+[MercurySpellcaster]
+These are monsters with Mercury as their first guardian star that have primary
+type Spellcaster and strictly less than 2150 attack points. Optionally,
+spellcasters with first guardian star Mercury and attack level greater than
+or equal to 2150 may be included, namely Dark Elf, Dark Magician,
+Kamion Wizard, Leo Wizard, Magician of Black Chaos and Skull Knight.
+Note that dark spellcasters are spellcasters that are also dark magic users, if
+we include Dark Elf as a dark magic user.
+-----------------
+
+...
+
+--------
+[Mirror]
+These are monsters that look like or possess a mirror.
+Equivalently, these are monsters whose names contain 'Refrection' or 'Mirror'.
+--------
+Fiend Refrection #1
+Fiend Refrection #2
+Fiend's Mirror
+Job-change Mirror
+Wicked Mirror
+
+------------
+[MusKingian]
+These are monsters that fuse with Hibikime to become Musician King.
+Equivalently, these are monsters that have strictly less than 1750 attack points
+that
+- are non-Elves with first guardian star Sun and primary type Fairy, Spellcaster
+or Warrior that are not Ray & Temperature or
+- are Faith Bird, Guardian of the Throne Room, Lunar Queen Elzaim or Moon Envoy
+Note: don't forget about the two exact fusions that yield Musician King!
+------------
+Binding Chain
+Boo Koo
+Faith Bird
+Goddess of Whim
+Goddess with the Third Eye
+Guardian of the Throne Room
+Happy Lover
+Hoshiningen
+Hourglass of Courage
+Hourglass of Life
+Ill Witch
+Key Mace
+LaMoon
+Lady of Faith
+Lucky Trinket
+Lunar Queen Elzaim
+Magician of Faith
+Maha Vailo
+Masaki the Legendary Swordsman
+Moon Envoy
+Muse-A
+Mystical Capture Chain
+Petit Angel
+Rogue Doll
+Shining Friendship
+Skelengel
+Sonic Maid
+Spirit of the Harp
+Tenderness
+The Judgement Hand
+Weather Control
+White Magical Hat
+Winged Egg of New Life
+
+------------
+[MystElfian]
+These are
+- monsters that have Sun as their first guardian star and strictly less
+than 800 attack points
+- Lunar Queen Elzaim
+------------
+Boo Koo
+Hoshiningen
+Hourglass of Life
+Key Mace
+Lucky Trinket
+Lunar Queen Elzaim
+Magician of Faith
+Mystical Capture Chain
+Petit Angel
+Tenderness
+Weather Control
+Wing Egg Elf
+
+-------
+[Plant]
+These are monsters of primary type Plant.
+-------
+
+...
+
+------
+[Pyro]
+These are monsters that can be equipped with Salamandra and that have strictly
+less than 2100 attack points.
+
+Notes:
+- Crimson Sunbird, Flame Cerebrus and Meteor B. Dragon can be considered
+Pyro monsters, because they can be equipped with Salamandra, but they don't
+participate in any fusions as Pyro monsters because their attack is too high.
+- all monsters with primary type Pyro also have secondary type Pyro.
+------
+Armaill
+Blast Juggler
+Candle of Fate
+Charubin the Fire Knight
+Darkfire Dragon
+Dissolverock
+Dragon Piper
+Fire Eye
+Fire Kraken
+Fire Reaper
+Firegrass
+Firewing Pegasus
+Fireyarou
+Flame Ghost
+Flame Manipulator
+Flame Swordsman
+Flame Viper
+Garoozis
+Hinotama Soul
+Kagemusha of the Blue Flame
+Launcher Spider
+Machine King
+Mavelus
+Metal Dragon
+Tyhone #2
+Vermillion Sparrow
+Wings of Wicked Flame
+Yamadron
+
+---------
+[Rainbow]
+These are monsters that are related to rainbows.
+Equivalently, these are all monsters whose names contain the word 'Rainbow'
+plus Hoshiningen.
+---------
+Hoshiningen
+Rainbow Flower
+Rainbow Marine Mermaid
+
+---------
+[Reptile]
+These are monsters with primary type Reptile.
+---------
+
+...
+
+------
+[Rock]
+These are monsters with primary type Rock.
+------
+
+...
+
+----------
+[Sheepian]
+These are monsters with strictly less than 1150 attack points that
+- have primary type Fiend and are not Candle of Fate or Key Mace #2;
+- have first guardian star Moon and primary type Aqua, Beast,
+Beast-Warrior, Dinosaur, Dragon, Insect, Rock or Zombie or
+- are Blue-eyed Silver Zombie.
+---------
+
+...
+
+-------------
+[Spellcaster]
+These are monsters with primary type Spellcaster.
+-------------
+
+...
+
+----------
+[Thronian]
+These are monsters with strictly less than 1350 attack points that
+- have primary type Fiend and are not Candle of Fate;
+- have first guardian star Moon and primary type Aqua, Beast, Beast-Warrior,
+Dinosaur, Insect or Warrior and are not Air Marmot of Nefariousness, Obese
+Marmot of Nefariousness or Moon Envoy or
+- are Mammoth Graveyard.
+--------
+
+...
+
+---------
+[Thunder]
+These are monsters with primary type Thunder.
+---------
+
+...
+
+--------
+[Turtle]
+These are monsters whose names contain 'turtle' or 'tortoise'.
+Note: Sea King Dragon may optionally be considered a turtle, since it looks
+like one, but doesn't participate in any fusion as a turtle, because of its
+high attack.
+--------
+30,000-Year White Turtle
+Boulder Tortoise
+Catapult Turtle
+Giant Turtle Who Feeds on Flames
+Monsturtle
+Turtle Bird
+Turtle Raccoon
+Turtle Tiger
+
+-------------
+[UsableBeast]
+These are monsters that fuse with Vermillion Sparrow to become Flame Cerebrus.
+All usable beasts have primary type Beast.
+-------------
+Air Marmot of Nefariousness
+Ancient One of the Deep Forest
+Armored Rat
+Burglar
+Dark Gray
+Flower Wolf
+Frenzied Panda
+Fusionist
+Garvas
+Griffore
+Leogun
+Little Chimera
+Master & Expert
+Milus Radiant
+Mystic Horseman
+Mystical Sheep #1
+Mystical Sheep #2
+Obese Marmot of Nefariousness
+Pale Beast
+Prevent Rat
+Silver Fang
+Sleeping Lion
+Synchar
+Togex
+Torike
+Wolf
+
+---------
+[Warrior]
+These are monsters with primary type Warrior.
+---------
+
+...
+
+--------------
+[Winged Beast]
+These are monsters with primary type Winged Beast.
+--------------
+
+...
+
+--------
+[Zombie]
+These are monsters with primary type Zombie.
+--------
+
+...

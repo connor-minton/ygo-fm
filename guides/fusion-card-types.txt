@@ -1,0 +1,389 @@
+30,000-Year White Turtle         | Bugrothian Turtle
+7 Colored Fish                   | Bugrothian
+Air Marmot of Nefariousness      | Koumorian Sheepian UsableBeast
+Akakieisu                        | MercuryMagicUser MercurySpellcaster
+Akihiron                         | Bugrothian
+Amazon of the Seas               | Female
+Ameba                            | Bugrothian
+Ancient Brain                    | AngelWinged MercuryMagicUser Sheepian
+                                   Thronian
+Ancient Elf                      | Elf Female
+Ancient Jar                      | Jar
+Ancient Lizard Warrior           | Bugrothian
+Ancient One of the Deep Forest   | UsableBeast
+Ancient Sorcerer                 | MercuryMagicUser MercurySpellcaster
+Angelwitch                       | AngelWinged FeatherFromBear
+                                   FeatherFromMachine Female MercuryMagicUser
+                                   MercurySpellcaster
+Ansatsu                          | MercuryMagicUser
+Aqua Dragon                      | Dragon
+Aqua Madoor                      | Bugrothian
+Aqua Snake                       | Bugrothian
+Arlownay                         | Female
+Arma Knight                      | Bugrothian
+Armaill                          | Pyro
+Armed Ninja                      | Bugrothian
+Armored Lizard                   | Bugrothian
+Armored Rat                      | UsableBeast
+Armored Starfish                 | Bugrothian
+B. Dragon Jungle King            | Dragon
+Baby Dragon                      | Dragon
+Beaked Snake                     | Bugrothian
+Bear Trap                        | FeatherFromHarpie
+Beastking of the Swamps          | Bugrothian
+Beautiful Beast Trainer          | Female
+Beautiful Headhuntress           | Female MercuryMagicUser
+Behegon                          | Bugrothian
+Big Eye                          | Thronian
+Binding Chain                    | MusKingian
+Bio Plant                        | Sheepian Thronian
+Blackland Fire Dragon            | Dragon MercuryMagicUser
+Blast Juggler                    | Pyro
+Blue-eyed Silver Zombie          | Sheepian
+Blue-winged Crown                | FeatherFromBear FeatherFromMachine
+Bone Mouse                       | Sheepian
+Boo Koo                          | MusKingian MystElfian
+Bottom Dweller                   | Bugrothian
+Boulder Tortoise                 | Bugrothian Turtle
+Burglar                          | UsableBeast
+Candle of Fate                   | Pyro
+Castle of Dark Illusions         | MercuryMagicUser Sheepian Thronian
+Catapult Turtle                  | Bugrothian Turtle
+Celtic Guardian                  | Elf
+Change Slime                     | Bugrothian
+Charubin the Fire Knight         | Pyro
+Claw Reacher                     | MercuryMagicUser Sheepian Thronian
+Corroding Shark                  | Sheepian
+Crab Turtle                      | Turtle
+Crawling Dragon                  | Dragon
+Crawling Dragon #2               | Dragon
+Crazy Fish                       | Bugrothian
+Crimson Sunbird                  | FeatherFromMachine
+Curse of Dragon                  | Dragon
+Curtain of the Dark Ones         | MercuryMagicUser MercurySpellcaster
+Dancing Elf                      | AngelWinged Elf Female
+Dark Artist                      | MercuryMagicUser Sheepian Thronian
+Dark Elf                         | Female MercuryMagicUser MercurySpellcaster
+Dark Gray                        | UsableBeast
+Dark King of the Abyss           | MercuryMagicUser Thronian
+Dark Prisoner                    | MercuryMagicUser Sheepian Thronian
+Dark Rabbit                      | Koumorian Sheepian Thronian
+Dark Shade                       | Sheepian Thronian
+Dark Titan of Terror             | MercuryMagicUser Thronian
+Dark Witch                       | AngelWinged FeatherFromMachine Female
+Darkfire Dragon                  | Dragon Pyro
+Dissolverock                     | Pyro
+Dokuroizo the Grim Reaper        | Sheepian
+Doma The Angel of Silence        | MercuryMagicUser
+Doron                            | Bugrothian
+Dorover                          | Bugrothian
+Dragon Piper                     | Jar Pyro
+Dragon Statue                    | Dragon
+Dragon Zombie                    | Dragon
+Drooling Lizard                  | Bugrothian
+Dryad                            | Female
+Eatgaboon                        | FeatherFromHarpie
+Eldeen                           | Female MercuryMagicUser MercurySpellcaster
+Embryonic Beast                  | Koumorian Sheepian Thronian
+Emperor of the Land and Sea      | Bugrothian
+Enchanting Mermaid               | Female
+Exodia the Forbidden             | MercuryMagicUser MercurySpellcaster
+Fairy Dragon                     | Dragon
+Fairy of the Fountain            | Bugrothian Female
+Fairy's Gift                     | Female
+Faith Bird                       | FeatherFromBear FeatherFromMachine
+                                   MusKingian
+Feral Imp                        | Koumorian Thronian
+Fiend Kraken                     | Bugrothian
+Fiend Refrection #1              | Mirror
+Fiend Refrection #2              | FeatherFromMachine Mirror
+Fiend's Hand                     | Sheepian
+Fiend's Mirror                   | Mirror
+Fire Eye                         | Pyro
+Fire Kraken                      | Bugrothian Pyro
+Fire Reaper                      | Pyro
+Firegrass                        | Pyro
+Firewing Pegasus                 | Pyro
+Fireyarou                        | Pyro
+Flame Ghost                      | Pyro
+Flame Manipulator                | Pyro
+Flame Swordsman                  | Pyro
+Flame Viper                      | Pyro
+Flower Wolf                      | UsableBeast
+Flying Penguin                   | Bugrothian FeatherFromMachine
+Follow Wind                      | FeatherFromMachine
+Frenzied Panda                   | UsableBeast
+Frog The Jam                     | Bugrothian
+Fungi of the Musk                | Sheepian Thronian
+Fusionist                        | AngelWinged FeatherFromBear
+                                   FeatherFromMachine UsableBeast
+Gaia the Dragon Champion         | Dragon
+Garoozis                         | Pyro
+Garvas                           | UsableBeast
+Gate Deeg                        | Koumorian Sheepian Thronian
+Gatekeeper                       | MercuryMagicUser
+Gemini Elf                       | Elf Female
+Giant Red Seasnake               | Bugrothian
+Giant Turtle Who Feeds on Flames | Bugrothian Turtle
+Goddess of Whim                  | Female MusKingian
+Goddess with the Third Eye       | Female MusKingian
+Gorgon Egg                       | Egg Koumorian Sheepian Thronian
+Grappler                         | Bugrothian
+Graveyard and the Hand of Invitation | Sheepian
+Great White                      | Bugrothian
+Greenkappa                       | Thronian
+Griffore                         | UsableBeast
+Gruesome Goo                     | Bugrothian
+Guardian of the Labyrinth        | MercuryMagicUser
+Guardian of the Sea              | Bugrothian
+Guardian of the Throne Room      | MusKingian
+Gyakutenno Megami                | Female
+Hane-Hane                        | FeatherFromMachine
+Happy Lover                      | AngelWinged FeatherFromBear
+                                   FeatherFromMachine MusKingian
+Harpie Lady                      | FeatherFromBear FeatherFromHarpie
+                                   FeatherFromMachine Female
+Harpie Lady Sisters              | FeatherFromBear FeatherFromHarpie
+                                   FeatherFromMachine Female
+Harpie's Pet Dragon              | Dragon
+Hibikime                         | Female MercuryMagicUser
+High Tide Gyojin                 | Bugrothian
+Hinotama Soul                    | Pyro
+Hiro's Shadow Scout              | Koumorian Sheepian Thronian
+Hitodenchak                      | Bugrothian
+Hitotsu-me Giant                 | Koumorian Thronian
+Horn Imp                         | Koumorian Thronian
+Hoshiningen                      | MusKingian MystElfian Rainbow
+Hourglass of Courage             | AngelWinged FeatherFromMachine MusKingian
+Hourglass of Life                | AngelWinged FeatherFromBear
+                                   FeatherFromMachine MusKingian MystElfian
+House of Adhesive Tape           | FeatherFromHarpie
+Hyo                              | Bugrothian
+Hyosube                          | Bugrothian
+Ice Water                        | Bugrothian Female
+Ill Witch                        | Female MusKingian
+Invader from Another Dimension   | Sheepian Thronian
+Invader of the Throne            | Female
+Invisible Wire                   | FeatherFromHarpie
+Jellyfish                        | Bugrothian
+Job-change Mirror                | MercuryMagicUser Mirror Sheepian Thronian
+Kagemusha of the Blue Flame      | Pyro
+Kageningen                       | Thronian
+Kairyu-shin                      | Dragon
+Kaiser Dragon                    | Dragon
+Kamion Wizard                    | MercuryMagicUser MercurySpellcaster
+Kanan the Swordmistress          | Female
+Kanikabuto                       | Bugrothian
+Kappa Avenger                    | Bugrothian
+Key Mace                         | Female MusKingian MystElfian
+Key Mace #2                      | Female MercuryMagicUser Thronian
+King Fog                         | MercuryMagicUser Sheepian Thronian
+Koumori Dragon                   | Dragon
+Krokodilus                       | Bugrothian
+Kuriboh                          | Koumorian Sheepian Thronian
+La Jinn the Mystical Genie       | MercuryMagicUser
+LaMoon                           | AngelWinged FeatherFromBear
+FeatherFromMachine Female MusKingian
+Lady of Faith                    | Female MusKingian
+Launcher Spider                  | Pyro
+Lava Battleguard                 | MercuryMagicUser
+Left Arm of the Forbidden One    | MercuryMagicUser MercurySpellcaster
+Left Leg of the Forbidden One    | MercuryMagicUser MercurySpellcaster
+Leo Wizard                       | MercuryMagicUser MercurySpellcaster
+Leogun                           | UsableBeast
+Lesser Dragon                    | Dragon Koumorian
+Liquid Beast                     | Bugrothian
+Lisark                           | FeatherFromBear FeatherFromMachine
+Little Chimera                   | UsableBeast
+Lord of Zemia                    | MercuryMagicUser Thronian
+Lord of the Lamp                 | MercuryMagicUser
+Lucky Trinket                    | MusKingian MystElfian
+Lunar Queen Elzaim               | AngelWinged Female MusKingian MystElfian
+Machine Conversion Factory       | FeatherFromHarpie
+Machine King                     | Pyro
+Madjinn Gunn                     | Koumorian Sheepian Thronian
+Magical Labyrinth                | FeatherFromHarpie
+Magician of Faith                | Female MusKingian MystElfian
+Maha Vailo                       | MusKingian
+Maiden of the Moonlight          | AngelWinged FeatherFromMachine Female
+Mammoth Graveyard                | Koumorian Thronian
+Marine Beast                     | Bugrothian
+Masaki the Legendary Swordsman   | MusKingian
+Mask of Darkness                 | MercuryMagicUser Sheepian Thronian
+Masked Clown                     | MercuryMagicUser
+Masked Sorcerer                  | MercuryMagicUser MercurySpellcaster
+Master & Expert                  | UsableBeast
+Mavelus                          | FeatherFromBear FeatherFromMachine Pyro
+Mech Bass                        | Bugrothian
+Mech Mole Zombie                 | Sheepian
+Mechaleon                        | Bugrothian
+Meda Bat                         | Koumorian Sheepian Thronian
+Megirus Light                    | MercuryMagicUser Sheepian Thronian
+Meotoko                          | Koumorian Sheepian Thronian
+Metal Dragon                     | Dragon Pyro
+Metal Fish                       | Bugrothian
+Metal Guardian                   | Koumorian Thronian
+Meteor Dragon                    | Dragon
+Midnight Fiend                   | Koumorian Sheepian Thronian
+Mikazukinoyaiba                  | Dragon
+Milus Radiant                    | UsableBeast
+Minar                            | Koumorian Sheepian Thronian
+Monster Egg                      | Egg
+Monster Eye                      | Koumorian Sheepian Thronian
+Monstrous Bird                   | FeatherFromBear FeatherFromMachine
+Monsturtle                       | Bugrothian Turtle
+Moon Envoy                       | MusKingian
+Morphing Jar                     | Jar
+Muse-A                           | Female MusKingian
+Mystery Hand                     | Koumorian Sheepian Thronian
+Mystic Clown                     | MercuryMagicUser
+Mystic Horseman                  | UsableBeast
+Mystic Lamp                      | MercuryMagicUser MercurySpellcaster
+Mystical Capture Chain           | MusKingian MystElfian
+Mystical Elf                     | Elf Female
+Mystical Sheep #1                | UsableBeast
+Mystical Sheep #2                | UsableBeast
+Needle Ball                      | Koumorian Sheepian Thronian
+Nekogal #1                       | Female
+Nekogal #2                       | Female
+Nemuriko                         | Female MercuryMagicUser MercurySpellcaster
+Night Lizard                     | Bugrothian
+Obese Marmot of Nefariousness    | Koumorian Sheepian UsableBeast
+Octoberser                       | Bugrothian
+Ocubeam                          | AngelWinged
+Ogre of the Black Shadow         | Koumorian Thronian
+One Who Hunts Souls              | Koumorian Sheepian Thronian
+One-eyed Shield Dragon           | Dragon
+Ooguchi                          | Bugrothian
+Pale Beast                       | UsableBeast
+Parrot Dragon                    | Dragon
+Peacock                          | FeatherFromBear FeatherFromMachine
+Pendulum Machine                 | MercuryMagicUser
+Penguin Knight                   | Bugrothian
+Penguin Soldier                  | Bugrothian
+Petit Angel                      | AngelWinged MusKingian MystElfian
+Petit Dragon                     | Dragon
+Phantom Dewan                    | MercuryMagicUser MercurySpellcaster
+Phantom Ghost                    | Sheepian
+Pot the Trick                    | Jar Sheepian
+Prevent Rat                      | UsableBeast
+Princess of Tsurugi              | Female
+Protector of the Throne          | Female
+Psychic Kappa                    | Bugrothian
+Punished Eagle                   | FeatherFromBear FeatherFromMachine
+Queen Bird                       | FeatherFromBear FeatherFromMachine
+Queen of Autumn Leaves           | Female
+Queen's Double                   | Female
+Rainbow Flower                   | Rainbow
+Rainbow Marine Mermaid           | Female Rainbow
+Reaper of the Cards              | Koumorian
+Red-eyes B. Dragon               | Dragon
+Rhaimundos of the Red Sword      | Bugrothian
+Right Arm of the Forbidden One   | MercuryMagicUser MercurySpellcaster
+Right Leg of the Forbidden One   | MercuryMagicUser MercurySpellcaster
+Rogue Doll                       | MusKingian
+Rose Spectre of Dunn             | Female
+Ryu-kishin                       | Sheepian Thronian
+Saggi the Dark Clown             | MercuryMagicUser MercurySpellcaster
+Sangan                           | Koumorian Sheepian Thronian
+Sea Kamen                        | Bugrothian
+Sea King Dragon                  | Dragon
+Sectarian of Secrets             | MercuryMagicUser MercurySpellcaster
+Seiyaryu                         | Dragon
+Serpent Marauder                 | Bugrothian
+Serpent Night Dragon             | Dragon
+Shadow Specter                   | Sheepian
+Shining Friendship               | AngelWinged FeatherFromMachine MusKingian
+Silver Fang                      | UsableBeast
+Sinister Serpent                 | Bugrothian
+Skelengel                        | AngelWinged FeatherFromMachine MusKingian
+Skelgon                          | Dragon
+Skull Red Bird                   | FeatherFromBear FeatherFromMachine
+Skull Servant                    | Sheepian
+Skull Stalker                    | Thronian
+Sky Dragon                       | Dragon FeatherFromMachine
+Sleeping Lion                    | UsableBeast
+Solitude                         | Koumorian Sheepian Thronian
+Sonic Maid                       | Female MusKingian
+Spike Seadra                     | Dragon
+Spiked Snail                     | Koumorian Sheepian Thronian
+Spirit of the Harp               | MusKingian
+Star Boy                         | Bugrothian
+Stone D.                         | Dragon
+Stuffed Animal                   | Thronian
+Succubus Knight                  | Female MercuryMagicUser
+Swamp Battleguard                | MercuryMagicUser
+Sword Arm of Dragon              | Dragon
+Synchar                          | UsableBeast
+Tainted Wisdom                   | Koumorian Thronian
+Takriminos                       | Dragon
+Takuhee                          | FeatherFromBear FeatherFromMachine
+Tatsunootoshigo                  | Bugrothian
+Temple of Skulls                 | MercuryMagicUser
+Tenderness                       | AngelWinged FeatherFromMachine
+                                   MusKingian MystElfian
+Terra the Terrible               | Koumorian Thronian
+That Which Feeds on Life         | MercuryMagicUser Thronian
+The Drdek                        | Koumorian Sheepian Thronian
+The Furious Sea King             | Bugrothian
+The Judgement Hand               | MusKingian
+The Little Swordsman of Aile     | Bugrothian
+The Melting Red Shadow           | Bugrothian Sheepian Thronian
+The Shadow Who Controls the Dark | MercuryMagicUser Sheepian Thronian
+The Wandering Doomed             | Sheepian
+Thousand Dragon                  | Dragon
+Three-legged Zombies             | Sheepian
+Thunder Dragon                   | Dragon
+Toad Master                      | Bugrothian
+Togex                            | UsableBeast
+Toon Alligator                   | Bugrothian
+Torike                           | UsableBeast
+Trap Master                      | MercuryMagicUser
+Trial of Nightmares              | Koumorian Thronian
+Turtle Bird                      | Turtle
+Turtle Raccoon                   | Bugrothian Turtle
+Turtle Tiger                     | Bugrothian Turtle
+Turu-Purun                       | Bugrothian
+Twin Long Rods #1                | Bugrothian Sheepian Thronian
+Twin Long Rods #2                | Bugrothian
+Two-mouth Darkruler              | Koumorian Sheepian Thronian
+Tyhone #2                        | Dragon Pyro
+Unknown Warrior of Fiend         | MercuryMagicUser
+Vermillion Sparrow               | Pyro
+Versago the Destroyer            | MercuryMagicUser Sheepian Thronian
+Violent Rain                     | Bugrothian
+Vishwar Randi                    | Female MercuryMagicUser
+Warrior of Tradition             | Female MercuryMagicUser
+Water Element                    | Bugrothian Female
+Water Girl                       | Bugrothian Female
+Water Magician                   | Bugrothian Female
+Water Omotics                    | Bugrothian Female
+Waterdragon Fairy                | Bugrothian Female
+Weather Control                  | MusKingian MystElfian
+Weather Report                   | Bugrothian
+Wetha                            | Bugrothian
+White Magical Hat                | MusKingian
+Wicked Dragon with the Ersatz Head | Dragon Koumorian Sheepian
+Wicked Mirror                    | Mirror Sheepian Thronian
+Wing Eagle                       | FeatherFromBear FeatherFromMachine
+Wing Egg Elf                     | AngelWinged Egg Elf FeatherFromBear
+                                   FeatherFromMachine MystElfian
+Winged Dragon #1                 | Dragon
+Winged Egg of New Life           | AngelWinged Egg FeatherFromMachine
+                                   MusKingian
+Winged Trumpeter                 | FeatherFromMachine
+Wings of Wicked Flame            | Pyro
+Witch of the Black Forest        | Female MercuryMagicUser MercurySpellcaster
+Witch's Apprentice               | AngelWinged Female MercuryMagicUser
+                                   MercurySpellcaster
+Witty Phantom                    | MercuryMagicUser
+Wolf                             | UsableBeast
+Wood Clown                       | MercuryMagicUser
+Wretched Ghost of the Attic      | MercuryMagicUser Sheepian Thronian
+Yado Karu                        | Bugrothian
+Yamadron                         | Dragon Pyro
+Yamatano Dragon Scroll           | Dragon
+Yormungarde                      | Bugrothian
+Zarigun                          | Bugrothian
+Zone Eater                       | Bugrothian
+Restore Page
