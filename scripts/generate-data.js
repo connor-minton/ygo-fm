@@ -11,6 +11,10 @@ const generators = [
   {
     generate: require('./generators/fandom-cards'),
     filename: 'fandom-cards.json'
+  },
+  {
+    generate: require('./generators/cards'),
+    filename: 'cards.json'
   }
 ];
 
