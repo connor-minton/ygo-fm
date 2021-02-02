@@ -1,11 +1,11 @@
 const validators = [
   {
-    validate: require('./validators/cards'),
-    name: 'cards.json + more-cards.json'
+    validate: require('./validators/guide-1-cards'),
+    name: 'guide-1-cards.json'
   },
   {
-    validate: require('./validators/fandom-card-list'),
-    name: 'fandom-card-list.json'
+    validate: require('./validators/fandom-cards'),
+    name: 'fandom-cards.json'
   }
 ];
 

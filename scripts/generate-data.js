@@ -1,15 +1,20 @@
 const path = require('path');
 const generators = [
   {
-    generate: require('./generators/cards'),
-    filename: '../data/cards.json'
+    generate: require('./generators/guide-1-cards'),
+    filename: 'guide-1-cards.json'
   },
   {
-    generate: require('./generators/fandom-card-list'),
-    filename: '../data/fandom-card-list.json'
+    generate: require('./generators/fusion-card-types-cards'),
+    filename: 'fusion-card-types-cards.json'
+  },
+  {
+    generate: require('./generators/fandom-cards'),
+    filename: 'fandom-cards.json'
   }
 ];
 
 for (let generator of generators) {
-  generator.generate(path.join(__dirname, generator.filename));
+  console.log('Generating ' + generator.filename + '...');
+  generator.generate(path.join(__dirname, '../data', generator.filename));
 }

@@ -1,7 +1,5 @@
 const fs = require('fs');
 const path = require('path');
-const _ = require('lodash');
-const util = require('../../util');
 const { titleCase } = require('title-case');
 
 function gsAbbr(fullGuardianStar) {
@@ -159,96 +157,9 @@ class GuideParser {
   }
 };
 
-class CardTypesParser {
-  constructor(guide) {
-    this.lines = guide.toString().split('\n');
-    this.lineNum = 0;
-  }
-
-  getCards() {
-    const cards = [];
-
-    while (this.hasNextCard()) {
-      cards.push(this.nextCard());
-    }
-
-    return cards;
-  }
-
-  hasNextCard() {
-    this._findNextCard();
-    return this._hasNextCard;
-  }
-
-  nextCard() {
-    this._findNextCard();
-    const card = {};
-
-    let [cardName, rhs] = this.lines[this.lineNum].split('|');
-    cardName = cardName.trim();
-    rhs = rhs.trim();
-    card.name = cardName;
-    card.types = rhs.split(/\s+/);
-
-    this.lineNum++;
-    let line = this.lines[this.lineNum];
-    while (this.lineNum < this.lines.length && !line.includes('|')) {
-      card.types = card.types.concat(line.trim().split(/\s+/));
-      this.lineNum++;
-      line = this.lines[this.lineNum];
-    }
-
-    return card;
-  }
-
-  _findNextCard() {
-    let line = this.lines[this.lineNum];
-    while (this.lineNum < this.lines.length && !line.includes('|')) {
-      this.lineNum++;
-      line = this.lines[this.lineNum];
-    }
-
-    if (this.lineNum >= this.lines.length) {
-      this._hasNextCard = false;
-      return;
-    }
-
-    this._hasNextCard = true;
-  }
-}
-
 module.exports = (filename) => {
   const guide = new GuideParser(fs.readFileSync(path.join(__dirname, '../../guides/guide-1.txt')));
   const cards = guide.getCards();
 
-  const cardTypesParser = new CardTypesParser(fs.readFileSync(
-    path.join(__dirname, '../../guides/fusion-card-types.txt')
-  ));
-  const moreCards = cardTypesParser.getCards();
-
-  // const namesSet1 = new Set();
-  // const namesSet2 = new Set();
-
-  // for (let card of cards) {
-  //   namesSet1.add(card.name.toLowerCase());
-  // }
-  // for (let card of moreCards) {
-  //   namesSet2.add(card.name.toLowerCase());
-  // }
-
-  // const set1minus2 = util.setDifference(namesSet1, namesSet2);
-  // const set2minus1 = util.setDifference(namesSet2, namesSet1);
-
-  // console.log('There are ' + set1minus2.size + ' cards in first but not in second');
-  // for (let card of set1minus2) {
-  //   console.log('  - ' + card);
-  // }
-
-  // console.log('There are ' + set2minus1.size + ' cards in second but not in first');
-  // for (let card of set2minus1) {
-  //   console.log('  - ' + card);
-  // }
-
   fs.writeFileSync(filename, JSON.stringify(cards, null, 2));
-  fs.writeFileSync(__dirname + '/../../data/more-cards.json', JSON.stringify(moreCards, null, 2));
 };

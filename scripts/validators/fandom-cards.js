@@ -2,24 +2,22 @@ const _ = require('lodash');
 
 let cards;
 try {
-  cards = require('../../data/cards');
+  cards = require('../../data/fandom-cards.json');
 }
 catch (e) { }
 
 const MONSTER_TYPES = [
-  'Beast Warrior', 'Warrior', 'Aqua',
+  'Beast-Warrior', 'Warrior', 'Aqua',
   'Beast', 'Dinosaur', 'Dragon', 'Fairy', 'Fiend', 'Fish', 'Insect', 'Reptile',
   'Machine', 'Plant', 'Pyro', 'Rock', 'Spellcaster', 'Thunder', 'Winged Beast',
   'Zombie', 'Sea Serpent'
 ];
 
 const MAGIC_TRAP_TYPES = [
-  'Magic', 'Equip Magic', 'Terrain Magic', 'Ritual', 'Trap'
+  'Magic', 'Equip', 'Field', 'Ritual', 'Trap'
 ];
 
-const GUARDIAN_STARS = [
-  'sun', 'mon', 'vns', 'mrc', 'stn', 'urn', 'plt', 'npt', 'mrs', 'jpt'
-];
+const TYPES = ['Monster', ...MAGIC_TRAP_TYPES];
 
 function makeError(i, card, msg) {
   let errstr = `[${i}]: `;
@@ -44,19 +42,6 @@ function validateMonster(errors, i, card) {
   else if (typeof card.defense !== 'number') {
     errors.push(makeError(i, card, 'defense is not a number'));
   }
-
-  if (!Array.isArray(card.guardianStars)) {
-    errors.push(makeError(i, card, 'guardianStars is not an array'));
-  }
-  else if (card.guardianStars.length !== 2) {
-    errors.push(makeError(i, card, 'card does not have exactly 2 guardian stars'));
-  }
-  else {
-    for (let gs of card.guardianStars) {
-      if (!GUARDIAN_STARS.includes(gs))
-        errors.push(makeError(i, card, `unknown guardian star "${gs}"`));
-    }
-  }
 }
 
 function validateMagicTrap(errors, i, card) {
@@ -65,10 +50,6 @@ function validateMagicTrap(errors, i, card) {
   }
   if (card.defense != null) {
     errors.push(makeError(i, card, 'card is magic/trap but has defense'));
-  }
-
-  if (card.guardianStars != null) {
-    errors.push(makeError(i, card, 'card is magic/trap but has guardian stars'));
   }
 }
 
@@ -110,6 +91,10 @@ module.exports = () => {
         errors.push(makeError(i, card, 'are you missing a card?'));
         cardNumGuess = -2;
       }
+    }
+
+    if (!TYPES.includes(card.cardType)) {
+      errors.push(makeError(i, card, `card type "${card.cardType}" is an unknown type`));
     }
 
     if (MONSTER_TYPES.includes(card.type)) {
