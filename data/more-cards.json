@@ -1,0 +1,2491 @@
+[
+  {
+    "name": "30,000-Year White Turtle",
+    "types": [
+      "Bugrothian",
+      "Turtle"
+    ]
+  },
+  {
+    "name": "7 Colored Fish",
+    "types": [
+      "Bugrothian"
+    ]
+  },
+  {
+    "name": "Air Marmot of Nefariousness",
+    "types": [
+      "Koumorian",
+      "Sheepian",
+      "UsableBeast"
+    ]
+  },
+  {
+    "name": "Akakieisu",
+    "types": [
+      "MercuryMagicUser",
+      "MercurySpellcaster"
+    ]
+  },
+  {
+    "name": "Akihiron",
+    "types": [
+      "Bugrothian"
+    ]
+  },
+  {
+    "name": "Amazon of the Seas",
+    "types": [
+      "Female"
+    ]
+  },
+  {
+    "name": "Ameba",
+    "types": [
+      "Bugrothian"
+    ]
+  },
+  {
+    "name": "Ancient Brain",
+    "types": [
+      "AngelWinged",
+      "MercuryMagicUser",
+      "Sheepian",
+      "Thronian"
+    ]
+  },
+  {
+    "name": "Ancient Elf",
+    "types": [
+      "Elf",
+      "Female"
+    ]
+  },
+  {
+    "name": "Ancient Jar",
+    "types": [
+      "Jar"
+    ]
+  },
+  {
+    "name": "Ancient Lizard Warrior",
+    "types": [
+      "Bugrothian"
+    ]
+  },
+  {
+    "name": "Ancient One of the Deep Forest",
+    "types": [
+      "UsableBeast"
+    ]
+  },
+  {
+    "name": "Ancient Sorcerer",
+    "types": [
+      "MercuryMagicUser",
+      "MercurySpellcaster"
+    ]
+  },
+  {
+    "name": "Angelwitch",
+    "types": [
+      "AngelWinged",
+      "FeatherFromBear",
+      "FeatherFromMachine",
+      "Female",
+      "MercuryMagicUser",
+      "MercurySpellcaster"
+    ]
+  },
+  {
+    "name": "Ansatsu",
+    "types": [
+      "MercuryMagicUser"
+    ]
+  },
+  {
+    "name": "Aqua Dragon",
+    "types": [
+      "Dragon"
+    ]
+  },
+  {
+    "name": "Aqua Madoor",
+    "types": [
+      "Bugrothian"
+    ]
+  },
+  {
+    "name": "Aqua Snake",
+    "types": [
+      "Bugrothian"
+    ]
+  },
+  {
+    "name": "Arlownay",
+    "types": [
+      "Female"
+    ]
+  },
+  {
+    "name": "Arma Knight",
+    "types": [
+      "Bugrothian"
+    ]
+  },
+  {
+    "name": "Armaill",
+    "types": [
+      "Pyro"
+    ]
+  },
+  {
+    "name": "Armed Ninja",
+    "types": [
+      "Bugrothian"
+    ]
+  },
+  {
+    "name": "Armored Lizard",
+    "types": [
+      "Bugrothian"
+    ]
+  },
+  {
+    "name": "Armored Rat",
+    "types": [
+      "UsableBeast"
+    ]
+  },
+  {
+    "name": "Armored Starfish",
+    "types": [
+      "Bugrothian"
+    ]
+  },
+  {
+    "name": "B. Dragon Jungle King",
+    "types": [
+      "Dragon"
+    ]
+  },
+  {
+    "name": "Baby Dragon",
+    "types": [
+      "Dragon"
+    ]
+  },
+  {
+    "name": "Beaked Snake",
+    "types": [
+      "Bugrothian"
+    ]
+  },
+  {
+    "name": "Bear Trap",
+    "types": [
+      "FeatherFromHarpie"
+    ]
+  },
+  {
+    "name": "Beastking of the Swamps",
+    "types": [
+      "Bugrothian"
+    ]
+  },
+  {
+    "name": "Beautiful Beast Trainer",
+    "types": [
+      "Female"
+    ]
+  },
+  {
+    "name": "Beautiful Headhuntress",
+    "types": [
+      "Female",
+      "MercuryMagicUser"
+    ]
+  },
+  {
+    "name": "Behegon",
+    "types": [
+      "Bugrothian"
+    ]
+  },
+  {
+    "name": "Big Eye",
+    "types": [
+      "Thronian"
+    ]
+  },
+  {
+    "name": "Binding Chain",
+    "types": [
+      "MusKingian"
+    ]
+  },
+  {
+    "name": "Bio Plant",
+    "types": [
+      "Sheepian",
+      "Thronian"
+    ]
+  },
+  {
+    "name": "Blackland Fire Dragon",
+    "types": [
+      "Dragon",
+      "MercuryMagicUser"
+    ]
+  },
+  {
+    "name": "Blast Juggler",
+    "types": [
+      "Pyro"
+    ]
+  },
+  {
+    "name": "Blue-eyed Silver Zombie",
+    "types": [
+      "Sheepian"
+    ]
+  },
+  {
+    "name": "Blue-winged Crown",
+    "types": [
+      "FeatherFromBear",
+      "FeatherFromMachine"
+    ]
+  },
+  {
+    "name": "Bone Mouse",
+    "types": [
+      "Sheepian"
+    ]
+  },
+  {
+    "name": "Boo Koo",
+    "types": [
+      "MusKingian",
+      "MystElfian"
+    ]
+  },
+  {
+    "name": "Bottom Dweller",
+    "types": [
+      "Bugrothian"
+    ]
+  },
+  {
+    "name": "Boulder Tortoise",
+    "types": [
+      "Bugrothian",
+      "Turtle"
+    ]
+  },
+  {
+    "name": "Burglar",
+    "types": [
+      "UsableBeast"
+    ]
+  },
+  {
+    "name": "Candle of Fate",
+    "types": [
+      "Pyro"
+    ]
+  },
+  {
+    "name": "Castle of Dark Illusions",
+    "types": [
+      "MercuryMagicUser",
+      "Sheepian",
+      "Thronian"
+    ]
+  },
+  {
+    "name": "Catapult Turtle",
+    "types": [
+      "Bugrothian",
+      "Turtle"
+    ]
+  },
+  {
+    "name": "Celtic Guardian",
+    "types": [
+      "Elf"
+    ]
+  },
+  {
+    "name": "Change Slime",
+    "types": [
+      "Bugrothian"
+    ]
+  },
+  {
+    "name": "Charubin the Fire Knight",
+    "types": [
+      "Pyro"
+    ]
+  },
+  {
+    "name": "Claw Reacher",
+    "types": [
+      "MercuryMagicUser",
+      "Sheepian",
+      "Thronian"
+    ]
+  },
+  {
+    "name": "Corroding Shark",
+    "types": [
+      "Sheepian"
+    ]
+  },
+  {
+    "name": "Crab Turtle",
+    "types": [
+      "Turtle"
+    ]
+  },
+  {
+    "name": "Crawling Dragon",
+    "types": [
+      "Dragon"
+    ]
+  },
+  {
+    "name": "Crawling Dragon #2",
+    "types": [
+      "Dragon"
+    ]
+  },
+  {
+    "name": "Crazy Fish",
+    "types": [
+      "Bugrothian"
+    ]
+  },
+  {
+    "name": "Crimson Sunbird",
+    "types": [
+      "FeatherFromMachine"
+    ]
+  },
+  {
+    "name": "Curse of Dragon",
+    "types": [
+      "Dragon"
+    ]
+  },
+  {
+    "name": "Curtain of the Dark Ones",
+    "types": [
+      "MercuryMagicUser",
+      "MercurySpellcaster"
+    ]
+  },
+  {
+    "name": "Dancing Elf",
+    "types": [
+      "AngelWinged",
+      "Elf",
+      "Female"
+    ]
+  },
+  {
+    "name": "Dark Artist",
+    "types": [
+      "MercuryMagicUser",
+      "Sheepian",
+      "Thronian"
+    ]
+  },
+  {
+    "name": "Dark Elf",
+    "types": [
+      "Female",
+      "MercuryMagicUser",
+      "MercurySpellcaster"
+    ]
+  },
+  {
+    "name": "Dark Gray",
+    "types": [
+      "UsableBeast"
+    ]
+  },
+  {
+    "name": "Dark King of the Abyss",
+    "types": [
+      "MercuryMagicUser",
+      "Thronian"
+    ]
+  },
+  {
+    "name": "Dark Prisoner",
+    "types": [
+      "MercuryMagicUser",
+      "Sheepian",
+      "Thronian"
+    ]
+  },
+  {
+    "name": "Dark Rabbit",
+    "types": [
+      "Koumorian",
+      "Sheepian",
+      "Thronian"
+    ]
+  },
+  {
+    "name": "Dark Shade",
+    "types": [
+      "Sheepian",
+      "Thronian"
+    ]
+  },
+  {
+    "name": "Dark Titan of Terror",
+    "types": [
+      "MercuryMagicUser",
+      "Thronian"
+    ]
+  },
+  {
+    "name": "Dark Witch",
+    "types": [
+      "AngelWinged",
+      "FeatherFromMachine",
+      "Female"
+    ]
+  },
+  {
+    "name": "Darkfire Dragon",
+    "types": [
+      "Dragon",
+      "Pyro"
+    ]
+  },
+  {
+    "name": "Dissolverock",
+    "types": [
+      "Pyro"
+    ]
+  },
+  {
+    "name": "Dokuroizo the Grim Reaper",
+    "types": [
+      "Sheepian"
+    ]
+  },
+  {
+    "name": "Doma The Angel of Silence",
+    "types": [
+      "MercuryMagicUser"
+    ]
+  },
+  {
+    "name": "Doron",
+    "types": [
+      "Bugrothian"
+    ]
+  },
+  {
+    "name": "Dorover",
+    "types": [
+      "Bugrothian"
+    ]
+  },
+  {
+    "name": "Dragon Piper",
+    "types": [
+      "Jar",
+      "Pyro"
+    ]
+  },
+  {
+    "name": "Dragon Statue",
+    "types": [
+      "Dragon"
+    ]
+  },
+  {
+    "name": "Dragon Zombie",
+    "types": [
+      "Dragon"
+    ]
+  },
+  {
+    "name": "Drooling Lizard",
+    "types": [
+      "Bugrothian"
+    ]
+  },
+  {
+    "name": "Dryad",
+    "types": [
+      "Female"
+    ]
+  },
+  {
+    "name": "Eatgaboon",
+    "types": [
+      "FeatherFromHarpie"
+    ]
+  },
+  {
+    "name": "Eldeen",
+    "types": [
+      "Female",
+      "MercuryMagicUser",
+      "MercurySpellcaster"
+    ]
+  },
+  {
+    "name": "Embryonic Beast",
+    "types": [
+      "Koumorian",
+      "Sheepian",
+      "Thronian"
+    ]
+  },
+  {
+    "name": "Emperor of the Land and Sea",
+    "types": [
+      "Bugrothian"
+    ]
+  },
+  {
+    "name": "Enchanting Mermaid",
+    "types": [
+      "Female"
+    ]
+  },
+  {
+    "name": "Exodia the Forbidden",
+    "types": [
+      "MercuryMagicUser",
+      "MercurySpellcaster"
+    ]
+  },
+  {
+    "name": "Fairy Dragon",
+    "types": [
+      "Dragon"
+    ]
+  },
+  {
+    "name": "Fairy of the Fountain",
+    "types": [
+      "Bugrothian",
+      "Female"
+    ]
+  },
+  {
+    "name": "Fairy's Gift",
+    "types": [
+      "Female"
+    ]
+  },
+  {
+    "name": "Faith Bird",
+    "types": [
+      "FeatherFromBear",
+      "FeatherFromMachine",
+      "MusKingian"
+    ]
+  },
+  {
+    "name": "Feral Imp",
+    "types": [
+      "Koumorian",
+      "Thronian"
+    ]
+  },
+  {
+    "name": "Fiend Kraken",
+    "types": [
+      "Bugrothian"
+    ]
+  },
+  {
+    "name": "Fiend Refrection #1",
+    "types": [
+      "Mirror"
+    ]
+  },
+  {
+    "name": "Fiend Refrection #2",
+    "types": [
+      "FeatherFromMachine",
+      "Mirror"
+    ]
+  },
+  {
+    "name": "Fiend's Hand",
+    "types": [
+      "Sheepian"
+    ]
+  },
+  {
+    "name": "Fiend's Mirror",
+    "types": [
+      "Mirror"
+    ]
+  },
+  {
+    "name": "Fire Eye",
+    "types": [
+      "Pyro"
+    ]
+  },
+  {
+    "name": "Fire Kraken",
+    "types": [
+      "Bugrothian",
+      "Pyro"
+    ]
+  },
+  {
+    "name": "Fire Reaper",
+    "types": [
+      "Pyro"
+    ]
+  },
+  {
+    "name": "Firegrass",
+    "types": [
+      "Pyro"
+    ]
+  },
+  {
+    "name": "Firewing Pegasus",
+    "types": [
+      "Pyro"
+    ]
+  },
+  {
+    "name": "Fireyarou",
+    "types": [
+      "Pyro"
+    ]
+  },
+  {
+    "name": "Flame Ghost",
+    "types": [
+      "Pyro"
+    ]
+  },
+  {
+    "name": "Flame Manipulator",
+    "types": [
+      "Pyro"
+    ]
+  },
+  {
+    "name": "Flame Swordsman",
+    "types": [
+      "Pyro"
+    ]
+  },
+  {
+    "name": "Flame Viper",
+    "types": [
+      "Pyro"
+    ]
+  },
+  {
+    "name": "Flower Wolf",
+    "types": [
+      "UsableBeast"
+    ]
+  },
+  {
+    "name": "Flying Penguin",
+    "types": [
+      "Bugrothian",
+      "FeatherFromMachine"
+    ]
+  },
+  {
+    "name": "Follow Wind",
+    "types": [
+      "FeatherFromMachine"
+    ]
+  },
+  {
+    "name": "Frenzied Panda",
+    "types": [
+      "UsableBeast"
+    ]
+  },
+  {
+    "name": "Frog The Jam",
+    "types": [
+      "Bugrothian"
+    ]
+  },
+  {
+    "name": "Fungi of the Musk",
+    "types": [
+      "Sheepian",
+      "Thronian"
+    ]
+  },
+  {
+    "name": "Fusionist",
+    "types": [
+      "AngelWinged",
+      "FeatherFromBear",
+      "FeatherFromMachine",
+      "UsableBeast"
+    ]
+  },
+  {
+    "name": "Gaia the Dragon Champion",
+    "types": [
+      "Dragon"
+    ]
+  },
+  {
+    "name": "Garoozis",
+    "types": [
+      "Pyro"
+    ]
+  },
+  {
+    "name": "Garvas",
+    "types": [
+      "UsableBeast"
+    ]
+  },
+  {
+    "name": "Gate Deeg",
+    "types": [
+      "Koumorian",
+      "Sheepian",
+      "Thronian"
+    ]
+  },
+  {
+    "name": "Gatekeeper",
+    "types": [
+      "MercuryMagicUser"
+    ]
+  },
+  {
+    "name": "Gemini Elf",
+    "types": [
+      "Elf",
+      "Female"
+    ]
+  },
+  {
+    "name": "Giant Red Seasnake",
+    "types": [
+      "Bugrothian"
+    ]
+  },
+  {
+    "name": "Giant Turtle Who Feeds on Flames",
+    "types": [
+      "Bugrothian",
+      "Turtle"
+    ]
+  },
+  {
+    "name": "Goddess of Whim",
+    "types": [
+      "Female",
+      "MusKingian"
+    ]
+  },
+  {
+    "name": "Goddess with the Third Eye",
+    "types": [
+      "Female",
+      "MusKingian"
+    ]
+  },
+  {
+    "name": "Gorgon Egg",
+    "types": [
+      "Egg",
+      "Koumorian",
+      "Sheepian",
+      "Thronian"
+    ]
+  },
+  {
+    "name": "Grappler",
+    "types": [
+      "Bugrothian"
+    ]
+  },
+  {
+    "name": "Graveyard and the Hand of Invitation",
+    "types": [
+      "Sheepian"
+    ]
+  },
+  {
+    "name": "Great White",
+    "types": [
+      "Bugrothian"
+    ]
+  },
+  {
+    "name": "Greenkappa",
+    "types": [
+      "Thronian"
+    ]
+  },
+  {
+    "name": "Griffore",
+    "types": [
+      "UsableBeast"
+    ]
+  },
+  {
+    "name": "Gruesome Goo",
+    "types": [
+      "Bugrothian"
+    ]
+  },
+  {
+    "name": "Guardian of the Labyrinth",
+    "types": [
+      "MercuryMagicUser"
+    ]
+  },
+  {
+    "name": "Guardian of the Sea",
+    "types": [
+      "Bugrothian"
+    ]
+  },
+  {
+    "name": "Guardian of the Throne Room",
+    "types": [
+      "MusKingian"
+    ]
+  },
+  {
+    "name": "Gyakutenno Megami",
+    "types": [
+      "Female"
+    ]
+  },
+  {
+    "name": "Hane-Hane",
+    "types": [
+      "FeatherFromMachine"
+    ]
+  },
+  {
+    "name": "Happy Lover",
+    "types": [
+      "AngelWinged",
+      "FeatherFromBear",
+      "FeatherFromMachine",
+      "MusKingian"
+    ]
+  },
+  {
+    "name": "Harpie Lady",
+    "types": [
+      "FeatherFromBear",
+      "FeatherFromHarpie",
+      "FeatherFromMachine",
+      "Female"
+    ]
+  },
+  {
+    "name": "Harpie Lady Sisters",
+    "types": [
+      "FeatherFromBear",
+      "FeatherFromHarpie",
+      "FeatherFromMachine",
+      "Female"
+    ]
+  },
+  {
+    "name": "Harpie's Pet Dragon",
+    "types": [
+      "Dragon"
+    ]
+  },
+  {
+    "name": "Hibikime",
+    "types": [
+      "Female",
+      "MercuryMagicUser"
+    ]
+  },
+  {
+    "name": "High Tide Gyojin",
+    "types": [
+      "Bugrothian"
+    ]
+  },
+  {
+    "name": "Hinotama Soul",
+    "types": [
+      "Pyro"
+    ]
+  },
+  {
+    "name": "Hiro's Shadow Scout",
+    "types": [
+      "Koumorian",
+      "Sheepian",
+      "Thronian"
+    ]
+  },
+  {
+    "name": "Hitodenchak",
+    "types": [
+      "Bugrothian"
+    ]
+  },
+  {
+    "name": "Hitotsu-me Giant",
+    "types": [
+      "Koumorian",
+      "Thronian"
+    ]
+  },
+  {
+    "name": "Horn Imp",
+    "types": [
+      "Koumorian",
+      "Thronian"
+    ]
+  },
+  {
+    "name": "Hoshiningen",
+    "types": [
+      "MusKingian",
+      "MystElfian",
+      "Rainbow"
+    ]
+  },
+  {
+    "name": "Hourglass of Courage",
+    "types": [
+      "AngelWinged",
+      "FeatherFromMachine",
+      "MusKingian"
+    ]
+  },
+  {
+    "name": "Hourglass of Life",
+    "types": [
+      "AngelWinged",
+      "FeatherFromBear",
+      "FeatherFromMachine",
+      "MusKingian",
+      "MystElfian"
+    ]
+  },
+  {
+    "name": "House of Adhesive Tape",
+    "types": [
+      "FeatherFromHarpie"
+    ]
+  },
+  {
+    "name": "Hyo",
+    "types": [
+      "Bugrothian"
+    ]
+  },
+  {
+    "name": "Hyosube",
+    "types": [
+      "Bugrothian"
+    ]
+  },
+  {
+    "name": "Ice Water",
+    "types": [
+      "Bugrothian",
+      "Female"
+    ]
+  },
+  {
+    "name": "Ill Witch",
+    "types": [
+      "Female",
+      "MusKingian"
+    ]
+  },
+  {
+    "name": "Invader from Another Dimension",
+    "types": [
+      "Sheepian",
+      "Thronian"
+    ]
+  },
+  {
+    "name": "Invader of the Throne",
+    "types": [
+      "Female"
+    ]
+  },
+  {
+    "name": "Invisible Wire",
+    "types": [
+      "FeatherFromHarpie"
+    ]
+  },
+  {
+    "name": "Jellyfish",
+    "types": [
+      "Bugrothian"
+    ]
+  },
+  {
+    "name": "Job-change Mirror",
+    "types": [
+      "MercuryMagicUser",
+      "Mirror",
+      "Sheepian",
+      "Thronian"
+    ]
+  },
+  {
+    "name": "Kagemusha of the Blue Flame",
+    "types": [
+      "Pyro"
+    ]
+  },
+  {
+    "name": "Kageningen",
+    "types": [
+      "Thronian"
+    ]
+  },
+  {
+    "name": "Kairyu-shin",
+    "types": [
+      "Dragon"
+    ]
+  },
+  {
+    "name": "Kaiser Dragon",
+    "types": [
+      "Dragon"
+    ]
+  },
+  {
+    "name": "Kamion Wizard",
+    "types": [
+      "MercuryMagicUser",
+      "MercurySpellcaster"
+    ]
+  },
+  {
+    "name": "Kanan the Swordmistress",
+    "types": [
+      "Female"
+    ]
+  },
+  {
+    "name": "Kanikabuto",
+    "types": [
+      "Bugrothian"
+    ]
+  },
+  {
+    "name": "Kappa Avenger",
+    "types": [
+      "Bugrothian"
+    ]
+  },
+  {
+    "name": "Key Mace",
+    "types": [
+      "Female",
+      "MusKingian",
+      "MystElfian"
+    ]
+  },
+  {
+    "name": "Key Mace #2",
+    "types": [
+      "Female",
+      "MercuryMagicUser",
+      "Thronian"
+    ]
+  },
+  {
+    "name": "King Fog",
+    "types": [
+      "MercuryMagicUser",
+      "Sheepian",
+      "Thronian"
+    ]
+  },
+  {
+    "name": "Koumori Dragon",
+    "types": [
+      "Dragon"
+    ]
+  },
+  {
+    "name": "Krokodilus",
+    "types": [
+      "Bugrothian"
+    ]
+  },
+  {
+    "name": "Kuriboh",
+    "types": [
+      "Koumorian",
+      "Sheepian",
+      "Thronian"
+    ]
+  },
+  {
+    "name": "La Jinn the Mystical Genie",
+    "types": [
+      "MercuryMagicUser"
+    ]
+  },
+  {
+    "name": "LaMoon",
+    "types": [
+      "AngelWinged",
+      "FeatherFromBear",
+      "FeatherFromMachine",
+      "Female",
+      "MusKingian"
+    ]
+  },
+  {
+    "name": "Lady of Faith",
+    "types": [
+      "Female",
+      "MusKingian"
+    ]
+  },
+  {
+    "name": "Launcher Spider",
+    "types": [
+      "Pyro"
+    ]
+  },
+  {
+    "name": "Lava Battleguard",
+    "types": [
+      "MercuryMagicUser"
+    ]
+  },
+  {
+    "name": "Left Arm of the Forbidden One",
+    "types": [
+      "MercuryMagicUser",
+      "MercurySpellcaster"
+    ]
+  },
+  {
+    "name": "Left Leg of the Forbidden One",
+    "types": [
+      "MercuryMagicUser",
+      "MercurySpellcaster"
+    ]
+  },
+  {
+    "name": "Leo Wizard",
+    "types": [
+      "MercuryMagicUser",
+      "MercurySpellcaster"
+    ]
+  },
+  {
+    "name": "Leogun",
+    "types": [
+      "UsableBeast"
+    ]
+  },
+  {
+    "name": "Lesser Dragon",
+    "types": [
+      "Dragon",
+      "Koumorian"
+    ]
+  },
+  {
+    "name": "Liquid Beast",
+    "types": [
+      "Bugrothian"
+    ]
+  },
+  {
+    "name": "Lisark",
+    "types": [
+      "FeatherFromBear",
+      "FeatherFromMachine"
+    ]
+  },
+  {
+    "name": "Little Chimera",
+    "types": [
+      "UsableBeast"
+    ]
+  },
+  {
+    "name": "Lord of Zemia",
+    "types": [
+      "MercuryMagicUser",
+      "Thronian"
+    ]
+  },
+  {
+    "name": "Lord of the Lamp",
+    "types": [
+      "MercuryMagicUser"
+    ]
+  },
+  {
+    "name": "Lucky Trinket",
+    "types": [
+      "MusKingian",
+      "MystElfian"
+    ]
+  },
+  {
+    "name": "Lunar Queen Elzaim",
+    "types": [
+      "AngelWinged",
+      "Female",
+      "MusKingian",
+      "MystElfian"
+    ]
+  },
+  {
+    "name": "Machine Conversion Factory",
+    "types": [
+      "FeatherFromHarpie"
+    ]
+  },
+  {
+    "name": "Machine King",
+    "types": [
+      "Pyro"
+    ]
+  },
+  {
+    "name": "Madjinn Gunn",
+    "types": [
+      "Koumorian",
+      "Sheepian",
+      "Thronian"
+    ]
+  },
+  {
+    "name": "Magical Labyrinth",
+    "types": [
+      "FeatherFromHarpie"
+    ]
+  },
+  {
+    "name": "Magician of Faith",
+    "types": [
+      "Female",
+      "MusKingian",
+      "MystElfian"
+    ]
+  },
+  {
+    "name": "Maha Vailo",
+    "types": [
+      "MusKingian"
+    ]
+  },
+  {
+    "name": "Maiden of the Moonlight",
+    "types": [
+      "AngelWinged",
+      "FeatherFromMachine",
+      "Female"
+    ]
+  },
+  {
+    "name": "Mammoth Graveyard",
+    "types": [
+      "Koumorian",
+      "Thronian"
+    ]
+  },
+  {
+    "name": "Marine Beast",
+    "types": [
+      "Bugrothian"
+    ]
+  },
+  {
+    "name": "Masaki the Legendary Swordsman",
+    "types": [
+      "MusKingian"
+    ]
+  },
+  {
+    "name": "Mask of Darkness",
+    "types": [
+      "MercuryMagicUser",
+      "Sheepian",
+      "Thronian"
+    ]
+  },
+  {
+    "name": "Masked Clown",
+    "types": [
+      "MercuryMagicUser"
+    ]
+  },
+  {
+    "name": "Masked Sorcerer",
+    "types": [
+      "MercuryMagicUser",
+      "MercurySpellcaster"
+    ]
+  },
+  {
+    "name": "Master & Expert",
+    "types": [
+      "UsableBeast"
+    ]
+  },
+  {
+    "name": "Mavelus",
+    "types": [
+      "FeatherFromBear",
+      "FeatherFromMachine",
+      "Pyro"
+    ]
+  },
+  {
+    "name": "Mech Bass",
+    "types": [
+      "Bugrothian"
+    ]
+  },
+  {
+    "name": "Mech Mole Zombie",
+    "types": [
+      "Sheepian"
+    ]
+  },
+  {
+    "name": "Mechaleon",
+    "types": [
+      "Bugrothian"
+    ]
+  },
+  {
+    "name": "Meda Bat",
+    "types": [
+      "Koumorian",
+      "Sheepian",
+      "Thronian"
+    ]
+  },
+  {
+    "name": "Megirus Light",
+    "types": [
+      "MercuryMagicUser",
+      "Sheepian",
+      "Thronian"
+    ]
+  },
+  {
+    "name": "Meotoko",
+    "types": [
+      "Koumorian",
+      "Sheepian",
+      "Thronian"
+    ]
+  },
+  {
+    "name": "Metal Dragon",
+    "types": [
+      "Dragon",
+      "Pyro"
+    ]
+  },
+  {
+    "name": "Metal Fish",
+    "types": [
+      "Bugrothian"
+    ]
+  },
+  {
+    "name": "Metal Guardian",
+    "types": [
+      "Koumorian",
+      "Thronian"
+    ]
+  },
+  {
+    "name": "Meteor Dragon",
+    "types": [
+      "Dragon"
+    ]
+  },
+  {
+    "name": "Midnight Fiend",
+    "types": [
+      "Koumorian",
+      "Sheepian",
+      "Thronian"
+    ]
+  },
+  {
+    "name": "Mikazukinoyaiba",
+    "types": [
+      "Dragon"
+    ]
+  },
+  {
+    "name": "Milus Radiant",
+    "types": [
+      "UsableBeast"
+    ]
+  },
+  {
+    "name": "Minar",
+    "types": [
+      "Koumorian",
+      "Sheepian",
+      "Thronian"
+    ]
+  },
+  {
+    "name": "Monster Egg",
+    "types": [
+      "Egg"
+    ]
+  },
+  {
+    "name": "Monster Eye",
+    "types": [
+      "Koumorian",
+      "Sheepian",
+      "Thronian"
+    ]
+  },
+  {
+    "name": "Monstrous Bird",
+    "types": [
+      "FeatherFromBear",
+      "FeatherFromMachine"
+    ]
+  },
+  {
+    "name": "Monsturtle",
+    "types": [
+      "Bugrothian",
+      "Turtle"
+    ]
+  },
+  {
+    "name": "Moon Envoy",
+    "types": [
+      "MusKingian"
+    ]
+  },
+  {
+    "name": "Morphing Jar",
+    "types": [
+      "Jar"
+    ]
+  },
+  {
+    "name": "Muse-A",
+    "types": [
+      "Female",
+      "MusKingian"
+    ]
+  },
+  {
+    "name": "Mystery Hand",
+    "types": [
+      "Koumorian",
+      "Sheepian",
+      "Thronian"
+    ]
+  },
+  {
+    "name": "Mystic Clown",
+    "types": [
+      "MercuryMagicUser"
+    ]
+  },
+  {
+    "name": "Mystic Horseman",
+    "types": [
+      "UsableBeast"
+    ]
+  },
+  {
+    "name": "Mystic Lamp",
+    "types": [
+      "MercuryMagicUser",
+      "MercurySpellcaster"
+    ]
+  },
+  {
+    "name": "Mystical Capture Chain",
+    "types": [
+      "MusKingian",
+      "MystElfian"
+    ]
+  },
+  {
+    "name": "Mystical Elf",
+    "types": [
+      "Elf",
+      "Female"
+    ]
+  },
+  {
+    "name": "Mystical Sheep #1",
+    "types": [
+      "UsableBeast"
+    ]
+  },
+  {
+    "name": "Mystical Sheep #2",
+    "types": [
+      "UsableBeast"
+    ]
+  },
+  {
+    "name": "Needle Ball",
+    "types": [
+      "Koumorian",
+      "Sheepian",
+      "Thronian"
+    ]
+  },
+  {
+    "name": "Nekogal #1",
+    "types": [
+      "Female"
+    ]
+  },
+  {
+    "name": "Nekogal #2",
+    "types": [
+      "Female"
+    ]
+  },
+  {
+    "name": "Nemuriko",
+    "types": [
+      "Female",
+      "MercuryMagicUser",
+      "MercurySpellcaster"
+    ]
+  },
+  {
+    "name": "Night Lizard",
+    "types": [
+      "Bugrothian"
+    ]
+  },
+  {
+    "name": "Obese Marmot of Nefariousness",
+    "types": [
+      "Koumorian",
+      "Sheepian",
+      "UsableBeast"
+    ]
+  },
+  {
+    "name": "Octoberser",
+    "types": [
+      "Bugrothian"
+    ]
+  },
+  {
+    "name": "Ocubeam",
+    "types": [
+      "AngelWinged"
+    ]
+  },
+  {
+    "name": "Ogre of the Black Shadow",
+    "types": [
+      "Koumorian",
+      "Thronian"
+    ]
+  },
+  {
+    "name": "One Who Hunts Souls",
+    "types": [
+      "Koumorian",
+      "Sheepian",
+      "Thronian"
+    ]
+  },
+  {
+    "name": "One-eyed Shield Dragon",
+    "types": [
+      "Dragon"
+    ]
+  },
+  {
+    "name": "Ooguchi",
+    "types": [
+      "Bugrothian"
+    ]
+  },
+  {
+    "name": "Pale Beast",
+    "types": [
+      "UsableBeast"
+    ]
+  },
+  {
+    "name": "Parrot Dragon",
+    "types": [
+      "Dragon"
+    ]
+  },
+  {
+    "name": "Peacock",
+    "types": [
+      "FeatherFromBear",
+      "FeatherFromMachine"
+    ]
+  },
+  {
+    "name": "Pendulum Machine",
+    "types": [
+      "MercuryMagicUser"
+    ]
+  },
+  {
+    "name": "Penguin Knight",
+    "types": [
+      "Bugrothian"
+    ]
+  },
+  {
+    "name": "Penguin Soldier",
+    "types": [
+      "Bugrothian"
+    ]
+  },
+  {
+    "name": "Petit Angel",
+    "types": [
+      "AngelWinged",
+      "MusKingian",
+      "MystElfian"
+    ]
+  },
+  {
+    "name": "Petit Dragon",
+    "types": [
+      "Dragon"
+    ]
+  },
+  {
+    "name": "Phantom Dewan",
+    "types": [
+      "MercuryMagicUser",
+      "MercurySpellcaster"
+    ]
+  },
+  {
+    "name": "Phantom Ghost",
+    "types": [
+      "Sheepian"
+    ]
+  },
+  {
+    "name": "Pot the Trick",
+    "types": [
+      "Jar",
+      "Sheepian"
+    ]
+  },
+  {
+    "name": "Prevent Rat",
+    "types": [
+      "UsableBeast"
+    ]
+  },
+  {
+    "name": "Princess of Tsurugi",
+    "types": [
+      "Female"
+    ]
+  },
+  {
+    "name": "Protector of the Throne",
+    "types": [
+      "Female"
+    ]
+  },
+  {
+    "name": "Psychic Kappa",
+    "types": [
+      "Bugrothian"
+    ]
+  },
+  {
+    "name": "Punished Eagle",
+    "types": [
+      "FeatherFromBear",
+      "FeatherFromMachine"
+    ]
+  },
+  {
+    "name": "Queen Bird",
+    "types": [
+      "FeatherFromBear",
+      "FeatherFromMachine"
+    ]
+  },
+  {
+    "name": "Queen of Autumn Leaves",
+    "types": [
+      "Female"
+    ]
+  },
+  {
+    "name": "Queen's Double",
+    "types": [
+      "Female"
+    ]
+  },
+  {
+    "name": "Rainbow Flower",
+    "types": [
+      "Rainbow"
+    ]
+  },
+  {
+    "name": "Rainbow Marine Mermaid",
+    "types": [
+      "Female",
+      "Rainbow"
+    ]
+  },
+  {
+    "name": "Reaper of the Cards",
+    "types": [
+      "Koumorian"
+    ]
+  },
+  {
+    "name": "Red-eyes B. Dragon",
+    "types": [
+      "Dragon"
+    ]
+  },
+  {
+    "name": "Rhaimundos of the Red Sword",
+    "types": [
+      "Bugrothian"
+    ]
+  },
+  {
+    "name": "Right Arm of the Forbidden One",
+    "types": [
+      "MercuryMagicUser",
+      "MercurySpellcaster"
+    ]
+  },
+  {
+    "name": "Right Leg of the Forbidden One",
+    "types": [
+      "MercuryMagicUser",
+      "MercurySpellcaster"
+    ]
+  },
+  {
+    "name": "Rogue Doll",
+    "types": [
+      "MusKingian"
+    ]
+  },
+  {
+    "name": "Rose Spectre of Dunn",
+    "types": [
+      "Female"
+    ]
+  },
+  {
+    "name": "Ryu-kishin",
+    "types": [
+      "Sheepian",
+      "Thronian"
+    ]
+  },
+  {
+    "name": "Saggi the Dark Clown",
+    "types": [
+      "MercuryMagicUser",
+      "MercurySpellcaster"
+    ]
+  },
+  {
+    "name": "Sangan",
+    "types": [
+      "Koumorian",
+      "Sheepian",
+      "Thronian"
+    ]
+  },
+  {
+    "name": "Sea Kamen",
+    "types": [
+      "Bugrothian"
+    ]
+  },
+  {
+    "name": "Sea King Dragon",
+    "types": [
+      "Dragon"
+    ]
+  },
+  {
+    "name": "Sectarian of Secrets",
+    "types": [
+      "MercuryMagicUser",
+      "MercurySpellcaster"
+    ]
+  },
+  {
+    "name": "Seiyaryu",
+    "types": [
+      "Dragon"
+    ]
+  },
+  {
+    "name": "Serpent Marauder",
+    "types": [
+      "Bugrothian"
+    ]
+  },
+  {
+    "name": "Serpent Night Dragon",
+    "types": [
+      "Dragon"
+    ]
+  },
+  {
+    "name": "Shadow Specter",
+    "types": [
+      "Sheepian"
+    ]
+  },
+  {
+    "name": "Shining Friendship",
+    "types": [
+      "AngelWinged",
+      "FeatherFromMachine",
+      "MusKingian"
+    ]
+  },
+  {
+    "name": "Silver Fang",
+    "types": [
+      "UsableBeast"
+    ]
+  },
+  {
+    "name": "Sinister Serpent",
+    "types": [
+      "Bugrothian"
+    ]
+  },
+  {
+    "name": "Skelengel",
+    "types": [
+      "AngelWinged",
+      "FeatherFromMachine",
+      "MusKingian"
+    ]
+  },
+  {
+    "name": "Skelgon",
+    "types": [
+      "Dragon"
+    ]
+  },
+  {
+    "name": "Skull Red Bird",
+    "types": [
+      "FeatherFromBear",
+      "FeatherFromMachine"
+    ]
+  },
+  {
+    "name": "Skull Servant",
+    "types": [
+      "Sheepian"
+    ]
+  },
+  {
+    "name": "Skull Stalker",
+    "types": [
+      "Thronian"
+    ]
+  },
+  {
+    "name": "Sky Dragon",
+    "types": [
+      "Dragon",
+      "FeatherFromMachine"
+    ]
+  },
+  {
+    "name": "Sleeping Lion",
+    "types": [
+      "UsableBeast"
+    ]
+  },
+  {
+    "name": "Solitude",
+    "types": [
+      "Koumorian",
+      "Sheepian",
+      "Thronian"
+    ]
+  },
+  {
+    "name": "Sonic Maid",
+    "types": [
+      "Female",
+      "MusKingian"
+    ]
+  },
+  {
+    "name": "Spike Seadra",
+    "types": [
+      "Dragon"
+    ]
+  },
+  {
+    "name": "Spiked Snail",
+    "types": [
+      "Koumorian",
+      "Sheepian",
+      "Thronian"
+    ]
+  },
+  {
+    "name": "Spirit of the Harp",
+    "types": [
+      "MusKingian"
+    ]
+  },
+  {
+    "name": "Star Boy",
+    "types": [
+      "Bugrothian"
+    ]
+  },
+  {
+    "name": "Stone D.",
+    "types": [
+      "Dragon"
+    ]
+  },
+  {
+    "name": "Stuffed Animal",
+    "types": [
+      "Thronian"
+    ]
+  },
+  {
+    "name": "Succubus Knight",
+    "types": [
+      "Female",
+      "MercuryMagicUser"
+    ]
+  },
+  {
+    "name": "Swamp Battleguard",
+    "types": [
+      "MercuryMagicUser"
+    ]
+  },
+  {
+    "name": "Sword Arm of Dragon",
+    "types": [
+      "Dragon"
+    ]
+  },
+  {
+    "name": "Synchar",
+    "types": [
+      "UsableBeast"
+    ]
+  },
+  {
+    "name": "Tainted Wisdom",
+    "types": [
+      "Koumorian",
+      "Thronian"
+    ]
+  },
+  {
+    "name": "Takriminos",
+    "types": [
+      "Dragon"
+    ]
+  },
+  {
+    "name": "Takuhee",
+    "types": [
+      "FeatherFromBear",
+      "FeatherFromMachine"
+    ]
+  },
+  {
+    "name": "Tatsunootoshigo",
+    "types": [
+      "Bugrothian"
+    ]
+  },
+  {
+    "name": "Temple of Skulls",
+    "types": [
+      "MercuryMagicUser"
+    ]
+  },
+  {
+    "name": "Tenderness",
+    "types": [
+      "AngelWinged",
+      "FeatherFromMachine",
+      "MusKingian",
+      "MystElfian"
+    ]
+  },
+  {
+    "name": "Terra the Terrible",
+    "types": [
+      "Koumorian",
+      "Thronian"
+    ]
+  },
+  {
+    "name": "That Which Feeds on Life",
+    "types": [
+      "MercuryMagicUser",
+      "Thronian"
+    ]
+  },
+  {
+    "name": "The Drdek",
+    "types": [
+      "Koumorian",
+      "Sheepian",
+      "Thronian"
+    ]
+  },
+  {
+    "name": "The Furious Sea King",
+    "types": [
+      "Bugrothian"
+    ]
+  },
+  {
+    "name": "The Judgement Hand",
+    "types": [
+      "MusKingian"
+    ]
+  },
+  {
+    "name": "The Little Swordsman of Aile",
+    "types": [
+      "Bugrothian"
+    ]
+  },
+  {
+    "name": "The Melting Red Shadow",
+    "types": [
+      "Bugrothian",
+      "Sheepian",
+      "Thronian"
+    ]
+  },
+  {
+    "name": "The Shadow Who Controls the Dark",
+    "types": [
+      "MercuryMagicUser",
+      "Sheepian",
+      "Thronian"
+    ]
+  },
+  {
+    "name": "The Wandering Doomed",
+    "types": [
+      "Sheepian"
+    ]
+  },
+  {
+    "name": "Thousand Dragon",
+    "types": [
+      "Dragon"
+    ]
+  },
+  {
+    "name": "Three-legged Zombies",
+    "types": [
+      "Sheepian"
+    ]
+  },
+  {
+    "name": "Thunder Dragon",
+    "types": [
+      "Dragon"
+    ]
+  },
+  {
+    "name": "Toad Master",
+    "types": [
+      "Bugrothian"
+    ]
+  },
+  {
+    "name": "Togex",
+    "types": [
+      "UsableBeast"
+    ]
+  },
+  {
+    "name": "Toon Alligator",
+    "types": [
+      "Bugrothian"
+    ]
+  },
+  {
+    "name": "Torike",
+    "types": [
+      "UsableBeast"
+    ]
+  },
+  {
+    "name": "Trap Master",
+    "types": [
+      "MercuryMagicUser"
+    ]
+  },
+  {
+    "name": "Trial of Nightmares",
+    "types": [
+      "Koumorian",
+      "Thronian"
+    ]
+  },
+  {
+    "name": "Turtle Bird",
+    "types": [
+      "Turtle"
+    ]
+  },
+  {
+    "name": "Turtle Raccoon",
+    "types": [
+      "Bugrothian",
+      "Turtle"
+    ]
+  },
+  {
+    "name": "Turtle Tiger",
+    "types": [
+      "Bugrothian",
+      "Turtle"
+    ]
+  },
+  {
+    "name": "Turu-Purun",
+    "types": [
+      "Bugrothian"
+    ]
+  },
+  {
+    "name": "Twin Long Rods #1",
+    "types": [
+      "Bugrothian",
+      "Sheepian",
+      "Thronian"
+    ]
+  },
+  {
+    "name": "Twin Long Rods #2",
+    "types": [
+      "Bugrothian"
+    ]
+  },
+  {
+    "name": "Two-mouth Darkruler",
+    "types": [
+      "Koumorian",
+      "Sheepian",
+      "Thronian"
+    ]
+  },
+  {
+    "name": "Tyhone #2",
+    "types": [
+      "Dragon",
+      "Pyro"
+    ]
+  },
+  {
+    "name": "Unknown Warrior of Fiend",
+    "types": [
+      "MercuryMagicUser"
+    ]
+  },
+  {
+    "name": "Vermillion Sparrow",
+    "types": [
+      "Pyro"
+    ]
+  },
+  {
+    "name": "Versago the Destroyer",
+    "types": [
+      "MercuryMagicUser",
+      "Sheepian",
+      "Thronian"
+    ]
+  },
+  {
+    "name": "Violent Rain",
+    "types": [
+      "Bugrothian"
+    ]
+  },
+  {
+    "name": "Vishwar Randi",
+    "types": [
+      "Female",
+      "MercuryMagicUser"
+    ]
+  },
+  {
+    "name": "Warrior of Tradition",
+    "types": [
+      "Female",
+      "MercuryMagicUser"
+    ]
+  },
+  {
+    "name": "Water Element",
+    "types": [
+      "Bugrothian",
+      "Female"
+    ]
+  },
+  {
+    "name": "Water Girl",
+    "types": [
+      "Bugrothian",
+      "Female"
+    ]
+  },
+  {
+    "name": "Water Magician",
+    "types": [
+      "Bugrothian",
+      "Female"
+    ]
+  },
+  {
+    "name": "Water Omotics",
+    "types": [
+      "Bugrothian",
+      "Female"
+    ]
+  },
+  {
+    "name": "Waterdragon Fairy",
+    "types": [
+      "Bugrothian",
+      "Female"
+    ]
+  },
+  {
+    "name": "Weather Control",
+    "types": [
+      "MusKingian",
+      "MystElfian"
+    ]
+  },
+  {
+    "name": "Weather Report",
+    "types": [
+      "Bugrothian"
+    ]
+  },
+  {
+    "name": "Wetha",
+    "types": [
+      "Bugrothian"
+    ]
+  },
+  {
+    "name": "White Magical Hat",
+    "types": [
+      "MusKingian"
+    ]
+  },
+  {
+    "name": "Wicked Dragon with the Ersatz Head",
+    "types": [
+      "Dragon",
+      "Koumorian",
+      "Sheepian"
+    ]
+  },
+  {
+    "name": "Wicked Mirror",
+    "types": [
+      "Mirror",
+      "Sheepian",
+      "Thronian"
+    ]
+  },
+  {
+    "name": "Wing Eagle",
+    "types": [
+      "FeatherFromBear",
+      "FeatherFromMachine"
+    ]
+  },
+  {
+    "name": "Wing Egg Elf",
+    "types": [
+      "AngelWinged",
+      "Egg",
+      "Elf",
+      "FeatherFromBear",
+      "FeatherFromMachine",
+      "MystElfian"
+    ]
+  },
+  {
+    "name": "Winged Dragon #1",
+    "types": [
+      "Dragon"
+    ]
+  },
+  {
+    "name": "Winged Egg of New Life",
+    "types": [
+      "AngelWinged",
+      "Egg",
+      "FeatherFromMachine",
+      "MusKingian"
+    ]
+  },
+  {
+    "name": "Winged Trumpeter",
+    "types": [
+      "FeatherFromMachine"
+    ]
+  },
+  {
+    "name": "Wings of Wicked Flame",
+    "types": [
+      "Pyro"
+    ]
+  },
+  {
+    "name": "Witch of the Black Forest",
+    "types": [
+      "Female",
+      "MercuryMagicUser",
+      "MercurySpellcaster"
+    ]
+  },
+  {
+    "name": "Witch's Apprentice",
+    "types": [
+      "AngelWinged",
+      "Female",
+      "MercuryMagicUser",
+      "MercurySpellcaster"
+    ]
+  },
+  {
+    "name": "Witty Phantom",
+    "types": [
+      "MercuryMagicUser"
+    ]
+  },
+  {
+    "name": "Wolf",
+    "types": [
+      "UsableBeast"
+    ]
+  },
+  {
+    "name": "Wood Clown",
+    "types": [
+      "MercuryMagicUser"
+    ]
+  },
+  {
+    "name": "Wretched Ghost of the Attic",
+    "types": [
+      "MercuryMagicUser",
+      "Sheepian",
+      "Thronian"
+    ]
+  },
+  {
+    "name": "Yado Karu",
+    "types": [
+      "Bugrothian"
+    ]
+  },
+  {
+    "name": "Yamadron",
+    "types": [
+      "Dragon",
+      "Pyro"
+    ]
+  },
+  {
+    "name": "Yamatano Dragon Scroll",
+    "types": [
+      "Dragon"
+    ]
+  },
+  {
+    "name": "Yormungarde",
+    "types": [
+      "Bugrothian"
+    ]
+  },
+  {
+    "name": "Zarigun",
+    "types": [
+      "Bugrothian"
+    ]
+  },
+  {
+    "name": "Zone Eater",
+    "types": [
+      "Bugrothian",
+      "Restore",
+      "Page",
+      ""
+    ]
+  }
+]

@@ -183,7 +183,7 @@ Krokodilus                       | Bugrothian
 Kuriboh                          | Koumorian Sheepian Thronian
 La Jinn the Mystical Genie       | MercuryMagicUser
 LaMoon                           | AngelWinged FeatherFromBear
-FeatherFromMachine Female MusKingian
+                                   FeatherFromMachine Female MusKingian
 Lady of Faith                    | Female MusKingian
 Launcher Spider                  | Pyro
 Lava Battleguard                 | MercuryMagicUser

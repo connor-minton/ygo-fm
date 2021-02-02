@@ -3,6 +3,10 @@ const generators = [
   {
     generate: require('./generators/cards'),
     filename: '../data/cards.json'
+  },
+  {
+    generate: require('./generators/fandom-card-list'),
+    filename: '../data/fandom-card-list.json'
   }
 ];
 

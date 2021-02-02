@@ -13,6 +13,7 @@
   "author": "Connor Minton",
   "license": "ISC",
   "dependencies": {
+    "jsdom": "^16.4.0",
     "lodash": "^4.17.20",
     "title-case": "^3.0.3"
   }

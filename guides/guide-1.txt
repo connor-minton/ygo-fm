@@ -1363,7 +1363,7 @@ Total of number cards right now # 716 of 722
 
 
 Card # : 001
-Name :Blue eyes white dragon
+Name :Blue-eyes White Dragon
 Level : 8
 Type :  Dragon
 G.S.:  Sun Mars
@@ -1424,7 +1424,7 @@ Description : A playful little imp that lurks in the dark, waiting to attack an 
 Get :
 
 Card # :007
-Name : Winged dragon#1
+Name : Winged Dragon #1
 Level : 4
 Type : Dragon
 G.S. : Saturn Moon
@@ -1522,7 +1522,7 @@ launches flames.
 Get :
 
 Card # : 016
-Name :Time Magician
+Name :Time Wizard
 Level : 2
 Type : Spellcaster
 G.S.: Venus Sun
@@ -1533,7 +1533,7 @@ glance, appearances can be deceiving.
 Get :
 
 Card # : 017
-Name :Sealed Exodia's Right Leg
+Name :Right Leg of the Forbidden One
 Level : 1
 Type :  Spellcaster
 G.S. : Mercury Jupiter
@@ -1544,7 +1544,7 @@ power. Only one card of this type can be included in a deck.
 Get :
 
 Card # : 018
-Name :Sealed Exodia's Left Leg
+Name :Left Leg of the Forbidden One
 Level :1
 Type : Spellcaster
 G.S. : Mercury saturn
@@ -1555,7 +1555,7 @@ power. Only one card of this type can be included in a deck.
 Get :
 
 Card # : 019
-Name :Sealed Exodia's Right Arm
+Name :Right Arm of the Forbidden One
 Level : 1
 Type :Spellcaster
 G.S. :  Mercury Uranus
@@ -1566,7 +1566,7 @@ power. Only one card of this type can be included in a deck.
 Get :
 
 Card # : 020
-Name :Sealed Exodia's Left Arm
+Name :Left Arm of the Forbidden One
 Level : 1
 Type : spellcaster
 G.S. :Mercury Pluto
@@ -1811,7 +1811,7 @@ Description : Manipulated enemies attacks with the power of illusion. A very rar
 Get :
 
 Card # :043
-Name : Karbobala Warrior
+Name : Karbonala Warrior
 Level : 4
 Type : Warrior
 G.S. : Uranus Jupiter
@@ -1905,7 +1905,7 @@ Description : A lizard with a very tough hide and a very vicious bite.
 Get :
 
 Card # :052
-Name :Hercules beatle
+Name :Hercules Beetle
 Level : 5
 Type : Insect
 G.S. : Jupiter Neptune
@@ -1915,7 +1915,7 @@ Description : A massive beetle with a tough hide and a dangerous horn.
 Get :
 
 Card # :053
-Name :Killler needle
+Name :Killer Needle
 Level : 4
 Type : Insect
 G.S. : Jupiter Sun
@@ -2145,7 +2145,7 @@ result.
 Get :
 
 Card # :075
-Name : Man-eacting Plant
+Name : Man-eating Plant
 Level : 2
 Type : Plant
 G.S. : Mercury Jupiter
@@ -2218,7 +2218,7 @@ Description : A powerful dragon with teeth that can grind almost anything to dus
 Get :
 
 Card # :082
-Name :Red Eyes B. Dragon
+Name :Red-eyes B. Dragon
 Level : 7
 Type : Dragon
 G.S. : Moon Neptune
@@ -2397,7 +2397,7 @@ monsters to their ends.
 Get :
 
 Card # :099
-Name :Pumpking the king King of ghosts
+Name :Pumpking the King of Ghosts
 Level : 6
 Type : Zombie
 G.S. : Jupiter Neptune
@@ -2423,7 +2423,7 @@ Get :
 ------------------------------------------------------------------------------
 
 Card # :101
-Name :Wings of wicked flames
+Name :Wings of Wicked Flame
 Level : 2
 Type : Pyro
 G.S. : Mars Saturn
@@ -2434,7 +2434,7 @@ blasting flames from its body.
 Get :
 
 Card # :102
-Name : Dark Mask
+Name : Mask of Darkness
 Level : 2
 Type : Fiend
 G.S. : Mercury Moon
@@ -2444,7 +2444,7 @@ Description : A shadow mask created by the hands of a dark mage.
 Get :
 
 Card # :103
-Name :Job change mirror
+Name :Job-Change Mirror
 Level : 3
 Type : Fiend
 G.S. : Mercury Mars
@@ -2539,7 +2539,7 @@ Description : This angel rules over the doomed and administers it when necessary
 Get :
 
 Card # :112
-Name :The witch that feeds on life
+Name :That Which Feeds on Life
 Level : 4
 Type : Fiend
 G.S. : Mercury Uranus
@@ -2696,7 +2696,7 @@ how it earned its reputation.
 Get :
 
 Card # :127
-Name :Ansastu
+Name :Ansatsu
 Level : 5
 Type : Warrior
 G.S. : Mercury Neptune
@@ -2876,7 +2876,7 @@ Description : The first in a line of golems that appear almost from with in a di
 Get :
 
 Card # :144
-Name :Dijnn the watcher of the wind
+Name :Djinn the Watcher of the Wind
 Level : 3
 Type : spellcaster
 G.S. : Saturn Mercury
@@ -2887,7 +2887,7 @@ enemies.
 Get :
 
 Card # :145
-Name :The bewitching phantom theif
+Name :The Bewitching Phantom Thief
 Level : 2
 Type : spellcaster
 G.S. : Venus Pluto
@@ -2950,7 +2950,7 @@ Description : A mysterious creature that dwells below the sea.
 Get :
 
 Card # :151
-Name :Rhaintumdos of the red sword
+Name :Rhaimundos of the Red Sword
 Level : 4
 Type : Warrior
 G.S. : Neptune Mars
@@ -2961,7 +2961,7 @@ of its enemies.
 Get :
 
 Card # :152
-Name : The Melting read shadow
+Name : The Melting Red Shadow
 Level : 2
 Type :  aqua
 G.S. : Moon neptune
@@ -2972,7 +2972,7 @@ attacks from below.
 Get : Isis
 
 Card # :153
-Name : Dokuroize the grim reaper
+Name : Dokuroizo the Grim Reaper
 Level : 3
 Type :  Zombie
 G.S. : Moon pluto
@@ -3309,7 +3309,7 @@ Description : This warior confuses and destorys enemies by adopting  thier image
 Get :
 
 Card # :186
-Name : Feind Refrection #2
+Name : Fiend Refrection #2
 Level : 4
 Type : Winged beast
 G.S. : Venus Mars
@@ -3541,7 +3541,7 @@ with its massive beak.
 Get :
 
 Card # :208
-Name : Petit  Angel
+Name : Petit Angel
 Level : 3
 Type : Fairy
 G.S. : Sun pluto
@@ -3807,7 +3807,7 @@ Description : A spirit said to dwell in the world of dreams. Attacks enemies in 
 Get :
 
 Card # :234
-Name : Beautiful Head huntress
+Name : Beautiful Headhuntress
 Level : 4
 Type : Warrior
 G.S. : Mercury Saturn
@@ -3879,7 +3879,7 @@ with its sharp claws.
 Get :
 
 Card # :241
-Name :Dark Assassin
+Name :Dark Assailant
 Level : 4
 Type : Zombie
 G.S. : Moon Uranus
@@ -4053,7 +4053,7 @@ capabilities.
 Get :
 
 Card # :258
-Name :BeastKing of the swamp
+Name :Beastking of the Swamps
 Level : 4
 Type : Aqua
 G.S. : Uranus Mercury
@@ -4148,7 +4148,7 @@ man
 Get :
 
 Card # :267
-Name :Unknown warrior of feind
+Name :Unknown Warrior of Fiend
 Level : 3
 Type : Warrior
 G.S. : Mercury Mars
@@ -4159,7 +4159,7 @@ threw a monster's hide.
 Get :
 
 Card # :268
-Name :Sectrian of secrets
+Name :Sectarian of Secrets
 Level : 2
 Type : Spellcaster
 G.S. : Mercury Jupiter
@@ -4348,7 +4348,7 @@ Description : A snake with a single eye that blows an icy breath to freeze it op
 Get :
 
 Card # :286
-Name :Gate keeper
+Name :Gatekeeper
 Level : 5
 Type :  machine
 G.S. : Mercury Mars
@@ -4368,7 +4368,7 @@ Description : An ogre possessed by the powers of the dark. Few can withstand its
 Get :
 
 Card # :288
-Name :Dark arts
+Name :Dark Artist
 Level : 3
 Type : Fiend
 G.S. : Mercury Jupiter
@@ -4429,7 +4429,7 @@ Description : Legendary swordmaster and a veteran of over 100 battles.
 Get :
 
 Card # :294
-Name : Dragoness the wiched knight
+Name : Dragoness the Wicked Knight
 Level : 3
 Type : warrior
 G.S. : Saturn mercury
@@ -4460,7 +4460,7 @@ enemies.
 Get :
 
 Card # :297
-Name :Cyber soldier of dark world
+Name :Cyber Soldier of Darkworld
 Level : 4
 Type : machine
 G.S. : Moon uranus
@@ -4528,7 +4528,7 @@ Description : Dark forces increase the power of fiends and other monsters of the
 Get :
 
 Card # :304
-Name :Axe of dispair
+Name :Axe of Despair
 Type : equip magic
 Attack/Deffense :
 Code # :40619825    800
@@ -4543,7 +4543,7 @@ Description : Arms insect with a powerful laser!
 Get :
 
 Card # :306
-Name : Insect armor with a laser cannon
+Name : Insect Armor with Laser Cannon
 Type : equip magic
 Code # : 03492538    800
 Description : Allows Insects to fire an intense blast of fire!
@@ -4572,7 +4572,7 @@ shells.
 Get :
 
 Card # :310
-Name : Vile grems
+Name : Vile Germs
 Type :Equip magic
 Code # :39774685   800
 Description : Vile microbes bosst the power of plants in the woods!
@@ -4650,7 +4650,7 @@ Description : Forces an opponent's monster cards for defense into the attack pos
 Get :
 
 Card # :321
-Name :Malevolent nuzzeler
+Name :Malevolent Nuzzler
 Type :  equip magic
 Code # :99597615 800
 Description : Diabolic forces act to increase the power of female and dark monster
@@ -4701,7 +4701,7 @@ monsters.
 Get :
 
 Card # :328
-Name :Power of Kaishen
+Name :Power of Kaishin
 Type : equip magic
 Code # :77027445  800
 Description : Poseidon's strength is shared to boost the power of aqua, fish, and sea serpent
@@ -4802,7 +4802,7 @@ Description :A Fairy potion that increases Life points by 2000!
 Get :
 
 Card # :342
-Name :Dian Keto the curse master
+Name :Dian Keto the Cure Master
 Type : magic
 Code # :84257639  999999
 Description :A Mystical power that increases Life points by 5000!
@@ -4837,7 +4837,7 @@ Description :A flame inflicts 500 points of damage to your opponents life points
 Get :
 
 Card # :347
-Name :Tremendose fire
+Name :Tremendous Fire
 Type :  magic
 Attack/Deffense :
 Code # :46918794  999999
@@ -4859,7 +4859,7 @@ Description : A curse reduces the power of all enemy monsters!
 Get :
 
 Card # :350
-Name :Dark piercing light
+Name :Dark-piercing Light
 Type:  magic
 Code # :45895206  999999
 Description :A dazzling lioght reveals all monsters on the playing feild.
@@ -4948,7 +4948,7 @@ Description :A sacred dragon that burns away wickedness with its mystical flames
 Get :
 
 Card # :359
-Name :Three-legged zombie
+Name :Three-legged Zombies
 Level : 3
 Type : Zombie
 G.S. :Moon Pluto
@@ -5759,7 +5759,7 @@ Description : A white, horned dolphin that attacks by calling up tidal waves.
 Get :
 
 Card # :437
-Name :Deep Sea Shark
+Name :Deepsea Shark
 Level : 5
 Type : fish
 G.S. : Neptune Mars
@@ -5779,7 +5779,7 @@ Description : A steel fish armed with a sharp dorsal fin.
 Get :
 
 Card # :439
-Name :bottem dweller
+Name :Bottom Dweller
 Level : 5
 Type : fish
 G.S. : Neptune sun
@@ -5789,7 +5789,7 @@ Description : A beautiful swimmer with a very nasty temperament
 Get :
 
 Card # :440
-Name : 7 coloer Fish
+Name : 7 Colored Fish
 Level : 4
 Type : Fish
 G.S. : Neptune Sun
@@ -5985,10 +5985,10 @@ Description : A monster that judges wrong-doers and punishes them appropriately.
 Get :
 
 Card # :459
-Name :Tripwire
+Name :Tripwire Beast
 Level : 4
 Type : thunder
-G.S. : Pluto Saturn.
+G.S. : Pluto Saturn
 Attack/Deffense : 1200/1300
 Code # :45042329  100
 Description : This creature attacks enemies with electromagnetic wave.
@@ -6108,7 +6108,7 @@ enemies.
 Get :
 
 Card # :471
-Name : Soul Hunters
+Name : Soul Hunter
 Level : 6
 Type : Fiend
 G.S. : Moon Jupiter
@@ -6199,7 +6199,7 @@ Description :A cockroach warrior that hides in small spaces and emerges to attac
 Get :
 
 Card # :480
-Name : Kuwagata *alpha sign*
+Name : Kuwagata a
 Level : 4
 Type : Insect
 G.S. : Jupiter Mercury
@@ -6239,7 +6239,7 @@ Description : A malebolent creature that resembles a winged lion.
 Get :
 
 Card # :484
-Name :Amoeba
+Name :Ameba
 Level : 1
 Type :  Aqua
 G.S. : Neptune Moon
@@ -6351,7 +6351,7 @@ Description : An unusual mermaid that appears whenever a rainbow bridges the sky
 Get :
 
 Card # :495
-Name : Musicain King
+Name : Musician King
 Level : 5
 Type : Spellcaster
 G.S. : Sun Mars
@@ -6698,7 +6698,7 @@ Description :  A very fast monster that rolls up and rams its enemies.
 Get :
 
 Card # :529
-Name :Flame Cerberus
+Name :Flame Cerebrus
 Level :6
 Type : Pyro
 G.S. : Mars Pluto
@@ -6758,7 +6758,7 @@ Description : A monster with four highly deterous arms ffor executing separate a
 Get :
 
 Card # :535
-Name :Kamaliriman
+Name :Kamakiriman
 Level : 4
 Type :  Insect
 G.S. : Jupiter Moon
@@ -6820,7 +6820,7 @@ attack
 Get :
 
 Card # :541
-Name :HaneHane
+Name :Hane-Hane
 Level : 2
 Type : Beast
 G.S. : Saturn Pluto
@@ -6973,7 +6973,7 @@ Description : A crimson dragon that spits fireballs at its enemies.
 Get :
 
 Card # :556
-Name : The wandring doomed
+Name : The Wandering Doomed
 Level : 2
 Type : zombie
 G.S. :moon pluto
@@ -7371,7 +7371,7 @@ provide the flower with nourishment.
 Get :
 
 Card # :595
-Name :Feind refrection #1
+Name :Fiend Refrection #1
 Level : 4
 Type : Winged beast
 G.S. : Venus Jupiter
@@ -7791,7 +7791,7 @@ Description : Not very useful double of a queen.
 Get :
 
 Card # :636
-Name : Blue winged crown
+Name : Blue-winged Crown
 Level : 4
 Type : Winged beast
 G.S. : Saturn Venus
@@ -7951,7 +7951,7 @@ darkness.
 Get :
 
 Card # :652
-Name : Magic Labyrinth
+Name : Magical Labyrinth
 Type : Magic
 Code # : 64389297  10
 Description : A card for boosting the power of the labyrinth wall
@@ -7972,7 +7972,7 @@ Description : Increases the strength of those who control the power of salamandr
 Get :
 
 Card # :655
-Name :Cursebraker
+Name :Cursebreaker
 Type : Magic
 Code # :69666645 10
 Description : Cancels the magic over all level-reduced monsters and sets them at level 0.
@@ -7986,7 +7986,7 @@ Description : Eliminates all zombie creatures.
 Get :
 
 Card # :657
-Name : MegaMorph
+Name : Megamorph
 Type : magic
 Code # : 22046459  50000
 Description : A card that increases the power of any selected monster by 2 levels.
@@ -8037,7 +8037,7 @@ currently in play.
 Get :
 
 Card # :664
-Name :Eternal Drought
+Name :Eternal Draught
 Type :  magic
 Code # :56606928 999999
 Description : A blast of heat dries up and eliminates an opponentes's fish monsters that are
@@ -8045,7 +8045,7 @@ currently in play.
 Get :
 
 Card # :665
-Name :Curse of the Millennium Shield
+Name :Curse of Millennium Shield
 Type : Ritual
 Code # : 83094937  10
 Description : Sacrifices the monster with the highest defense rating and summons shield.
@@ -8066,7 +8066,7 @@ Description : Sacrifices Kazejin, Suijin, and Sanga of the Thunder to summon Gat
 Get :
 
 Card # :668
-Name : Bright Caslte
+Name : Bright Castle
 Type : Magic
 Code # : 82878489  800
 Description : A glaring light that increases the power of all monsters.
@@ -8136,7 +8136,7 @@ Description : A card with the Ingredients for making a delicious hamburger.
 Get :
 
 Card # :678
-Name :Revival o Senmen Genjin
+Name :Revival of Sennen Genjin
 Type : Ritual
 Code # : 16206366  50
 Description : Sacrifice Beastwarrior and Golem to summon Sengenjin.
@@ -8180,7 +8180,7 @@ the play field.
 Get :
 
 Card # :684
-Name : Ivisible
+Name : Invisible Wire
 Type : trap
 Code # : 15361130  999999
 Description : When an opposing monster's attack factor is 2000 or lower it is eliminated from
@@ -8235,7 +8235,7 @@ Description : A trap card for tricking your opponent. Nothing happens when it is
 Get :
 
 Card # :691
-Name : Revival of Serpent Night Dragon
+Name : Revived of Serpent Night Dragon
 Type : Ritual
 Code # : 39411600 50
 Description : Select a spcific Monster for sacrifice and summon Serpent Night Dragon.
