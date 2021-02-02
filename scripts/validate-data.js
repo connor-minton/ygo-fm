@@ -6,6 +6,10 @@ const validators = [
   {
     validate: require('./validators/fandom-cards'),
     name: 'fandom-cards.json'
+  },
+  {
+    validate: require('./validators/fusion-vs-fandom'),
+    name: 'fusion names in fandom'
   }
 ];
 
