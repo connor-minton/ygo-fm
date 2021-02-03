@@ -14,8 +14,8 @@
       "Dragon"
     ],
     "guardianStars": [
-      "sun",
-      "mrs"
+      "Sun",
+      "Mars"
     ]
   },
   {
@@ -35,15 +35,15 @@
       "Female"
     ],
     "guardianStars": [
-      "sun",
-      "jpt"
+      "Sun",
+      "Jupiter"
     ]
   },
   {
     "number": 3,
     "name": "Hitotsu-me Giant",
     "cardType": "Monster",
-    "type": "Beast-Warrior",
+    "type": "BeastWarrior",
     "level": 4,
     "attack": 1200,
     "defense": 1000,
@@ -51,13 +51,13 @@
     "starCost": 70,
     "purchasable": true,
     "fusionTypes": [
-      "Beast-Warrior",
+      "BeastWarrior",
       "Koumorian",
       "Thronian"
     ],
     "guardianStars": [
-      "mon",
-      "mrs"
+      "Moon",
+      "Mars"
     ]
   },
   {
@@ -75,8 +75,8 @@
       "Dragon"
     ],
     "guardianStars": [
-      "urn",
-      "sun"
+      "Uranus",
+      "Sun"
     ]
   },
   {
@@ -96,8 +96,8 @@
       "Thronian"
     ],
     "guardianStars": [
-      "stn",
-      "sun"
+      "Saturn",
+      "Sun"
     ]
   },
   {
@@ -117,8 +117,8 @@
       "Thronian"
     ],
     "guardianStars": [
-      "mon",
-      "jpt"
+      "Moon",
+      "Jupiter"
     ]
   },
   {
@@ -136,8 +136,8 @@
       "Dragon"
     ],
     "guardianStars": [
-      "stn",
-      "mon"
+      "Saturn",
+      "Moon"
     ]
   },
   {
@@ -155,8 +155,8 @@
       "Plant"
     ],
     "guardianStars": [
-      "jpt",
-      "sun"
+      "Jupiter",
+      "Sun"
     ]
   },
   {
@@ -175,8 +175,8 @@
       "Sheepian"
     ],
     "guardianStars": [
-      "mon",
-      "stn"
+      "Moon",
+      "Saturn"
     ]
   },
   {
@@ -195,8 +195,8 @@
       "MercuryMagicUser"
     ],
     "guardianStars": [
-      "mrc",
-      "mon"
+      "Mercury",
+      "Moon"
     ]
   },
   {
@@ -215,8 +215,8 @@
       "Dragon"
     ],
     "guardianStars": [
-      "urn",
-      "mon"
+      "Uranus",
+      "Moon"
     ]
   },
   {
@@ -235,15 +235,15 @@
       "MercuryMagicUser"
     ],
     "guardianStars": [
-      "mrc",
-      "mrs"
+      "Mercury",
+      "Mars"
     ]
   },
   {
     "number": 13,
     "name": "Tyhone",
     "cardType": "Monster",
-    "type": "Winged Beast",
+    "type": "WingedBeast",
     "level": 4,
     "attack": 1200,
     "defense": 1400,
@@ -251,18 +251,18 @@
     "starCost": 120,
     "purchasable": true,
     "fusionTypes": [
-      "Winged Beast"
+      "WingedBeast"
     ],
     "guardianStars": [
-      "stn",
-      "vns"
+      "Saturn",
+      "Venus"
     ]
   },
   {
     "number": 14,
     "name": "Battle Steer",
     "cardType": "Monster",
-    "type": "Beast-Warrior",
+    "type": "BeastWarrior",
     "level": 5,
     "attack": 1800,
     "defense": 1300,
@@ -270,11 +270,11 @@
     "starCost": 230,
     "purchasable": true,
     "fusionTypes": [
-      "Beast-Warrior"
+      "BeastWarrior"
     ],
     "guardianStars": [
-      "mon",
-      "urn"
+      "Moon",
+      "Uranus"
     ]
   },
   {
@@ -293,8 +293,8 @@
       "Pyro"
     ],
     "guardianStars": [
-      "mrs",
-      "sun"
+      "Mars",
+      "Sun"
     ]
   },
   {
@@ -312,8 +312,8 @@
       "Spellcaster"
     ],
     "guardianStars": [
-      "vns",
-      "sun"
+      "Venus",
+      "Sun"
     ]
   },
   {
@@ -333,8 +333,8 @@
       "MercurySpellcaster"
     ],
     "guardianStars": [
-      "mrc",
-      "jpt"
+      "Mercury",
+      "Jupiter"
     ]
   },
   {
@@ -354,8 +354,8 @@
       "MercurySpellcaster"
     ],
     "guardianStars": [
-      "mrc",
-      "stn"
+      "Mercury",
+      "Saturn"
     ]
   },
   {
@@ -375,8 +375,8 @@
       "MercurySpellcaster"
     ],
     "guardianStars": [
-      "mrc",
-      "urn"
+      "Mercury",
+      "Uranus"
     ]
   },
   {
@@ -396,8 +396,8 @@
       "MercurySpellcaster"
     ],
     "guardianStars": [
-      "mrc",
-      "plt"
+      "Mercury",
+      "Pluto"
     ]
   },
   {
@@ -417,8 +417,8 @@
       "MercurySpellcaster"
     ],
     "guardianStars": [
-      "mrc",
-      "npt"
+      "Mercury",
+      "Neptune"
     ]
   },
   {
@@ -436,8 +436,8 @@
       "Fiend"
     ],
     "guardianStars": [
-      "mon",
-      "plt"
+      "Moon",
+      "Pluto"
     ]
   },
   {
@@ -455,8 +455,8 @@
       "Beast"
     ],
     "guardianStars": [
-      "urn",
-      "vns"
+      "Uranus",
+      "Venus"
     ]
   },
   {
@@ -475,8 +475,8 @@
       "Sheepian"
     ],
     "guardianStars": [
-      "mon",
-      "npt"
+      "Moon",
+      "Neptune"
     ]
   },
   {
@@ -496,15 +496,15 @@
       "Thronian"
     ],
     "guardianStars": [
-      "mon",
-      "mrc"
+      "Moon",
+      "Mercury"
     ]
   },
   {
     "number": 26,
     "name": "Battle Ox",
     "cardType": "Monster",
-    "type": "Beast-Warrior",
+    "type": "BeastWarrior",
     "level": 4,
     "attack": 1700,
     "defense": 1000,
@@ -512,18 +512,18 @@
     "starCost": 999999,
     "purchasable": true,
     "fusionTypes": [
-      "Beast-Warrior"
+      "BeastWarrior"
     ],
     "guardianStars": [
-      "jpt",
-      "mon"
+      "Jupiter",
+      "Moon"
     ]
   },
   {
     "number": 27,
     "name": "Beaver Warrior",
     "cardType": "Monster",
-    "type": "Beast-Warrior",
+    "type": "BeastWarrior",
     "level": 4,
     "attack": 1200,
     "defense": 1500,
@@ -531,11 +531,11 @@
     "starCost": 140,
     "purchasable": true,
     "fusionTypes": [
-      "Beast-Warrior"
+      "BeastWarrior"
     ],
     "guardianStars": [
-      "jpt",
-      "vns"
+      "Jupiter",
+      "Venus"
     ]
   },
   {
@@ -553,15 +553,15 @@
       "Rock"
     ],
     "guardianStars": [
-      "urn",
-      "mrc"
+      "Uranus",
+      "Mercury"
     ]
   },
   {
     "number": 29,
     "name": "Mountain Warrior",
     "cardType": "Monster",
-    "type": "Beast-Warrior",
+    "type": "BeastWarrior",
     "level": 3,
     "attack": 600,
     "defense": 1000,
@@ -569,11 +569,11 @@
     "starCost": 35,
     "purchasable": true,
     "fusionTypes": [
-      "Beast-Warrior"
+      "BeastWarrior"
     ],
     "guardianStars": [
-      "urn",
-      "mrs"
+      "Uranus",
+      "Mars"
     ]
   },
   {
@@ -591,8 +591,8 @@
       "Zombie"
     ],
     "guardianStars": [
-      "mon",
-      "mrs"
+      "Moon",
+      "Mars"
     ]
   },
   {
@@ -610,8 +610,8 @@
       "Dragon"
     ],
     "guardianStars": [
-      "mon",
-      "jpt"
+      "Moon",
+      "Jupiter"
     ]
   },
   {
@@ -629,8 +629,8 @@
       "Dinosaur"
     ],
     "guardianStars": [
-      "urn",
-      "npt"
+      "Uranus",
+      "Neptune"
     ]
   },
   {
@@ -648,8 +648,8 @@
       "Warrior"
     ],
     "guardianStars": [
-      "sun",
-      "stn"
+      "Sun",
+      "Saturn"
     ]
   },
   {
@@ -669,8 +669,8 @@
       "MercurySpellcaster"
     ],
     "guardianStars": [
-      "mrc",
-      "mon"
+      "Mercury",
+      "Moon"
     ]
   },
   {
@@ -688,8 +688,8 @@
       "Spellcaster"
     ],
     "guardianStars": [
-      "mrc",
-      "mrs"
+      "Mercury",
+      "Mars"
     ]
   },
   {
@@ -707,8 +707,8 @@
       "Zombie"
     ],
     "guardianStars": [
-      "mon",
-      "stn"
+      "Moon",
+      "Saturn"
     ]
   },
   {
@@ -726,8 +726,8 @@
       "Dragon"
     ],
     "guardianStars": [
-      "stn",
-      "mrc"
+      "Saturn",
+      "Mercury"
     ]
   },
   {
@@ -745,8 +745,8 @@
       "Warrior"
     ],
     "guardianStars": [
-      "mrc",
-      "jpt"
+      "Mercury",
+      "Jupiter"
     ]
   },
   {
@@ -764,8 +764,8 @@
       "Dragon"
     ],
     "guardianStars": [
-      "stn",
-      "plt"
+      "Saturn",
+      "Pluto"
     ]
   },
   {
@@ -784,8 +784,8 @@
       "Pyro"
     ],
     "guardianStars": [
-      "mrs",
-      "mon"
+      "Mars",
+      "Moon"
     ]
   },
   {
@@ -804,8 +804,8 @@
       "Elf"
     ],
     "guardianStars": [
-      "sun",
-      "urn"
+      "Sun",
+      "Uranus"
     ]
   },
   {
@@ -823,8 +823,8 @@
       "Spellcaster"
     ],
     "guardianStars": [
-      "vns",
-      "mrs"
+      "Venus",
+      "Mars"
     ]
   },
   {
@@ -842,8 +842,8 @@
       "Warrior"
     ],
     "guardianStars": [
-      "urn",
-      "jpt"
+      "Uranus",
+      "Jupiter"
     ]
   },
   {
@@ -862,8 +862,8 @@
       "MusKingian"
     ],
     "guardianStars": [
-      "sun",
-      "plt"
+      "Sun",
+      "Pluto"
     ]
   },
   {
@@ -881,8 +881,8 @@
       "Thunder"
     ],
     "guardianStars": [
-      "plt",
-      "sun"
+      "Pluto",
+      "Sun"
     ]
   },
   {
@@ -901,8 +901,8 @@
       "UsableBeast"
     ],
     "guardianStars": [
-      "jpt",
-      "mrc"
+      "Jupiter",
+      "Mercury"
     ]
   },
   {
@@ -921,8 +921,8 @@
       "UsableBeast"
     ],
     "guardianStars": [
-      "urn",
-      "jpt"
+      "Uranus",
+      "Jupiter"
     ]
   },
   {
@@ -943,8 +943,8 @@
       "Thronian"
     ],
     "guardianStars": [
-      "mon",
-      "urn"
+      "Moon",
+      "Uranus"
     ]
   },
   {
@@ -962,8 +962,8 @@
       "Insect"
     ],
     "guardianStars": [
-      "jpt",
-      "urn"
+      "Jupiter",
+      "Uranus"
     ]
   },
   {
@@ -981,8 +981,8 @@
       "Insect"
     ],
     "guardianStars": [
-      "jpt",
-      "plt"
+      "Jupiter",
+      "Pluto"
     ]
   },
   {
@@ -1001,8 +1001,8 @@
       "Bugrothian"
     ],
     "guardianStars": [
-      "npt",
-      "sun"
+      "Neptune",
+      "Sun"
     ]
   },
   {
@@ -1020,8 +1020,8 @@
       "Insect"
     ],
     "guardianStars": [
-      "jpt",
-      "npt"
+      "Jupiter",
+      "Neptune"
     ]
   },
   {
@@ -1039,8 +1039,8 @@
       "Insect"
     ],
     "guardianStars": [
-      "jpt",
-      "sun"
+      "Jupiter",
+      "Sun"
     ]
   },
   {
@@ -1058,8 +1058,8 @@
       "Insect"
     ],
     "guardianStars": [
-      "jpt",
-      "mon"
+      "Jupiter",
+      "Moon"
     ]
   },
   {
@@ -1077,8 +1077,8 @@
       "Insect"
     ],
     "guardianStars": [
-      "jpt",
-      "vns"
+      "Jupiter",
+      "Venus"
     ]
   },
   {
@@ -1096,8 +1096,8 @@
       "Insect"
     ],
     "guardianStars": [
-      "jpt",
-      "mrc"
+      "Jupiter",
+      "Mercury"
     ]
   },
   {
@@ -1115,8 +1115,8 @@
       "Insect"
     ],
     "guardianStars": [
-      "jpt",
-      "urn"
+      "Jupiter",
+      "Uranus"
     ]
   },
   {
@@ -1137,8 +1137,8 @@
       "Thronian"
     ],
     "guardianStars": [
-      "mrc",
-      "stn"
+      "Mercury",
+      "Saturn"
     ]
   },
   {
@@ -1158,8 +1158,8 @@
       "Thronian"
     ],
     "guardianStars": [
-      "mrc",
-      "plt"
+      "Mercury",
+      "Pluto"
     ]
   },
   {
@@ -1178,8 +1178,8 @@
       "Bugrothian"
     ],
     "guardianStars": [
-      "npt",
-      "mon"
+      "Neptune",
+      "Moon"
     ]
   },
   {
@@ -1198,15 +1198,15 @@
       "UsableBeast"
     ],
     "guardianStars": [
-      "jpt",
-      "plt"
+      "Jupiter",
+      "Pluto"
     ]
   },
   {
     "number": 62,
     "name": "Harpie Lady",
     "cardType": "Monster",
-    "type": "Winged Beast",
+    "type": "WingedBeast",
     "level": 4,
     "attack": 1300,
     "defense": 1400,
@@ -1214,22 +1214,22 @@
     "starCost": 999999,
     "purchasable": true,
     "fusionTypes": [
-      "Winged Beast",
+      "WingedBeast",
       "FeatherFromBear",
       "FeatherFromHarpie",
       "FeatherFromMachine",
       "Female"
     ],
     "guardianStars": [
-      "stn",
-      "npt"
+      "Saturn",
+      "Neptune"
     ]
   },
   {
     "number": 63,
     "name": "Harpie Lady Sisters",
     "cardType": "Monster",
-    "type": "Winged Beast",
+    "type": "WingedBeast",
     "level": 6,
     "attack": 1950,
     "defense": 2100,
@@ -1237,22 +1237,22 @@
     "starCost": 999999,
     "purchasable": true,
     "fusionTypes": [
-      "Winged Beast",
+      "WingedBeast",
       "FeatherFromBear",
       "FeatherFromHarpie",
       "FeatherFromMachine",
       "Female"
     ],
     "guardianStars": [
-      "stn",
-      "mrs"
+      "Saturn",
+      "Mars"
     ]
   },
   {
     "number": 64,
     "name": "Tiger Axe",
     "cardType": "Monster",
-    "type": "Beast-Warrior",
+    "type": "BeastWarrior",
     "level": 4,
     "attack": 1300,
     "defense": 1100,
@@ -1260,11 +1260,11 @@
     "starCost": 999999,
     "purchasable": true,
     "fusionTypes": [
-      "Beast-Warrior"
+      "BeastWarrior"
     ],
     "guardianStars": [
-      "jpt",
-      "npt"
+      "Jupiter",
+      "Neptune"
     ]
   },
   {
@@ -1283,8 +1283,8 @@
       "UsableBeast"
     ],
     "guardianStars": [
-      "jpt",
-      "sun"
+      "Jupiter",
+      "Sun"
     ]
   },
   {
@@ -1302,8 +1302,8 @@
       "Warrior"
     ],
     "guardianStars": [
-      "urn",
-      "mon"
+      "Uranus",
+      "Moon"
     ]
   },
   {
@@ -1321,15 +1321,15 @@
       "Insect"
     ],
     "guardianStars": [
-      "jpt",
-      "mon"
+      "Jupiter",
+      "Moon"
     ]
   },
   {
     "number": 68,
     "name": "Garoozis",
     "cardType": "Monster",
-    "type": "Beast-Warrior",
+    "type": "BeastWarrior",
     "level": 5,
     "attack": 1800,
     "defense": 1500,
@@ -1337,12 +1337,12 @@
     "starCost": 290,
     "purchasable": true,
     "fusionTypes": [
-      "Beast-Warrior",
+      "BeastWarrior",
       "Pyro"
     ],
     "guardianStars": [
-      "mrs",
-      "vns"
+      "Mars",
+      "Venus"
     ]
   },
   {
@@ -1360,8 +1360,8 @@
       "Dragon"
     ],
     "guardianStars": [
-      "mrs",
-      "mrc"
+      "Mars",
+      "Mercury"
     ]
   },
   {
@@ -1380,8 +1380,8 @@
       "Bugrothian"
     ],
     "guardianStars": [
-      "npt",
-      "vns"
+      "Neptune",
+      "Venus"
     ]
   },
   {
@@ -1400,8 +1400,8 @@
       "Bugrothian"
     ],
     "guardianStars": [
-      "npt",
-      "mrc"
+      "Neptune",
+      "Mercury"
     ]
   },
   {
@@ -1419,15 +1419,15 @@
       "Insect"
     ],
     "guardianStars": [
-      "jpt",
-      "vns"
+      "Jupiter",
+      "Venus"
     ]
   },
   {
     "number": 73,
     "name": "Kairyu-Shin",
     "cardType": "Monster",
-    "type": "Sea Serpent",
+    "type": "SeaSerpent",
     "level": 5,
     "attack": 1800,
     "defense": 1500,
@@ -1435,12 +1435,12 @@
     "starCost": 290,
     "purchasable": true,
     "fusionTypes": [
-      "Sea Serpent",
+      "SeaSerpent",
       "Dragon"
     ],
     "guardianStars": [
-      "npt",
-      "mrs"
+      "Neptune",
+      "Mars"
     ]
   },
   {
@@ -1458,8 +1458,8 @@
       "Rock"
     ],
     "guardianStars": [
-      "urn",
-      "vns"
+      "Uranus",
+      "Venus"
     ]
   },
   {
@@ -1477,8 +1477,8 @@
       "Plant"
     ],
     "guardianStars": [
-      "mrc",
-      "jpt"
+      "Mercury",
+      "Jupiter"
     ]
   },
   {
@@ -1497,8 +1497,8 @@
       "Bugrothian"
     ],
     "guardianStars": [
-      "npt",
-      "jpt"
+      "Neptune",
+      "Jupiter"
     ]
   },
   {
@@ -1517,8 +1517,8 @@
       "Bugrothian"
     ],
     "guardianStars": [
-      "npt",
-      "stn"
+      "Neptune",
+      "Saturn"
     ]
   },
   {
@@ -1536,8 +1536,8 @@
       "Warrior"
     ],
     "guardianStars": [
-      "urn",
-      "mrc"
+      "Uranus",
+      "Mercury"
     ]
   },
   {
@@ -1555,8 +1555,8 @@
       "Dinosaur"
     ],
     "guardianStars": [
-      "urn",
-      "npt"
+      "Uranus",
+      "Neptune"
     ]
   },
   {
@@ -1574,8 +1574,8 @@
       "Dinosaur"
     ],
     "guardianStars": [
-      "urn",
-      "mrs"
+      "Uranus",
+      "Mars"
     ]
   },
   {
@@ -1594,8 +1594,8 @@
       "Dragon"
     ],
     "guardianStars": [
-      "mon",
-      "plt"
+      "Moon",
+      "Pluto"
     ]
   },
   {
@@ -1613,8 +1613,8 @@
       "Dragon"
     ],
     "guardianStars": [
-      "mon",
-      "npt"
+      "Moon",
+      "Neptune"
     ]
   },
   {
@@ -1635,8 +1635,8 @@
       "Thronian"
     ],
     "guardianStars": [
-      "mrc",
-      "urn"
+      "Mercury",
+      "Uranus"
     ]
   },
   {
@@ -1655,8 +1655,8 @@
       "Koumorian"
     ],
     "guardianStars": [
-      "mon",
-      "plt"
+      "Moon",
+      "Pluto"
     ]
   },
   {
@@ -1674,8 +1674,8 @@
       "Fiend"
     ],
     "guardianStars": [
-      "mon",
-      "plt"
+      "Moon",
+      "Pluto"
     ]
   },
   {
@@ -1693,8 +1693,8 @@
       "Fiend"
     ],
     "guardianStars": [
-      "jpt",
-      "mrc"
+      "Jupiter",
+      "Mercury"
     ]
   },
   {
@@ -1712,8 +1712,8 @@
       "Fiend"
     ],
     "guardianStars": [
-      "mrc",
-      "npt"
+      "Mercury",
+      "Neptune"
     ]
   },
   {
@@ -1733,8 +1733,8 @@
       "Thronian"
     ],
     "guardianStars": [
-      "mon",
-      "mrc"
+      "Moon",
+      "Mercury"
     ]
   },
   {
@@ -1754,8 +1754,8 @@
       "Turtle"
     ],
     "guardianStars": [
-      "npt",
-      "sun"
+      "Neptune",
+      "Sun"
     ]
   },
   {
@@ -1774,8 +1774,8 @@
       "Female"
     ],
     "guardianStars": [
-      "sun",
-      "npt"
+      "Sun",
+      "Neptune"
     ]
   },
   {
@@ -1794,15 +1794,15 @@
       "UsableBeast"
     ],
     "guardianStars": [
-      "jpt",
-      "urn"
+      "Jupiter",
+      "Uranus"
     ]
   },
   {
     "number": 92,
     "name": "Rabid Horseman",
     "cardType": "Monster",
-    "type": "Beast-Warrior",
+    "type": "BeastWarrior",
     "level": 6,
     "attack": 2000,
     "defense": 1700,
@@ -1810,11 +1810,11 @@
     "starCost": 999999,
     "purchasable": true,
     "fusionTypes": [
-      "Beast-Warrior"
+      "BeastWarrior"
     ],
     "guardianStars": [
-      "jpt",
-      "plt"
+      "Jupiter",
+      "Pluto"
     ]
   },
   {
@@ -1832,8 +1832,8 @@
       "Warrior"
     ],
     "guardianStars": [
-      "urn",
-      "jpt"
+      "Uranus",
+      "Jupiter"
     ]
   },
   {
@@ -1851,8 +1851,8 @@
       "Dragon"
     ],
     "guardianStars": [
-      "urn",
-      "sun"
+      "Uranus",
+      "Sun"
     ]
   },
   {
@@ -1870,8 +1870,8 @@
       "Fiend"
     ],
     "guardianStars": [
-      "vns",
-      "jpt"
+      "Venus",
+      "Jupiter"
     ]
   },
   {
@@ -1889,8 +1889,8 @@
       "Zombie"
     ],
     "guardianStars": [
-      "mon",
-      "plt"
+      "Moon",
+      "Pluto"
     ]
   },
   {
@@ -1909,8 +1909,8 @@
       "Dragon"
     ],
     "guardianStars": [
-      "mon",
-      "plt"
+      "Moon",
+      "Pluto"
     ]
   },
   {
@@ -1928,8 +1928,8 @@
       "Zombie"
     ],
     "guardianStars": [
-      "mon",
-      "plt"
+      "Moon",
+      "Pluto"
     ]
   },
   {
@@ -1947,8 +1947,8 @@
       "Zombie"
     ],
     "guardianStars": [
-      "jpt",
-      "npt"
+      "Jupiter",
+      "Neptune"
     ]
   },
   {
@@ -1966,8 +1966,8 @@
       "Warrior"
     ],
     "guardianStars": [
-      "urn",
-      "mon"
+      "Uranus",
+      "Moon"
     ]
   },
   {
@@ -1985,8 +1985,8 @@
       "Pyro"
     ],
     "guardianStars": [
-      "mrs",
-      "stn"
+      "Mars",
+      "Saturn"
     ]
   },
   {
@@ -2007,8 +2007,8 @@
       "Thronian"
     ],
     "guardianStars": [
-      "mrc",
-      "mon"
+      "Mercury",
+      "Moon"
     ]
   },
   {
@@ -2030,8 +2030,8 @@
       "Thronian"
     ],
     "guardianStars": [
-      "mrc",
-      "mrs"
+      "Mercury",
+      "Mars"
     ]
   },
   {
@@ -2051,8 +2051,8 @@
       "MercurySpellcaster"
     ],
     "guardianStars": [
-      "mrc",
-      "jpt"
+      "Mercury",
+      "Jupiter"
     ]
   },
   {
@@ -2070,8 +2070,8 @@
       "Dinosaur"
     ],
     "guardianStars": [
-      "urn",
-      "vns"
+      "Uranus",
+      "Venus"
     ]
   },
   {
@@ -2089,8 +2089,8 @@
       "Spellcaster"
     ],
     "guardianStars": [
-      "stn",
-      "sun"
+      "Saturn",
+      "Sun"
     ]
   },
   {
@@ -2109,8 +2109,8 @@
       "Thronian"
     ],
     "guardianStars": [
-      "mon",
-      "mrs"
+      "Moon",
+      "Mars"
     ]
   },
   {
@@ -2129,8 +2129,8 @@
       "Sheepian"
     ],
     "guardianStars": [
-      "mon",
-      "plt"
+      "Moon",
+      "Pluto"
     ]
   },
   {
@@ -2150,8 +2150,8 @@
       "MusKingian"
     ],
     "guardianStars": [
-      "sun",
-      "vns"
+      "Sun",
+      "Venus"
     ]
   },
   {
@@ -2169,8 +2169,8 @@
       "Warrior"
     ],
     "guardianStars": [
-      "urn",
-      "mrc"
+      "Uranus",
+      "Mercury"
     ]
   },
   {
@@ -2189,8 +2189,8 @@
       "MercuryMagicUser"
     ],
     "guardianStars": [
-      "mrc",
-      "stn"
+      "Mercury",
+      "Saturn"
     ]
   },
   {
@@ -2210,8 +2210,8 @@
       "Thronian"
     ],
     "guardianStars": [
-      "mrc",
-      "urn"
+      "Mercury",
+      "Uranus"
     ]
   },
   {
@@ -2230,8 +2230,8 @@
       "UsableBeast"
     ],
     "guardianStars": [
-      "jpt",
-      "mon"
+      "Jupiter",
+      "Moon"
     ]
   },
   {
@@ -2250,8 +2250,8 @@
       "MusKingian"
     ],
     "guardianStars": [
-      "sun",
-      "mrs"
+      "Sun",
+      "Mars"
     ]
   },
   {
@@ -2271,8 +2271,8 @@
       "MercurySpellcaster"
     ],
     "guardianStars": [
-      "mrc",
-      "plt"
+      "Mercury",
+      "Pluto"
     ]
   },
   {
@@ -2290,15 +2290,15 @@
       "Insect"
     ],
     "guardianStars": [
-      "urn",
-      "npt"
+      "Uranus",
+      "Neptune"
     ]
   },
   {
     "number": 117,
     "name": "Spirit of the Books",
     "cardType": "Monster",
-    "type": "Winged Beast",
+    "type": "WingedBeast",
     "level": 4,
     "attack": 1400,
     "defense": 1200,
@@ -2306,11 +2306,11 @@
     "starCost": 120,
     "purchasable": true,
     "fusionTypes": [
-      "Winged Beast"
+      "WingedBeast"
     ],
     "guardianStars": [
-      "stn",
-      "mon"
+      "Saturn",
+      "Moon"
     ]
   },
   {
@@ -2328,8 +2328,8 @@
       "Warrior"
     ],
     "guardianStars": [
-      "jpt",
-      "vns"
+      "Jupiter",
+      "Venus"
     ]
   },
   {
@@ -2349,8 +2349,8 @@
       "Thronian"
     ],
     "guardianStars": [
-      "mon",
-      "plt"
+      "Moon",
+      "Pluto"
     ]
   },
   {
@@ -2368,8 +2368,8 @@
       "Warrior"
     ],
     "guardianStars": [
-      "vns",
-      "stn"
+      "Venus",
+      "Saturn"
     ]
   },
   {
@@ -2388,8 +2388,8 @@
       "UsableBeast"
     ],
     "guardianStars": [
-      "jpt",
-      "sun"
+      "Jupiter",
+      "Sun"
     ]
   },
   {
@@ -2407,8 +2407,8 @@
       "Dragon"
     ],
     "guardianStars": [
-      "stn",
-      "vns"
+      "Saturn",
+      "Venus"
     ]
   },
   {
@@ -2426,8 +2426,8 @@
       "Plant"
     ],
     "guardianStars": [
-      "mon",
-      "jpt"
+      "Moon",
+      "Jupiter"
     ]
   },
   {
@@ -2445,15 +2445,15 @@
       "Machine"
     ],
     "guardianStars": [
-      "mon",
-      "stn"
+      "Moon",
+      "Saturn"
     ]
   },
   {
     "number": 125,
     "name": "Faith Bird",
     "cardType": "Monster",
-    "type": "Winged Beast",
+    "type": "WingedBeast",
     "level": 4,
     "attack": 1500,
     "defense": 1100,
@@ -2461,14 +2461,14 @@
     "starCost": 120,
     "purchasable": true,
     "fusionTypes": [
-      "Winged Beast",
+      "WingedBeast",
       "FeatherFromBear",
       "FeatherFromMachine",
       "MusKingian"
     ],
     "guardianStars": [
-      "sun",
-      "jpt"
+      "Sun",
+      "Jupiter"
     ]
   },
   {
@@ -2486,8 +2486,8 @@
       "Fairy"
     ],
     "guardianStars": [
-      "sun",
-      "stn"
+      "Sun",
+      "Saturn"
     ]
   },
   {
@@ -2506,8 +2506,8 @@
       "MercuryMagicUser"
     ],
     "guardianStars": [
-      "mrc",
-      "npt"
+      "Mercury",
+      "Neptune"
     ]
   },
   {
@@ -2530,8 +2530,8 @@
       "MusKingian"
     ],
     "guardianStars": [
-      "sun",
-      "urn"
+      "Sun",
+      "Uranus"
     ]
   },
   {
@@ -2552,8 +2552,8 @@
       "MercurySpellcaster"
     ],
     "guardianStars": [
-      "mrc",
-      "mon"
+      "Mercury",
+      "Moon"
     ]
   },
   {
@@ -2573,8 +2573,8 @@
       "MystElfian"
     ],
     "guardianStars": [
-      "sun",
-      "plt"
+      "Sun",
+      "Pluto"
     ]
   },
   {
@@ -2593,8 +2593,8 @@
       "Bugrothian"
     ],
     "guardianStars": [
-      "npt",
-      "mon"
+      "Neptune",
+      "Moon"
     ]
   },
   {
@@ -2612,8 +2612,8 @@
       "Zombie"
     ],
     "guardianStars": [
-      "mon",
-      "plt"
+      "Moon",
+      "Pluto"
     ]
   },
   {
@@ -2631,8 +2631,8 @@
       "Pyro"
     ],
     "guardianStars": [
-      "mrs",
-      "urn"
+      "Mars",
+      "Uranus"
     ]
   },
   {
@@ -2652,8 +2652,8 @@
       "MystElfian"
     ],
     "guardianStars": [
-      "sun",
-      "npt"
+      "Sun",
+      "Neptune"
     ]
   },
   {
@@ -2672,8 +2672,8 @@
       "Sheepian"
     ],
     "guardianStars": [
-      "mon",
-      "plt"
+      "Moon",
+      "Pluto"
     ]
   },
   {
@@ -2692,8 +2692,8 @@
       "MercuryMagicUser"
     ],
     "guardianStars": [
-      "mrc",
-      "mrs"
+      "Mercury",
+      "Mars"
     ]
   },
   {
@@ -2714,8 +2714,8 @@
       "Thronian"
     ],
     "guardianStars": [
-      "mon",
-      "urn"
+      "Moon",
+      "Uranus"
     ]
   },
   {
@@ -2734,8 +2734,8 @@
       "Dragon"
     ],
     "guardianStars": [
-      "urn",
-      "mrs"
+      "Uranus",
+      "Mars"
     ]
   },
   {
@@ -2754,8 +2754,8 @@
       "Sheepian"
     ],
     "guardianStars": [
-      "sun",
-      "plt"
+      "Sun",
+      "Pluto"
     ]
   },
   {
@@ -2774,8 +2774,8 @@
       "Bugrothian"
     ],
     "guardianStars": [
-      "npt",
-      "vns"
+      "Neptune",
+      "Venus"
     ]
   },
   {
@@ -2796,8 +2796,8 @@
       "Thronian"
     ],
     "guardianStars": [
-      "mon",
-      "jpt"
+      "Moon",
+      "Jupiter"
     ]
   },
   {
@@ -2816,8 +2816,8 @@
       "Pyro"
     ],
     "guardianStars": [
-      "mrs",
-      "plt"
+      "Mars",
+      "Pluto"
     ]
   },
   {
@@ -2835,8 +2835,8 @@
       "Spellcaster"
     ],
     "guardianStars": [
-      "vns",
-      "urn"
+      "Venus",
+      "Uranus"
     ]
   },
   {
@@ -2854,8 +2854,8 @@
       "Spellcaster"
     ],
     "guardianStars": [
-      "stn",
-      "mrc"
+      "Saturn",
+      "Mercury"
     ]
   },
   {
@@ -2873,8 +2873,8 @@
       "Spellcaster"
     ],
     "guardianStars": [
-      "vns",
-      "plt"
+      "Venus",
+      "Pluto"
     ]
   },
   {
@@ -2893,8 +2893,8 @@
       "MercuryMagicUser"
     ],
     "guardianStars": [
-      "mrc",
-      "plt"
+      "Mercury",
+      "Pluto"
     ]
   },
   {
@@ -2913,8 +2913,8 @@
       "Egg"
     ],
     "guardianStars": [
-      "urn",
-      "jpt"
+      "Uranus",
+      "Jupiter"
     ]
   },
   {
@@ -2935,8 +2935,8 @@
       "Thronian"
     ],
     "guardianStars": [
-      "mrc",
-      "jpt"
+      "Mercury",
+      "Jupiter"
     ]
   },
   {
@@ -2955,8 +2955,8 @@
       "MercuryMagicUser"
     ],
     "guardianStars": [
-      "mrc",
-      "stn"
+      "Mercury",
+      "Saturn"
     ]
   },
   {
@@ -2975,8 +2975,8 @@
       "Bugrothian"
     ],
     "guardianStars": [
-      "npt",
-      "jpt"
+      "Neptune",
+      "Jupiter"
     ]
   },
   {
@@ -2995,8 +2995,8 @@
       "Bugrothian"
     ],
     "guardianStars": [
-      "npt",
-      "mrs"
+      "Neptune",
+      "Mars"
     ]
   },
   {
@@ -3017,8 +3017,8 @@
       "Thronian"
     ],
     "guardianStars": [
-      "mon",
-      "npt"
+      "Moon",
+      "Neptune"
     ]
   },
   {
@@ -3037,8 +3037,8 @@
       "Sheepian"
     ],
     "guardianStars": [
-      "mon",
-      "plt"
+      "Moon",
+      "Pluto"
     ]
   },
   {
@@ -3057,8 +3057,8 @@
       "Pyro"
     ],
     "guardianStars": [
-      "mrs",
-      "sun"
+      "Mars",
+      "Sun"
     ]
   },
   {
@@ -3076,8 +3076,8 @@
       "Beast"
     ],
     "guardianStars": [
-      "jpt",
-      "mrc"
+      "Jupiter",
+      "Mercury"
     ]
   },
   {
@@ -3095,8 +3095,8 @@
       "Warrior"
     ],
     "guardianStars": [
-      "urn",
-      "sun"
+      "Uranus",
+      "Sun"
     ]
   },
   {
@@ -3115,8 +3115,8 @@
       "Pyro"
     ],
     "guardianStars": [
-      "mrs",
-      "mon"
+      "Mars",
+      "Moon"
     ]
   },
   {
@@ -3134,8 +3134,8 @@
       "Plant"
     ],
     "guardianStars": [
-      "jpt",
-      "urn"
+      "Jupiter",
+      "Uranus"
     ]
   },
   {
@@ -3153,8 +3153,8 @@
       "Beast"
     ],
     "guardianStars": [
-      "jpt",
-      "plt"
+      "Jupiter",
+      "Pluto"
     ]
   },
   {
@@ -3172,8 +3172,8 @@
       "Warrior"
     ],
     "guardianStars": [
-      "urn",
-      "mon"
+      "Uranus",
+      "Moon"
     ]
   },
   {
@@ -3191,8 +3191,8 @@
       "Warrior"
     ],
     "guardianStars": [
-      "urn",
-      "vns"
+      "Uranus",
+      "Venus"
     ]
   },
   {
@@ -3212,8 +3212,8 @@
       "Thronian"
     ],
     "guardianStars": [
-      "mon",
-      "mrc"
+      "Moon",
+      "Mercury"
     ]
   },
   {
@@ -3233,8 +3233,8 @@
       "FeatherFromMachine"
     ],
     "guardianStars": [
-      "stn",
-      "plt"
+      "Saturn",
+      "Pluto"
     ]
   },
   {
@@ -3254,8 +3254,8 @@
       "Thronian"
     ],
     "guardianStars": [
-      "mrc",
-      "urn"
+      "Mercury",
+      "Uranus"
     ]
   },
   {
@@ -3274,8 +3274,8 @@
       "MusKingian"
     ],
     "guardianStars": [
-      "sun",
-      "vns"
+      "Sun",
+      "Venus"
     ]
   },
   {
@@ -3293,8 +3293,8 @@
       "Warrior"
     ],
     "guardianStars": [
-      "urn",
-      "mrc"
+      "Uranus",
+      "Mercury"
     ]
   },
   {
@@ -3313,8 +3313,8 @@
       "Jar"
     ],
     "guardianStars": [
-      "urn",
-      "npt"
+      "Uranus",
+      "Neptune"
     ]
   },
   {
@@ -3333,8 +3333,8 @@
       "Pyro"
     ],
     "guardianStars": [
-      "mrs",
-      "vns"
+      "Mars",
+      "Venus"
     ]
   },
   {
@@ -3354,8 +3354,8 @@
       "Thronian"
     ],
     "guardianStars": [
-      "mrc",
-      "plt"
+      "Mercury",
+      "Pluto"
     ]
   },
   {
@@ -3374,8 +3374,8 @@
       "MusKingian"
     ],
     "guardianStars": [
-      "sun",
-      "mrs"
+      "Sun",
+      "Mars"
     ]
   },
   {
@@ -3394,8 +3394,8 @@
       "Thronian"
     ],
     "guardianStars": [
-      "vns",
-      "npt"
+      "Venus",
+      "Neptune"
     ]
   },
   {
@@ -3414,8 +3414,8 @@
       "Pyro"
     ],
     "guardianStars": [
-      "mrs",
-      "mrc"
+      "Mars",
+      "Mercury"
     ]
   },
   {
@@ -3436,8 +3436,8 @@
       "Thronian"
     ],
     "guardianStars": [
-      "mrc",
-      "npt"
+      "Mercury",
+      "Neptune"
     ]
   },
   {
@@ -3455,8 +3455,8 @@
       "Spellcaster"
     ],
     "guardianStars": [
-      "stn",
-      "npt"
+      "Saturn",
+      "Neptune"
     ]
   },
   {
@@ -3478,8 +3478,8 @@
       "Thronian"
     ],
     "guardianStars": [
-      "mrc",
-      "mon"
+      "Mercury",
+      "Moon"
     ]
   },
   {
@@ -3497,8 +3497,8 @@
       "Pyro"
     ],
     "guardianStars": [
-      "mrs",
-      "stn"
+      "Mars",
+      "Saturn"
     ]
   },
   {
@@ -3518,8 +3518,8 @@
       "Turtle"
     ],
     "guardianStars": [
-      "npt",
-      "mrc"
+      "Neptune",
+      "Mercury"
     ]
   },
   {
@@ -3540,8 +3540,8 @@
       "Thronian"
     ],
     "guardianStars": [
-      "mrc",
-      "mrs"
+      "Mercury",
+      "Mars"
     ]
   },
   {
@@ -3561,8 +3561,8 @@
       "MercurySpellcaster"
     ],
     "guardianStars": [
-      "mrc",
-      "jpt"
+      "Mercury",
+      "Jupiter"
     ]
   },
   {
@@ -3581,8 +3581,8 @@
       "Female"
     ],
     "guardianStars": [
-      "jpt",
-      "npt"
+      "Jupiter",
+      "Neptune"
     ]
   },
   {
@@ -3602,8 +3602,8 @@
       "Thronian"
     ],
     "guardianStars": [
-      "stn",
-      "mrs"
+      "Saturn",
+      "Mars"
     ]
   },
   {
@@ -3622,8 +3622,8 @@
       "MercuryMagicUser"
     ],
     "guardianStars": [
-      "mrc",
-      "stn"
+      "Mercury",
+      "Saturn"
     ]
   },
   {
@@ -3643,8 +3643,8 @@
       "MystElfian"
     ],
     "guardianStars": [
-      "sun",
-      "jpt"
+      "Sun",
+      "Jupiter"
     ]
   },
   {
@@ -3662,8 +3662,8 @@
       "Spellcaster"
     ],
     "guardianStars": [
-      "vns",
-      "sun"
+      "Venus",
+      "Sun"
     ]
   },
   {
@@ -3681,15 +3681,15 @@
       "Warrior"
     ],
     "guardianStars": [
-      "urn",
-      "mrs"
+      "Uranus",
+      "Mars"
     ]
   },
   {
     "number": 186,
     "name": "Fiend Refrection #2",
     "cardType": "Monster",
-    "type": "Winged Beast",
+    "type": "WingedBeast",
     "level": 4,
     "attack": 1100,
     "defense": 1400,
@@ -3697,13 +3697,13 @@
     "starCost": 100,
     "purchasable": true,
     "fusionTypes": [
-      "Winged Beast",
+      "WingedBeast",
       "FeatherFromMachine",
       "Mirror"
     ],
     "guardianStars": [
-      "vns",
-      "mrs"
+      "Venus",
+      "Mars"
     ]
   },
   {
@@ -3724,8 +3724,8 @@
       "Thronian"
     ],
     "guardianStars": [
-      "mon",
-      "mrs"
+      "Moon",
+      "Mars"
     ]
   },
   {
@@ -3744,8 +3744,8 @@
       "UsableBeast"
     ],
     "guardianStars": [
-      "jpt",
-      "sun"
+      "Jupiter",
+      "Sun"
     ]
   },
   {
@@ -3767,8 +3767,8 @@
       "UsableBeast"
     ],
     "guardianStars": [
-      "jpt",
-      "mon"
+      "Jupiter",
+      "Moon"
     ]
   },
   {
@@ -3788,8 +3788,8 @@
       "MercurySpellcaster"
     ],
     "guardianStars": [
-      "mrc",
-      "urn"
+      "Mercury",
+      "Uranus"
     ]
   },
   {
@@ -3807,8 +3807,8 @@
       "Thunder"
     ],
     "guardianStars": [
-      "plt",
-      "mon"
+      "Pluto",
+      "Moon"
     ]
   },
   {
@@ -3829,8 +3829,8 @@
       "MystElfian"
     ],
     "guardianStars": [
-      "sun",
-      "stn"
+      "Sun",
+      "Saturn"
     ]
   },
   {
@@ -3850,8 +3850,8 @@
       "Turtle"
     ],
     "guardianStars": [
-      "npt",
-      "stn"
+      "Neptune",
+      "Saturn"
     ]
   },
   {
@@ -3871,8 +3871,8 @@
       "Thronian"
     ],
     "guardianStars": [
-      "mon",
-      "jpt"
+      "Moon",
+      "Jupiter"
     ]
   },
   {
@@ -3891,8 +3891,8 @@
       "Bugrothian"
     ],
     "guardianStars": [
-      "npt",
-      "mon"
+      "Neptune",
+      "Moon"
     ]
   },
   {
@@ -3911,8 +3911,8 @@
       "Bugrothian"
     ],
     "guardianStars": [
-      "npt",
-      "vns"
+      "Neptune",
+      "Venus"
     ]
   },
   {
@@ -3931,8 +3931,8 @@
       "Sheepian"
     ],
     "guardianStars": [
-      "mon",
-      "stn"
+      "Moon",
+      "Saturn"
     ]
   },
   {
@@ -3954,8 +3954,8 @@
       "MusKingian"
     ],
     "guardianStars": [
-      "sun",
-      "urn"
+      "Sun",
+      "Uranus"
     ]
   },
   {
@@ -3974,8 +3974,8 @@
       "Bugrothian"
     ],
     "guardianStars": [
-      "urn",
-      "mrc"
+      "Uranus",
+      "Mercury"
     ]
   },
   {
@@ -3993,8 +3993,8 @@
       "Dragon"
     ],
     "guardianStars": [
-      "stn",
-      "sun"
+      "Saturn",
+      "Sun"
     ]
   },
   {
@@ -4013,8 +4013,8 @@
       "UsableBeast"
     ],
     "guardianStars": [
-      "jpt",
-      "vns"
+      "Jupiter",
+      "Venus"
     ]
   },
   {
@@ -4035,8 +4035,8 @@
       "UsableBeast"
     ],
     "guardianStars": [
-      "mon",
-      "urn"
+      "Moon",
+      "Uranus"
     ]
   },
   {
@@ -4055,8 +4055,8 @@
       "Sheepian"
     ],
     "guardianStars": [
-      "mon",
-      "plt"
+      "Moon",
+      "Pluto"
     ]
   },
   {
@@ -4074,8 +4074,8 @@
       "Fiend"
     ],
     "guardianStars": [
-      "mon",
-      "npt"
+      "Moon",
+      "Neptune"
     ]
   },
   {
@@ -4094,8 +4094,8 @@
       "Bugrothian"
     ],
     "guardianStars": [
-      "npt",
-      "sun"
+      "Neptune",
+      "Sun"
     ]
   },
   {
@@ -4116,15 +4116,15 @@
       "Thronian"
     ],
     "guardianStars": [
-      "mon",
-      "mrc"
+      "Moon",
+      "Mercury"
     ]
   },
   {
     "number": 207,
     "name": "Droll Bird",
     "cardType": "Monster",
-    "type": "Winged Beast",
+    "type": "WingedBeast",
     "level": 2,
     "attack": 600,
     "defense": 500,
@@ -4132,11 +4132,11 @@
     "starCost": 25,
     "purchasable": true,
     "fusionTypes": [
-      "Winged Beast"
+      "WingedBeast"
     ],
     "guardianStars": [
-      "stn",
-      "mon"
+      "Saturn",
+      "Moon"
     ]
   },
   {
@@ -4157,8 +4157,8 @@
       "MystElfian"
     ],
     "guardianStars": [
-      "sun",
-      "plt"
+      "Sun",
+      "Pluto"
     ]
   },
   {
@@ -4176,8 +4176,8 @@
       "Insect"
     ],
     "guardianStars": [
-      "jpt",
-      "mrc"
+      "Jupiter",
+      "Mercury"
     ]
   },
   {
@@ -4195,8 +4195,8 @@
       "Pyro"
     ],
     "guardianStars": [
-      "mrs",
-      "urn"
+      "Mars",
+      "Uranus"
     ]
   },
   {
@@ -4214,8 +4214,8 @@
       "Thunder"
     ],
     "guardianStars": [
-      "plt",
-      "vns"
+      "Pluto",
+      "Venus"
     ]
   },
   {
@@ -4236,8 +4236,8 @@
       "Thronian"
     ],
     "guardianStars": [
-      "mon",
-      "mrs"
+      "Moon",
+      "Mars"
     ]
   },
   {
@@ -4256,8 +4256,8 @@
       "Bugrothian"
     ],
     "guardianStars": [
-      "npt",
-      "mrc"
+      "Neptune",
+      "Mercury"
     ]
   },
   {
@@ -4276,8 +4276,8 @@
       "Pyro"
     ],
     "guardianStars": [
-      "mrs",
-      "sun"
+      "Mars",
+      "Sun"
     ]
   },
   {
@@ -4296,8 +4296,8 @@
       "Pyro"
     ],
     "guardianStars": [
-      "mrs",
-      "plt"
+      "Mars",
+      "Pluto"
     ]
   },
   {
@@ -4316,8 +4316,8 @@
       "Female"
     ],
     "guardianStars": [
-      "jpt",
-      "urn"
+      "Jupiter",
+      "Uranus"
     ]
   },
   {
@@ -4335,8 +4335,8 @@
       "Dragon"
     ],
     "guardianStars": [
-      "mon",
-      "jpt"
+      "Moon",
+      "Jupiter"
     ]
   },
   {
@@ -4357,15 +4357,15 @@
       "Thronian"
     ],
     "guardianStars": [
-      "mon",
-      "stn"
+      "Moon",
+      "Saturn"
     ]
   },
   {
     "number": 219,
     "name": "Solitude",
     "cardType": "Monster",
-    "type": "Beast-Warrior",
+    "type": "BeastWarrior",
     "level": 3,
     "attack": 1050,
     "defense": 1000,
@@ -4373,14 +4373,14 @@
     "starCost": 55,
     "purchasable": true,
     "fusionTypes": [
-      "Beast-Warrior",
+      "BeastWarrior",
       "Koumorian",
       "Sheepian",
       "Thronian"
     ],
     "guardianStars": [
-      "mon",
-      "urn"
+      "Moon",
+      "Uranus"
     ]
   },
   {
@@ -4400,8 +4400,8 @@
       "MercurySpellcaster"
     ],
     "guardianStars": [
-      "mrc",
-      "npt"
+      "Mercury",
+      "Neptune"
     ]
   },
   {
@@ -4419,8 +4419,8 @@
       "Insect"
     ],
     "guardianStars": [
-      "jpt",
-      "plt"
+      "Jupiter",
+      "Pluto"
     ]
   },
   {
@@ -4441,8 +4441,8 @@
       "Thronian"
     ],
     "guardianStars": [
-      "mon",
-      "npt"
+      "Moon",
+      "Neptune"
     ]
   },
   {
@@ -4460,8 +4460,8 @@
       "Aqua"
     ],
     "guardianStars": [
-      "npt",
-      "mrs"
+      "Neptune",
+      "Mars"
     ]
   },
   {
@@ -4480,8 +4480,8 @@
       "MercuryMagicUser"
     ],
     "guardianStars": [
-      "mrc",
-      "mon"
+      "Mercury",
+      "Moon"
     ]
   },
   {
@@ -4499,8 +4499,8 @@
       "Warrior"
     ],
     "guardianStars": [
-      "mon",
-      "mrc"
+      "Moon",
+      "Mercury"
     ]
   },
   {
@@ -4519,8 +4519,8 @@
       "Thronian"
     ],
     "guardianStars": [
-      "mon",
-      "mrs"
+      "Moon",
+      "Mars"
     ]
   },
   {
@@ -4539,8 +4539,8 @@
       "Bugrothian"
     ],
     "guardianStars": [
-      "npt",
-      "mrs"
+      "Neptune",
+      "Mars"
     ]
   },
   {
@@ -4558,8 +4558,8 @@
       "Zombie"
     ],
     "guardianStars": [
-      "jpt",
-      "npt"
+      "Jupiter",
+      "Neptune"
     ]
   },
   {
@@ -4582,8 +4582,8 @@
       "MystElfian"
     ],
     "guardianStars": [
-      "sun",
-      "npt"
+      "Sun",
+      "Neptune"
     ]
   },
   {
@@ -4601,8 +4601,8 @@
       "Fish"
     ],
     "guardianStars": [
-      "npt",
-      "jpt"
+      "Neptune",
+      "Jupiter"
     ]
   },
   {
@@ -4621,8 +4621,8 @@
       "MercuryMagicUser"
     ],
     "guardianStars": [
-      "mrc",
-      "mrs"
+      "Mercury",
+      "Mars"
     ]
   },
   {
@@ -4643,8 +4643,8 @@
       "Thronian"
     ],
     "guardianStars": [
-      "mon",
-      "jpt"
+      "Moon",
+      "Jupiter"
     ]
   },
   {
@@ -4664,8 +4664,8 @@
       "Thronian"
     ],
     "guardianStars": [
-      "mrc",
-      "jpt"
+      "Mercury",
+      "Jupiter"
     ]
   },
   {
@@ -4685,8 +4685,8 @@
       "MercuryMagicUser"
     ],
     "guardianStars": [
-      "mrc",
-      "stn"
+      "Mercury",
+      "Saturn"
     ]
   },
   {
@@ -4704,8 +4704,8 @@
       "Warrior"
     ],
     "guardianStars": [
-      "jpt",
-      "sun"
+      "Jupiter",
+      "Sun"
     ]
   },
   {
@@ -4724,8 +4724,8 @@
       "MercuryMagicUser"
     ],
     "guardianStars": [
-      "plt",
-      "mrc"
+      "Pluto",
+      "Mercury"
     ]
   },
   {
@@ -4743,8 +4743,8 @@
       "Rock"
     ],
     "guardianStars": [
-      "urn",
-      "jpt"
+      "Uranus",
+      "Jupiter"
     ]
   },
   {
@@ -4762,8 +4762,8 @@
       "Plant"
     ],
     "guardianStars": [
-      "jpt",
-      "mon"
+      "Jupiter",
+      "Moon"
     ]
   },
   {
@@ -4783,8 +4783,8 @@
       "MercuryMagicUser"
     ],
     "guardianStars": [
-      "mrc",
-      "urn"
+      "Mercury",
+      "Uranus"
     ]
   },
   {
@@ -4805,8 +4805,8 @@
       "Thronian"
     ],
     "guardianStars": [
-      "mon",
-      "stn"
+      "Moon",
+      "Saturn"
     ]
   },
   {
@@ -4824,8 +4824,8 @@
       "Zombie"
     ],
     "guardianStars": [
-      "mon",
-      "urn"
+      "Moon",
+      "Uranus"
     ]
   },
   {
@@ -4844,8 +4844,8 @@
       "Pyro"
     ],
     "guardianStars": [
-      "mrs",
-      "mon"
+      "Mars",
+      "Moon"
     ]
   },
   {
@@ -4865,8 +4865,8 @@
       "Female"
     ],
     "guardianStars": [
-      "npt",
-      "stn"
+      "Neptune",
+      "Saturn"
     ]
   },
   {
@@ -4885,8 +4885,8 @@
       "Pyro"
     ],
     "guardianStars": [
-      "mrs",
-      "vns"
+      "Mars",
+      "Venus"
     ]
   },
   {
@@ -4907,15 +4907,15 @@
       "Thronian"
     ],
     "guardianStars": [
-      "mon",
-      "npt"
+      "Moon",
+      "Neptune"
     ]
   },
   {
     "number": 246,
     "name": "One Who Hunts Souls",
     "cardType": "Monster",
-    "type": "Beast-Warrior",
+    "type": "BeastWarrior",
     "level": 4,
     "attack": 1100,
     "defense": 1000,
@@ -4923,14 +4923,14 @@
     "starCost": 60,
     "purchasable": true,
     "fusionTypes": [
-      "Beast-Warrior",
+      "BeastWarrior",
       "Koumorian",
       "Sheepian",
       "Thronian"
     ],
     "guardianStars": [
-      "mon",
-      "mrc"
+      "Moon",
+      "Mercury"
     ]
   },
   {
@@ -4948,8 +4948,8 @@
       "Fish"
     ],
     "guardianStars": [
-      "npt",
-      "sun"
+      "Neptune",
+      "Sun"
     ]
   },
   {
@@ -4968,8 +4968,8 @@
       "UsableBeast"
     ],
     "guardianStars": [
-      "jpt",
-      "vns"
+      "Jupiter",
+      "Venus"
     ]
   },
   {
@@ -4989,8 +4989,8 @@
       "Female"
     ],
     "guardianStars": [
-      "npt",
-      "mon"
+      "Neptune",
+      "Moon"
     ]
   },
   {
@@ -5009,8 +5009,8 @@
       "Bugrothian"
     ],
     "guardianStars": [
-      "npt",
-      "mrc"
+      "Neptune",
+      "Mercury"
     ]
   },
   {
@@ -5029,8 +5029,8 @@
       "Female"
     ],
     "guardianStars": [
-      "npt",
-      "vns"
+      "Neptune",
+      "Venus"
     ]
   },
   {
@@ -5049,8 +5049,8 @@
       "Female"
     ],
     "guardianStars": [
-      "jpt",
-      "mrc"
+      "Jupiter",
+      "Mercury"
     ]
   },
   {
@@ -5074,8 +5074,8 @@
       "MercurySpellcaster"
     ],
     "guardianStars": [
-      "mrc",
-      "npt"
+      "Mercury",
+      "Neptune"
     ]
   },
   {
@@ -5096,8 +5096,8 @@
       "Thronian"
     ],
     "guardianStars": [
-      "mon",
-      "mrs"
+      "Moon",
+      "Mars"
     ]
   },
   {
@@ -5116,8 +5116,8 @@
       "UsableBeast"
     ],
     "guardianStars": [
-      "jpt",
-      "urn"
+      "Jupiter",
+      "Uranus"
     ]
   },
   {
@@ -5135,8 +5135,8 @@
       "Warrior"
     ],
     "guardianStars": [
-      "vns",
-      "mrs"
+      "Venus",
+      "Mars"
     ]
   },
   {
@@ -5154,8 +5154,8 @@
       "Rock"
     ],
     "guardianStars": [
-      "urn",
-      "sun"
+      "Uranus",
+      "Sun"
     ]
   },
   {
@@ -5174,8 +5174,8 @@
       "Bugrothian"
     ],
     "guardianStars": [
-      "urn",
-      "mrc"
+      "Uranus",
+      "Mercury"
     ]
   },
   {
@@ -5195,8 +5195,8 @@
       "MercurySpellcaster"
     ],
     "guardianStars": [
-      "mon",
-      "mrc"
+      "Moon",
+      "Mercury"
     ]
   },
   {
@@ -5218,8 +5218,8 @@
       "MystElfian"
     ],
     "guardianStars": [
-      "mon",
-      "vns"
+      "Moon",
+      "Venus"
     ]
   },
   {
@@ -5240,8 +5240,8 @@
       "Thronian"
     ],
     "guardianStars": [
-      "vns",
-      "jpt"
+      "Venus",
+      "Jupiter"
     ]
   },
   {
@@ -5260,8 +5260,8 @@
       "Bugrothian"
     ],
     "guardianStars": [
-      "mrs",
-      "npt"
+      "Mars",
+      "Neptune"
     ]
   },
   {
@@ -5279,8 +5279,8 @@
       "Rock"
     ],
     "guardianStars": [
-      "urn",
-      "sun"
+      "Uranus",
+      "Sun"
     ]
   },
   {
@@ -5304,8 +5304,8 @@
       "MystElfian"
     ],
     "guardianStars": [
-      "sun",
-      "mrs"
+      "Sun",
+      "Mars"
     ]
   },
   {
@@ -5324,8 +5324,8 @@
       "Bugrothian"
     ],
     "guardianStars": [
-      "npt",
-      "jpt"
+      "Neptune",
+      "Jupiter"
     ]
   },
   {
@@ -5344,8 +5344,8 @@
       "Female"
     ],
     "guardianStars": [
-      "stn",
-      "vns"
+      "Saturn",
+      "Venus"
     ]
   },
   {
@@ -5364,8 +5364,8 @@
       "MercuryMagicUser"
     ],
     "guardianStars": [
-      "mrc",
-      "mrs"
+      "Mercury",
+      "Mars"
     ]
   },
   {
@@ -5385,8 +5385,8 @@
       "MercurySpellcaster"
     ],
     "guardianStars": [
-      "mrc",
-      "jpt"
+      "Mercury",
+      "Jupiter"
     ]
   },
   {
@@ -5407,8 +5407,8 @@
       "Thronian"
     ],
     "guardianStars": [
-      "mrc",
-      "stn"
+      "Mercury",
+      "Saturn"
     ]
   },
   {
@@ -5427,8 +5427,8 @@
       "Bugrothian"
     ],
     "guardianStars": [
-      "npt",
-      "stn"
+      "Neptune",
+      "Saturn"
     ]
   },
   {
@@ -5449,15 +5449,15 @@
       "Thronian"
     ],
     "guardianStars": [
-      "mrc",
-      "urn"
+      "Mercury",
+      "Uranus"
     ]
   },
   {
     "number": 272,
     "name": "Mavelus",
     "cardType": "Monster",
-    "type": "Winged Beast",
+    "type": "WingedBeast",
     "level": 4,
     "attack": 1300,
     "defense": 900,
@@ -5465,14 +5465,14 @@
     "starCost": 70,
     "purchasable": true,
     "fusionTypes": [
-      "Winged Beast",
+      "WingedBeast",
       "FeatherFromBear",
       "FeatherFromMachine",
       "Pyro"
     ],
     "guardianStars": [
-      "mrs",
-      "mrc"
+      "Mars",
+      "Mercury"
     ]
   },
   {
@@ -5490,8 +5490,8 @@
       "Plant"
     ],
     "guardianStars": [
-      "mrs",
-      "mrc"
+      "Mars",
+      "Mercury"
     ]
   },
   {
@@ -5509,8 +5509,8 @@
       "Plant"
     ],
     "guardianStars": [
-      "jpt",
-      "npt"
+      "Jupiter",
+      "Neptune"
     ]
   },
   {
@@ -5528,8 +5528,8 @@
       "Machine"
     ],
     "guardianStars": [
-      "urn",
-      "mon"
+      "Uranus",
+      "Moon"
     ]
   },
   {
@@ -5547,8 +5547,8 @@
       "Fairy"
     ],
     "guardianStars": [
-      "sun",
-      "stn"
+      "Sun",
+      "Saturn"
     ]
   },
   {
@@ -5570,8 +5570,8 @@
       "Thronian"
     ],
     "guardianStars": [
-      "mon",
-      "jpt"
+      "Moon",
+      "Jupiter"
     ]
   },
   {
@@ -5589,8 +5589,8 @@
       "Insect"
     ],
     "guardianStars": [
-      "jpt",
-      "sun"
+      "Jupiter",
+      "Sun"
     ]
   },
   {
@@ -5611,8 +5611,8 @@
       "Thronian"
     ],
     "guardianStars": [
-      "mrc",
-      "npt"
+      "Mercury",
+      "Neptune"
     ]
   },
   {
@@ -5631,8 +5631,8 @@
       "Female"
     ],
     "guardianStars": [
-      "urn",
-      "vns"
+      "Uranus",
+      "Venus"
     ]
   },
   {
@@ -5651,8 +5651,8 @@
       "MercuryMagicUser"
     ],
     "guardianStars": [
-      "mrc",
-      "mon"
+      "Mercury",
+      "Moon"
     ]
   },
   {
@@ -5671,8 +5671,8 @@
       "UsableBeast"
     ],
     "guardianStars": [
-      "vns",
-      "stn"
+      "Venus",
+      "Saturn"
     ]
   },
   {
@@ -5690,8 +5690,8 @@
       "Machine"
     ],
     "guardianStars": [
-      "sun",
-      "jpt"
+      "Sun",
+      "Jupiter"
     ]
   },
   {
@@ -5709,8 +5709,8 @@
       "Spellcaster"
     ],
     "guardianStars": [
-      "vns",
-      "urn"
+      "Venus",
+      "Uranus"
     ]
   },
   {
@@ -5729,8 +5729,8 @@
       "Bugrothian"
     ],
     "guardianStars": [
-      "sun",
-      "npt"
+      "Sun",
+      "Neptune"
     ]
   },
   {
@@ -5749,15 +5749,15 @@
       "MercuryMagicUser"
     ],
     "guardianStars": [
-      "mrc",
-      "mrs"
+      "Mercury",
+      "Mars"
     ]
   },
   {
     "number": 287,
     "name": "Ogre of the Black Shadow",
     "cardType": "Monster",
-    "type": "Beast-Warrior",
+    "type": "BeastWarrior",
     "level": 4,
     "attack": 1200,
     "defense": 1400,
@@ -5765,13 +5765,13 @@
     "starCost": 120,
     "purchasable": true,
     "fusionTypes": [
-      "Beast-Warrior",
+      "BeastWarrior",
       "Koumorian",
       "Thronian"
     ],
     "guardianStars": [
-      "mon",
-      "stn"
+      "Moon",
+      "Saturn"
     ]
   },
   {
@@ -5792,8 +5792,8 @@
       "Thronian"
     ],
     "guardianStars": [
-      "mrc",
-      "jpt"
+      "Mercury",
+      "Jupiter"
     ]
   },
   {
@@ -5812,8 +5812,8 @@
       "Bugrothian"
     ],
     "guardianStars": [
-      "npt",
-      "mon"
+      "Neptune",
+      "Moon"
     ]
   },
   {
@@ -5832,8 +5832,8 @@
       "MusKingian"
     ],
     "guardianStars": [
-      "mon",
-      "stn"
+      "Moon",
+      "Saturn"
     ]
   },
   {
@@ -5851,8 +5851,8 @@
       "Pyro"
     ],
     "guardianStars": [
-      "mrs",
-      "stn"
+      "Mars",
+      "Saturn"
     ]
   },
   {
@@ -5871,8 +5871,8 @@
       "Bugrothian"
     ],
     "guardianStars": [
-      "npt",
-      "vns"
+      "Neptune",
+      "Venus"
     ]
   },
   {
@@ -5891,8 +5891,8 @@
       "MusKingian"
     ],
     "guardianStars": [
-      "sun",
-      "urn"
+      "Sun",
+      "Uranus"
     ]
   },
   {
@@ -5910,8 +5910,8 @@
       "Warrior"
     ],
     "guardianStars": [
-      "stn",
-      "mrc"
+      "Saturn",
+      "Mercury"
     ]
   },
   {
@@ -5931,8 +5931,8 @@
       "Thronian"
     ],
     "guardianStars": [
-      "jpt",
-      "mon"
+      "Jupiter",
+      "Moon"
     ]
   },
   {
@@ -5950,8 +5950,8 @@
       "Dragon"
     ],
     "guardianStars": [
-      "stn",
-      "plt"
+      "Saturn",
+      "Pluto"
     ]
   },
   {
@@ -5969,8 +5969,8 @@
       "Machine"
     ],
     "guardianStars": [
-      "mon",
-      "urn"
+      "Moon",
+      "Uranus"
     ]
   },
   {
@@ -5990,8 +5990,8 @@
       "Sheepian"
     ],
     "guardianStars": [
-      "mon",
-      "npt"
+      "Moon",
+      "Neptune"
     ]
   },
   {
@@ -6011,15 +6011,15 @@
       "MusKingian"
     ],
     "guardianStars": [
-      "sun",
-      "plt"
+      "Sun",
+      "Pluto"
     ]
   },
   {
     "number": 300,
     "name": "Kurama",
     "cardType": "Monster",
-    "type": "Winged Beast",
+    "type": "WingedBeast",
     "level": 3,
     "attack": 800,
     "defense": 800,
@@ -6027,11 +6027,11 @@
     "starCost": 35,
     "purchasable": true,
     "fusionTypes": [
-      "Winged Beast"
+      "WingedBeast"
     ],
     "guardianStars": [
-      "stn",
-      "npt"
+      "Saturn",
+      "Neptune"
     ]
   },
   {
@@ -6553,8 +6553,8 @@
       "Zombie"
     ],
     "guardianStars": [
-      "mon",
-      "mrc"
+      "Moon",
+      "Mercury"
     ]
   },
   {
@@ -6573,15 +6573,15 @@
       "Female"
     ],
     "guardianStars": [
-      "urn",
-      "npt"
+      "Uranus",
+      "Neptune"
     ]
   },
   {
     "number": 353,
     "name": "Takriminos",
     "cardType": "Monster",
-    "type": "Sea Serpent",
+    "type": "SeaSerpent",
     "level": 4,
     "attack": 1500,
     "defense": 1200,
@@ -6589,12 +6589,12 @@
     "starCost": 140,
     "purchasable": true,
     "fusionTypes": [
-      "Sea Serpent",
+      "SeaSerpent",
       "Dragon"
     ],
     "guardianStars": [
-      "npt",
-      "mrc"
+      "Neptune",
+      "Mercury"
     ]
   },
   {
@@ -6613,8 +6613,8 @@
       "Thronian"
     ],
     "guardianStars": [
-      "mon",
-      "mrs"
+      "Moon",
+      "Mars"
     ]
   },
   {
@@ -6632,8 +6632,8 @@
       "Machine"
     ],
     "guardianStars": [
-      "mon",
-      "jpt"
+      "Moon",
+      "Jupiter"
     ]
   },
   {
@@ -6649,8 +6649,8 @@
       "Beast"
     ],
     "guardianStars": [
-      "jpt",
-      "vns"
+      "Jupiter",
+      "Venus"
     ]
   },
   {
@@ -6669,8 +6669,8 @@
       "Pyro"
     ],
     "guardianStars": [
-      "mrs",
-      "urn"
+      "Mars",
+      "Uranus"
     ]
   },
   {
@@ -6688,8 +6688,8 @@
       "Dragon"
     ],
     "guardianStars": [
-      "sun",
-      "npt"
+      "Sun",
+      "Neptune"
     ]
   },
   {
@@ -6708,8 +6708,8 @@
       "Sheepian"
     ],
     "guardianStars": [
-      "mon",
-      "plt"
+      "Moon",
+      "Pluto"
     ]
   },
   {
@@ -6725,8 +6725,8 @@
       "Fiend"
     ],
     "guardianStars": [
-      "mon",
-      "stn"
+      "Moon",
+      "Saturn"
     ]
   },
   {
@@ -6746,8 +6746,8 @@
       "FeatherFromMachine"
     ],
     "guardianStars": [
-      "npt",
-      "jpt"
+      "Neptune",
+      "Jupiter"
     ]
   },
   {
@@ -6765,8 +6765,8 @@
       "Warrior"
     ],
     "guardianStars": [
-      "urn",
-      "mrs"
+      "Uranus",
+      "Mars"
     ]
   },
   {
@@ -6785,8 +6785,8 @@
       "Female"
     ],
     "guardianStars": [
-      "jpt",
-      "mrc"
+      "Jupiter",
+      "Mercury"
     ]
   },
   {
@@ -6802,8 +6802,8 @@
       "Warrior"
     ],
     "guardianStars": [
-      "mon",
-      "urn"
+      "Moon",
+      "Uranus"
     ]
   },
   {
@@ -6820,8 +6820,8 @@
       "Mirror"
     ],
     "guardianStars": [
-      "vns",
-      "plt"
+      "Venus",
+      "Pluto"
     ]
   },
   {
@@ -6839,8 +6839,8 @@
       "Rock"
     ],
     "guardianStars": [
-      "urn",
-      "jpt"
+      "Uranus",
+      "Jupiter"
     ]
   },
   {
@@ -6858,8 +6858,8 @@
       "Insect"
     ],
     "guardianStars": [
-      "jpt",
-      "urn"
+      "Jupiter",
+      "Uranus"
     ]
   },
   {
@@ -6877,8 +6877,8 @@
       "Zombie"
     ],
     "guardianStars": [
-      "mon",
-      "plt"
+      "Moon",
+      "Pluto"
     ]
   },
   {
@@ -6896,8 +6896,8 @@
       "Warrior"
     ],
     "guardianStars": [
-      "mon",
-      "npt"
+      "Moon",
+      "Neptune"
     ]
   },
   {
@@ -6915,8 +6915,8 @@
       "Machine"
     ],
     "guardianStars": [
-      "mon",
-      "mrc"
+      "Moon",
+      "Mercury"
     ]
   },
   {
@@ -6934,8 +6934,8 @@
       "Thunder"
     ],
     "guardianStars": [
-      "plt",
-      "mrs"
+      "Pluto",
+      "Mars"
     ]
   },
   {
@@ -6953,8 +6953,8 @@
       "Spellcaster"
     ],
     "guardianStars": [
-      "stn",
-      "mrs"
+      "Saturn",
+      "Mars"
     ]
   },
   {
@@ -6972,8 +6972,8 @@
       "Aqua"
     ],
     "guardianStars": [
-      "npt",
-      "stn"
+      "Neptune",
+      "Saturn"
     ]
   },
   {
@@ -6989,8 +6989,8 @@
       "Warrior"
     ],
     "guardianStars": [
-      "mon",
-      "mrs"
+      "Moon",
+      "Mars"
     ]
   },
   {
@@ -7008,8 +7008,8 @@
       "Insect"
     ],
     "guardianStars": [
-      "urn",
-      "mon"
+      "Uranus",
+      "Moon"
     ]
   },
   {
@@ -7027,8 +7027,8 @@
       "Warrior"
     ],
     "guardianStars": [
-      "jpt",
-      "plt"
+      "Jupiter",
+      "Pluto"
     ]
   },
   {
@@ -7046,8 +7046,8 @@
       "Fiend"
     ],
     "guardianStars": [
-      "mon",
-      "jpt"
+      "Moon",
+      "Jupiter"
     ]
   },
   {
@@ -7065,8 +7065,8 @@
       "Warrior"
     ],
     "guardianStars": [
-      "mon",
-      "stn"
+      "Moon",
+      "Saturn"
     ]
   },
   {
@@ -7085,8 +7085,8 @@
       "MercuryMagicUser"
     ],
     "guardianStars": [
-      "mrc",
-      "stn"
+      "Mercury",
+      "Saturn"
     ]
   },
   {
@@ -7102,8 +7102,8 @@
       "Dragon"
     ],
     "guardianStars": [
-      "sun",
-      "vns"
+      "Sun",
+      "Venus"
     ]
   },
   {
@@ -7122,15 +7122,15 @@
       "Bugrothian"
     ],
     "guardianStars": [
-      "npt",
-      "mrs"
+      "Neptune",
+      "Mars"
     ]
   },
   {
     "number": 382,
     "name": "Rude Kaiser",
     "cardType": "Monster",
-    "type": "Beast-Warrior",
+    "type": "BeastWarrior",
     "level": 5,
     "attack": 1800,
     "defense": 1600,
@@ -7138,11 +7138,11 @@
     "starCost": 320,
     "purchasable": true,
     "fusionTypes": [
-      "Beast-Warrior"
+      "BeastWarrior"
     ],
     "guardianStars": [
-      "urn",
-      "sun"
+      "Uranus",
+      "Sun"
     ]
   },
   {
@@ -7160,8 +7160,8 @@
       "Dragon"
     ],
     "guardianStars": [
-      "stn",
-      "sun"
+      "Saturn",
+      "Sun"
     ]
   },
   {
@@ -7182,8 +7182,8 @@
       "Thronian"
     ],
     "guardianStars": [
-      "mon",
-      "urn"
+      "Moon",
+      "Uranus"
     ]
   },
   {
@@ -7201,8 +7201,8 @@
       "Fiend"
     ],
     "guardianStars": [
-      "mon",
-      "npt"
+      "Moon",
+      "Neptune"
     ]
   },
   {
@@ -7220,8 +7220,8 @@
       "Dragon"
     ],
     "guardianStars": [
-      "stn",
-      "mon"
+      "Saturn",
+      "Moon"
     ]
   },
   {
@@ -7241,8 +7241,8 @@
       "MercurySpellcaster"
     ],
     "guardianStars": [
-      "mrc",
-      "urn"
+      "Mercury",
+      "Uranus"
     ]
   },
   {
@@ -7261,8 +7261,8 @@
       "MercuryMagicUser"
     ],
     "guardianStars": [
-      "mrc",
-      "npt"
+      "Mercury",
+      "Neptune"
     ]
   },
   {
@@ -7280,8 +7280,8 @@
       "Warrior"
     ],
     "guardianStars": [
-      "sun",
-      "mrs"
+      "Sun",
+      "Mars"
     ]
   },
   {
@@ -7300,8 +7300,8 @@
       "Pyro"
     ],
     "guardianStars": [
-      "mrs",
-      "plt"
+      "Mars",
+      "Pluto"
     ]
   },
   {
@@ -7319,8 +7319,8 @@
       "Fiend"
     ],
     "guardianStars": [
-      "mon",
-      "mrc"
+      "Moon",
+      "Mercury"
     ]
   },
   {
@@ -7338,8 +7338,8 @@
       "Machine"
     ],
     "guardianStars": [
-      "mon",
-      "mrs"
+      "Moon",
+      "Mars"
     ]
   },
   {
@@ -7361,8 +7361,8 @@
       ""
     ],
     "guardianStars": [
-      "sun",
-      "npt"
+      "Sun",
+      "Neptune"
     ]
   },
   {
@@ -7380,8 +7380,8 @@
       "Machine"
     ],
     "guardianStars": [
-      "jpt",
-      "npt"
+      "Jupiter",
+      "Neptune"
     ]
   },
   {
@@ -7402,8 +7402,8 @@
       "Female"
     ],
     "guardianStars": [
-      "jpt",
-      "sun"
+      "Jupiter",
+      "Sun"
     ]
   },
   {
@@ -7422,8 +7422,8 @@
       "AngelWinged"
     ],
     "guardianStars": [
-      "stn",
-      "vns"
+      "Saturn",
+      "Venus"
     ]
   },
   {
@@ -7441,8 +7441,8 @@
       "Insect"
     ],
     "guardianStars": [
-      "jpt",
-      "mon"
+      "Jupiter",
+      "Moon"
     ]
   },
   {
@@ -7461,8 +7461,8 @@
       "Bugrothian"
     ],
     "guardianStars": [
-      "npt",
-      "mon"
+      "Neptune",
+      "Moon"
     ]
   },
   {
@@ -7480,8 +7480,8 @@
       "Warrior"
     ],
     "guardianStars": [
-      "urn",
-      "vns"
+      "Uranus",
+      "Venus"
     ]
   },
   {
@@ -7500,8 +7500,8 @@
       "Bugrothian"
     ],
     "guardianStars": [
-      "npt",
-      "vns"
+      "Neptune",
+      "Venus"
     ]
   },
   {
@@ -7519,8 +7519,8 @@
       "Fiend"
     ],
     "guardianStars": [
-      "jpt",
-      "vns"
+      "Jupiter",
+      "Venus"
     ]
   },
   {
@@ -7541,8 +7541,8 @@
       "Thronian"
     ],
     "guardianStars": [
-      "mon",
-      "jpt"
+      "Moon",
+      "Jupiter"
     ]
   },
   {
@@ -7561,8 +7561,8 @@
       "UsableBeast"
     ],
     "guardianStars": [
-      "urn",
-      "mrc"
+      "Uranus",
+      "Mercury"
     ]
   },
   {
@@ -7581,8 +7581,8 @@
       "Bugrothian"
     ],
     "guardianStars": [
-      "npt",
-      "mrc"
+      "Neptune",
+      "Mercury"
     ]
   },
   {
@@ -7600,8 +7600,8 @@
       "Machine"
     ],
     "guardianStars": [
-      "mon",
-      "stn"
+      "Moon",
+      "Saturn"
     ]
   },
   {
@@ -7619,8 +7619,8 @@
       "Machine"
     ],
     "guardianStars": [
-      "mon",
-      "urn"
+      "Moon",
+      "Uranus"
     ]
   },
   {
@@ -7639,8 +7639,8 @@
       "Pyro"
     ],
     "guardianStars": [
-      "mrs",
-      "sun"
+      "Mars",
+      "Sun"
     ]
   },
   {
@@ -7658,8 +7658,8 @@
       "Machine"
     ],
     "guardianStars": [
-      "mon",
-      "npt"
+      "Moon",
+      "Neptune"
     ]
   },
   {
@@ -7679,8 +7679,8 @@
       "Pyro"
     ],
     "guardianStars": [
-      "mrs",
-      "mon"
+      "Mars",
+      "Moon"
     ]
   },
   {
@@ -7698,8 +7698,8 @@
       "Machine"
     ],
     "guardianStars": [
-      "jpt",
-      "mrc"
+      "Jupiter",
+      "Mercury"
     ]
   },
   {
@@ -7717,8 +7717,8 @@
       "Machine"
     ],
     "guardianStars": [
-      "mon",
-      "mrc"
+      "Moon",
+      "Mercury"
     ]
   },
   {
@@ -7736,8 +7736,8 @@
       "Machine"
     ],
     "guardianStars": [
-      "jpt",
-      "urn"
+      "Jupiter",
+      "Uranus"
     ]
   },
   {
@@ -7755,8 +7755,8 @@
       "Machine"
     ],
     "guardianStars": [
-      "mon",
-      "mrs"
+      "Moon",
+      "Mars"
     ]
   },
   {
@@ -7774,8 +7774,8 @@
       "Machine"
     ],
     "guardianStars": [
-      "urn",
-      "npt"
+      "Uranus",
+      "Neptune"
     ]
   },
   {
@@ -7793,8 +7793,8 @@
       "Machine"
     ],
     "guardianStars": [
-      "mon",
-      "jpt"
+      "Moon",
+      "Jupiter"
     ]
   },
   {
@@ -7812,8 +7812,8 @@
       "Machine"
     ],
     "guardianStars": [
-      "mon",
-      "stn"
+      "Moon",
+      "Saturn"
     ]
   },
   {
@@ -7832,8 +7832,8 @@
       "Pyro"
     ],
     "guardianStars": [
-      "mrs",
-      "vns"
+      "Mars",
+      "Venus"
     ]
   },
   {
@@ -7851,8 +7851,8 @@
       "Machine"
     ],
     "guardianStars": [
-      "vns",
-      "npt"
+      "Venus",
+      "Neptune"
     ]
   },
   {
@@ -7870,8 +7870,8 @@
       "Machine"
     ],
     "guardianStars": [
-      "mon",
-      "urn"
+      "Moon",
+      "Uranus"
     ]
   },
   {
@@ -7889,8 +7889,8 @@
       "Machine"
     ],
     "guardianStars": [
-      "mon",
-      "npt"
+      "Moon",
+      "Neptune"
     ]
   },
   {
@@ -7908,8 +7908,8 @@
       "Machine"
     ],
     "guardianStars": [
-      "mon",
-      "mrc"
+      "Moon",
+      "Mercury"
     ]
   },
   {
@@ -7927,8 +7927,8 @@
       "Machine"
     ],
     "guardianStars": [
-      "mon",
-      "mrs"
+      "Moon",
+      "Mars"
     ]
   },
   {
@@ -7946,8 +7946,8 @@
       "Machine"
     ],
     "guardianStars": [
-      "jpt",
-      "plt"
+      "Jupiter",
+      "Pluto"
     ]
   },
   {
@@ -7966,8 +7966,8 @@
       "FeatherFromMachine"
     ],
     "guardianStars": [
-      "stn",
-      "urn"
+      "Saturn",
+      "Uranus"
     ]
   },
   {
@@ -7986,8 +7986,8 @@
       "Dragon"
     ],
     "guardianStars": [
-      "plt",
-      "jpt"
+      "Pluto",
+      "Jupiter"
     ]
   },
   {
@@ -8006,8 +8006,8 @@
       "Dragon"
     ],
     "guardianStars": [
-      "urn",
-      "mrs"
+      "Uranus",
+      "Mars"
     ]
   },
   {
@@ -8025,8 +8025,8 @@
       "Dragon"
     ],
     "guardianStars": [
-      "sun",
-      "jpt"
+      "Sun",
+      "Jupiter"
     ]
   },
   {
@@ -8047,8 +8047,8 @@
       "MystElfian"
     ],
     "guardianStars": [
-      "sun",
-      "stn"
+      "Sun",
+      "Saturn"
     ]
   },
   {
@@ -8068,8 +8068,8 @@
       "MusKingian"
     ],
     "guardianStars": [
-      "sun",
-      "urn"
+      "Sun",
+      "Uranus"
     ]
   },
   {
@@ -8089,8 +8089,8 @@
       "Female"
     ],
     "guardianStars": [
-      "npt",
-      "mrc"
+      "Neptune",
+      "Mercury"
     ]
   },
   {
@@ -8110,8 +8110,8 @@
       "Female"
     ],
     "guardianStars": [
-      "npt",
-      "mon"
+      "Neptune",
+      "Moon"
     ]
   },
   {
@@ -8131,8 +8131,8 @@
       "Female"
     ],
     "guardianStars": [
-      "npt",
-      "vns"
+      "Neptune",
+      "Venus"
     ]
   },
   {
@@ -8152,8 +8152,8 @@
       "Female"
     ],
     "guardianStars": [
-      "sun",
-      "plt"
+      "Sun",
+      "Pluto"
     ]
   },
   {
@@ -8172,8 +8172,8 @@
       "Female"
     ],
     "guardianStars": [
-      "jpt",
-      "npt"
+      "Jupiter",
+      "Neptune"
     ]
   },
   {
@@ -8193,8 +8193,8 @@
       "Female"
     ],
     "guardianStars": [
-      "npt",
-      "vns"
+      "Neptune",
+      "Venus"
     ]
   },
   {
@@ -8212,8 +8212,8 @@
       "Fish"
     ],
     "guardianStars": [
-      "npt",
-      "jpt"
+      "Neptune",
+      "Jupiter"
     ]
   },
   {
@@ -8231,8 +8231,8 @@
       "Fish"
     ],
     "guardianStars": [
-      "npt",
-      "mrs"
+      "Neptune",
+      "Mars"
     ]
   },
   {
@@ -8251,8 +8251,8 @@
       "Bugrothian"
     ],
     "guardianStars": [
-      "npt",
-      "stn"
+      "Neptune",
+      "Saturn"
     ]
   },
   {
@@ -8271,8 +8271,8 @@
       "Bugrothian"
     ],
     "guardianStars": [
-      "npt",
-      "sun"
+      "Neptune",
+      "Sun"
     ]
   },
   {
@@ -8291,8 +8291,8 @@
       "Bugrothian"
     ],
     "guardianStars": [
-      "npt",
-      "sun"
+      "Neptune",
+      "Sun"
     ]
   },
   {
@@ -8311,15 +8311,15 @@
       "Bugrothian"
     ],
     "guardianStars": [
-      "npt",
-      "vns"
+      "Neptune",
+      "Venus"
     ]
   },
   {
     "number": 442,
     "name": "Aqua Dragon",
     "cardType": "Monster",
-    "type": "Sea Serpent",
+    "type": "SeaSerpent",
     "level": 6,
     "attack": 2250,
     "defense": 1900,
@@ -8327,19 +8327,19 @@
     "starCost": 700,
     "purchasable": true,
     "fusionTypes": [
-      "Sea Serpent",
+      "SeaSerpent",
       "Dragon"
     ],
     "guardianStars": [
-      "npt",
-      "mon"
+      "Neptune",
+      "Moon"
     ]
   },
   {
     "number": 443,
     "name": "Sea King Dragon",
     "cardType": "Monster",
-    "type": "Sea Serpent",
+    "type": "SeaSerpent",
     "level": 6,
     "attack": 2000,
     "defense": 1700,
@@ -8347,12 +8347,12 @@
     "starCost": 1000,
     "purchasable": true,
     "fusionTypes": [
-      "Sea Serpent",
+      "SeaSerpent",
       "Dragon"
     ],
     "guardianStars": [
-      "npt",
-      "mrc"
+      "Neptune",
+      "Mercury"
     ]
   },
   {
@@ -8371,8 +8371,8 @@
       "Bugrothian"
     ],
     "guardianStars": [
-      "npt",
-      "jpt"
+      "Neptune",
+      "Jupiter"
     ]
   },
   {
@@ -8391,8 +8391,8 @@
       "Bugrothian"
     ],
     "guardianStars": [
-      "npt",
-      "mrs"
+      "Neptune",
+      "Mars"
     ]
   },
   {
@@ -8411,8 +8411,8 @@
       "Bugrothian"
     ],
     "guardianStars": [
-      "npt",
-      "stn"
+      "Neptune",
+      "Saturn"
     ]
   },
   {
@@ -8431,15 +8431,15 @@
       "Bugrothian"
     ],
     "guardianStars": [
-      "npt",
-      "sun"
+      "Neptune",
+      "Sun"
     ]
   },
   {
     "number": 448,
     "name": "Spike Seadra",
     "cardType": "Monster",
-    "type": "Sea Serpent",
+    "type": "SeaSerpent",
     "level": 5,
     "attack": 1600,
     "defense": 1300,
@@ -8447,12 +8447,12 @@
     "starCost": 180,
     "purchasable": true,
     "fusionTypes": [
-      "Sea Serpent",
+      "SeaSerpent",
       "Dragon"
     ],
     "guardianStars": [
-      "plt",
-      "mrc"
+      "Pluto",
+      "Mercury"
     ]
   },
   {
@@ -8472,8 +8472,8 @@
       "Turtle"
     ],
     "guardianStars": [
-      "npt",
-      "mon"
+      "Neptune",
+      "Moon"
     ]
   },
   {
@@ -8492,8 +8492,8 @@
       "Bugrothian"
     ],
     "guardianStars": [
-      "npt",
-      "vns"
+      "Neptune",
+      "Venus"
     ]
   },
   {
@@ -8512,8 +8512,8 @@
       "Bugrothian"
     ],
     "guardianStars": [
-      "npt",
-      "stn"
+      "Neptune",
+      "Saturn"
     ]
   },
   {
@@ -8532,8 +8532,8 @@
       "Bugrothian"
     ],
     "guardianStars": [
-      "npt",
-      "mrc"
+      "Neptune",
+      "Mercury"
     ]
   },
   {
@@ -8551,8 +8551,8 @@
       "Rock"
     ],
     "guardianStars": [
-      "urn",
-      "jpt"
+      "Uranus",
+      "Jupiter"
     ]
   },
   {
@@ -8570,8 +8570,8 @@
       "Rock"
     ],
     "guardianStars": [
-      "urn",
-      "sun"
+      "Uranus",
+      "Sun"
     ]
   },
   {
@@ -8589,8 +8589,8 @@
       "Rock"
     ],
     "guardianStars": [
-      "urn",
-      "mon"
+      "Uranus",
+      "Moon"
     ]
   },
   {
@@ -8608,8 +8608,8 @@
       "Warrior"
     ],
     "guardianStars": [
-      "urn",
-      "vns"
+      "Uranus",
+      "Venus"
     ]
   },
   {
@@ -8627,8 +8627,8 @@
       "Rock"
     ],
     "guardianStars": [
-      "urn",
-      "mrc"
+      "Uranus",
+      "Mercury"
     ]
   },
   {
@@ -8646,8 +8646,8 @@
       "Thunder"
     ],
     "guardianStars": [
-      "plt",
-      "vns"
+      "Pluto",
+      "Venus"
     ]
   },
   {
@@ -8665,8 +8665,8 @@
       "Thunder"
     ],
     "guardianStars": [
-      "plt",
-      "stn"
+      "Pluto",
+      "Saturn"
     ]
   },
   {
@@ -8684,8 +8684,8 @@
       "Thunder"
     ],
     "guardianStars": [
-      "plt",
-      "jpt"
+      "Pluto",
+      "Jupiter"
     ]
   },
   {
@@ -8703,8 +8703,8 @@
       "Thunder"
     ],
     "guardianStars": [
-      "plt",
-      "mon"
+      "Pluto",
+      "Moon"
     ]
   },
   {
@@ -8722,8 +8722,8 @@
       "Thunder"
     ],
     "guardianStars": [
-      "plt",
-      "sun"
+      "Pluto",
+      "Sun"
     ]
   },
   {
@@ -8741,15 +8741,15 @@
       "Thunder"
     ],
     "guardianStars": [
-      "plt",
-      "mrs"
+      "Pluto",
+      "Mars"
     ]
   },
   {
     "number": 464,
     "name": "Wing Eagle",
     "cardType": "Monster",
-    "type": "Winged Beast",
+    "type": "WingedBeast",
     "level": 5,
     "attack": 1800,
     "defense": 1500,
@@ -8757,20 +8757,20 @@
     "starCost": 290,
     "purchasable": true,
     "fusionTypes": [
-      "Winged Beast",
+      "WingedBeast",
       "FeatherFromBear",
       "FeatherFromMachine"
     ],
     "guardianStars": [
-      "stn",
-      "mrc"
+      "Saturn",
+      "Mercury"
     ]
   },
   {
     "number": 465,
     "name": "Punished Eagle",
     "cardType": "Monster",
-    "type": "Winged Beast",
+    "type": "WingedBeast",
     "level": 6,
     "attack": 2100,
     "defense": 1800,
@@ -8778,20 +8778,20 @@
     "starCost": 550,
     "purchasable": true,
     "fusionTypes": [
-      "Winged Beast",
+      "WingedBeast",
       "FeatherFromBear",
       "FeatherFromMachine"
     ],
     "guardianStars": [
-      "stn",
-      "plt"
+      "Saturn",
+      "Pluto"
     ]
   },
   {
     "number": 466,
     "name": "Skull Red Bird",
     "cardType": "Monster",
-    "type": "Winged Beast",
+    "type": "WingedBeast",
     "level": 4,
     "attack": 1550,
     "defense": 1200,
@@ -8799,20 +8799,20 @@
     "starCost": 140,
     "purchasable": true,
     "fusionTypes": [
-      "Winged Beast",
+      "WingedBeast",
       "FeatherFromBear",
       "FeatherFromMachine"
     ],
     "guardianStars": [
-      "stn",
-      "sun"
+      "Saturn",
+      "Sun"
     ]
   },
   {
     "number": 467,
     "name": "Crimson Sunbird",
     "cardType": "Monster",
-    "type": "Winged Beast",
+    "type": "WingedBeast",
     "level": 6,
     "attack": 2300,
     "defense": 1800,
@@ -8820,19 +8820,19 @@
     "starCost": 700,
     "purchasable": true,
     "fusionTypes": [
-      "Winged Beast",
+      "WingedBeast",
       "FeatherFromMachine"
     ],
     "guardianStars": [
-      "mrs",
-      "mrc"
+      "Mars",
+      "Mercury"
     ]
   },
   {
     "number": 468,
     "name": "Queen Bird",
     "cardType": "Monster",
-    "type": "Winged Beast",
+    "type": "WingedBeast",
     "level": 5,
     "attack": 1200,
     "defense": 2000,
@@ -8840,13 +8840,13 @@
     "starCost": 260,
     "purchasable": true,
     "fusionTypes": [
-      "Winged Beast",
+      "WingedBeast",
       "FeatherFromBear",
       "FeatherFromMachine"
     ],
     "guardianStars": [
-      "stn",
-      "mon"
+      "Saturn",
+      "Moon"
     ]
   },
   {
@@ -8865,8 +8865,8 @@
       "Bugrothian"
     ],
     "guardianStars": [
-      "npt",
-      "mrs"
+      "Neptune",
+      "Mars"
     ]
   },
   {
@@ -8884,8 +8884,8 @@
       "Zombie"
     ],
     "guardianStars": [
-      "mon",
-      "plt"
+      "Moon",
+      "Pluto"
     ]
   },
   {
@@ -8903,8 +8903,8 @@
       "Fiend"
     ],
     "guardianStars": [
-      "mon",
-      "jpt"
+      "Moon",
+      "Jupiter"
     ]
   },
   {
@@ -8922,8 +8922,8 @@
       "Fiend"
     ],
     "guardianStars": [
-      "mon",
-      "stn"
+      "Moon",
+      "Saturn"
     ]
   },
   {
@@ -8941,8 +8941,8 @@
       "Pyro"
     ],
     "guardianStars": [
-      "mrs",
-      "plt"
+      "Mars",
+      "Pluto"
     ]
   },
   {
@@ -8961,8 +8961,8 @@
       "Bugrothian"
     ],
     "guardianStars": [
-      "npt",
-      "sun"
+      "Neptune",
+      "Sun"
     ]
   },
   {
@@ -8981,8 +8981,8 @@
       "Bugrothian"
     ],
     "guardianStars": [
-      "npt",
-      "jpt"
+      "Neptune",
+      "Jupiter"
     ]
   },
   {
@@ -9000,8 +9000,8 @@
       "Insect"
     ],
     "guardianStars": [
-      "jpt",
-      "sun"
+      "Jupiter",
+      "Sun"
     ]
   },
   {
@@ -9019,8 +9019,8 @@
       "Insect"
     ],
     "guardianStars": [
-      "jpt",
-      "mon"
+      "Jupiter",
+      "Moon"
     ]
   },
   {
@@ -9038,8 +9038,8 @@
       "Insect"
     ],
     "guardianStars": [
-      "stn",
-      "npt"
+      "Saturn",
+      "Neptune"
     ]
   },
   {
@@ -9057,8 +9057,8 @@
       "Insect"
     ],
     "guardianStars": [
-      "jpt",
-      "vns"
+      "Jupiter",
+      "Venus"
     ]
   },
   {
@@ -9076,8 +9076,8 @@
       "Insect"
     ],
     "guardianStars": [
-      "jpt",
-      "mrc"
+      "Jupiter",
+      "Mercury"
     ]
   },
   {
@@ -9096,8 +9096,8 @@
       "UsableBeast"
     ],
     "guardianStars": [
-      "jpt",
-      "urn"
+      "Jupiter",
+      "Uranus"
     ]
   },
   {
@@ -9115,8 +9115,8 @@
       "Dinosaur"
     ],
     "guardianStars": [
-      "urn",
-      "npt"
+      "Uranus",
+      "Neptune"
     ]
   },
   {
@@ -9135,8 +9135,8 @@
       "UsableBeast"
     ],
     "guardianStars": [
-      "jpt",
-      "plt"
+      "Jupiter",
+      "Pluto"
     ]
   },
   {
@@ -9155,8 +9155,8 @@
       "Bugrothian"
     ],
     "guardianStars": [
-      "npt",
-      "mon"
+      "Neptune",
+      "Moon"
     ]
   },
   {
@@ -9174,8 +9174,8 @@
       "Insect"
     ],
     "guardianStars": [
-      "jpt",
-      "npt"
+      "Jupiter",
+      "Neptune"
     ]
   },
   {
@@ -9195,8 +9195,8 @@
       "MystElfian"
     ],
     "guardianStars": [
-      "sun",
-      "jpt"
+      "Sun",
+      "Jupiter"
     ]
   },
   {
@@ -9215,8 +9215,8 @@
       "UsableBeast"
     ],
     "guardianStars": [
-      "jpt",
-      "sun"
+      "Jupiter",
+      "Sun"
     ]
   },
   {
@@ -9235,8 +9235,8 @@
       "Rainbow"
     ],
     "guardianStars": [
-      "jpt",
-      "mon"
+      "Jupiter",
+      "Moon"
     ]
   },
   {
@@ -9254,8 +9254,8 @@
       "Plant"
     ],
     "guardianStars": [
-      "jpt",
-      "vns"
+      "Jupiter",
+      "Venus"
     ]
   },
   {
@@ -9276,15 +9276,15 @@
       "Thronian"
     ],
     "guardianStars": [
-      "mon",
-      "urn"
+      "Moon",
+      "Uranus"
     ]
   },
   {
     "number": 491,
     "name": "Peacock",
     "cardType": "Monster",
-    "type": "Winged Beast",
+    "type": "WingedBeast",
     "level": 5,
     "attack": 1700,
     "defense": 1500,
@@ -9292,13 +9292,13 @@
     "starCost": 260,
     "purchasable": true,
     "fusionTypes": [
-      "Winged Beast",
+      "WingedBeast",
       "FeatherFromBear",
       "FeatherFromMachine"
     ],
     "guardianStars": [
-      "jpt",
-      "mrc"
+      "Jupiter",
+      "Mercury"
     ]
   },
   {
@@ -9319,8 +9319,8 @@
       "Rainbow"
     ],
     "guardianStars": [
-      "sun",
-      "npt"
+      "Sun",
+      "Neptune"
     ]
   },
   {
@@ -9339,8 +9339,8 @@
       "MusKingian"
     ],
     "guardianStars": [
-      "sun",
-      "vns"
+      "Sun",
+      "Venus"
     ]
   },
   {
@@ -9360,8 +9360,8 @@
       "Rainbow"
     ],
     "guardianStars": [
-      "npt",
-      "vns"
+      "Neptune",
+      "Venus"
     ]
   },
   {
@@ -9379,8 +9379,8 @@
       "Spellcaster"
     ],
     "guardianStars": [
-      "sun",
-      "mrs"
+      "Sun",
+      "Mars"
     ]
   },
   {
@@ -9398,8 +9398,8 @@
       "Beast"
     ],
     "guardianStars": [
-      "jpt",
-      "urn"
+      "Jupiter",
+      "Uranus"
     ]
   },
   {
@@ -9418,8 +9418,8 @@
       "Bugrothian"
     ],
     "guardianStars": [
-      "npt",
-      "mrc"
+      "Neptune",
+      "Mercury"
     ]
   },
   {
@@ -9437,8 +9437,8 @@
       "Fiend"
     ],
     "guardianStars": [
-      "mon",
-      "npt"
+      "Moon",
+      "Neptune"
     ]
   },
   {
@@ -9456,8 +9456,8 @@
       "Insect"
     ],
     "guardianStars": [
-      "jpt",
-      "npt"
+      "Jupiter",
+      "Neptune"
     ]
   },
   {
@@ -9475,8 +9475,8 @@
       "Fiend"
     ],
     "guardianStars": [
-      "mon",
-      "mrc"
+      "Moon",
+      "Mercury"
     ]
   },
   {
@@ -9494,8 +9494,8 @@
       "Insect"
     ],
     "guardianStars": [
-      "jpt",
-      "plt"
+      "Jupiter",
+      "Pluto"
     ]
   },
   {
@@ -9513,8 +9513,8 @@
       "Warrior"
     ],
     "guardianStars": [
-      "urn",
-      "mrs"
+      "Uranus",
+      "Mars"
     ]
   },
   {
@@ -9534,8 +9534,8 @@
       "Turtle"
     ],
     "guardianStars": [
-      "jpt",
-      "sun"
+      "Jupiter",
+      "Sun"
     ]
   },
   {
@@ -9555,8 +9555,8 @@
       "Thronian"
     ],
     "guardianStars": [
-      "jpt",
-      "mon"
+      "Jupiter",
+      "Moon"
     ]
   },
   {
@@ -9574,8 +9574,8 @@
       "Rock"
     ],
     "guardianStars": [
-      "urn",
-      "jpt"
+      "Uranus",
+      "Jupiter"
     ]
   },
   {
@@ -9593,8 +9593,8 @@
       "Insect"
     ],
     "guardianStars": [
-      "jpt",
-      "vns"
+      "Jupiter",
+      "Venus"
     ]
   },
   {
@@ -9613,8 +9613,8 @@
       "Bugrothian"
     ],
     "guardianStars": [
-      "npt",
-      "jpt"
+      "Neptune",
+      "Jupiter"
     ]
   },
   {
@@ -9632,8 +9632,8 @@
       "Machine"
     ],
     "guardianStars": [
-      "urn",
-      "sun"
+      "Uranus",
+      "Sun"
     ]
   },
   {
@@ -9651,8 +9651,8 @@
       "Dinosaur"
     ],
     "guardianStars": [
-      "urn",
-      "mon"
+      "Uranus",
+      "Moon"
     ]
   },
   {
@@ -9670,8 +9670,8 @@
       "Plant"
     ],
     "guardianStars": [
-      "jpt",
-      "mrc"
+      "Jupiter",
+      "Mercury"
     ]
   },
   {
@@ -9689,8 +9689,8 @@
       "Plant"
     ],
     "guardianStars": [
-      "jpt",
-      "urn"
+      "Jupiter",
+      "Uranus"
     ]
   },
   {
@@ -9708,8 +9708,8 @@
       "Machine"
     ],
     "guardianStars": [
-      "mon",
-      "mrs"
+      "Moon",
+      "Mars"
     ]
   },
   {
@@ -9728,8 +9728,8 @@
       "MusKingian"
     ],
     "guardianStars": [
-      "sun",
-      "stn"
+      "Sun",
+      "Saturn"
     ]
   },
   {
@@ -9747,8 +9747,8 @@
       "Machine"
     ],
     "guardianStars": [
-      "mon",
-      "jpt"
+      "Moon",
+      "Jupiter"
     ]
   },
   {
@@ -9766,8 +9766,8 @@
       "Rock"
     ],
     "guardianStars": [
-      "urn",
-      "vns"
+      "Uranus",
+      "Venus"
     ]
   },
   {
@@ -9785,8 +9785,8 @@
       "Rock"
     ],
     "guardianStars": [
-      "urn",
-      "mrc"
+      "Uranus",
+      "Mercury"
     ]
   },
   {
@@ -9804,8 +9804,8 @@
       "Rock"
     ],
     "guardianStars": [
-      "urn",
-      "mrs"
+      "Uranus",
+      "Mars"
     ]
   },
   {
@@ -9825,8 +9825,8 @@
       "Turtle"
     ],
     "guardianStars": [
-      "urn",
-      "npt"
+      "Uranus",
+      "Neptune"
     ]
   },
   {
@@ -9846,8 +9846,8 @@
       "Pyro"
     ],
     "guardianStars": [
-      "mrs",
-      "stn"
+      "Mars",
+      "Saturn"
     ]
   },
   {
@@ -9866,15 +9866,15 @@
       "Turtle"
     ],
     "guardianStars": [
-      "stn",
-      "mrs"
+      "Saturn",
+      "Mars"
     ]
   },
   {
     "number": 521,
     "name": "Skullbird",
     "cardType": "Monster",
-    "type": "Winged Beast",
+    "type": "WingedBeast",
     "level": 6,
     "attack": 1900,
     "defense": 1700,
@@ -9882,18 +9882,18 @@
     "starCost": 400,
     "purchasable": true,
     "fusionTypes": [
-      "Winged Beast"
+      "WingedBeast"
     ],
     "guardianStars": [
-      "stn",
-      "vns"
+      "Saturn",
+      "Venus"
     ]
   },
   {
     "number": 522,
     "name": "Monstrous Bird",
     "cardType": "Monster",
-    "type": "Winged Beast",
+    "type": "WingedBeast",
     "level": 6,
     "attack": 2000,
     "defense": 1900,
@@ -9901,13 +9901,13 @@
     "starCost": 550,
     "purchasable": true,
     "fusionTypes": [
-      "Winged Beast",
+      "WingedBeast",
       "FeatherFromBear",
       "FeatherFromMachine"
     ],
     "guardianStars": [
-      "stn",
-      "mrc"
+      "Saturn",
+      "Mercury"
     ]
   },
   {
@@ -9925,8 +9925,8 @@
       "Fiend"
     ],
     "guardianStars": [
-      "mon",
-      "stn"
+      "Moon",
+      "Saturn"
     ]
   },
   {
@@ -9945,8 +9945,8 @@
       "Bugrothian"
     ],
     "guardianStars": [
-      "npt",
-      "mrs"
+      "Neptune",
+      "Mars"
     ]
   },
   {
@@ -9964,8 +9964,8 @@
       "Spellcaster"
     ],
     "guardianStars": [
-      "urn",
-      "jpt"
+      "Uranus",
+      "Jupiter"
     ]
   },
   {
@@ -9983,8 +9983,8 @@
       "Fiend"
     ],
     "guardianStars": [
-      "mon",
-      "urn"
+      "Moon",
+      "Uranus"
     ]
   },
   {
@@ -10003,8 +10003,8 @@
       "UsableBeast"
     ],
     "guardianStars": [
-      "jpt",
-      "npt"
+      "Jupiter",
+      "Neptune"
     ]
   },
   {
@@ -10023,8 +10023,8 @@
       "UsableBeast"
     ],
     "guardianStars": [
-      "urn",
-      "sun"
+      "Uranus",
+      "Sun"
     ]
   },
   {
@@ -10042,8 +10042,8 @@
       "Pyro"
     ],
     "guardianStars": [
-      "mrs",
-      "plt"
+      "Mars",
+      "Pluto"
     ]
   },
   {
@@ -10064,8 +10064,8 @@
       "MercurySpellcaster"
     ],
     "guardianStars": [
-      "mrc",
-      "mon"
+      "Mercury",
+      "Moon"
     ]
   },
   {
@@ -10083,8 +10083,8 @@
       "Rock"
     ],
     "guardianStars": [
-      "mrc",
-      "stn"
+      "Mercury",
+      "Saturn"
     ]
   },
   {
@@ -10104,8 +10104,8 @@
       "Female"
     ],
     "guardianStars": [
-      "sun",
-      "urn"
+      "Sun",
+      "Uranus"
     ]
   },
   {
@@ -10123,8 +10123,8 @@
       "Insect"
     ],
     "guardianStars": [
-      "jpt",
-      "sun"
+      "Jupiter",
+      "Sun"
     ]
   },
   {
@@ -10145,8 +10145,8 @@
       "Thronian"
     ],
     "guardianStars": [
-      "mon",
-      "npt"
+      "Moon",
+      "Neptune"
     ]
   },
   {
@@ -10164,8 +10164,8 @@
       "Insect"
     ],
     "guardianStars": [
-      "jpt",
-      "mon"
+      "Jupiter",
+      "Moon"
     ]
   },
   {
@@ -10184,8 +10184,8 @@
       "Bugrothian"
     ],
     "guardianStars": [
-      "npt",
-      "stn"
+      "Neptune",
+      "Saturn"
     ]
   },
   {
@@ -10203,15 +10203,15 @@
       "Thunder"
     ],
     "guardianStars": [
-      "plt",
-      "mrc"
+      "Pluto",
+      "Mercury"
     ]
   },
   {
     "number": 538,
     "name": "Niwatori",
     "cardType": "Monster",
-    "type": "Winged Beast",
+    "type": "WingedBeast",
     "level": 3,
     "attack": 900,
     "defense": 800,
@@ -10219,11 +10219,11 @@
     "starCost": 40,
     "purchasable": true,
     "fusionTypes": [
-      "Winged Beast"
+      "WingedBeast"
     ],
     "guardianStars": [
-      "jpt",
-      "vns"
+      "Jupiter",
+      "Venus"
     ]
   },
   {
@@ -10242,8 +10242,8 @@
       "Sheepian"
     ],
     "guardianStars": [
-      "mon",
-      "plt"
+      "Moon",
+      "Pluto"
     ]
   },
   {
@@ -10264,8 +10264,8 @@
       "MusKingian"
     ],
     "guardianStars": [
-      "sun",
-      "plt"
+      "Sun",
+      "Pluto"
     ]
   },
   {
@@ -10284,8 +10284,8 @@
       "FeatherFromMachine"
     ],
     "guardianStars": [
-      "stn",
-      "plt"
+      "Saturn",
+      "Pluto"
     ]
   },
   {
@@ -10303,8 +10303,8 @@
       "Fish"
     ],
     "guardianStars": [
-      "npt",
-      "sun"
+      "Neptune",
+      "Sun"
     ]
   },
   {
@@ -10322,8 +10322,8 @@
       "Fish"
     ],
     "guardianStars": [
-      "npt",
-      "mon"
+      "Neptune",
+      "Moon"
     ]
   },
   {
@@ -10341,8 +10341,8 @@
       "Machine"
     ],
     "guardianStars": [
-      "mon",
-      "mrc"
+      "Moon",
+      "Mercury"
     ]
   },
   {
@@ -10361,8 +10361,8 @@
       "Dragon"
     ],
     "guardianStars": [
-      "mon",
-      "plt"
+      "Moon",
+      "Pluto"
     ]
   },
   {
@@ -10380,8 +10380,8 @@
       "Fish"
     ],
     "guardianStars": [
-      "npt",
-      "mrs"
+      "Neptune",
+      "Mars"
     ]
   },
   {
@@ -10399,8 +10399,8 @@
       "Plant"
     ],
     "guardianStars": [
-      "jpt",
-      "mrc"
+      "Jupiter",
+      "Mercury"
     ]
   },
   {
@@ -10419,8 +10419,8 @@
       "Sheepian"
     ],
     "guardianStars": [
-      "mon",
-      "plt"
+      "Moon",
+      "Pluto"
     ]
   },
   {
@@ -10439,8 +10439,8 @@
       "Bugrothian"
     ],
     "guardianStars": [
-      "npt",
-      "jpt"
+      "Neptune",
+      "Jupiter"
     ]
   },
   {
@@ -10459,8 +10459,8 @@
       "Bugrothian"
     ],
     "guardianStars": [
-      "npt",
-      "stn"
+      "Neptune",
+      "Saturn"
     ]
   },
   {
@@ -10481,15 +10481,15 @@
       "MercurySpellcaster"
     ],
     "guardianStars": [
-      "mrc",
-      "jpt"
+      "Mercury",
+      "Jupiter"
     ]
   },
   {
     "number": 552,
     "name": "Winged Dragon #2",
     "cardType": "Monster",
-    "type": "Winged Beast",
+    "type": "WingedBeast",
     "level": 4,
     "attack": 1200,
     "defense": 1000,
@@ -10497,11 +10497,11 @@
     "starCost": 70,
     "purchasable": true,
     "fusionTypes": [
-      "Winged Beast"
+      "WingedBeast"
     ],
     "guardianStars": [
-      "stn",
-      "npt"
+      "Saturn",
+      "Neptune"
     ]
   },
   {
@@ -10519,8 +10519,8 @@
       "Warrior"
     ],
     "guardianStars": [
-      "jpt",
-      "urn"
+      "Jupiter",
+      "Uranus"
     ]
   },
   {
@@ -10539,8 +10539,8 @@
       "MercuryMagicUser"
     ],
     "guardianStars": [
-      "mrc",
-      "mrs"
+      "Mercury",
+      "Mars"
     ]
   },
   {
@@ -10559,8 +10559,8 @@
       "Pyro"
     ],
     "guardianStars": [
-      "mrs",
-      "urn"
+      "Mars",
+      "Uranus"
     ]
   },
   {
@@ -10579,8 +10579,8 @@
       "Sheepian"
     ],
     "guardianStars": [
-      "mon",
-      "plt"
+      "Moon",
+      "Pluto"
     ]
   },
   {
@@ -10598,8 +10598,8 @@
       "Machine"
     ],
     "guardianStars": [
-      "mon",
-      "mrs"
+      "Moon",
+      "Mars"
     ]
   },
   {
@@ -10619,8 +10619,8 @@
       "Sheepian"
     ],
     "guardianStars": [
-      "mon",
-      "jpt"
+      "Moon",
+      "Jupiter"
     ]
   },
   {
@@ -10638,8 +10638,8 @@
       "Warrior"
     ],
     "guardianStars": [
-      "vns",
-      "sun"
+      "Venus",
+      "Sun"
     ]
   },
   {
@@ -10659,8 +10659,8 @@
       "Thronian"
     ],
     "guardianStars": [
-      "vns",
-      "mrs"
+      "Venus",
+      "Mars"
     ]
   },
   {
@@ -10679,8 +10679,8 @@
       "Koumorian"
     ],
     "guardianStars": [
-      "mon",
-      "stn"
+      "Moon",
+      "Saturn"
     ]
   },
   {
@@ -10698,8 +10698,8 @@
       "Insect"
     ],
     "guardianStars": [
-      "jpt",
-      "plt"
+      "Jupiter",
+      "Pluto"
     ]
   },
   {
@@ -10720,8 +10720,8 @@
       "Thronian"
     ],
     "guardianStars": [
-      "mrc",
-      "urn"
+      "Mercury",
+      "Uranus"
     ]
   },
   {
@@ -10739,8 +10739,8 @@
       "Zombie"
     ],
     "guardianStars": [
-      "mon",
-      "plt"
+      "Moon",
+      "Pluto"
     ]
   },
   {
@@ -10758,8 +10758,8 @@
       "Fish"
     ],
     "guardianStars": [
-      "npt",
-      "sun"
+      "Neptune",
+      "Sun"
     ]
   },
   {
@@ -10778,8 +10778,8 @@
       "Bugrothian"
     ],
     "guardianStars": [
-      "npt",
-      "mon"
+      "Neptune",
+      "Moon"
     ]
   },
   {
@@ -10797,8 +10797,8 @@
       "Plant"
     ],
     "guardianStars": [
-      "mon",
-      "jpt"
+      "Moon",
+      "Jupiter"
     ]
   },
   {
@@ -10816,8 +10816,8 @@
       "Dinosaur"
     ],
     "guardianStars": [
-      "urn",
-      "mon"
+      "Uranus",
+      "Moon"
     ]
   },
   {
@@ -10836,8 +10836,8 @@
       "Bugrothian"
     ],
     "guardianStars": [
-      "npt",
-      "vns"
+      "Neptune",
+      "Venus"
     ]
   },
   {
@@ -10855,8 +10855,8 @@
       "Dinosaur"
     ],
     "guardianStars": [
-      "urn",
-      "vns"
+      "Uranus",
+      "Venus"
     ]
   },
   {
@@ -10874,8 +10874,8 @@
       "Dragon"
     ],
     "guardianStars": [
-      "jpt",
-      "npt"
+      "Jupiter",
+      "Neptune"
     ]
   },
   {
@@ -10893,8 +10893,8 @@
       "Warrior"
     ],
     "guardianStars": [
-      "urn",
-      "vns"
+      "Uranus",
+      "Venus"
     ]
   },
   {
@@ -10912,8 +10912,8 @@
       "Dinosaur"
     ],
     "guardianStars": [
-      "urn",
-      "mrc"
+      "Uranus",
+      "Mercury"
     ]
   },
   {
@@ -10934,8 +10934,8 @@
       "MercurySpellcaster"
     ],
     "guardianStars": [
-      "mrc",
-      "plt"
+      "Mercury",
+      "Pluto"
     ]
   },
   {
@@ -10954,8 +10954,8 @@
       "UsableBeast"
     ],
     "guardianStars": [
-      "jpt",
-      "sun"
+      "Jupiter",
+      "Sun"
     ]
   },
   {
@@ -10973,15 +10973,15 @@
       "Insect"
     ],
     "guardianStars": [
-      "jpt",
-      "mon"
+      "Jupiter",
+      "Moon"
     ]
   },
   {
     "number": 577,
     "name": "Crow Goblin",
     "cardType": "Monster",
-    "type": "Winged Beast",
+    "type": "WingedBeast",
     "level": 5,
     "attack": 1850,
     "defense": 1600,
@@ -10989,11 +10989,11 @@
     "starCost": 320,
     "purchasable": true,
     "fusionTypes": [
-      "Winged Beast"
+      "WingedBeast"
     ],
     "guardianStars": [
-      "stn",
-      "mrs"
+      "Saturn",
+      "Mars"
     ]
   },
   {
@@ -11013,8 +11013,8 @@
       "MercurySpellcaster"
     ],
     "guardianStars": [
-      "mrc",
-      "npt"
+      "Mercury",
+      "Neptune"
     ]
   },
   {
@@ -11032,8 +11032,8 @@
       "Plant"
     ],
     "guardianStars": [
-      "jpt",
-      "vns"
+      "Jupiter",
+      "Venus"
     ]
   },
   {
@@ -11051,15 +11051,15 @@
       "Machine"
     ],
     "guardianStars": [
-      "mon",
-      "urn"
+      "Moon",
+      "Uranus"
     ]
   },
   {
     "number": 581,
     "name": "Takuhee",
     "cardType": "Monster",
-    "type": "Winged Beast",
+    "type": "WingedBeast",
     "level": 4,
     "attack": 1450,
     "defense": 1000,
@@ -11067,13 +11067,13 @@
     "starCost": 120,
     "purchasable": true,
     "fusionTypes": [
-      "Winged Beast",
+      "WingedBeast",
       "FeatherFromBear",
       "FeatherFromMachine"
     ],
     "guardianStars": [
-      "stn",
-      "sun"
+      "Saturn",
+      "Sun"
     ]
   },
   {
@@ -11094,8 +11094,8 @@
       "Female"
     ],
     "guardianStars": [
-      "sun",
-      "npt"
+      "Sun",
+      "Neptune"
     ]
   },
   {
@@ -11114,8 +11114,8 @@
       "Bugrothian"
     ],
     "guardianStars": [
-      "npt",
-      "mrc"
+      "Neptune",
+      "Mercury"
     ]
   },
   {
@@ -11134,8 +11134,8 @@
       "MusKingian"
     ],
     "guardianStars": [
-      "sun",
-      "vns"
+      "Sun",
+      "Venus"
     ]
   },
   {
@@ -11153,8 +11153,8 @@
       "Machine"
     ],
     "guardianStars": [
-      "mon",
-      "npt"
+      "Moon",
+      "Neptune"
     ]
   },
   {
@@ -11173,8 +11173,8 @@
       "Thronian"
     ],
     "guardianStars": [
-      "mon",
-      "mrc"
+      "Moon",
+      "Mercury"
     ]
   },
   {
@@ -11192,8 +11192,8 @@
       "Beast"
     ],
     "guardianStars": [
-      "jpt",
-      "mrc"
+      "Jupiter",
+      "Mercury"
     ]
   },
   {
@@ -11211,8 +11211,8 @@
       "Plant"
     ],
     "guardianStars": [
-      "jpt",
-      "urn"
+      "Jupiter",
+      "Uranus"
     ]
   },
   {
@@ -11230,8 +11230,8 @@
       "Plant"
     ],
     "guardianStars": [
-      "jpt",
-      "plt"
+      "Jupiter",
+      "Pluto"
     ]
   },
   {
@@ -11250,8 +11250,8 @@
       "Bugrothian"
     ],
     "guardianStars": [
-      "npt",
-      "jpt"
+      "Neptune",
+      "Jupiter"
     ]
   },
   {
@@ -11270,8 +11270,8 @@
       "Jar"
     ],
     "guardianStars": [
-      "urn",
-      "npt"
+      "Uranus",
+      "Neptune"
     ]
   },
   {
@@ -11291,8 +11291,8 @@
       "MusKingian"
     ],
     "guardianStars": [
-      "sun",
-      "mrs"
+      "Sun",
+      "Mars"
     ]
   },
   {
@@ -11312,8 +11312,8 @@
       "Turtle"
     ],
     "guardianStars": [
-      "npt",
-      "mrs"
+      "Neptune",
+      "Mars"
     ]
   },
   {
@@ -11332,15 +11332,15 @@
       "Female"
     ],
     "guardianStars": [
-      "mon",
-      "jpt"
+      "Moon",
+      "Jupiter"
     ]
   },
   {
     "number": 595,
     "name": "Fiend Refrection #1",
     "cardType": "Monster",
-    "type": "Winged Beast",
+    "type": "WingedBeast",
     "level": 4,
     "attack": 1300,
     "defense": 1400,
@@ -11348,12 +11348,12 @@
     "starCost": 140,
     "purchasable": true,
     "fusionTypes": [
-      "Winged Beast",
+      "WingedBeast",
       "Mirror"
     ],
     "guardianStars": [
-      "vns",
-      "jpt"
+      "Venus",
+      "Jupiter"
     ]
   },
   {
@@ -11371,8 +11371,8 @@
       "Zombie"
     ],
     "guardianStars": [
-      "mon",
-      "plt"
+      "Moon",
+      "Pluto"
     ]
   },
   {
@@ -11391,8 +11391,8 @@
       "UsableBeast"
     ],
     "guardianStars": [
-      "jpt",
-      "npt"
+      "Jupiter",
+      "Neptune"
     ]
   },
   {
@@ -11411,8 +11411,8 @@
       "UsableBeast"
     ],
     "guardianStars": [
-      "stn",
-      "mon"
+      "Saturn",
+      "Moon"
     ]
   },
   {
@@ -11431,8 +11431,8 @@
       "Bugrothian"
     ],
     "guardianStars": [
-      "npt",
-      "mrc"
+      "Neptune",
+      "Mercury"
     ]
   },
   {
@@ -11453,8 +11453,8 @@
       "Thronian"
     ],
     "guardianStars": [
-      "mrc",
-      "mon"
+      "Mercury",
+      "Moon"
     ]
   },
   {
@@ -11476,8 +11476,8 @@
       "MystElfian"
     ],
     "guardianStars": [
-      "sun",
-      "jpt"
+      "Sun",
+      "Jupiter"
     ]
   },
   {
@@ -11496,8 +11496,8 @@
       "Bugrothian"
     ],
     "guardianStars": [
-      "npt",
-      "mrs"
+      "Neptune",
+      "Mars"
     ]
   },
   {
@@ -11515,8 +11515,8 @@
       "Dragon"
     ],
     "guardianStars": [
-      "sun",
-      "stn"
+      "Sun",
+      "Saturn"
     ]
   },
   {
@@ -11537,8 +11537,8 @@
       "UsableBeast"
     ],
     "guardianStars": [
-      "mon",
-      "mrs"
+      "Moon",
+      "Mars"
     ]
   },
   {
@@ -11557,8 +11557,8 @@
       "Bugrothian"
     ],
     "guardianStars": [
-      "npt",
-      "stn"
+      "Neptune",
+      "Saturn"
     ]
   },
   {
@@ -11577,8 +11577,8 @@
       "Bugrothian"
     ],
     "guardianStars": [
-      "npt",
-      "sun"
+      "Neptune",
+      "Sun"
     ]
   },
   {
@@ -11596,8 +11596,8 @@
       "Beast"
     ],
     "guardianStars": [
-      "jpt",
-      "sun"
+      "Jupiter",
+      "Sun"
     ]
   },
   {
@@ -11618,8 +11618,8 @@
       "MusKingian"
     ],
     "guardianStars": [
-      "sun",
-      "urn"
+      "Sun",
+      "Uranus"
     ]
   },
   {
@@ -11637,8 +11637,8 @@
       "Insect"
     ],
     "guardianStars": [
-      "jpt",
-      "mon"
+      "Jupiter",
+      "Moon"
     ]
   },
   {
@@ -11656,8 +11656,8 @@
       "Thunder"
     ],
     "guardianStars": [
-      "plt",
-      "sun"
+      "Pluto",
+      "Sun"
     ]
   },
   {
@@ -11678,8 +11678,8 @@
       "Thronian"
     ],
     "guardianStars": [
-      "mon",
-      "stn"
+      "Moon",
+      "Saturn"
     ]
   },
   {
@@ -11699,8 +11699,8 @@
       "MusKingian"
     ],
     "guardianStars": [
-      "sun",
-      "plt"
+      "Sun",
+      "Pluto"
     ]
   },
   {
@@ -11718,8 +11718,8 @@
       "Thunder"
     ],
     "guardianStars": [
-      "plt",
-      "mon"
+      "Pluto",
+      "Moon"
     ]
   },
   {
@@ -11737,8 +11737,8 @@
       "Insect"
     ],
     "guardianStars": [
-      "jpt",
-      "vns"
+      "Jupiter",
+      "Venus"
     ]
   },
   {
@@ -11757,8 +11757,8 @@
       "Bugrothian"
     ],
     "guardianStars": [
-      "npt",
-      "mon"
+      "Neptune",
+      "Moon"
     ]
   },
   {
@@ -11779,8 +11779,8 @@
       "MusKingian"
     ],
     "guardianStars": [
-      "sun",
-      "npt"
+      "Sun",
+      "Neptune"
     ]
   },
   {
@@ -11799,8 +11799,8 @@
       "Bugrothian"
     ],
     "guardianStars": [
-      "npt",
-      "mrc"
+      "Neptune",
+      "Mercury"
     ]
   },
   {
@@ -11820,8 +11820,8 @@
       "MercuryMagicUser"
     ],
     "guardianStars": [
-      "mrc",
-      "mrs"
+      "Mercury",
+      "Mars"
     ]
   },
   {
@@ -11839,8 +11839,8 @@
       "Spellcaster"
     ],
     "guardianStars": [
-      "urn",
-      "mrs"
+      "Uranus",
+      "Mars"
     ]
   },
   {
@@ -11858,8 +11858,8 @@
       "Plant"
     ],
     "guardianStars": [
-      "jpt",
-      "mrc"
+      "Jupiter",
+      "Mercury"
     ]
   },
   {
@@ -11879,8 +11879,8 @@
       "MercuryMagicUser"
     ],
     "guardianStars": [
-      "mrc",
-      "jpt"
+      "Mercury",
+      "Jupiter"
     ]
   },
   {
@@ -11900,8 +11900,8 @@
       "MusKingian"
     ],
     "guardianStars": [
-      "sun",
-      "vns"
+      "Sun",
+      "Venus"
     ]
   },
   {
@@ -11919,8 +11919,8 @@
       "Rock"
     ],
     "guardianStars": [
-      "urn",
-      "jpt"
+      "Uranus",
+      "Jupiter"
     ]
   },
   {
@@ -11939,8 +11939,8 @@
       "Bugrothian"
     ],
     "guardianStars": [
-      "npt",
-      "mrc"
+      "Neptune",
+      "Mercury"
     ]
   },
   {
@@ -11960,8 +11960,8 @@
       "Female"
     ],
     "guardianStars": [
-      "npt",
-      "vns"
+      "Neptune",
+      "Venus"
     ]
   },
   {
@@ -11980,15 +11980,15 @@
       "Female"
     ],
     "guardianStars": [
-      "npt",
-      "mrs"
+      "Neptune",
+      "Mars"
     ]
   },
   {
     "number": 627,
     "name": "Nekogal #2",
     "cardType": "Monster",
-    "type": "Beast-Warrior",
+    "type": "BeastWarrior",
     "level": 6,
     "attack": 1900,
     "defense": 2000,
@@ -11996,12 +11996,12 @@
     "starCost": 550,
     "purchasable": true,
     "fusionTypes": [
-      "Beast-Warrior",
+      "BeastWarrior",
       "Female"
     ],
     "guardianStars": [
-      "jpt",
-      "urn"
+      "Jupiter",
+      "Uranus"
     ]
   },
   {
@@ -12023,8 +12023,8 @@
       "MercurySpellcaster"
     ],
     "guardianStars": [
-      "mrc",
-      "stn"
+      "Mercury",
+      "Saturn"
     ]
   },
   {
@@ -12043,8 +12043,8 @@
       "UsableBeast"
     ],
     "guardianStars": [
-      "jpt",
-      "plt"
+      "Jupiter",
+      "Pluto"
     ]
   },
   {
@@ -12063,8 +12063,8 @@
       "Bugrothian"
     ],
     "guardianStars": [
-      "npt",
-      "stn"
+      "Neptune",
+      "Saturn"
     ]
   },
   {
@@ -12085,8 +12085,8 @@
       "Female"
     ],
     "guardianStars": [
-      "mon",
-      "vns"
+      "Moon",
+      "Venus"
     ]
   },
   {
@@ -12104,8 +12104,8 @@
       "Rock"
     ],
     "guardianStars": [
-      "urn",
-      "sun"
+      "Uranus",
+      "Sun"
     ]
   },
   {
@@ -12127,8 +12127,8 @@
       "MusKingian"
     ],
     "guardianStars": [
-      "sun",
-      "mrs"
+      "Sun",
+      "Mars"
     ]
   },
   {
@@ -12147,8 +12147,8 @@
       "Bugrothian"
     ],
     "guardianStars": [
-      "npt",
-      "jpt"
+      "Neptune",
+      "Jupiter"
     ]
   },
   {
@@ -12167,15 +12167,15 @@
       "Female"
     ],
     "guardianStars": [
-      "urn",
-      "mon"
+      "Uranus",
+      "Moon"
     ]
   },
   {
     "number": 636,
     "name": "Blue-winged Crown",
     "cardType": "Monster",
-    "type": "Winged Beast",
+    "type": "WingedBeast",
     "level": 4,
     "attack": 1600,
     "defense": 1200,
@@ -12183,13 +12183,13 @@
     "starCost": 160,
     "purchasable": true,
     "fusionTypes": [
-      "Winged Beast",
+      "WingedBeast",
       "FeatherFromBear",
       "FeatherFromMachine"
     ],
     "guardianStars": [
-      "stn",
-      "vns"
+      "Saturn",
+      "Venus"
     ]
   },
   {
@@ -12207,8 +12207,8 @@
       "Plant"
     ],
     "guardianStars": [
-      "jpt",
-      "sun"
+      "Jupiter",
+      "Sun"
     ]
   },
   {
@@ -12227,8 +12227,8 @@
       "Female"
     ],
     "guardianStars": [
-      "jpt",
-      "mon"
+      "Jupiter",
+      "Moon"
     ]
   },
   {
@@ -12246,8 +12246,8 @@
       "Aqua"
     ],
     "guardianStars": [
-      "npt",
-      "sun"
+      "Neptune",
+      "Sun"
     ]
   },
   {
@@ -12265,8 +12265,8 @@
       "Insect"
     ],
     "guardianStars": [
-      "jpt",
-      "vns"
+      "Jupiter",
+      "Venus"
     ]
   },
   {
@@ -12285,8 +12285,8 @@
       "Female"
     ],
     "guardianStars": [
-      "urn",
-      "vns"
+      "Uranus",
+      "Venus"
     ]
   },
   {
@@ -12305,8 +12305,8 @@
       "UsableBeast"
     ],
     "guardianStars": [
-      "vns",
-      "stn"
+      "Venus",
+      "Saturn"
     ]
   },
   {
@@ -12324,8 +12324,8 @@
       "Machine"
     ],
     "guardianStars": [
-      "mon",
-      "urn"
+      "Moon",
+      "Uranus"
     ]
   },
   {
@@ -12343,8 +12343,8 @@
       "Pyro"
     ],
     "guardianStars": [
-      "mrs",
-      "plt"
+      "Mars",
+      "Pluto"
     ]
   },
   {
@@ -12362,8 +12362,8 @@
       "Machine"
     ],
     "guardianStars": [
-      "urn",
-      "mrc"
+      "Uranus",
+      "Mercury"
     ]
   },
   {
@@ -12382,8 +12382,8 @@
       "Bugrothian"
     ],
     "guardianStars": [
-      "npt",
-      "mon"
+      "Neptune",
+      "Moon"
     ]
   },
   {
@@ -12402,8 +12402,8 @@
       "Bugrothian"
     ],
     "guardianStars": [
-      "npt",
-      "vns"
+      "Neptune",
+      "Venus"
     ]
   },
   {
@@ -12421,8 +12421,8 @@
       "Machine"
     ],
     "guardianStars": [
-      "mon",
-      "npt"
+      "Moon",
+      "Neptune"
     ]
   },
   {
@@ -12442,8 +12442,8 @@
       "MercuryMagicUser"
     ],
     "guardianStars": [
-      "mrc",
-      "urn"
+      "Mercury",
+      "Uranus"
     ]
   },
   {
@@ -12461,8 +12461,8 @@
       "Fiend"
     ],
     "guardianStars": [
-      "mon",
-      "mrc"
+      "Moon",
+      "Mercury"
     ]
   },
   {
@@ -12990,8 +12990,8 @@
       "Warrior"
     ],
     "guardianStars": [
-      "sun",
-      "stn"
+      "Sun",
+      "Saturn"
     ]
   },
   {
@@ -13007,25 +13007,25 @@
       "Warrior"
     ],
     "guardianStars": [
-      "mon",
-      "mrs"
+      "Moon",
+      "Mars"
     ]
   },
   {
     "number": 703,
     "name": "Sengenjin",
     "cardType": "Monster",
-    "type": "Beast-Warrior",
+    "type": "BeastWarrior",
     "level": 8,
     "attack": 2750,
     "defense": 2500,
     "purchasable": false,
     "fusionTypes": [
-      "Beast-Warrior"
+      "BeastWarrior"
     ],
     "guardianStars": [
-      "jpt",
-      "mrc"
+      "Jupiter",
+      "Mercury"
     ]
   },
   {
@@ -13041,8 +13041,8 @@
       "Warrior"
     ],
     "guardianStars": [
-      "sun",
-      "jpt"
+      "Sun",
+      "Jupiter"
     ]
   },
   {
@@ -13058,8 +13058,8 @@
       "Dragon"
     ],
     "guardianStars": [
-      "mon",
-      "jpt"
+      "Moon",
+      "Jupiter"
     ]
   },
   {
@@ -13075,8 +13075,8 @@
       "Dragon"
     ],
     "guardianStars": [
-      "mrc",
-      "plt"
+      "Mercury",
+      "Pluto"
     ]
   },
   {
@@ -13094,8 +13094,8 @@
       "Spellcaster"
     ],
     "guardianStars": [
-      "mrc",
-      "npt"
+      "Mercury",
+      "Neptune"
     ]
   },
   {
@@ -13111,8 +13111,8 @@
       "Spellcaster"
     ],
     "guardianStars": [
-      "vns",
-      "urn"
+      "Venus",
+      "Uranus"
     ]
   },
   {
@@ -13128,8 +13128,8 @@
       "Fiend"
     ],
     "guardianStars": [
-      "mrc",
-      "mon"
+      "Mercury",
+      "Moon"
     ]
   },
   {
@@ -13146,8 +13146,8 @@
       "Turtle"
     ],
     "guardianStars": [
-      "npt",
-      "jpt"
+      "Neptune",
+      "Jupiter"
     ]
   },
   {
@@ -13165,8 +13165,8 @@
       "Dragon"
     ],
     "guardianStars": [
-      "sun",
-      "urn"
+      "Sun",
+      "Uranus"
     ]
   },
   {
@@ -13184,8 +13184,8 @@
       "Dragon"
     ],
     "guardianStars": [
-      "urn",
-      "npt"
+      "Uranus",
+      "Neptune"
     ]
   },
   {
@@ -13201,8 +13201,8 @@
       "Dragon"
     ],
     "guardianStars": [
-      "mrs",
-      "sun"
+      "Mars",
+      "Sun"
     ]
   },
   {
@@ -13221,8 +13221,8 @@
       "Pyro"
     ],
     "guardianStars": [
-      "mrs",
-      "mon"
+      "Mars",
+      "Moon"
     ]
   },
   {
@@ -13238,8 +13238,8 @@
       "Fiend"
     ],
     "guardianStars": [
-      "mon",
-      "stn"
+      "Moon",
+      "Saturn"
     ]
   },
   {
@@ -13255,8 +13255,8 @@
       "Warrior"
     ],
     "guardianStars": [
-      "mon",
-      "urn"
+      "Moon",
+      "Uranus"
     ]
   },
   {
@@ -13272,8 +13272,8 @@
       "Insect"
     ],
     "guardianStars": [
-      "jpt",
-      "urn"
+      "Jupiter",
+      "Uranus"
     ]
   },
   {
@@ -13289,8 +13289,8 @@
       "Fish"
     ],
     "guardianStars": [
-      "npt",
-      "stn"
+      "Neptune",
+      "Saturn"
     ]
   },
   {
@@ -13306,8 +13306,8 @@
       "Zombie"
     ],
     "guardianStars": [
-      "urn",
-      "mrs"
+      "Uranus",
+      "Mars"
     ]
   },
   {
@@ -13323,8 +13323,8 @@
       "Spellcaster"
     ],
     "guardianStars": [
-      "vns",
-      "plt"
+      "Venus",
+      "Pluto"
     ]
   },
   {
@@ -13348,8 +13348,8 @@
       "Spellcaster"
     ],
     "guardianStars": [
-      "mrc",
-      "mrs"
+      "Mercury",
+      "Mars"
     ]
   }
 ]

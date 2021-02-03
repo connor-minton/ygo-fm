@@ -5,36 +5,37 @@
 
 const fs = require('fs');
 const _ = require('lodash');
-const fandomCards = require('../../data/fandom-cards');
-const guideCards = require('../../data/guide-1-cards');
-const fusionCards = require('../../data/fusion-card-types-cards');
-
-const fusionCardsByName = _(fusionCards)
-  .groupBy('name')
-  .mapValues(_.first)
-  .mapKeys((v,k) => k.toLowerCase())
-  .value();
-
-const guideCardsByNo = _(guideCards)
-  .groupBy('number')
-  .mapValues(_.first)
-  .value();
-
-function getExtraTypes(cardName) {
-  const card = fusionCardsByName[cardName.toLowerCase()];
-  if (card) {
-    return card.types;
-  }
-
-  return [];
-}
-
-function getGuardianStars(cardNo) {
-  const card = guideCardsByNo[cardNo];
-  return card.guardianStars || null;
-}
 
 module.exports = (filename) => {
+  const fandomCards = require('../../data/fandom-cards');
+  const guideCards = require('../../data/guide-1-cards');
+  const fusionCards = require('../../data/fusion-card-types-cards');
+
+  const fusionCardsByName = _(fusionCards)
+    .groupBy('name')
+    .mapValues(_.first)
+    .mapKeys((v,k) => k.toLowerCase())
+    .value();
+
+  const guideCardsByNo = _(guideCards)
+    .groupBy('number')
+    .mapValues(_.first)
+    .value();
+
+  function getExtraTypes(cardName) {
+    const card = fusionCardsByName[cardName.toLowerCase()];
+    if (card) {
+      return card.types;
+    }
+
+    return [];
+  }
+
+  function getGuardianStars(cardNo) {
+    const card = guideCardsByNo[cardNo];
+    return card.guardianStars || null;
+  }
+
   const cards = _.cloneDeep(fandomCards);
 
   for (let card of cards) {
