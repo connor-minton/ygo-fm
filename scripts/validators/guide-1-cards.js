@@ -7,18 +7,19 @@ try {
 catch (e) { }
 
 const MONSTER_TYPES = [
-  'Beast Warrior', 'Warrior', 'Aqua',
+  'BeastWarrior', 'Warrior', 'Aqua',
   'Beast', 'Dinosaur', 'Dragon', 'Fairy', 'Fiend', 'Fish', 'Insect', 'Reptile',
-  'Machine', 'Plant', 'Pyro', 'Rock', 'Spellcaster', 'Thunder', 'Winged Beast',
-  'Zombie', 'Sea Serpent'
+  'Machine', 'Plant', 'Pyro', 'Rock', 'Spellcaster', 'Thunder', 'WingedBeast',
+  'Zombie', 'SeaSerpent'
 ];
 
 const MAGIC_TRAP_TYPES = [
-  'Magic', 'Equip Magic', 'Terrain Magic', 'Ritual', 'Trap'
+  'Magic', 'Equip', 'Field', 'Ritual', 'Trap'
 ];
 
 const GUARDIAN_STARS = [
-  'sun', 'mon', 'vns', 'mrc', 'stn', 'urn', 'plt', 'npt', 'mrs', 'jpt'
+  'Sun', 'Moon', 'Venus', 'Mercury', 'Saturn',
+  'Uranus', 'Pluto', 'Neptune', 'Mars', 'Jupiter'
 ];
 
 function makeError(i, card, msg) {

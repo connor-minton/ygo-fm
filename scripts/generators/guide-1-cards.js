@@ -1,38 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 const { titleCase } = require('title-case');
-
-function gsAbbr(fullGuardianStar) {
-  const abbrs = {
-    su: 'sun',
-    mo: 'mon',
-    ve: 'vns',
-    me: 'mrc',
-    sa: 'stn',
-    ur: 'urn',
-    pl: 'plt',
-    ne: 'npt',
-    ma: 'mrs',
-    ju: 'jpt'
-  };
-
-  return abbrs[fullGuardianStar.toLowerCase().substring(0,2)];
-}
-
-function normalizeType(inputType) {
-  const typeLC = inputType.toLowerCase();
-  if (typeLC === 'beastwarrior') {
-    return 'Beast Warrior';
-  }
-  if (typeLC === 'wingedbeast') {
-    return 'Winged Beast';
-  }
-  if (typeLC === 'seaserpent') {
-    return 'Sea Serpent';
-  }
-
-  return titleCase(inputType);
-}
+const util = require('../../util');
 
 class GuideParser {
   constructor(guide) {
@@ -94,11 +63,12 @@ class GuideParser {
     }
     else if (line.startsWith('Type')) {
       const field = line.split(':')[1];
-      card.type = normalizeType(field.trim());
+      card.type = util.normalizeType(field.trim());
     }
     else if (line.startsWith('G.S')) {
       const field = line.split(':')[1];
-      card.guardianStars = field.trim().split(/\s+/).map(gs => gsAbbr(gs));
+      card.guardianStars = field.trim().split(/\s+/).map(
+        gs => util.normalizeGuardianStar(gs));
     }
     else if (line.startsWith('Attack')) {
       const [atk, def] = line.split(':')[1].split('/');

@@ -3,6 +3,8 @@ const path = require('path');
 const _ = require('lodash');
 const { JSDOM } = require('jsdom');
 
+const util = require('../../util');
+
 module.exports = (filename) => {
   const dom = new JSDOM(fs.readFileSync(path.join(__dirname, '../../data/fandom-card-list.html')));
   const doc = dom.window.document;
@@ -62,7 +64,7 @@ module.exports = (filename) => {
         break;
 
       case 3:
-        card.type = data.trim().replace(/\s+/g,' ');
+        card.type = util.normalizeType(data.trim().replace(/\s+/g,' '));
         break;
 
       case 4:

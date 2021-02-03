@@ -7,10 +7,10 @@ try {
 catch (e) { }
 
 const MONSTER_TYPES = [
-  'Beast-Warrior', 'Warrior', 'Aqua',
+  'BeastWarrior', 'Warrior', 'Aqua',
   'Beast', 'Dinosaur', 'Dragon', 'Fairy', 'Fiend', 'Fish', 'Insect', 'Reptile',
-  'Machine', 'Plant', 'Pyro', 'Rock', 'Spellcaster', 'Thunder', 'Winged Beast',
-  'Zombie', 'Sea Serpent'
+  'Machine', 'Plant', 'Pyro', 'Rock', 'Spellcaster', 'Thunder', 'WingedBeast',
+  'Zombie', 'SeaSerpent'
 ];
 
 const MAGIC_TRAP_TYPES = [

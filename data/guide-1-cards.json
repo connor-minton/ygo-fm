@@ -5,8 +5,8 @@
     "level": 8,
     "type": "Dragon",
     "guardianStars": [
-      "sun",
-      "mrs"
+      "Sun",
+      "Mars"
     ],
     "attack": 3000,
     "defense": 2500,
@@ -20,8 +20,8 @@
     "level": 4,
     "type": "Spellcaster",
     "guardianStars": [
-      "sun",
-      "jpt"
+      "Sun",
+      "Jupiter"
     ],
     "attack": 800,
     "defense": 2000,
@@ -33,10 +33,10 @@
     "number": 3,
     "name": "Hitotsu-Me Giant",
     "level": 4,
-    "type": "Beast Warrior",
+    "type": "BeastWarrior",
     "guardianStars": [
-      "mon",
-      "mrs"
+      "Moon",
+      "Mars"
     ],
     "attack": 1200,
     "defense": 1000,
@@ -50,8 +50,8 @@
     "level": 3,
     "type": "Dragon",
     "guardianStars": [
-      "urn",
-      "sun"
+      "Uranus",
+      "Sun"
     ],
     "attack": 1200,
     "defense": 700,
@@ -65,8 +65,8 @@
     "level": 3,
     "type": "Fiend",
     "guardianStars": [
-      "stn",
-      "sun"
+      "Saturn",
+      "Sun"
     ],
     "attack": 1000,
     "defense": 500,
@@ -80,8 +80,8 @@
     "level": 4,
     "type": "Fiend",
     "guardianStars": [
-      "mon",
-      "jpt"
+      "Moon",
+      "Jupiter"
     ],
     "attack": 1300,
     "defense": 1400,
@@ -95,8 +95,8 @@
     "level": 4,
     "type": "Dragon",
     "guardianStars": [
-      "stn",
-      "mon"
+      "Saturn",
+      "Moon"
     ],
     "attack": 1400,
     "defense": 1200,
@@ -110,8 +110,8 @@
     "level": 2,
     "type": "Plant",
     "guardianStars": [
-      "jpt",
-      "sun"
+      "Jupiter",
+      "Sun"
     ],
     "attack": 800,
     "defense": 600,
@@ -125,8 +125,8 @@
     "level": 1,
     "type": "Zombie",
     "guardianStars": [
-      "mon",
-      "stn"
+      "Moon",
+      "Saturn"
     ],
     "attack": 500,
     "defense": 200,
@@ -140,8 +140,8 @@
     "level": 4,
     "type": "Dragon",
     "guardianStars": [
-      "mrc",
-      "mon"
+      "Mercury",
+      "Moon"
     ],
     "attack": 1500,
     "defense": 800,
@@ -155,8 +155,8 @@
     "level": 6,
     "type": "Dinosaur",
     "guardianStars": [
-      "urn",
-      "mon"
+      "Uranus",
+      "Moon"
     ],
     "attack": 1750,
     "defense": 2030,
@@ -170,8 +170,8 @@
     "level": 5,
     "type": "Warrior",
     "guardianStars": [
-      "mrc",
-      "mrs"
+      "Mercury",
+      "Mars"
     ],
     "attack": 1800,
     "defense": 1500,
@@ -183,10 +183,10 @@
     "number": 13,
     "name": "Tyhone",
     "level": 4,
-    "type": "Winged Beast",
+    "type": "WingedBeast",
     "guardianStars": [
-      "stn",
-      "vns"
+      "Saturn",
+      "Venus"
     ],
     "attack": 1200,
     "defense": 1400,
@@ -198,10 +198,10 @@
     "number": 14,
     "name": "Battle Steer",
     "level": 5,
-    "type": "Beast Warrior",
+    "type": "BeastWarrior",
     "guardianStars": [
-      "mon",
-      "urn"
+      "Moon",
+      "Uranus"
     ],
     "attack": 1800,
     "defense": 1300,
@@ -215,8 +215,8 @@
     "level": 5,
     "type": "Warrior",
     "guardianStars": [
-      "mrs",
-      "sun"
+      "Mars",
+      "Sun"
     ],
     "attack": 1800,
     "defense": 1600,
@@ -230,8 +230,8 @@
     "level": 2,
     "type": "Spellcaster",
     "guardianStars": [
-      "vns",
-      "sun"
+      "Venus",
+      "Sun"
     ],
     "attack": 500,
     "defense": 400,
@@ -245,8 +245,8 @@
     "level": 1,
     "type": "Spellcaster",
     "guardianStars": [
-      "mrc",
-      "jpt"
+      "Mercury",
+      "Jupiter"
     ],
     "attack": 200,
     "defense": 300,
@@ -260,8 +260,8 @@
     "level": 1,
     "type": "Spellcaster",
     "guardianStars": [
-      "mrc",
-      "stn"
+      "Mercury",
+      "Saturn"
     ],
     "attack": 200,
     "defense": 300,
@@ -275,8 +275,8 @@
     "level": 1,
     "type": "Spellcaster",
     "guardianStars": [
-      "mrc",
-      "urn"
+      "Mercury",
+      "Uranus"
     ],
     "attack": 200,
     "defense": 300,
@@ -290,8 +290,8 @@
     "level": 1,
     "type": "Spellcaster",
     "guardianStars": [
-      "mrc",
-      "plt"
+      "Mercury",
+      "Pluto"
     ],
     "attack": 200,
     "defense": 300,
@@ -305,8 +305,8 @@
     "level": 3,
     "type": "Spellcaster",
     "guardianStars": [
-      "mrc",
-      "npt"
+      "Mercury",
+      "Neptune"
     ],
     "attack": 1000,
     "defense": 1000,
@@ -320,8 +320,8 @@
     "level": 6,
     "type": "Fiend",
     "guardianStars": [
-      "mon",
-      "plt"
+      "Moon",
+      "Pluto"
     ],
     "attack": 2500,
     "defense": 1200,
@@ -335,8 +335,8 @@
     "level": 3,
     "type": "Beast",
     "guardianStars": [
-      "urn",
-      "vns"
+      "Uranus",
+      "Venus"
     ],
     "attack": 1400,
     "defense": 700,
@@ -350,8 +350,8 @@
     "level": 1,
     "type": "Zombie",
     "guardianStars": [
-      "mon",
-      "npt"
+      "Moon",
+      "Neptune"
     ],
     "attack": 300,
     "defense": 200,
@@ -365,8 +365,8 @@
     "level": 4,
     "type": "Fiend",
     "guardianStars": [
-      "mon",
-      "mrc"
+      "Moon",
+      "Mercury"
     ],
     "attack": 1300,
     "defense": 1000,
@@ -378,10 +378,10 @@
     "number": 26,
     "name": "Battle Ox",
     "level": 4,
-    "type": "Beast Warrior",
+    "type": "BeastWarrior",
     "guardianStars": [
-      "jpt",
-      "mon"
+      "Jupiter",
+      "Moon"
     ],
     "attack": 1700,
     "defense": 1000,
@@ -393,10 +393,10 @@
     "number": 27,
     "name": "Beaver Warrior",
     "level": 4,
-    "type": "Beast Warrior",
+    "type": "BeastWarrior",
     "guardianStars": [
-      "jpt",
-      "vns"
+      "Jupiter",
+      "Venus"
     ],
     "attack": 1200,
     "defense": 1500,
@@ -410,8 +410,8 @@
     "level": 3,
     "type": "Rock",
     "guardianStars": [
-      "urn",
-      "mrc"
+      "Uranus",
+      "Mercury"
     ],
     "attack": 800,
     "defense": 1200,
@@ -423,10 +423,10 @@
     "number": 29,
     "name": "Mountain Warrior",
     "level": 3,
-    "type": "Beast Warrior",
+    "type": "BeastWarrior",
     "guardianStars": [
-      "urn",
-      "mrs"
+      "Uranus",
+      "Mars"
     ],
     "attack": 600,
     "defense": 1000,
@@ -440,8 +440,8 @@
     "level": 3,
     "type": "Zombie",
     "guardianStars": [
-      "mon",
-      "mrs"
+      "Moon",
+      "Mars"
     ],
     "attack": 1200,
     "defense": 900,
@@ -455,8 +455,8 @@
     "level": 4,
     "type": "Dragon",
     "guardianStars": [
-      "mon",
-      "jpt"
+      "Moon",
+      "Jupiter"
     ],
     "attack": 1500,
     "defense": 1200,
@@ -470,8 +470,8 @@
     "level": 4,
     "type": "Dinosaur",
     "guardianStars": [
-      "urn",
-      "npt"
+      "Uranus",
+      "Neptune"
     ],
     "attack": 1600,
     "defense": 1200,
@@ -485,8 +485,8 @@
     "level": 6,
     "type": "Warrior",
     "guardianStars": [
-      "sun",
-      "stn"
+      "Sun",
+      "Saturn"
     ],
     "attack": 2200,
     "defense": 1500,
@@ -500,8 +500,8 @@
     "level": 3,
     "type": "Spellcaster",
     "guardianStars": [
-      "mrc",
-      "mon"
+      "Mercury",
+      "Moon"
     ],
     "attack": 600,
     "defense": 1500,
@@ -515,8 +515,8 @@
     "level": 7,
     "type": "Spellcaster",
     "guardianStars": [
-      "mrc",
-      "mrs"
+      "Mercury",
+      "Mars"
     ],
     "attack": 2500,
     "defense": 2100,
@@ -530,8 +530,8 @@
     "level": 4,
     "type": "Zombie",
     "guardianStars": [
-      "mon",
-      "stn"
+      "Moon",
+      "Saturn"
     ],
     "attack": 1500,
     "defense": 1200,
@@ -545,8 +545,8 @@
     "level": 7,
     "type": "Dragon",
     "guardianStars": [
-      "stn",
-      "mrc"
+      "Saturn",
+      "Mercury"
     ],
     "attack": 2600,
     "defense": 2100,
@@ -560,8 +560,8 @@
     "level": 7,
     "type": "Warrior",
     "guardianStars": [
-      "mrc",
-      "jpt"
+      "Mercury",
+      "Jupiter"
     ],
     "attack": 2300,
     "defense": 2100,
@@ -575,8 +575,8 @@
     "level": 5,
     "type": "Dragon",
     "guardianStars": [
-      "stn",
-      "plt"
+      "Saturn",
+      "Pluto"
     ],
     "attack": 2000,
     "defense": 1500,
@@ -590,8 +590,8 @@
     "level": 3,
     "type": "Pyro",
     "guardianStars": [
-      "mrs",
-      "mon"
+      "Mars",
+      "Moon"
     ],
     "attack": 200,
     "defense": 1800,
@@ -605,8 +605,8 @@
     "level": 4,
     "type": "Warrior",
     "guardianStars": [
-      "sun",
-      "urn"
+      "Sun",
+      "Uranus"
     ],
     "attack": 1400,
     "defense": 1200,
@@ -620,8 +620,8 @@
     "level": 5,
     "type": "Spellcaster",
     "guardianStars": [
-      "vns",
-      "mrs"
+      "Venus",
+      "Mars"
     ],
     "attack": 1200,
     "defense": 2200,
@@ -635,8 +635,8 @@
     "level": 4,
     "type": "Warrior",
     "guardianStars": [
-      "urn",
-      "jpt"
+      "Uranus",
+      "Jupiter"
     ],
     "attack": 1500,
     "defense": 1200,
@@ -650,8 +650,8 @@
     "level": 4,
     "type": "Spellcaster",
     "guardianStars": [
-      "sun",
-      "plt"
+      "Sun",
+      "Pluto"
     ],
     "attack": 1600,
     "defense": 1000,
@@ -665,8 +665,8 @@
     "level": 3,
     "type": "Thunder",
     "guardianStars": [
-      "plt",
-      "sun"
+      "Pluto",
+      "Sun"
     ],
     "attack": 1000,
     "defense": 500,
@@ -680,8 +680,8 @@
     "level": 4,
     "type": "Beast",
     "guardianStars": [
-      "jpt",
-      "mrc"
+      "Jupiter",
+      "Mercury"
     ],
     "attack": 1200,
     "defense": 1500,
@@ -695,8 +695,8 @@
     "level": 3,
     "type": "Dinosaur",
     "guardianStars": [
-      "urn",
-      "jpt"
+      "Uranus",
+      "Jupiter"
     ],
     "attack": 1200,
     "defense": 600,
@@ -710,8 +710,8 @@
     "level": 3,
     "type": "Fiend",
     "guardianStars": [
-      "mon",
-      "urn"
+      "Moon",
+      "Uranus"
     ],
     "attack": 1000,
     "defense": 600,
@@ -725,8 +725,8 @@
     "level": 4,
     "type": "Insect",
     "guardianStars": [
-      "jpt",
-      "urn"
+      "Jupiter",
+      "Uranus"
     ],
     "attack": 1200,
     "defense": 1500,
@@ -740,8 +740,8 @@
     "level": 2,
     "type": "Insect",
     "guardianStars": [
-      "jpt",
-      "plt"
+      "Jupiter",
+      "Pluto"
     ],
     "attack": 500,
     "defense": 700,
@@ -755,8 +755,8 @@
     "level": 4,
     "type": "Reptile",
     "guardianStars": [
-      "npt",
-      "sun"
+      "Neptune",
+      "Sun"
     ],
     "attack": 1500,
     "defense": 1200,
@@ -770,8 +770,8 @@
     "level": 5,
     "type": "Insect",
     "guardianStars": [
-      "jpt",
-      "npt"
+      "Jupiter",
+      "Neptune"
     ],
     "attack": 1500,
     "defense": 2000,
@@ -785,8 +785,8 @@
     "level": 4,
     "type": "Insect",
     "guardianStars": [
-      "jpt",
-      "sun"
+      "Jupiter",
+      "Sun"
     ],
     "attack": 1200,
     "defense": 1000,
@@ -800,8 +800,8 @@
     "level": 4,
     "type": "Insect",
     "guardianStars": [
-      "jpt",
-      "mon"
+      "Jupiter",
+      "Moon"
     ],
     "attack": 1200,
     "defense": 1400,
@@ -815,8 +815,8 @@
     "level": 4,
     "type": "Insect",
     "guardianStars": [
-      "jpt",
-      "vns"
+      "Jupiter",
+      "Venus"
     ],
     "attack": 1500,
     "defense": 1200,
@@ -830,8 +830,8 @@
     "level": 2,
     "type": "Insect",
     "guardianStars": [
-      "jpt",
-      "mrc"
+      "Jupiter",
+      "Mercury"
     ],
     "attack": 500,
     "defense": 400,
@@ -845,8 +845,8 @@
     "level": 8,
     "type": "Insect",
     "guardianStars": [
-      "jpt",
-      "urn"
+      "Jupiter",
+      "Uranus"
     ],
     "attack": 2600,
     "defense": 2500,
@@ -860,8 +860,8 @@
     "level": 1,
     "type": "Fiend",
     "guardianStars": [
-      "mrc",
-      "stn"
+      "Mercury",
+      "Saturn"
     ],
     "attack": 300,
     "defense": 200,
@@ -875,8 +875,8 @@
     "level": 3,
     "type": "Dinosaur",
     "guardianStars": [
-      "mrc",
-      "plt"
+      "Mercury",
+      "Pluto"
     ],
     "attack": 1200,
     "defense": 800,
@@ -890,8 +890,8 @@
     "level": 4,
     "type": "Fish",
     "guardianStars": [
-      "npt",
-      "mon"
+      "Neptune",
+      "Moon"
     ],
     "attack": 1600,
     "defense": 800,
@@ -905,8 +905,8 @@
     "level": 3,
     "type": "Beast",
     "guardianStars": [
-      "jpt",
-      "plt"
+      "Jupiter",
+      "Pluto"
     ],
     "attack": 1200,
     "defense": 800,
@@ -918,10 +918,10 @@
     "number": 62,
     "name": "Harpie Lady",
     "level": 4,
-    "type": "Winged Beast",
+    "type": "WingedBeast",
     "guardianStars": [
-      "stn",
-      "npt"
+      "Saturn",
+      "Neptune"
     ],
     "attack": 1300,
     "defense": 1400,
@@ -933,10 +933,10 @@
     "number": 63,
     "name": "Harpie Lady Sisters",
     "level": 6,
-    "type": "Winged Beast",
+    "type": "WingedBeast",
     "guardianStars": [
-      "stn",
-      "mrs"
+      "Saturn",
+      "Mars"
     ],
     "attack": 1950,
     "defense": 2100,
@@ -948,10 +948,10 @@
     "number": 64,
     "name": "Tiger Axe",
     "level": 4,
-    "type": "Beast Warrior",
+    "type": "BeastWarrior",
     "guardianStars": [
-      "jpt",
-      "npt"
+      "Jupiter",
+      "Neptune"
     ],
     "attack": 1300,
     "defense": 1100,
@@ -965,8 +965,8 @@
     "level": 3,
     "type": "Beast",
     "guardianStars": [
-      "jpt",
-      "sun"
+      "Jupiter",
+      "Sun"
     ],
     "attack": 1200,
     "defense": 800,
@@ -980,8 +980,8 @@
     "level": 4,
     "type": "Warrior",
     "guardianStars": [
-      "urn",
-      "mon"
+      "Uranus",
+      "Moon"
     ],
     "attack": 1500,
     "defense": 1200,
@@ -995,8 +995,8 @@
     "level": 8,
     "type": "Insect",
     "guardianStars": [
-      "jpt",
-      "mon"
+      "Jupiter",
+      "Moon"
     ],
     "attack": 3500,
     "defense": 3000,
@@ -1008,10 +1008,10 @@
     "number": 68,
     "name": "Garoozis",
     "level": 5,
-    "type": "Beast Warrior",
+    "type": "BeastWarrior",
     "guardianStars": [
-      "mrs",
-      "vns"
+      "Mars",
+      "Venus"
     ],
     "attack": 1800,
     "defense": 1500,
@@ -1025,8 +1025,8 @@
     "level": 7,
     "type": "Dragon",
     "guardianStars": [
-      "mrs",
-      "mrc"
+      "Mars",
+      "Mercury"
     ],
     "attack": 2400,
     "defense": 2000,
@@ -1040,8 +1040,8 @@
     "level": 4,
     "type": "Aqua",
     "guardianStars": [
-      "npt",
-      "vns"
+      "Neptune",
+      "Venus"
     ],
     "attack": 1200,
     "defense": 1400,
@@ -1055,8 +1055,8 @@
     "level": 4,
     "type": "Aqua",
     "guardianStars": [
-      "npt",
-      "mrc"
+      "Neptune",
+      "Mercury"
     ],
     "attack": 1200,
     "defense": 1500,
@@ -1070,8 +1070,8 @@
     "level": 3,
     "type": "Insect",
     "guardianStars": [
-      "jpt",
-      "vns"
+      "Jupiter",
+      "Venus"
     ],
     "attack": 0,
     "defense": 2000,
@@ -1083,10 +1083,10 @@
     "number": 73,
     "name": "Kairyu-Shin",
     "level": 5,
-    "type": "Sea Serpent",
+    "type": "SeaSerpent",
     "guardianStars": [
-      "npt",
-      "mrs"
+      "Neptune",
+      "Mars"
     ],
     "attack": 1800,
     "defense": 1500,
@@ -1100,8 +1100,8 @@
     "level": 3,
     "type": "Rock",
     "guardianStars": [
-      "urn",
-      "vns"
+      "Uranus",
+      "Venus"
     ],
     "attack": 1300,
     "defense": 2000,
@@ -1115,8 +1115,8 @@
     "level": 2,
     "type": "Plant",
     "guardianStars": [
-      "mrc",
-      "jpt"
+      "Mercury",
+      "Jupiter"
     ],
     "attack": 800,
     "defense": 600,
@@ -1130,8 +1130,8 @@
     "level": 4,
     "type": "Reptile",
     "guardianStars": [
-      "npt",
-      "jpt"
+      "Neptune",
+      "Jupiter"
     ],
     "attack": 1100,
     "defense": 1200,
@@ -1145,8 +1145,8 @@
     "level": 4,
     "type": "Reptile",
     "guardianStars": [
-      "npt",
-      "stn"
+      "Neptune",
+      "Saturn"
     ],
     "attack": 1300,
     "defense": 1200,
@@ -1160,8 +1160,8 @@
     "level": 4,
     "type": "Warrior",
     "guardianStars": [
-      "urn",
-      "mrc"
+      "Uranus",
+      "Mercury"
     ],
     "attack": 1700,
     "defense": 1150,
@@ -1175,8 +1175,8 @@
     "level": 6,
     "type": "Dinosaur",
     "guardianStars": [
-      "urn",
-      "npt"
+      "Uranus",
+      "Neptune"
     ],
     "attack": 1800,
     "defense": 2000,
@@ -1190,8 +1190,8 @@
     "level": 4,
     "type": "Dinosaur",
     "guardianStars": [
-      "urn",
-      "mrs"
+      "Uranus",
+      "Mars"
     ],
     "attack": 1500,
     "defense": 800,
@@ -1205,8 +1205,8 @@
     "level": 4,
     "type": "Dinosaur",
     "guardianStars": [
-      "mon",
-      "plt"
+      "Moon",
+      "Pluto"
     ],
     "attack": 1600,
     "defense": 1200,
@@ -1220,8 +1220,8 @@
     "level": 7,
     "type": "Dragon",
     "guardianStars": [
-      "mon",
-      "npt"
+      "Moon",
+      "Neptune"
     ],
     "attack": 2400,
     "defense": 2000,
@@ -1235,8 +1235,8 @@
     "level": 4,
     "type": "Fiend",
     "guardianStars": [
-      "mrc",
-      "urn"
+      "Mercury",
+      "Uranus"
     ],
     "attack": 1200,
     "defense": 2500,
@@ -1250,8 +1250,8 @@
     "level": 5,
     "type": "Fiend",
     "guardianStars": [
-      "mon",
-      "plt"
+      "Moon",
+      "Pluto"
     ],
     "attack": 1380,
     "defense": 1930,
@@ -1265,8 +1265,8 @@
     "level": 5,
     "type": "Fiend",
     "guardianStars": [
-      "mon",
-      "plt"
+      "Moon",
+      "Pluto"
     ],
     "attack": 2000,
     "defense": 1530,
@@ -1280,8 +1280,8 @@
     "level": 5,
     "type": "Fiend",
     "guardianStars": [
-      "jpt",
-      "mrc"
+      "Jupiter",
+      "Mercury"
     ],
     "attack": 1380,
     "defense": 1530,
@@ -1295,8 +1295,8 @@
     "level": 5,
     "type": "Fiend",
     "guardianStars": [
-      "mrc",
-      "npt"
+      "Mercury",
+      "Neptune"
     ],
     "attack": 1610,
     "defense": 1460,
@@ -1310,8 +1310,8 @@
     "level": 5,
     "type": "Fiend",
     "guardianStars": [
-      "mon",
-      "mrc"
+      "Moon",
+      "Mercury"
     ],
     "attack": 1150,
     "defense": 2150,
@@ -1325,8 +1325,8 @@
     "level": 5,
     "type": "Aqua",
     "guardianStars": [
-      "npt",
-      "sun"
+      "Neptune",
+      "Sun"
     ],
     "attack": 1000,
     "defense": 2000,
@@ -1340,8 +1340,8 @@
     "level": 6,
     "type": "Fairy",
     "guardianStars": [
-      "sun",
-      "npt"
+      "Sun",
+      "Neptune"
     ],
     "attack": 1800,
     "defense": 2000,
@@ -1355,8 +1355,8 @@
     "level": 4,
     "type": "Beast",
     "guardianStars": [
-      "jpt",
-      "urn"
+      "Jupiter",
+      "Uranus"
     ],
     "attack": 1300,
     "defense": 1550,
@@ -1368,10 +1368,10 @@
     "number": 92,
     "name": "Rabid Horseman",
     "level": 6,
-    "type": "Beast Warrior",
+    "type": "BeastWarrior",
     "guardianStars": [
-      "jpt",
-      "plt"
+      "Jupiter",
+      "Pluto"
     ],
     "attack": 2000,
     "defense": 1700,
@@ -1385,8 +1385,8 @@
     "level": 5,
     "type": "Warrior",
     "guardianStars": [
-      "urn",
-      "jpt"
+      "Uranus",
+      "Jupiter"
     ],
     "attack": 1500,
     "defense": 1700,
@@ -1400,8 +1400,8 @@
     "level": 5,
     "type": "Dragon",
     "guardianStars": [
-      "urn",
-      "sun"
+      "Uranus",
+      "Sun"
     ],
     "attack": 1600,
     "defense": 1400,
@@ -1415,8 +1415,8 @@
     "level": 4,
     "type": "Fiend",
     "guardianStars": [
-      "vns",
-      "jpt"
+      "Venus",
+      "Jupiter"
     ],
     "attack": 1350,
     "defense": 1400,
@@ -1430,8 +1430,8 @@
     "level": 3,
     "type": "Zombie",
     "guardianStars": [
-      "mon",
-      "plt"
+      "Moon",
+      "Pluto"
     ],
     "attack": 1500,
     "defense": 0,
@@ -1445,8 +1445,8 @@
     "level": 3,
     "type": "Zombie",
     "guardianStars": [
-      "mon",
-      "plt"
+      "Moon",
+      "Pluto"
     ],
     "attack": 1600,
     "defense": 500,
@@ -1460,8 +1460,8 @@
     "level": 2,
     "type": "Zombie",
     "guardianStars": [
-      "mon",
-      "plt"
+      "Moon",
+      "Pluto"
     ],
     "attack": 1350,
     "defense": 0,
@@ -1475,8 +1475,8 @@
     "level": 6,
     "type": "Zombie",
     "guardianStars": [
-      "jpt",
-      "npt"
+      "Jupiter",
+      "Neptune"
     ],
     "attack": 1800,
     "defense": 2000,
@@ -1490,8 +1490,8 @@
     "level": 3,
     "type": "Warrior",
     "guardianStars": [
-      "urn",
-      "mon"
+      "Uranus",
+      "Moon"
     ],
     "attack": 700,
     "defense": 1000,
@@ -1505,8 +1505,8 @@
     "level": 2,
     "type": "Pyro",
     "guardianStars": [
-      "mrs",
-      "stn"
+      "Mars",
+      "Saturn"
     ],
     "attack": 700,
     "defense": 600,
@@ -1520,8 +1520,8 @@
     "level": 2,
     "type": "Fiend",
     "guardianStars": [
-      "mrc",
-      "mon"
+      "Mercury",
+      "Moon"
     ],
     "attack": 900,
     "defense": 400,
@@ -1535,8 +1535,8 @@
     "level": 3,
     "type": "Fiend",
     "guardianStars": [
-      "mrc",
-      "mrs"
+      "Mercury",
+      "Mars"
     ],
     "attack": 800,
     "defense": 1300,
@@ -1550,8 +1550,8 @@
     "level": 2,
     "type": "Spellcaster",
     "guardianStars": [
-      "mrc",
-      "jpt"
+      "Mercury",
+      "Jupiter"
     ],
     "attack": 600,
     "defense": 500,
@@ -1565,8 +1565,8 @@
     "level": 2,
     "type": "Dinosaur",
     "guardianStars": [
-      "urn",
-      "vns"
+      "Uranus",
+      "Venus"
     ],
     "attack": 500,
     "defense": 400,
@@ -1580,8 +1580,8 @@
     "level": 5,
     "type": "Spellcaster",
     "guardianStars": [
-      "stn",
-      "sun"
+      "Saturn",
+      "Sun"
     ],
     "attack": 1700,
     "defense": 1400,
@@ -1595,8 +1595,8 @@
     "level": 2,
     "type": "Warrior",
     "guardianStars": [
-      "mon",
-      "mrs"
+      "Moon",
+      "Mars"
     ],
     "attack": 800,
     "defense": 600,
@@ -1610,8 +1610,8 @@
     "level": 3,
     "type": "Zombie",
     "guardianStars": [
-      "mon",
-      "plt"
+      "Moon",
+      "Pluto"
     ],
     "attack": 700,
     "defense": 900,
@@ -1625,8 +1625,8 @@
     "level": 4,
     "type": "Fairy",
     "guardianStars": [
-      "sun",
-      "vns"
+      "Sun",
+      "Venus"
     ],
     "attack": 1200,
     "defense": 1000,
@@ -1640,8 +1640,8 @@
     "level": 3,
     "type": "Warrior",
     "guardianStars": [
-      "urn",
-      "mrc"
+      "Uranus",
+      "Mercury"
     ],
     "attack": 1100,
     "defense": 1000,
@@ -1655,8 +1655,8 @@
     "level": 5,
     "type": "Fairy",
     "guardianStars": [
-      "mrc",
-      "stn"
+      "Mercury",
+      "Saturn"
     ],
     "attack": 1600,
     "defense": 1400,
@@ -1670,8 +1670,8 @@
     "level": 4,
     "type": "Fiend",
     "guardianStars": [
-      "mrc",
-      "urn"
+      "Mercury",
+      "Uranus"
     ],
     "attack": 1200,
     "defense": 1000,
@@ -1685,8 +1685,8 @@
     "level": 3,
     "type": "Beast",
     "guardianStars": [
-      "jpt",
-      "mon"
+      "Jupiter",
+      "Moon"
     ],
     "attack": 800,
     "defense": 900,
@@ -1700,8 +1700,8 @@
     "level": 3,
     "type": "Spellcaster",
     "guardianStars": [
-      "sun",
-      "mrs"
+      "Sun",
+      "Mars"
     ],
     "attack": 1000,
     "defense": 700,
@@ -1715,8 +1715,8 @@
     "level": 4,
     "type": "Spellcaster",
     "guardianStars": [
-      "mrc",
-      "plt"
+      "Mercury",
+      "Pluto"
     ],
     "attack": 1300,
     "defense": 1100,
@@ -1730,8 +1730,8 @@
     "level": 3,
     "type": "Insect",
     "guardianStars": [
-      "urn",
-      "npt"
+      "Uranus",
+      "Neptune"
     ],
     "attack": 900,
     "defense": 800,
@@ -1743,10 +1743,10 @@
     "number": 117,
     "name": "Spirit of the Books",
     "level": 4,
-    "type": "Winged Beast",
+    "type": "WingedBeast",
     "guardianStars": [
-      "stn",
-      "mon"
+      "Saturn",
+      "Moon"
     ],
     "attack": 1400,
     "defense": 1200,
@@ -1760,8 +1760,8 @@
     "level": 3,
     "type": "Warrior",
     "guardianStars": [
-      "jpt",
-      "vns"
+      "Jupiter",
+      "Venus"
     ],
     "attack": 1000,
     "defense": 1000,
@@ -1775,8 +1775,8 @@
     "level": 4,
     "type": "Fiend",
     "guardianStars": [
-      "mon",
-      "plt"
+      "Moon",
+      "Pluto"
     ],
     "attack": 1300,
     "defense": 900,
@@ -1790,8 +1790,8 @@
     "level": 3,
     "type": "Warrior",
     "guardianStars": [
-      "vns",
-      "stn"
+      "Venus",
+      "Saturn"
     ],
     "attack": 1200,
     "defense": 900,
@@ -1805,8 +1805,8 @@
     "level": 4,
     "type": "Beast",
     "guardianStars": [
-      "jpt",
-      "sun"
+      "Jupiter",
+      "Sun"
     ],
     "attack": 700,
     "defense": 1700,
@@ -1820,8 +1820,8 @@
     "level": 2,
     "type": "Dragon",
     "guardianStars": [
-      "stn",
-      "vns"
+      "Saturn",
+      "Venus"
     ],
     "attack": 900,
     "defense": 300,
@@ -1835,8 +1835,8 @@
     "level": 1,
     "type": "Plant",
     "guardianStars": [
-      "mon",
-      "jpt"
+      "Moon",
+      "Jupiter"
     ],
     "attack": 300,
     "defense": 400,
@@ -1850,8 +1850,8 @@
     "level": 5,
     "type": "Machine",
     "guardianStars": [
-      "mon",
-      "stn"
+      "Moon",
+      "Saturn"
     ],
     "attack": 1700,
     "defense": 1400,
@@ -1863,10 +1863,10 @@
     "number": 125,
     "name": "Faith Bird",
     "level": 4,
-    "type": "Winged Beast",
+    "type": "WingedBeast",
     "guardianStars": [
-      "sun",
-      "jpt"
+      "Sun",
+      "Jupiter"
     ],
     "attack": 1500,
     "defense": 1100,
@@ -1880,8 +1880,8 @@
     "level": 5,
     "type": "Fairy",
     "guardianStars": [
-      "sun",
-      "stn"
+      "Sun",
+      "Saturn"
     ],
     "attack": 1800,
     "defense": 1500,
@@ -1895,8 +1895,8 @@
     "level": 5,
     "type": "Warrior",
     "guardianStars": [
-      "mrc",
-      "npt"
+      "Mercury",
+      "Neptune"
     ],
     "attack": 1700,
     "defense": 1200,
@@ -1910,8 +1910,8 @@
     "level": 5,
     "type": "Spellcaster",
     "guardianStars": [
-      "sun",
-      "urn"
+      "Sun",
+      "Uranus"
     ],
     "attack": 1200,
     "defense": 1700,
@@ -1925,8 +1925,8 @@
     "level": 3,
     "type": "Spellcaster",
     "guardianStars": [
-      "mrc",
-      "mon"
+      "Mercury",
+      "Moon"
     ],
     "attack": 800,
     "defense": 700,
@@ -1940,8 +1940,8 @@
     "level": 2,
     "type": "Fairy",
     "guardianStars": [
-      "sun",
-      "plt"
+      "Sun",
+      "Pluto"
     ],
     "attack": 600,
     "defense": 400,
@@ -1955,8 +1955,8 @@
     "level": 5,
     "type": "Aqua",
     "guardianStars": [
-      "npt",
-      "mon"
+      "Neptune",
+      "Moon"
     ],
     "attack": 1600,
     "defense": 1400,
@@ -1970,8 +1970,8 @@
     "level": 3,
     "type": "Zombie",
     "guardianStars": [
-      "mon",
-      "plt"
+      "Moon",
+      "Pluto"
     ],
     "attack": 1200,
     "defense": 900,
@@ -1985,8 +1985,8 @@
     "level": 3,
     "type": "Pyro",
     "guardianStars": [
-      "mrs",
-      "urn"
+      "Mars",
+      "Uranus"
     ],
     "attack": 1100,
     "defense": 800,
@@ -2000,8 +2000,8 @@
     "level": 2,
     "type": "Fairy",
     "guardianStars": [
-      "sun",
-      "npt"
+      "Sun",
+      "Neptune"
     ],
     "attack": 700,
     "defense": 700,
@@ -2015,8 +2015,8 @@
     "level": 2,
     "type": "Zombie",
     "guardianStars": [
-      "mon",
-      "plt"
+      "Moon",
+      "Pluto"
     ],
     "attack": 600,
     "defense": 600,
@@ -2030,8 +2030,8 @@
     "level": 4,
     "type": "Fiend",
     "guardianStars": [
-      "mrc",
-      "mrs"
+      "Mercury",
+      "Mars"
     ],
     "attack": 1400,
     "defense": 1300,
@@ -2045,8 +2045,8 @@
     "level": 2,
     "type": "Fiend",
     "guardianStars": [
-      "mon",
-      "urn"
+      "Moon",
+      "Uranus"
     ],
     "attack": 500,
     "defense": 500,
@@ -2060,8 +2060,8 @@
     "level": 3,
     "type": "Warrior",
     "guardianStars": [
-      "urn",
-      "mrs"
+      "Uranus",
+      "Mars"
     ],
     "attack": 1100,
     "defense": 900,
@@ -2075,8 +2075,8 @@
     "level": 3,
     "type": "Zombie",
     "guardianStars": [
-      "sun",
-      "plt"
+      "Sun",
+      "Pluto"
     ],
     "attack": 900,
     "defense": 700,
@@ -2090,8 +2090,8 @@
     "level": 3,
     "type": "Aqua",
     "guardianStars": [
-      "npt",
-      "vns"
+      "Neptune",
+      "Venus"
     ],
     "attack": 1000,
     "defense": 1000,
@@ -2105,8 +2105,8 @@
     "level": 3,
     "type": "Insect",
     "guardianStars": [
-      "mon",
-      "jpt"
+      "Moon",
+      "Jupiter"
     ],
     "attack": 700,
     "defense": 1300,
@@ -2120,8 +2120,8 @@
     "level": 3,
     "type": "Spellcaster",
     "guardianStars": [
-      "mrs",
-      "plt"
+      "Mars",
+      "Pluto"
     ],
     "attack": 900,
     "defense": 1000,
@@ -2135,8 +2135,8 @@
     "level": 3,
     "type": "Spellcaster",
     "guardianStars": [
-      "vns",
-      "urn"
+      "Venus",
+      "Uranus"
     ],
     "attack": 800,
     "defense": 900,
@@ -2150,8 +2150,8 @@
     "level": 3,
     "type": "Spellcaster",
     "guardianStars": [
-      "stn",
-      "mrc"
+      "Saturn",
+      "Mercury"
     ],
     "attack": 700,
     "defense": 900,
@@ -2165,8 +2165,8 @@
     "level": 2,
     "type": "Spellcaster",
     "guardianStars": [
-      "vns",
-      "plt"
+      "Venus",
+      "Pluto"
     ],
     "attack": 700,
     "defense": 700,
@@ -2180,8 +2180,8 @@
     "level": 4,
     "type": "Zombie",
     "guardianStars": [
-      "mrc",
-      "plt"
+      "Mercury",
+      "Pluto"
     ],
     "attack": 900,
     "defense": 1300,
@@ -2195,8 +2195,8 @@
     "level": 3,
     "type": "Warrior",
     "guardianStars": [
-      "urn",
-      "jpt"
+      "Uranus",
+      "Jupiter"
     ],
     "attack": 600,
     "defense": 900,
@@ -2210,8 +2210,8 @@
     "level": 3,
     "type": "Fiend",
     "guardianStars": [
-      "mrc",
-      "jpt"
+      "Mercury",
+      "Jupiter"
     ],
     "attack": 800,
     "defense": 700,
@@ -2225,8 +2225,8 @@
     "level": 4,
     "type": "Fiend",
     "guardianStars": [
-      "mrc",
-      "stn"
+      "Mercury",
+      "Saturn"
     ],
     "attack": 1400,
     "defense": 1200,
@@ -2240,8 +2240,8 @@
     "level": 5,
     "type": "Aqua",
     "guardianStars": [
-      "npt",
-      "jpt"
+      "Neptune",
+      "Jupiter"
     ],
     "attack": 1700,
     "defense": 1400,
@@ -2255,8 +2255,8 @@
     "level": 4,
     "type": "Warrior",
     "guardianStars": [
-      "npt",
-      "mrs"
+      "Neptune",
+      "Mars"
     ],
     "attack": 1200,
     "defense": 1300,
@@ -2270,8 +2270,8 @@
     "level": 2,
     "type": "Aqua",
     "guardianStars": [
-      "mon",
-      "npt"
+      "Moon",
+      "Neptune"
     ],
     "attack": 500,
     "defense": 700,
@@ -2285,8 +2285,8 @@
     "level": 3,
     "type": "Zombie",
     "guardianStars": [
-      "mon",
-      "plt"
+      "Moon",
+      "Pluto"
     ],
     "attack": 900,
     "defense": 1200,
@@ -2300,8 +2300,8 @@
     "level": 2,
     "type": "Zombie",
     "guardianStars": [
-      "mrs",
-      "sun"
+      "Mars",
+      "Sun"
     ],
     "attack": 700,
     "defense": 500,
@@ -2315,8 +2315,8 @@
     "level": 3,
     "type": "Beast",
     "guardianStars": [
-      "jpt",
-      "mrc"
+      "Jupiter",
+      "Mercury"
     ],
     "attack": 800,
     "defense": 1000,
@@ -2330,8 +2330,8 @@
     "level": 3,
     "type": "Warrior",
     "guardianStars": [
-      "urn",
-      "sun"
+      "Uranus",
+      "Sun"
     ],
     "attack": 300,
     "defense": 1200,
@@ -2345,8 +2345,8 @@
     "level": 2,
     "type": "Plant",
     "guardianStars": [
-      "mrs",
-      "mon"
+      "Mars",
+      "Moon"
     ],
     "attack": 700,
     "defense": 600,
@@ -2360,8 +2360,8 @@
     "level": 2,
     "type": "Plant",
     "guardianStars": [
-      "jpt",
-      "urn"
+      "Jupiter",
+      "Uranus"
     ],
     "attack": 800,
     "defense": 600,
@@ -2375,8 +2375,8 @@
     "level": 2,
     "type": "Beast",
     "guardianStars": [
-      "jpt",
-      "plt"
+      "Jupiter",
+      "Pluto"
     ],
     "attack": 500,
     "defense": 800,
@@ -2390,8 +2390,8 @@
     "level": 3,
     "type": "Warrior",
     "guardianStars": [
-      "urn",
-      "mon"
+      "Uranus",
+      "Moon"
     ],
     "attack": 1000,
     "defense": 500,
@@ -2405,8 +2405,8 @@
     "level": 3,
     "type": "Warrior",
     "guardianStars": [
-      "urn",
-      "vns"
+      "Uranus",
+      "Venus"
     ],
     "attack": 500,
     "defense": 1000,
@@ -2420,8 +2420,8 @@
     "level": 3,
     "type": "Fiend",
     "guardianStars": [
-      "mon",
-      "mrc"
+      "Moon",
+      "Mercury"
     ],
     "attack": 1250,
     "defense": 800,
@@ -2435,8 +2435,8 @@
     "level": 4,
     "type": "Beast",
     "guardianStars": [
-      "stn",
-      "plt"
+      "Saturn",
+      "Pluto"
     ],
     "attack": 1300,
     "defense": 1300,
@@ -2450,8 +2450,8 @@
     "level": 4,
     "type": "Fiend",
     "guardianStars": [
-      "mrc",
-      "urn"
+      "Mercury",
+      "Uranus"
     ],
     "attack": 1300,
     "defense": 1000,
@@ -2465,8 +2465,8 @@
     "level": 3,
     "type": "Warrior",
     "guardianStars": [
-      "sun",
-      "vns"
+      "Sun",
+      "Venus"
     ],
     "attack": 1400,
     "defense": 700,
@@ -2480,8 +2480,8 @@
     "level": 4,
     "type": "Warrior",
     "guardianStars": [
-      "urn",
-      "mrc"
+      "Uranus",
+      "Mercury"
     ],
     "attack": 1000,
     "defense": 1500,
@@ -2495,8 +2495,8 @@
     "level": 1,
     "type": "Rock",
     "guardianStars": [
-      "urn",
-      "npt"
+      "Uranus",
+      "Neptune"
     ],
     "attack": 400,
     "defense": 200,
@@ -2510,8 +2510,8 @@
     "level": 4,
     "type": "Dragon",
     "guardianStars": [
-      "mrs",
-      "vns"
+      "Mars",
+      "Venus"
     ],
     "attack": 1500,
     "defense": 1250,
@@ -2525,8 +2525,8 @@
     "level": 3,
     "type": "Fiend",
     "guardianStars": [
-      "mrc",
-      "plt"
+      "Mercury",
+      "Pluto"
     ],
     "attack": 1200,
     "defense": 800,
@@ -2540,8 +2540,8 @@
     "level": 4,
     "type": "Fairy",
     "guardianStars": [
-      "sun",
-      "mrs"
+      "Sun",
+      "Mars"
     ],
     "attack": 800,
     "defense": 2000,
@@ -2555,8 +2555,8 @@
     "level": 4,
     "type": "Fiend",
     "guardianStars": [
-      "vns",
-      "npt"
+      "Venus",
+      "Neptune"
     ],
     "attack": 1200,
     "defense": 1000,
@@ -2570,8 +2570,8 @@
     "level": 3,
     "type": "Warrior",
     "guardianStars": [
-      "mrs",
-      "mrc"
+      "Mars",
+      "Mercury"
     ],
     "attack": 700,
     "defense": 1300,
@@ -2585,8 +2585,8 @@
     "level": 3,
     "type": "Fiend",
     "guardianStars": [
-      "mrc",
-      "npt"
+      "Mercury",
+      "Neptune"
     ],
     "attack": 600,
     "defense": 1000,
@@ -2600,8 +2600,8 @@
     "level": 2,
     "type": "Spellcaster",
     "guardianStars": [
-      "stn",
-      "npt"
+      "Saturn",
+      "Neptune"
     ],
     "attack": 900,
     "defense": 200,
@@ -2615,8 +2615,8 @@
     "level": 3,
     "type": "Fiend",
     "guardianStars": [
-      "mrc",
-      "mon"
+      "Mercury",
+      "Moon"
     ],
     "attack": 1000,
     "defense": 700,
@@ -2630,8 +2630,8 @@
     "level": 2,
     "type": "Pyro",
     "guardianStars": [
-      "mrs",
-      "stn"
+      "Mars",
+      "Saturn"
     ],
     "attack": 800,
     "defense": 600,
@@ -2645,8 +2645,8 @@
     "level": 3,
     "type": "Aqua",
     "guardianStars": [
-      "npt",
-      "mrc"
+      "Neptune",
+      "Mercury"
     ],
     "attack": 800,
     "defense": 1000,
@@ -2660,8 +2660,8 @@
     "level": 3,
     "type": "Fiend",
     "guardianStars": [
-      "mrc",
-      "mrs"
+      "Mercury",
+      "Mars"
     ],
     "attack": 1000,
     "defense": 800,
@@ -2675,8 +2675,8 @@
     "level": 2,
     "type": "Spellcaster",
     "guardianStars": [
-      "mrc",
-      "jpt"
+      "Mercury",
+      "Jupiter"
     ],
     "attack": 700,
     "defense": 600,
@@ -2690,8 +2690,8 @@
     "level": 3,
     "type": "Plant",
     "guardianStars": [
-      "jpt",
-      "npt"
+      "Jupiter",
+      "Neptune"
     ],
     "attack": 800,
     "defense": 1000,
@@ -2705,8 +2705,8 @@
     "level": 3,
     "type": "Fiend",
     "guardianStars": [
-      "stn",
-      "mrs"
+      "Saturn",
+      "Mars"
     ],
     "attack": 1000,
     "defense": 1000,
@@ -2720,8 +2720,8 @@
     "level": 2,
     "type": "Warrior",
     "guardianStars": [
-      "mrc",
-      "stn"
+      "Mercury",
+      "Saturn"
     ],
     "attack": 500,
     "defense": 700,
@@ -2735,8 +2735,8 @@
     "level": 2,
     "type": "Spellcaster",
     "guardianStars": [
-      "sun",
-      "jpt"
+      "Sun",
+      "Jupiter"
     ],
     "attack": 600,
     "defense": 800,
@@ -2750,8 +2750,8 @@
     "level": 3,
     "type": "Spellcaster",
     "guardianStars": [
-      "vns",
-      "sun"
+      "Venus",
+      "Sun"
     ],
     "attack": 600,
     "defense": 900,
@@ -2765,8 +2765,8 @@
     "level": 2,
     "type": "Warrior",
     "guardianStars": [
-      "urn",
-      "mrs"
+      "Uranus",
+      "Mars"
     ],
     "attack": 600,
     "defense": 500,
@@ -2778,10 +2778,10 @@
     "number": 186,
     "name": "Fiend Refrection #2",
     "level": 4,
-    "type": "Winged Beast",
+    "type": "WingedBeast",
     "guardianStars": [
-      "vns",
-      "mrs"
+      "Venus",
+      "Mars"
     ],
     "attack": 1100,
     "defense": 1400,
@@ -2795,8 +2795,8 @@
     "level": 3,
     "type": "Beast",
     "guardianStars": [
-      "mon",
-      "mrs"
+      "Moon",
+      "Mars"
     ],
     "attack": 700,
     "defense": 800,
@@ -2810,8 +2810,8 @@
     "level": 3,
     "type": "Beast",
     "guardianStars": [
-      "jpt",
-      "sun"
+      "Jupiter",
+      "Sun"
     ],
     "attack": 800,
     "defense": 900,
@@ -2825,8 +2825,8 @@
     "level": 3,
     "type": "Beast",
     "guardianStars": [
-      "jpt",
-      "mon"
+      "Jupiter",
+      "Moon"
     ],
     "attack": 900,
     "defense": 700,
@@ -2840,8 +2840,8 @@
     "level": 3,
     "type": "Spellcaster",
     "guardianStars": [
-      "mrc",
-      "urn"
+      "Mercury",
+      "Uranus"
     ],
     "attack": 1000,
     "defense": 800,
@@ -2855,8 +2855,8 @@
     "level": 2,
     "type": "Thunder",
     "guardianStars": [
-      "plt",
-      "mon"
+      "Pluto",
+      "Moon"
     ],
     "attack": 600,
     "defense": 600,
@@ -2870,8 +2870,8 @@
     "level": 1,
     "type": "Fairy",
     "guardianStars": [
-      "sun",
-      "stn"
+      "Sun",
+      "Saturn"
     ],
     "attack": 400,
     "defense": 300,
@@ -2885,8 +2885,8 @@
     "level": 4,
     "type": "Aqua",
     "guardianStars": [
-      "npt",
-      "stn"
+      "Neptune",
+      "Saturn"
     ],
     "attack": 1000,
     "defense": 1500,
@@ -2900,8 +2900,8 @@
     "level": 4,
     "type": "Fiend",
     "guardianStars": [
-      "mon",
-      "jpt"
+      "Moon",
+      "Jupiter"
     ],
     "attack": 1200,
     "defense": 1300,
@@ -2915,8 +2915,8 @@
     "level": 2,
     "type": "Warrior",
     "guardianStars": [
-      "npt",
-      "mon"
+      "Neptune",
+      "Moon"
     ],
     "attack": 900,
     "defense": 500,
@@ -2930,8 +2930,8 @@
     "level": 4,
     "type": "Aqua",
     "guardianStars": [
-      "npt",
-      "vns"
+      "Neptune",
+      "Venus"
     ],
     "attack": 1000,
     "defense": 1200,
@@ -2945,8 +2945,8 @@
     "level": 2,
     "type": "Zombie",
     "guardianStars": [
-      "mon",
-      "stn"
+      "Moon",
+      "Saturn"
     ],
     "attack": 500,
     "defense": 400,
@@ -2960,8 +2960,8 @@
     "level": 2,
     "type": "Fairy",
     "guardianStars": [
-      "sun",
-      "urn"
+      "Sun",
+      "Uranus"
     ],
     "attack": 800,
     "defense": 500,
@@ -2975,8 +2975,8 @@
     "level": 3,
     "type": "Aqua",
     "guardianStars": [
-      "urn",
-      "mrc"
+      "Uranus",
+      "Mercury"
     ],
     "attack": 900,
     "defense": 800,
@@ -2990,8 +2990,8 @@
     "level": 2,
     "type": "Dragon",
     "guardianStars": [
-      "stn",
-      "sun"
+      "Saturn",
+      "Sun"
     ],
     "attack": 600,
     "defense": 700,
@@ -3005,8 +3005,8 @@
     "level": 4,
     "type": "Beast",
     "guardianStars": [
-      "jpt",
-      "vns"
+      "Jupiter",
+      "Venus"
     ],
     "attack": 1200,
     "defense": 1000,
@@ -3020,8 +3020,8 @@
     "level": 2,
     "type": "Beast",
     "guardianStars": [
-      "mon",
-      "urn"
+      "Moon",
+      "Uranus"
     ],
     "attack": 400,
     "defense": 600,
@@ -3035,8 +3035,8 @@
     "level": 2,
     "type": "Zombie",
     "guardianStars": [
-      "mon",
-      "plt"
+      "Moon",
+      "Pluto"
     ],
     "attack": 600,
     "defense": 800,
@@ -3050,8 +3050,8 @@
     "level": 5,
     "type": "Fiend",
     "guardianStars": [
-      "mon",
-      "npt"
+      "Moon",
+      "Neptune"
     ],
     "attack": 1700,
     "defense": 1400,
@@ -3065,8 +3065,8 @@
     "level": 3,
     "type": "Aqua",
     "guardianStars": [
-      "npt",
-      "sun"
+      "Neptune",
+      "Sun"
     ],
     "attack": 900,
     "defense": 800,
@@ -3080,8 +3080,8 @@
     "level": 3,
     "type": "Aqua",
     "guardianStars": [
-      "mon",
-      "mrc"
+      "Moon",
+      "Mercury"
     ],
     "attack": 900,
     "defense": 700,
@@ -3093,10 +3093,10 @@
     "number": 207,
     "name": "Droll Bird",
     "level": 2,
-    "type": "Winged Beast",
+    "type": "WingedBeast",
     "guardianStars": [
-      "stn",
-      "mon"
+      "Saturn",
+      "Moon"
     ],
     "attack": 600,
     "defense": 500,
@@ -3110,8 +3110,8 @@
     "level": 3,
     "type": "Fairy",
     "guardianStars": [
-      "sun",
-      "plt"
+      "Sun",
+      "Pluto"
     ],
     "attack": 600,
     "defense": 900,
@@ -3125,8 +3125,8 @@
     "level": 2,
     "type": "Insect",
     "guardianStars": [
-      "jpt",
-      "mrc"
+      "Jupiter",
+      "Mercury"
     ],
     "attack": 700,
     "defense": 700,
@@ -3140,8 +3140,8 @@
     "level": 2,
     "type": "Pyro",
     "guardianStars": [
-      "mrs",
-      "urn"
+      "Mars",
+      "Uranus"
     ],
     "attack": 600,
     "defense": 500,
@@ -3155,8 +3155,8 @@
     "level": 2,
     "type": "Thunder",
     "guardianStars": [
-      "plt",
-      "vns"
+      "Pluto",
+      "Venus"
     ],
     "attack": 700,
     "defense": 600,
@@ -3170,8 +3170,8 @@
     "level": 2,
     "type": "Beast",
     "guardianStars": [
-      "mon",
-      "mrs"
+      "Moon",
+      "Mars"
     ],
     "attack": 700,
     "defense": 600,
@@ -3185,8 +3185,8 @@
     "level": 4,
     "type": "Spellcaster",
     "guardianStars": [
-      "npt",
-      "mrc"
+      "Neptune",
+      "Mercury"
     ],
     "attack": 1200,
     "defense": 2000,
@@ -3200,8 +3200,8 @@
     "level": 2,
     "type": "Warrior",
     "guardianStars": [
-      "mrs",
-      "sun"
+      "Mars",
+      "Sun"
     ],
     "attack": 800,
     "defense": 400,
@@ -3215,8 +3215,8 @@
     "level": 3,
     "type": "Zombie",
     "guardianStars": [
-      "mrs",
-      "plt"
+      "Mars",
+      "Pluto"
     ],
     "attack": 1000,
     "defense": 800,
@@ -3230,8 +3230,8 @@
     "level": 4,
     "type": "Spellcaster",
     "guardianStars": [
-      "jpt",
-      "urn"
+      "Jupiter",
+      "Uranus"
     ],
     "attack": 1200,
     "defense": 1400,
@@ -3245,8 +3245,8 @@
     "level": 8,
     "type": "Dragon",
     "guardianStars": [
-      "mon",
-      "jpt"
+      "Moon",
+      "Jupiter"
     ],
     "attack": 3200,
     "defense": 2500,
@@ -3260,8 +3260,8 @@
     "level": 3,
     "type": "Dinosaur",
     "guardianStars": [
-      "mon",
-      "stn"
+      "Moon",
+      "Saturn"
     ],
     "attack": 900,
     "defense": 700,
@@ -3273,10 +3273,10 @@
     "number": 219,
     "name": "Solitude",
     "level": 3,
-    "type": "Beast Warrior",
+    "type": "BeastWarrior",
     "guardianStars": [
-      "mon",
-      "urn"
+      "Moon",
+      "Uranus"
     ],
     "attack": 1050,
     "defense": 1000,
@@ -3290,8 +3290,8 @@
     "level": 4,
     "type": "Spellcaster",
     "guardianStars": [
-      "mrc",
-      "npt"
+      "Mercury",
+      "Neptune"
     ],
     "attack": 900,
     "defense": 1400,
@@ -3305,8 +3305,8 @@
     "level": 3,
     "type": "Insect",
     "guardianStars": [
-      "jpt",
-      "plt"
+      "Jupiter",
+      "Pluto"
     ],
     "attack": 700,
     "defense": 1400,
@@ -3320,8 +3320,8 @@
     "level": 2,
     "type": "Fiend",
     "guardianStars": [
-      "mon",
-      "npt"
+      "Moon",
+      "Neptune"
     ],
     "attack": 800,
     "defense": 600,
@@ -3335,8 +3335,8 @@
     "level": 6,
     "type": "Aqua",
     "guardianStars": [
-      "npt",
-      "mrs"
+      "Neptune",
+      "Mars"
     ],
     "attack": 2100,
     "defense": 1800,
@@ -3350,8 +3350,8 @@
     "level": 3,
     "type": "Warrior",
     "guardianStars": [
-      "mrc",
-      "mon"
+      "Mercury",
+      "Moon"
     ],
     "attack": 500,
     "defense": 1100,
@@ -3365,8 +3365,8 @@
     "level": 4,
     "type": "Warrior",
     "guardianStars": [
-      "mon",
-      "mrc"
+      "Moon",
+      "Mercury"
     ],
     "attack": 1400,
     "defense": 800,
@@ -3380,8 +3380,8 @@
     "level": 3,
     "type": "Warrior",
     "guardianStars": [
-      "mon",
-      "mrs"
+      "Moon",
+      "Mars"
     ],
     "attack": 900,
     "defense": 800,
@@ -3395,8 +3395,8 @@
     "level": 2,
     "type": "Aqua",
     "guardianStars": [
-      "npt",
-      "mrs"
+      "Neptune",
+      "Mars"
     ],
     "attack": 600,
     "defense": 700,
@@ -3410,8 +3410,8 @@
     "level": 3,
     "type": "Zombie",
     "guardianStars": [
-      "jpt",
-      "npt"
+      "Jupiter",
+      "Neptune"
     ],
     "attack": 1000,
     "defense": 900,
@@ -3425,8 +3425,8 @@
     "level": 2,
     "type": "Fairy",
     "guardianStars": [
-      "sun",
-      "npt"
+      "Sun",
+      "Neptune"
     ],
     "attack": 700,
     "defense": 600,
@@ -3440,8 +3440,8 @@
     "level": 4,
     "type": "Fish",
     "guardianStars": [
-      "npt",
-      "jpt"
+      "Neptune",
+      "Jupiter"
     ],
     "attack": 1500,
     "defense": 1200,
@@ -3455,8 +3455,8 @@
     "level": 3,
     "type": "Warrior",
     "guardianStars": [
-      "mrc",
-      "mrs"
+      "Mercury",
+      "Mars"
     ],
     "attack": 800,
     "defense": 1200,
@@ -3470,8 +3470,8 @@
     "level": 2,
     "type": "Fiend",
     "guardianStars": [
-      "mon",
-      "jpt"
+      "Moon",
+      "Jupiter"
     ],
     "attack": 600,
     "defense": 800,
@@ -3485,8 +3485,8 @@
     "level": 4,
     "type": "Fiend",
     "guardianStars": [
-      "mrc",
-      "jpt"
+      "Mercury",
+      "Jupiter"
     ],
     "attack": 1300,
     "defense": 1100,
@@ -3500,8 +3500,8 @@
     "level": 4,
     "type": "Warrior",
     "guardianStars": [
-      "mrc",
-      "stn"
+      "Mercury",
+      "Saturn"
     ],
     "attack": 1600,
     "defense": 800,
@@ -3515,8 +3515,8 @@
     "level": 3,
     "type": "Warrior",
     "guardianStars": [
-      "jpt",
-      "sun"
+      "Jupiter",
+      "Sun"
     ],
     "attack": 900,
     "defense": 1200,
@@ -3530,8 +3530,8 @@
     "level": 4,
     "type": "Warrior",
     "guardianStars": [
-      "plt",
-      "mrc"
+      "Pluto",
+      "Mercury"
     ],
     "attack": 1000,
     "defense": 1200,
@@ -3545,8 +3545,8 @@
     "level": 2,
     "type": "Rock",
     "guardianStars": [
-      "urn",
-      "jpt"
+      "Uranus",
+      "Jupiter"
     ],
     "attack": 500,
     "defense": 500,
@@ -3560,8 +3560,8 @@
     "level": 2,
     "type": "Plant",
     "guardianStars": [
-      "jpt",
-      "mon"
+      "Jupiter",
+      "Moon"
     ],
     "attack": 800,
     "defense": 600,
@@ -3575,8 +3575,8 @@
     "level": 3,
     "type": "Warrior",
     "guardianStars": [
-      "mrc",
-      "urn"
+      "Mercury",
+      "Uranus"
     ],
     "attack": 900,
     "defense": 700,
@@ -3590,8 +3590,8 @@
     "level": 3,
     "type": "Fiend",
     "guardianStars": [
-      "mon",
-      "stn"
+      "Moon",
+      "Saturn"
     ],
     "attack": 700,
     "defense": 800,
@@ -3605,8 +3605,8 @@
     "level": 4,
     "type": "Zombie",
     "guardianStars": [
-      "mon",
-      "urn"
+      "Moon",
+      "Uranus"
     ],
     "attack": 1200,
     "defense": 1200,
@@ -3620,8 +3620,8 @@
     "level": 2,
     "type": "Fiend",
     "guardianStars": [
-      "mrs",
-      "mon"
+      "Mars",
+      "Moon"
     ],
     "attack": 600,
     "defense": 600,
@@ -3635,8 +3635,8 @@
     "level": 3,
     "type": "Aqua",
     "guardianStars": [
-      "npt",
-      "stn"
+      "Neptune",
+      "Saturn"
     ],
     "attack": 900,
     "defense": 700,
@@ -3650,8 +3650,8 @@
     "level": 3,
     "type": "Rock",
     "guardianStars": [
-      "mrs",
-      "vns"
+      "Mars",
+      "Venus"
     ],
     "attack": 900,
     "defense": 1000,
@@ -3665,8 +3665,8 @@
     "level": 2,
     "type": "Fiend",
     "guardianStars": [
-      "mon",
-      "npt"
+      "Moon",
+      "Neptune"
     ],
     "attack": 800,
     "defense": 400,
@@ -3678,10 +3678,10 @@
     "number": 246,
     "name": "One Who Hunts Souls",
     "level": 4,
-    "type": "Beast Warrior",
+    "type": "BeastWarrior",
     "guardianStars": [
-      "mon",
-      "mrc"
+      "Moon",
+      "Mercury"
     ],
     "attack": 1100,
     "defense": 1000,
@@ -3695,8 +3695,8 @@
     "level": 3,
     "type": "Fish",
     "guardianStars": [
-      "npt",
-      "sun"
+      "Neptune",
+      "Sun"
     ],
     "attack": 900,
     "defense": 800,
@@ -3710,8 +3710,8 @@
     "level": 4,
     "type": "Beast",
     "guardianStars": [
-      "jpt",
-      "vns"
+      "Jupiter",
+      "Venus"
     ],
     "attack": 1200,
     "defense": 1000,
@@ -3725,8 +3725,8 @@
     "level": 4,
     "type": "Aqua",
     "guardianStars": [
-      "npt",
-      "mon"
+      "Neptune",
+      "Moon"
     ],
     "attack": 1400,
     "defense": 1200,
@@ -3740,8 +3740,8 @@
     "level": 3,
     "type": "Warrior",
     "guardianStars": [
-      "npt",
-      "mrc"
+      "Neptune",
+      "Mercury"
     ],
     "attack": 800,
     "defense": 1200,
@@ -3755,8 +3755,8 @@
     "level": 3,
     "type": "Fish",
     "guardianStars": [
-      "npt",
-      "vns"
+      "Neptune",
+      "Venus"
     ],
     "attack": 1200,
     "defense": 900,
@@ -3770,8 +3770,8 @@
     "level": 3,
     "type": "Beast",
     "guardianStars": [
-      "jpt",
-      "mrc"
+      "Jupiter",
+      "Mercury"
     ],
     "attack": 1100,
     "defense": 900,
@@ -3785,8 +3785,8 @@
     "level": 3,
     "type": "Spellcaster",
     "guardianStars": [
-      "mrc",
-      "npt"
+      "Mercury",
+      "Neptune"
     ],
     "attack": 800,
     "defense": 1000,
@@ -3800,8 +3800,8 @@
     "level": 2,
     "type": "Fiend",
     "guardianStars": [
-      "mon",
-      "mrs"
+      "Moon",
+      "Mars"
     ],
     "attack": 500,
     "defense": 750,
@@ -3815,8 +3815,8 @@
     "level": 4,
     "type": "Beast",
     "guardianStars": [
-      "jpt",
-      "urn"
+      "Jupiter",
+      "Uranus"
     ],
     "attack": 500,
     "defense": 2000,
@@ -3830,8 +3830,8 @@
     "level": 4,
     "type": "Warrior",
     "guardianStars": [
-      "vns",
-      "mrs"
+      "Venus",
+      "Mars"
     ],
     "attack": 1200,
     "defense": 1000,
@@ -3845,8 +3845,8 @@
     "level": 3,
     "type": "Rock",
     "guardianStars": [
-      "urn",
-      "sun"
+      "Uranus",
+      "Sun"
     ],
     "attack": 800,
     "defense": 1200,
@@ -3860,8 +3860,8 @@
     "level": 4,
     "type": "Aqua",
     "guardianStars": [
-      "urn",
-      "mrc"
+      "Uranus",
+      "Mercury"
     ],
     "attack": 1000,
     "defense": 1100,
@@ -3875,8 +3875,8 @@
     "level": 4,
     "type": "Spellcaster",
     "guardianStars": [
-      "mon",
-      "mrc"
+      "Moon",
+      "Mercury"
     ],
     "attack": 1000,
     "defense": 1300,
@@ -3890,8 +3890,8 @@
     "level": 3,
     "type": "Fairy",
     "guardianStars": [
-      "mon",
-      "vns"
+      "Moon",
+      "Venus"
     ],
     "attack": 750,
     "defense": 1100,
@@ -3905,8 +3905,8 @@
     "level": 2,
     "type": "Fiend",
     "guardianStars": [
-      "vns",
-      "jpt"
+      "Venus",
+      "Jupiter"
     ],
     "attack": 700,
     "defense": 600,
@@ -3920,8 +3920,8 @@
     "level": 3,
     "type": "Warrior",
     "guardianStars": [
-      "mrs",
-      "npt"
+      "Mars",
+      "Neptune"
     ],
     "attack": 800,
     "defense": 1300,
@@ -3935,8 +3935,8 @@
     "level": 3,
     "type": "Rock",
     "guardianStars": [
-      "urn",
-      "sun"
+      "Uranus",
+      "Sun"
     ],
     "attack": 700,
     "defense": 1400,
@@ -3950,8 +3950,8 @@
     "level": 3,
     "type": "Fairy",
     "guardianStars": [
-      "sun",
-      "mrs"
+      "Sun",
+      "Mars"
     ],
     "attack": 500,
     "defense": 1300,
@@ -3965,8 +3965,8 @@
     "level": 3,
     "type": "Aqua",
     "guardianStars": [
-      "npt",
-      "jpt"
+      "Neptune",
+      "Jupiter"
     ],
     "attack": 800,
     "defense": 700,
@@ -3980,8 +3980,8 @@
     "level": 3,
     "type": "Warrior",
     "guardianStars": [
-      "stn",
-      "vns"
+      "Saturn",
+      "Venus"
     ],
     "attack": 900,
     "defense": 700,
@@ -3995,8 +3995,8 @@
     "level": 3,
     "type": "Warrior",
     "guardianStars": [
-      "mrc",
-      "mrs"
+      "Mercury",
+      "Mars"
     ],
     "attack": 1000,
     "defense": 500,
@@ -4010,8 +4010,8 @@
     "level": 2,
     "type": "Spellcaster",
     "guardianStars": [
-      "mrc",
-      "jpt"
+      "Mercury",
+      "Jupiter"
     ],
     "attack": 700,
     "defense": 500,
@@ -4025,8 +4025,8 @@
     "level": 3,
     "type": "Fiend",
     "guardianStars": [
-      "mrc",
-      "stn"
+      "Mercury",
+      "Saturn"
     ],
     "attack": 1100,
     "defense": 900,
@@ -4040,8 +4040,8 @@
     "level": 3,
     "type": "Aqua",
     "guardianStars": [
-      "npt",
-      "stn"
+      "Neptune",
+      "Saturn"
     ],
     "attack": 1000,
     "defense": 900,
@@ -4055,8 +4055,8 @@
     "level": 3,
     "type": "Fiend",
     "guardianStars": [
-      "mrc",
-      "urn"
+      "Mercury",
+      "Uranus"
     ],
     "attack": 900,
     "defense": 600,
@@ -4068,10 +4068,10 @@
     "number": 272,
     "name": "Mavelus",
     "level": 4,
-    "type": "Winged Beast",
+    "type": "WingedBeast",
     "guardianStars": [
-      "mrs",
-      "mrc"
+      "Mars",
+      "Mercury"
     ],
     "attack": 1300,
     "defense": 900,
@@ -4083,10 +4083,10 @@
     "number": 273,
     "name": "Ancient Tree of Enlightenment",
     "level": 4,
-    "type": "Winged Beast",
+    "type": "WingedBeast",
     "guardianStars": [
-      "mrs",
-      "mrc"
+      "Mars",
+      "Mercury"
     ],
     "attack": 1300,
     "defense": 900,
@@ -4100,8 +4100,8 @@
     "level": 3,
     "type": "Plant",
     "guardianStars": [
-      "jpt",
-      "npt"
+      "Jupiter",
+      "Neptune"
     ],
     "attack": 500,
     "defense": 1600,
@@ -4115,8 +4115,8 @@
     "level": 4,
     "type": "Machine",
     "guardianStars": [
-      "urn",
-      "mon"
+      "Uranus",
+      "Moon"
     ],
     "attack": 1500,
     "defense": 1000,
@@ -4130,8 +4130,8 @@
     "level": 3,
     "type": "Fairy",
     "guardianStars": [
-      "sun",
-      "stn"
+      "Sun",
+      "Saturn"
     ],
     "attack": 1000,
     "defense": 1000,
@@ -4145,8 +4145,8 @@
     "level": 3,
     "type": "Fiend",
     "guardianStars": [
-      "mon",
-      "jpt"
+      "Moon",
+      "Jupiter"
     ],
     "attack": 300,
     "defense": 1300,
@@ -4160,8 +4160,8 @@
     "level": 1,
     "type": "Insect",
     "guardianStars": [
-      "jpt",
-      "sun"
+      "Jupiter",
+      "Sun"
     ],
     "attack": 300,
     "defense": 200,
@@ -4175,8 +4175,8 @@
     "level": 3,
     "type": "Fiend",
     "guardianStars": [
-      "mrc",
-      "npt"
+      "Mercury",
+      "Neptune"
     ],
     "attack": 1000,
     "defense": 900,
@@ -4190,8 +4190,8 @@
     "level": 4,
     "type": "Warrior",
     "guardianStars": [
-      "urn",
-      "vns"
+      "Uranus",
+      "Venus"
     ],
     "attack": 800,
     "defense": 1500,
@@ -4205,8 +4205,8 @@
     "level": 4,
     "type": "Fiend",
     "guardianStars": [
-      "mrc",
-      "mon"
+      "Mercury",
+      "Moon"
     ],
     "attack": 1500,
     "defense": 1000,
@@ -4220,8 +4220,8 @@
     "level": 3,
     "type": "Beast",
     "guardianStars": [
-      "vns",
-      "stn"
+      "Venus",
+      "Saturn"
     ],
     "attack": 800,
     "defense": 1000,
@@ -4235,8 +4235,8 @@
     "level": 3,
     "type": "Machine",
     "guardianStars": [
-      "sun",
-      "jpt"
+      "Sun",
+      "Jupiter"
     ],
     "attack": 1100,
     "defense": 700,
@@ -4250,8 +4250,8 @@
     "level": 3,
     "type": "Spellcaster",
     "guardianStars": [
-      "vns",
-      "urn"
+      "Venus",
+      "Uranus"
     ],
     "attack": 1200,
     "defense": 900,
@@ -4265,8 +4265,8 @@
     "level": 2,
     "type": "Reptile",
     "guardianStars": [
-      "sun",
-      "npt"
+      "Sun",
+      "Neptune"
     ],
     "attack": 700,
     "defense": 600,
@@ -4280,8 +4280,8 @@
     "level": 5,
     "type": "Machine",
     "guardianStars": [
-      "mrc",
-      "mrs"
+      "Mercury",
+      "Mars"
     ],
     "attack": 1500,
     "defense": 1800,
@@ -4293,10 +4293,10 @@
     "number": 287,
     "name": "Ogre of the Black Shadow",
     "level": 4,
-    "type": "Beast Warrior",
+    "type": "BeastWarrior",
     "guardianStars": [
-      "mon",
-      "stn"
+      "Moon",
+      "Saturn"
     ],
     "attack": 1200,
     "defense": 1400,
@@ -4310,8 +4310,8 @@
     "level": 3,
     "type": "Fiend",
     "guardianStars": [
-      "mrc",
-      "jpt"
+      "Mercury",
+      "Jupiter"
     ],
     "attack": 600,
     "defense": 1400,
@@ -4325,8 +4325,8 @@
     "level": 1,
     "type": "Aqua",
     "guardianStars": [
-      "npt",
-      "mon"
+      "Neptune",
+      "Moon"
     ],
     "attack": 400,
     "defense": 300,
@@ -4340,8 +4340,8 @@
     "level": 4,
     "type": "Warrior",
     "guardianStars": [
-      "mon",
-      "stn"
+      "Moon",
+      "Saturn"
     ],
     "attack": 1100,
     "defense": 1000,
@@ -4355,8 +4355,8 @@
     "level": 4,
     "type": "Pyro",
     "guardianStars": [
-      "mrs",
-      "stn"
+      "Mars",
+      "Saturn"
     ],
     "attack": 1300,
     "defense": 1000,
@@ -4370,8 +4370,8 @@
     "level": 2,
     "type": "Aqua",
     "guardianStars": [
-      "npt",
-      "vns"
+      "Neptune",
+      "Venus"
     ],
     "attack": 400,
     "defense": 1000,
@@ -4385,8 +4385,8 @@
     "level": 4,
     "type": "Warrior",
     "guardianStars": [
-      "sun",
-      "urn"
+      "Sun",
+      "Uranus"
     ],
     "attack": 1100,
     "defense": 1100,
@@ -4400,8 +4400,8 @@
     "level": 3,
     "type": "Warrior",
     "guardianStars": [
-      "stn",
-      "mrc"
+      "Saturn",
+      "Mercury"
     ],
     "attack": 1200,
     "defense": 900,
@@ -4415,8 +4415,8 @@
     "level": 3,
     "type": "Fiend",
     "guardianStars": [
-      "jpt",
-      "mon"
+      "Jupiter",
+      "Moon"
     ],
     "attack": 600,
     "defense": 1300,
@@ -4430,8 +4430,8 @@
     "level": 3,
     "type": "Dragon",
     "guardianStars": [
-      "stn",
-      "plt"
+      "Saturn",
+      "Pluto"
     ],
     "attack": 700,
     "defense": 1300,
@@ -4445,8 +4445,8 @@
     "level": 4,
     "type": "Machine",
     "guardianStars": [
-      "mon",
-      "urn"
+      "Moon",
+      "Uranus"
     ],
     "attack": 1400,
     "defense": 1200,
@@ -4460,8 +4460,8 @@
     "level": 3,
     "type": "Dragon",
     "guardianStars": [
-      "mon",
-      "npt"
+      "Moon",
+      "Neptune"
     ],
     "attack": 900,
     "defense": 900,
@@ -4475,8 +4475,8 @@
     "level": 3,
     "type": "Warrior",
     "guardianStars": [
-      "sun",
-      "plt"
+      "Sun",
+      "Pluto"
     ],
     "attack": 1200,
     "defense": 900,
@@ -4488,10 +4488,10 @@
     "number": 300,
     "name": "Kurama",
     "level": 3,
-    "type": "Winged Beast",
+    "type": "WingedBeast",
     "guardianStars": [
-      "stn",
-      "npt"
+      "Saturn",
+      "Neptune"
     ],
     "attack": 800,
     "defense": 800,
@@ -4505,12 +4505,12 @@
     "purchasable": true,
     "password": "61854111",
     "starCost": 800,
-    "type": "Equip Magic"
+    "type": "Equip"
   },
   {
     "number": 302,
     "name": "Sword of Dark Destruction",
-    "type": "Equip Magic",
+    "type": "Equip",
     "purchasable": true,
     "password": "37120512",
     "starCost": 800
@@ -4518,7 +4518,7 @@
   {
     "number": 303,
     "name": "Dark Energy",
-    "type": "Equip Magic",
+    "type": "Equip",
     "purchasable": true,
     "password": "04614116",
     "starCost": 800
@@ -4526,7 +4526,7 @@
   {
     "number": 304,
     "name": "Axe of Despair",
-    "type": "Equip Magic",
+    "type": "Equip",
     "attack": null,
     "defense": null,
     "purchasable": true,
@@ -4536,7 +4536,7 @@
   {
     "number": 305,
     "name": "Laser Cannon Armor",
-    "type": "Equip Magic",
+    "type": "Equip",
     "purchasable": true,
     "password": "77007920",
     "starCost": 800
@@ -4544,7 +4544,7 @@
   {
     "number": 306,
     "name": "Insect Armor with Laser Cannon",
-    "type": "Equip Magic",
+    "type": "Equip",
     "purchasable": true,
     "password": "03492538",
     "starCost": 800
@@ -4552,7 +4552,7 @@
   {
     "number": 307,
     "name": "Elf's Light",
-    "type": "Equip Magic",
+    "type": "Equip",
     "purchasable": true,
     "password": "39897277",
     "starCost": 800
@@ -4560,7 +4560,7 @@
   {
     "number": 308,
     "name": "Beast Fangs",
-    "type": "Equip Magic",
+    "type": "Equip",
     "purchasable": true,
     "password": "46009906",
     "starCost": 800
@@ -4568,7 +4568,7 @@
   {
     "number": 309,
     "name": "Steel Shell",
-    "type": "Equip Magic",
+    "type": "Equip",
     "purchasable": true,
     "password": "02370081",
     "starCost": 800
@@ -4576,7 +4576,7 @@
   {
     "number": 310,
     "name": "Vile Germs",
-    "type": "Equip Magic",
+    "type": "Equip",
     "purchasable": true,
     "password": "39774685",
     "starCost": 800
@@ -4584,7 +4584,7 @@
   {
     "number": 311,
     "name": "Black Pendant",
-    "type": "Equip Magic",
+    "type": "Equip",
     "purchasable": true,
     "password": "65169794",
     "starCost": 800
@@ -4592,7 +4592,7 @@
   {
     "number": 312,
     "name": "Silver Bow and Arrow",
-    "type": "Equip Magic",
+    "type": "Equip",
     "purchasable": true,
     "password": "01557499",
     "starCost": 800
@@ -4600,7 +4600,7 @@
   {
     "number": 313,
     "name": "Horn of Light",
-    "type": "Equip Magic",
+    "type": "Equip",
     "purchasable": true,
     "password": "38552107",
     "starCost": 800
@@ -4608,7 +4608,7 @@
   {
     "number": 314,
     "name": "Horn of the Unicorn",
-    "type": "Equip Magic",
+    "type": "Equip",
     "attack": null,
     "defense": null,
     "purchasable": true,
@@ -4618,7 +4618,7 @@
   {
     "number": 315,
     "name": "Dragon Treasure",
-    "type": "Equip Magic",
+    "type": "Equip",
     "purchasable": true,
     "password": "01435851",
     "starCost": 800
@@ -4626,7 +4626,7 @@
   {
     "number": 316,
     "name": "Electro-Whip",
-    "type": "Equip Magic",
+    "type": "Equip",
     "purchasable": true,
     "password": "37820550",
     "starCost": 800
@@ -4634,7 +4634,7 @@
   {
     "number": 317,
     "name": "Cyber Shield",
-    "type": "Equip Magic",
+    "type": "Equip",
     "purchasable": true,
     "password": "63224564",
     "starCost": 800
@@ -4642,7 +4642,7 @@
   {
     "number": 318,
     "name": "Elegant Egotist",
-    "type": "Equip Magic",
+    "type": "Equip",
     "purchasable": true,
     "password": "90219263",
     "starCost": 999999
@@ -4650,7 +4650,7 @@
   {
     "number": 319,
     "name": "Mystical Moon",
-    "type": "Equip Magic",
+    "type": "Equip",
     "purchasable": true,
     "password": "36607978",
     "starCost": 800
@@ -4666,7 +4666,7 @@
   {
     "number": 321,
     "name": "Malevolent Nuzzler",
-    "type": "Equip Magic",
+    "type": "Equip",
     "purchasable": true,
     "password": "99597615",
     "starCost": 800
@@ -4674,7 +4674,7 @@
   {
     "number": 322,
     "name": "Violet Crystal",
-    "type": "Equip Magic",
+    "type": "Equip",
     "purchasable": true,
     "password": "15052462",
     "starCost": 800
@@ -4682,7 +4682,7 @@
   {
     "number": 323,
     "name": "Book of Secret Arts",
-    "type": "Equip Magic",
+    "type": "Equip",
     "purchasable": true,
     "password": "91595718",
     "starCost": 800
@@ -4690,7 +4690,7 @@
   {
     "number": 324,
     "name": "Invigoration",
-    "type": "Equip Magic",
+    "type": "Equip",
     "purchasable": true,
     "password": "98374133",
     "starCost": 800
@@ -4698,7 +4698,7 @@
   {
     "number": 325,
     "name": "Machine Conversion Factory",
-    "type": "Equip Magic",
+    "type": "Equip",
     "purchasable": true,
     "password": "25769732",
     "starCost": 999999
@@ -4706,7 +4706,7 @@
   {
     "number": 326,
     "name": "Raise Body Heat",
-    "type": "Equip Magic",
+    "type": "Equip",
     "purchasable": true,
     "password": "51267887",
     "starCost": 800
@@ -4714,7 +4714,7 @@
   {
     "number": 327,
     "name": "Follow Wind",
-    "type": "Equip Magic",
+    "type": "Equip",
     "purchasable": true,
     "password": "98252586",
     "starCost": 800
@@ -4722,7 +4722,7 @@
   {
     "number": 328,
     "name": "Power of Kaishin",
-    "type": "Equip Magic",
+    "type": "Equip",
     "purchasable": true,
     "password": "77027445",
     "starCost": 800
@@ -4738,7 +4738,7 @@
   {
     "number": 330,
     "name": "Forest",
-    "type": "Terrain Magic",
+    "type": "Field",
     "purchasable": true,
     "password": "87430998",
     "starCost": 55
@@ -4746,7 +4746,7 @@
   {
     "number": 331,
     "name": "Wasteland",
-    "type": "Terrain Magic",
+    "type": "Field",
     "purchasable": true,
     "password": "23424603",
     "starCost": 55
@@ -4754,7 +4754,7 @@
   {
     "number": 332,
     "name": "Mountain",
-    "type": "Terrain Magic",
+    "type": "Field",
     "purchasable": true,
     "password": "50913601",
     "starCost": 55
@@ -4762,7 +4762,7 @@
   {
     "number": 333,
     "name": "Sogen",
-    "type": "Terrain Magic",
+    "type": "Field",
     "purchasable": true,
     "password": "86318356",
     "starCost": 55
@@ -4770,7 +4770,7 @@
   {
     "number": 334,
     "name": "Umi",
-    "type": "Terrain Magic",
+    "type": "Field",
     "purchasable": true,
     "password": "22702055",
     "starCost": 55
@@ -4778,7 +4778,7 @@
   {
     "number": 335,
     "name": "Yami",
-    "type": "Terrain Magic",
+    "type": "Field",
     "purchasable": true,
     "password": "59197169",
     "starCost": 55
@@ -4911,8 +4911,8 @@
     "level": 4,
     "type": "Zombie",
     "guardianStars": [
-      "mon",
-      "mrc"
+      "Moon",
+      "Mercury"
     ],
     "attack": 1300,
     "defense": 1500,
@@ -4926,8 +4926,8 @@
     "level": 4,
     "type": "Warrior",
     "guardianStars": [
-      "urn",
-      "npt"
+      "Uranus",
+      "Neptune"
     ],
     "attack": 1400,
     "defense": 1400,
@@ -4939,10 +4939,10 @@
     "number": 353,
     "name": "Takriminos",
     "level": 4,
-    "type": "Sea Serpent",
+    "type": "SeaSerpent",
     "guardianStars": [
-      "npt",
-      "mrc"
+      "Neptune",
+      "Mercury"
     ],
     "attack": 1500,
     "defense": 1200,
@@ -4956,8 +4956,8 @@
     "level": 3,
     "type": "Warrior",
     "guardianStars": [
-      "mon",
-      "mrs"
+      "Moon",
+      "Mars"
     ],
     "attack": 1200,
     "defense": 900,
@@ -4971,8 +4971,8 @@
     "level": 5,
     "type": "Machine",
     "guardianStars": [
-      "mon",
-      "jpt"
+      "Moon",
+      "Jupiter"
     ],
     "attack": 1500,
     "defense": 1800,
@@ -4986,8 +4986,8 @@
     "level": 7,
     "type": "Beast",
     "guardianStars": [
-      "jpt",
-      "vns"
+      "Jupiter",
+      "Venus"
     ],
     "attack": 2300,
     "defense": 2100,
@@ -4999,8 +4999,8 @@
     "level": 5,
     "type": "Dragon",
     "guardianStars": [
-      "mrs",
-      "urn"
+      "Mars",
+      "Uranus"
     ],
     "attack": 1600,
     "defense": 1800,
@@ -5014,8 +5014,8 @@
     "level": 7,
     "type": "Dragon",
     "guardianStars": [
-      "sun",
-      "npt"
+      "Sun",
+      "Neptune"
     ],
     "attack": 2500,
     "defense": 2300,
@@ -5029,8 +5029,8 @@
     "level": 3,
     "type": "Zombie",
     "guardianStars": [
-      "mon",
-      "plt"
+      "Moon",
+      "Pluto"
     ],
     "attack": 1100,
     "defense": 800,
@@ -5044,8 +5044,8 @@
     "level": 8,
     "type": "Fiend",
     "guardianStars": [
-      "mon",
-      "stn"
+      "Moon",
+      "Saturn"
     ],
     "attack": 2800,
     "defense": 2300,
@@ -5057,8 +5057,8 @@
     "level": 4,
     "type": "Aqua",
     "guardianStars": [
-      "npt",
-      "jpt"
+      "Neptune",
+      "Jupiter"
     ],
     "attack": 1200,
     "defense": 1000,
@@ -5072,8 +5072,8 @@
     "level": 5,
     "type": "Warrior",
     "guardianStars": [
-      "urn",
-      "mrs"
+      "Uranus",
+      "Mars"
     ],
     "attack": 0,
     "defense": 3000,
@@ -5087,8 +5087,8 @@
     "level": 4,
     "type": "Spellcaster",
     "guardianStars": [
-      "jpt",
-      "mrc"
+      "Jupiter",
+      "Mercury"
     ],
     "attack": 1400,
     "defense": 1000,
@@ -5102,8 +5102,8 @@
     "level": 8,
     "type": "Warrior",
     "guardianStars": [
-      "mon",
-      "urn"
+      "Moon",
+      "Uranus"
     ],
     "attack": 3000,
     "defense": 2500,
@@ -5115,8 +5115,8 @@
     "level": 6,
     "type": "Fiend",
     "guardianStars": [
-      "vns",
-      "plt"
+      "Venus",
+      "Pluto"
     ],
     "attack": 2100,
     "defense": 1800,
@@ -5128,8 +5128,8 @@
     "level": 5,
     "type": "Rock",
     "guardianStars": [
-      "urn",
-      "jpt"
+      "Uranus",
+      "Jupiter"
     ],
     "attack": 0,
     "defense": 3000,
@@ -5143,8 +5143,8 @@
     "level": 4,
     "type": "Insect",
     "guardianStars": [
-      "jpt",
-      "urn"
+      "Jupiter",
+      "Uranus"
     ],
     "attack": 2200,
     "defense": 100,
@@ -5158,8 +5158,8 @@
     "level": 5,
     "type": "Zombie",
     "guardianStars": [
-      "mon",
-      "plt"
+      "Moon",
+      "Pluto"
     ],
     "attack": 1600,
     "defense": 1300,
@@ -5173,8 +5173,8 @@
     "level": 7,
     "type": "Warrior",
     "guardianStars": [
-      "mon",
-      "npt"
+      "Moon",
+      "Neptune"
     ],
     "attack": 1600,
     "defense": 3000,
@@ -5188,8 +5188,8 @@
     "level": 7,
     "type": "Machine",
     "guardianStars": [
-      "mon",
-      "mrc"
+      "Moon",
+      "Mercury"
     ],
     "attack": 2400,
     "defense": 2400,
@@ -5203,8 +5203,8 @@
     "level": 7,
     "type": "Thunder",
     "guardianStars": [
-      "plt",
-      "mrs"
+      "Pluto",
+      "Mars"
     ],
     "attack": 2600,
     "defense": 2200,
@@ -5218,8 +5218,8 @@
     "level": 7,
     "type": "Spellcaster",
     "guardianStars": [
-      "stn",
-      "mrs"
+      "Saturn",
+      "Mars"
     ],
     "attack": 2400,
     "defense": 2200,
@@ -5233,8 +5233,8 @@
     "level": 7,
     "type": "Aqua",
     "guardianStars": [
-      "npt",
-      "stn"
+      "Neptune",
+      "Saturn"
     ],
     "attack": 2500,
     "defense": 2400,
@@ -5248,8 +5248,8 @@
     "level": 12,
     "type": "Warrior",
     "guardianStars": [
-      "mon",
-      "mrs"
+      "Moon",
+      "Mars"
     ],
     "attack": 3750,
     "defense": 3400,
@@ -5261,8 +5261,8 @@
     "level": 5,
     "type": "Insect",
     "guardianStars": [
-      "urn",
-      "mon"
+      "Uranus",
+      "Moon"
     ],
     "attack": 1800,
     "defense": 1500,
@@ -5276,8 +5276,8 @@
     "level": 5,
     "type": "Warrior",
     "guardianStars": [
-      "jpt",
-      "plt"
+      "Jupiter",
+      "Pluto"
     ],
     "attack": 1800,
     "defense": 1600,
@@ -5291,8 +5291,8 @@
     "level": 4,
     "type": "Fiend",
     "guardianStars": [
-      "mon",
-      "jpt"
+      "Moon",
+      "Jupiter"
     ],
     "attack": 1600,
     "defense": 1200,
@@ -5306,8 +5306,8 @@
     "level": 6,
     "type": "Warrior",
     "guardianStars": [
-      "mon",
-      "stn"
+      "Moon",
+      "Saturn"
     ],
     "attack": 2000,
     "defense": 1600,
@@ -5321,8 +5321,8 @@
     "level": 4,
     "type": "Fiend",
     "guardianStars": [
-      "mrc",
-      "stn"
+      "Mercury",
+      "Saturn"
     ],
     "attack": 1800,
     "defense": 1000,
@@ -5336,8 +5336,8 @@
     "level": 12,
     "type": "Dragon",
     "guardianStars": [
-      "sun",
-      "vns"
+      "Sun",
+      "Venus"
     ],
     "attack": 4500,
     "defense": 3800,
@@ -5349,8 +5349,8 @@
     "level": 4,
     "type": "Reptile",
     "guardianStars": [
-      "npt",
-      "mrs"
+      "Neptune",
+      "Mars"
     ],
     "attack": 800,
     "defense": 1600,
@@ -5362,10 +5362,10 @@
     "number": 382,
     "name": "Rude Kaiser",
     "level": 5,
-    "type": "Beast Warrior",
+    "type": "BeastWarrior",
     "guardianStars": [
-      "urn",
-      "sun"
+      "Uranus",
+      "Sun"
     ],
     "attack": 1800,
     "defense": 1600,
@@ -5379,8 +5379,8 @@
     "level": 5,
     "type": "Dragon",
     "guardianStars": [
-      "stn",
-      "sun"
+      "Saturn",
+      "Sun"
     ],
     "attack": 2000,
     "defense": 1300,
@@ -5394,8 +5394,8 @@
     "level": 4,
     "type": "Beast",
     "guardianStars": [
-      "mon",
-      "urn"
+      "Moon",
+      "Uranus"
     ],
     "attack": 1100,
     "defense": 1500,
@@ -5409,8 +5409,8 @@
     "level": 7,
     "type": "Fiend",
     "guardianStars": [
-      "mon",
-      "npt"
+      "Moon",
+      "Neptune"
     ],
     "attack": 2300,
     "defense": 2000,
@@ -5424,8 +5424,8 @@
     "level": 7,
     "type": "Dragon",
     "guardianStars": [
-      "stn",
-      "mon"
+      "Saturn",
+      "Moon"
     ],
     "attack": 2000,
     "defense": 2500,
@@ -5439,8 +5439,8 @@
     "level": 1,
     "type": "Spellcaster",
     "guardianStars": [
-      "mrc",
-      "urn"
+      "Mercury",
+      "Uranus"
     ],
     "attack": 400,
     "defense": 300,
@@ -5454,8 +5454,8 @@
     "level": 6,
     "type": "Machine",
     "guardianStars": [
-      "mrc",
-      "npt"
+      "Mercury",
+      "Neptune"
     ],
     "attack": 1750,
     "defense": 2000,
@@ -5469,8 +5469,8 @@
     "level": 5,
     "type": "Warrior",
     "guardianStars": [
-      "sun",
-      "mrs"
+      "Sun",
+      "Mars"
     ],
     "attack": 1850,
     "defense": 1500,
@@ -5484,8 +5484,8 @@
     "level": 7,
     "type": "Machine",
     "guardianStars": [
-      "mrs",
-      "plt"
+      "Mars",
+      "Pluto"
     ],
     "attack": 2200,
     "defense": 2500,
@@ -5499,8 +5499,8 @@
     "level": 7,
     "type": "Fiend",
     "guardianStars": [
-      "mon",
-      "mrc"
+      "Moon",
+      "Mercury"
     ],
     "attack": 2600,
     "defense": 1900,
@@ -5514,8 +5514,8 @@
     "level": 8,
     "type": "Machine",
     "guardianStars": [
-      "mon",
-      "mrs"
+      "Moon",
+      "Mars"
     ],
     "attack": 3000,
     "defense": 2300,
@@ -5529,8 +5529,8 @@
     "level": 1,
     "type": "Aqua",
     "guardianStars": [
-      "sun",
-      "npt"
+      "Sun",
+      "Neptune"
     ],
     "attack": 250,
     "defense": 200,
@@ -5544,8 +5544,8 @@
     "level": 1,
     "type": "Machine",
     "guardianStars": [
-      "jpt",
-      "npt"
+      "Jupiter",
+      "Neptune"
     ],
     "attack": 250,
     "defense": 300,
@@ -5559,8 +5559,8 @@
     "level": 1,
     "type": "Fairy",
     "guardianStars": [
-      "jpt",
-      "sun"
+      "Jupiter",
+      "Sun"
     ],
     "attack": 300,
     "defense": 200,
@@ -5574,8 +5574,8 @@
     "level": 5,
     "type": "Fairy",
     "guardianStars": [
-      "stn",
-      "vns"
+      "Saturn",
+      "Venus"
     ],
     "attack": 1550,
     "defense": 1650,
@@ -5589,8 +5589,8 @@
     "level": 1,
     "type": "Insect",
     "guardianStars": [
-      "jpt",
-      "mon"
+      "Jupiter",
+      "Moon"
     ],
     "attack": 300,
     "defense": 350,
@@ -5604,8 +5604,8 @@
     "level": 1,
     "type": "Aqua",
     "guardianStars": [
-      "npt",
-      "mon"
+      "Neptune",
+      "Moon"
     ],
     "attack": 300,
     "defense": 250,
@@ -5619,8 +5619,8 @@
     "level": 1,
     "type": "Warrior",
     "guardianStars": [
-      "urn",
-      "vns"
+      "Uranus",
+      "Venus"
     ],
     "attack": 250,
     "defense": 250,
@@ -5634,8 +5634,8 @@
     "level": 5,
     "type": "Reptile",
     "guardianStars": [
-      "npt",
-      "vns"
+      "Neptune",
+      "Venus"
     ],
     "attack": 1800,
     "defense": 1500,
@@ -5649,8 +5649,8 @@
     "level": 6,
     "type": "Fiend",
     "guardianStars": [
-      "jpt",
-      "vns"
+      "Jupiter",
+      "Venus"
     ],
     "attack": 2150,
     "defense": 1950,
@@ -5664,8 +5664,8 @@
     "level": 1,
     "type": "Fiend",
     "guardianStars": [
-      "mon",
-      "jpt"
+      "Moon",
+      "Jupiter"
     ],
     "attack": 250,
     "defense": 300,
@@ -5679,8 +5679,8 @@
     "level": 5,
     "type": "Beast",
     "guardianStars": [
-      "urn",
-      "mrc"
+      "Uranus",
+      "Mercury"
     ],
     "attack": 1750,
     "defense": 1550,
@@ -5694,8 +5694,8 @@
     "level": 5,
     "type": "Beast",
     "guardianStars": [
-      "npt",
-      "mrc"
+      "Neptune",
+      "Mercury"
     ],
     "attack": 1350,
     "defense": 1600,
@@ -5709,8 +5709,8 @@
     "level": 5,
     "type": "Machine",
     "guardianStars": [
-      "mon",
-      "stn"
+      "Moon",
+      "Saturn"
     ],
     "attack": 1450,
     "defense": 1500,
@@ -5724,8 +5724,8 @@
     "level": 4,
     "type": "Machine",
     "guardianStars": [
-      "mon",
-      "urn"
+      "Moon",
+      "Uranus"
     ],
     "attack": 1000,
     "defense": 1300,
@@ -5739,8 +5739,8 @@
     "level": 6,
     "type": "Machine",
     "guardianStars": [
-      "mrs",
-      "sun"
+      "Mars",
+      "Sun"
     ],
     "attack": 2200,
     "defense": 2000,
@@ -5754,8 +5754,8 @@
     "level": 6,
     "type": "Machine",
     "guardianStars": [
-      "mon",
-      "npt"
+      "Moon",
+      "Neptune"
     ],
     "attack": 1750,
     "defense": 1900,
@@ -5769,8 +5769,8 @@
     "level": 6,
     "type": "Machine",
     "guardianStars": [
-      "mrs",
-      "mon"
+      "Mars",
+      "Moon"
     ],
     "attack": 1850,
     "defense": 1700,
@@ -5784,8 +5784,8 @@
     "level": 2,
     "type": "Machine",
     "guardianStars": [
-      "jpt",
-      "mrc"
+      "Jupiter",
+      "Mercury"
     ],
     "attack": 400,
     "defense": 500,
@@ -5799,8 +5799,8 @@
     "level": 1,
     "type": "Machine",
     "guardianStars": [
-      "mon",
-      "mrc"
+      "Moon",
+      "Mercury"
     ],
     "attack": 300,
     "defense": 350,
@@ -5814,8 +5814,8 @@
     "level": 4,
     "type": "Machine",
     "guardianStars": [
-      "jpt",
-      "urn"
+      "Jupiter",
+      "Uranus"
     ],
     "attack": 1200,
     "defense": 1400,
@@ -5829,8 +5829,8 @@
     "level": 5,
     "type": "Machine",
     "guardianStars": [
-      "mon",
-      "mrs"
+      "Moon",
+      "Mars"
     ],
     "attack": 1500,
     "defense": 1700,
@@ -5844,8 +5844,8 @@
     "level": 3,
     "type": "Machine",
     "guardianStars": [
-      "urn",
-      "npt"
+      "Uranus",
+      "Neptune"
     ],
     "attack": 900,
     "defense": 1200,
@@ -5859,8 +5859,8 @@
     "level": 4,
     "type": "Machine",
     "guardianStars": [
-      "mon",
-      "jpt"
+      "Moon",
+      "Jupiter"
     ],
     "attack": 1850,
     "defense": 800,
@@ -5874,8 +5874,8 @@
     "level": 4,
     "type": "Machine",
     "guardianStars": [
-      "mon",
-      "stn"
+      "Moon",
+      "Saturn"
     ],
     "attack": 850,
     "defense": 1800,
@@ -5889,8 +5889,8 @@
     "level": 3,
     "type": "Machine",
     "guardianStars": [
-      "mrs",
-      "vns"
+      "Mars",
+      "Venus"
     ],
     "attack": 800,
     "defense": 900,
@@ -5904,8 +5904,8 @@
     "level": 4,
     "type": "Machine",
     "guardianStars": [
-      "vns",
-      "npt"
+      "Venus",
+      "Neptune"
     ],
     "attack": 900,
     "defense": 1600,
@@ -5919,8 +5919,8 @@
     "level": 5,
     "type": "Machine",
     "guardianStars": [
-      "mon",
-      "urn"
+      "Moon",
+      "Uranus"
     ],
     "attack": 1700,
     "defense": 1800,
@@ -5934,8 +5934,8 @@
     "level": 2,
     "type": "Machine",
     "guardianStars": [
-      "mon",
-      "npt"
+      "Moon",
+      "Neptune"
     ],
     "attack": 700,
     "defense": 500,
@@ -5949,8 +5949,8 @@
     "level": 2,
     "type": "Machine",
     "guardianStars": [
-      "mon",
-      "mrc"
+      "Moon",
+      "Mercury"
     ],
     "attack": 750,
     "defense": 700,
@@ -5964,8 +5964,8 @@
     "level": 2,
     "type": "Machine",
     "guardianStars": [
-      "mon",
-      "mrs"
+      "Moon",
+      "Mars"
     ],
     "attack": 500,
     "defense": 400,
@@ -5979,8 +5979,8 @@
     "level": 5,
     "type": "Machine",
     "guardianStars": [
-      "jpt",
-      "plt"
+      "Jupiter",
+      "Pluto"
     ],
     "attack": 1650,
     "defense": 1800,
@@ -5994,8 +5994,8 @@
     "level": 6,
     "type": "Dragon",
     "guardianStars": [
-      "stn",
-      "urn"
+      "Saturn",
+      "Uranus"
     ],
     "attack": 1900,
     "defense": 1800,
@@ -6009,8 +6009,8 @@
     "level": 5,
     "type": "Thunder",
     "guardianStars": [
-      "plt",
-      "jpt"
+      "Pluto",
+      "Jupiter"
     ],
     "attack": 1600,
     "defense": 1500,
@@ -6024,8 +6024,8 @@
     "level": 7,
     "type": "Rock",
     "guardianStars": [
-      "urn",
-      "mrs"
+      "Uranus",
+      "Mars"
     ],
     "attack": 2000,
     "defense": 2300,
@@ -6039,8 +6039,8 @@
     "level": 7,
     "type": "Dragon",
     "guardianStars": [
-      "sun",
-      "jpt"
+      "Sun",
+      "Jupiter"
     ],
     "attack": 2300,
     "defense": 2000,
@@ -6054,8 +6054,8 @@
     "level": 1,
     "type": "Spellcaster",
     "guardianStars": [
-      "sun",
-      "stn"
+      "Sun",
+      "Saturn"
     ],
     "attack": 300,
     "defense": 400,
@@ -6069,8 +6069,8 @@
     "level": 3,
     "type": "Fairy",
     "guardianStars": [
-      "sun",
-      "urn"
+      "Sun",
+      "Uranus"
     ],
     "attack": 950,
     "defense": 700,
@@ -6084,8 +6084,8 @@
     "level": 4,
     "type": "Spellcaster",
     "guardianStars": [
-      "npt",
-      "mrc"
+      "Neptune",
+      "Mercury"
     ],
     "attack": 1400,
     "defense": 1000,
@@ -6099,8 +6099,8 @@
     "level": 3,
     "type": "Aqua",
     "guardianStars": [
-      "npt",
-      "mon"
+      "Neptune",
+      "Moon"
     ],
     "attack": 1150,
     "defense": 900,
@@ -6114,8 +6114,8 @@
     "level": 3,
     "type": "Aqua",
     "guardianStars": [
-      "npt",
-      "vns"
+      "Neptune",
+      "Venus"
     ],
     "attack": 1100,
     "defense": 700,
@@ -6129,8 +6129,8 @@
     "level": 4,
     "type": "Spellcaster",
     "guardianStars": [
-      "sun",
-      "plt"
+      "Sun",
+      "Pluto"
     ],
     "attack": 1450,
     "defense": 1200,
@@ -6144,8 +6144,8 @@
     "level": 5,
     "type": "Warrior",
     "guardianStars": [
-      "jpt",
-      "npt"
+      "Jupiter",
+      "Neptune"
     ],
     "attack": 1750,
     "defense": 1500,
@@ -6159,8 +6159,8 @@
     "level": 4,
     "type": "Aqua",
     "guardianStars": [
-      "npt",
-      "vns"
+      "Neptune",
+      "Venus"
     ],
     "attack": 1250,
     "defense": 1000,
@@ -6174,8 +6174,8 @@
     "level": 2,
     "type": "Fish",
     "guardianStars": [
-      "npt",
-      "jpt"
+      "Neptune",
+      "Jupiter"
     ],
     "attack": 500,
     "defense": 400,
@@ -6189,8 +6189,8 @@
     "level": 5,
     "type": "Fish",
     "guardianStars": [
-      "npt",
-      "mrs"
+      "Neptune",
+      "Mars"
     ],
     "attack": 1900,
     "defense": 1600,
@@ -6204,8 +6204,8 @@
     "level": 5,
     "type": "Machine",
     "guardianStars": [
-      "npt",
-      "stn"
+      "Neptune",
+      "Saturn"
     ],
     "attack": 1600,
     "defense": 1900,
@@ -6219,8 +6219,8 @@
     "level": 5,
     "type": "Fish",
     "guardianStars": [
-      "npt",
-      "sun"
+      "Neptune",
+      "Sun"
     ],
     "attack": 1650,
     "defense": 1700,
@@ -6234,8 +6234,8 @@
     "level": 4,
     "type": "Fish",
     "guardianStars": [
-      "npt",
-      "sun"
+      "Neptune",
+      "Sun"
     ],
     "attack": 1800,
     "defense": 800,
@@ -6249,8 +6249,8 @@
     "level": 5,
     "type": "Machine",
     "guardianStars": [
-      "npt",
-      "vns"
+      "Neptune",
+      "Venus"
     ],
     "attack": 1800,
     "defense": 1500,
@@ -6262,10 +6262,10 @@
     "number": 442,
     "name": "Aqua Dragon",
     "level": 6,
-    "type": "Sea Serpent",
+    "type": "SeaSerpent",
     "guardianStars": [
-      "npt",
-      "mon"
+      "Neptune",
+      "Moon"
     ],
     "attack": 2250,
     "defense": 1900,
@@ -6277,10 +6277,10 @@
     "number": 443,
     "name": "Sea King Dragon",
     "level": 6,
-    "type": "Sea Serpent",
+    "type": "SeaSerpent",
     "guardianStars": [
-      "npt",
-      "mrc"
+      "Neptune",
+      "Mercury"
     ],
     "attack": 2000,
     "defense": 1700,
@@ -6294,8 +6294,8 @@
     "level": 2,
     "type": "Aqua",
     "guardianStars": [
-      "npt",
-      "jpt"
+      "Neptune",
+      "Jupiter"
     ],
     "attack": 450,
     "defense": 500,
@@ -6309,8 +6309,8 @@
     "level": 4,
     "type": "Aqua",
     "guardianStars": [
-      "npt",
-      "mrs"
+      "Neptune",
+      "Mars"
     ],
     "attack": 1300,
     "defense": 1000,
@@ -6324,8 +6324,8 @@
     "level": 3,
     "type": "Aqua",
     "guardianStars": [
-      "npt",
-      "stn"
+      "Neptune",
+      "Saturn"
     ],
     "attack": 1050,
     "defense": 900,
@@ -6339,8 +6339,8 @@
     "level": 4,
     "type": "Aqua",
     "guardianStars": [
-      "npt",
-      "sun"
+      "Neptune",
+      "Sun"
     ],
     "attack": 1800,
     "defense": 800,
@@ -6352,10 +6352,10 @@
     "number": 448,
     "name": "Spike Seadra",
     "level": 5,
-    "type": "Sea Serpent",
+    "type": "SeaSerpent",
     "guardianStars": [
-      "plt",
-      "mrc"
+      "Pluto",
+      "Mercury"
     ],
     "attack": 1600,
     "defense": 1300,
@@ -6369,8 +6369,8 @@
     "level": 5,
     "type": "Aqua",
     "guardianStars": [
-      "npt",
-      "mon"
+      "Neptune",
+      "Moon"
     ],
     "attack": 1250,
     "defense": 2100,
@@ -6384,8 +6384,8 @@
     "level": 3,
     "type": "Aqua",
     "guardianStars": [
-      "npt",
-      "vns"
+      "Neptune",
+      "Venus"
     ],
     "attack": 1200,
     "defense": 900,
@@ -6399,8 +6399,8 @@
     "level": 3,
     "type": "Aqua",
     "guardianStars": [
-      "npt",
-      "stn"
+      "Neptune",
+      "Saturn"
     ],
     "attack": 650,
     "defense": 900,
@@ -6414,8 +6414,8 @@
     "level": 2,
     "type": "Aqua",
     "guardianStars": [
-      "npt",
-      "mrc"
+      "Neptune",
+      "Mercury"
     ],
     "attack": 600,
     "defense": 700,
@@ -6429,8 +6429,8 @@
     "level": 6,
     "type": "Rock",
     "guardianStars": [
-      "urn",
-      "jpt"
+      "Uranus",
+      "Jupiter"
     ],
     "attack": 2000,
     "defense": 2200,
@@ -6444,8 +6444,8 @@
     "level": 4,
     "type": "Rock",
     "guardianStars": [
-      "urn",
-      "sun"
+      "Uranus",
+      "Sun"
     ],
     "attack": 1500,
     "defense": 1000,
@@ -6459,8 +6459,8 @@
     "level": 4,
     "type": "Rock",
     "guardianStars": [
-      "urn",
-      "mon"
+      "Uranus",
+      "Moon"
     ],
     "attack": 1000,
     "defense": 1300,
@@ -6474,8 +6474,8 @@
     "level": 4,
     "type": "Warrior",
     "guardianStars": [
-      "urn",
-      "vns"
+      "Uranus",
+      "Venus"
     ],
     "attack": 1300,
     "defense": 1200,
@@ -6489,8 +6489,8 @@
     "level": 4,
     "type": "Rock",
     "guardianStars": [
-      "urn",
-      "mrc"
+      "Uranus",
+      "Mercury"
     ],
     "attack": 1200,
     "defense": 1000,
@@ -6504,8 +6504,8 @@
     "level": 5,
     "type": "Thunder",
     "guardianStars": [
-      "plt",
-      "vns"
+      "Pluto",
+      "Venus"
     ],
     "attack": 1900,
     "defense": 1400,
@@ -6519,8 +6519,8 @@
     "level": 4,
     "type": "Thunder",
     "guardianStars": [
-      "plt",
-      "stn"
+      "Pluto",
+      "Saturn"
     ],
     "attack": 1200,
     "defense": 1300,
@@ -6534,8 +6534,8 @@
     "level": 5,
     "type": "Thunder",
     "guardianStars": [
-      "plt",
-      "jpt"
+      "Pluto",
+      "Jupiter"
     ],
     "attack": 1400,
     "defense": 1500,
@@ -6549,8 +6549,8 @@
     "level": 3,
     "type": "Thunder",
     "guardianStars": [
-      "plt",
-      "mon"
+      "Pluto",
+      "Moon"
     ],
     "attack": 1100,
     "defense": 800,
@@ -6564,8 +6564,8 @@
     "level": 4,
     "type": "Thunder",
     "guardianStars": [
-      "plt",
-      "sun"
+      "Pluto",
+      "Sun"
     ],
     "attack": 1500,
     "defense": 1300,
@@ -6579,8 +6579,8 @@
     "level": 3,
     "type": "Thunder",
     "guardianStars": [
-      "plt",
-      "mrs"
+      "Pluto",
+      "Mars"
     ],
     "attack": 800,
     "defense": 900,
@@ -6592,10 +6592,10 @@
     "number": 464,
     "name": "Wing Eagle",
     "level": 5,
-    "type": "Winged Beast",
+    "type": "WingedBeast",
     "guardianStars": [
-      "stn",
-      "mrc"
+      "Saturn",
+      "Mercury"
     ],
     "attack": 1800,
     "defense": 1500,
@@ -6607,10 +6607,10 @@
     "number": 465,
     "name": "Punished Eagle",
     "level": 6,
-    "type": "Winged Beast",
+    "type": "WingedBeast",
     "guardianStars": [
-      "stn",
-      "plt"
+      "Saturn",
+      "Pluto"
     ],
     "attack": 2100,
     "defense": 1800,
@@ -6622,10 +6622,10 @@
     "number": 466,
     "name": "Skull Red Bird",
     "level": 4,
-    "type": "Winged Beast",
+    "type": "WingedBeast",
     "guardianStars": [
-      "stn",
-      "sun"
+      "Saturn",
+      "Sun"
     ],
     "attack": 1550,
     "defense": 1200,
@@ -6637,10 +6637,10 @@
     "number": 467,
     "name": "Crimson Sunbird",
     "level": 6,
-    "type": "Winged Beast",
+    "type": "WingedBeast",
     "guardianStars": [
-      "mrs",
-      "mrc"
+      "Mars",
+      "Mercury"
     ],
     "attack": 2300,
     "defense": 1800,
@@ -6652,10 +6652,10 @@
     "number": 468,
     "name": "Queen Bird",
     "level": 5,
-    "type": "Winged Beast",
+    "type": "WingedBeast",
     "guardianStars": [
-      "stn",
-      "mon"
+      "Saturn",
+      "Moon"
     ],
     "attack": 1200,
     "defense": 2000,
@@ -6669,8 +6669,8 @@
     "level": 1,
     "type": "Warrior",
     "guardianStars": [
-      "npt",
-      "mrs"
+      "Neptune",
+      "Mars"
     ],
     "attack": 300,
     "defense": 300,
@@ -6684,8 +6684,8 @@
     "level": 4,
     "type": "Zombie",
     "guardianStars": [
-      "mon",
-      "plt"
+      "Moon",
+      "Pluto"
     ],
     "attack": 1300,
     "defense": 1400,
@@ -6699,8 +6699,8 @@
     "level": 6,
     "type": "Fiend",
     "guardianStars": [
-      "mon",
-      "jpt"
+      "Moon",
+      "Jupiter"
     ],
     "attack": 2200,
     "defense": 1800,
@@ -6714,8 +6714,8 @@
     "level": 6,
     "type": "Fiend",
     "guardianStars": [
-      "mon",
-      "stn"
+      "Moon",
+      "Saturn"
     ],
     "attack": 2100,
     "defense": 1600,
@@ -6729,8 +6729,8 @@
     "level": 5,
     "type": "Pyro",
     "guardianStars": [
-      "mrs",
-      "plt"
+      "Mars",
+      "Pluto"
     ],
     "attack": 1900,
     "defense": 1500,
@@ -6744,8 +6744,8 @@
     "level": 4,
     "type": "Aqua",
     "guardianStars": [
-      "npt",
-      "sun"
+      "Neptune",
+      "Sun"
     ],
     "attack": 1100,
     "defense": 1300,
@@ -6759,8 +6759,8 @@
     "level": 1,
     "type": "Reptile",
     "guardianStars": [
-      "npt",
-      "jpt"
+      "Neptune",
+      "Jupiter"
     ],
     "attack": 300,
     "defense": 250,
@@ -6774,8 +6774,8 @@
     "level": 2,
     "type": "Insect",
     "guardianStars": [
-      "jpt",
-      "sun"
+      "Jupiter",
+      "Sun"
     ],
     "attack": 600,
     "defense": 800,
@@ -6789,8 +6789,8 @@
     "level": 3,
     "type": "Insect",
     "guardianStars": [
-      "jpt",
-      "mon"
+      "Jupiter",
+      "Moon"
     ],
     "attack": 950,
     "defense": 700,
@@ -6804,8 +6804,8 @@
     "level": 3,
     "type": "Insect",
     "guardianStars": [
-      "stn",
-      "npt"
+      "Saturn",
+      "Neptune"
     ],
     "attack": 1000,
     "defense": 800,
@@ -6819,8 +6819,8 @@
     "level": 3,
     "type": "Insect",
     "guardianStars": [
-      "jpt",
-      "vns"
+      "Jupiter",
+      "Venus"
     ],
     "attack": 800,
     "defense": 900,
@@ -6834,8 +6834,8 @@
     "level": 4,
     "type": "Insect",
     "guardianStars": [
-      "jpt",
-      "mrc"
+      "Jupiter",
+      "Mercury"
     ],
     "attack": 1250,
     "defense": 1000,
@@ -6849,8 +6849,8 @@
     "level": 3,
     "type": "Beast",
     "guardianStars": [
-      "jpt",
-      "urn"
+      "Jupiter",
+      "Uranus"
     ],
     "attack": 850,
     "defense": 800,
@@ -6864,8 +6864,8 @@
     "level": 5,
     "type": "Dinosaur",
     "guardianStars": [
-      "urn",
-      "npt"
+      "Uranus",
+      "Neptune"
     ],
     "attack": 1900,
     "defense": 1500,
@@ -6879,8 +6879,8 @@
     "level": 6,
     "type": "Beast",
     "guardianStars": [
-      "jpt",
-      "plt"
+      "Jupiter",
+      "Pluto"
     ],
     "attack": 2000,
     "defense": 1700,
@@ -6894,8 +6894,8 @@
     "level": 1,
     "type": "Aqua",
     "guardianStars": [
-      "npt",
-      "mon"
+      "Neptune",
+      "Moon"
     ],
     "attack": 300,
     "defense": 350,
@@ -6909,8 +6909,8 @@
     "level": 2,
     "type": "Insect",
     "guardianStars": [
-      "jpt",
-      "npt"
+      "Jupiter",
+      "Neptune"
     ],
     "attack": 550,
     "defense": 400,
@@ -6924,8 +6924,8 @@
     "level": 2,
     "type": "Spellcaster",
     "guardianStars": [
-      "sun",
-      "jpt"
+      "Sun",
+      "Jupiter"
     ],
     "attack": 650,
     "defense": 500,
@@ -6939,8 +6939,8 @@
     "level": 5,
     "type": "Beast",
     "guardianStars": [
-      "jpt",
-      "sun"
+      "Jupiter",
+      "Sun"
     ],
     "attack": 1800,
     "defense": 1400,
@@ -6954,8 +6954,8 @@
     "level": 2,
     "type": "Plant",
     "guardianStars": [
-      "jpt",
-      "mon"
+      "Jupiter",
+      "Moon"
     ],
     "attack": 400,
     "defense": 500,
@@ -6969,8 +6969,8 @@
     "level": 3,
     "type": "Plant",
     "guardianStars": [
-      "jpt",
-      "vns"
+      "Jupiter",
+      "Venus"
     ],
     "attack": 1100,
     "defense": 600,
@@ -6984,8 +6984,8 @@
     "level": 2,
     "type": "Fiend",
     "guardianStars": [
-      "mon",
-      "urn"
+      "Moon",
+      "Uranus"
     ],
     "attack": 750,
     "defense": 700,
@@ -6997,10 +6997,10 @@
     "number": 491,
     "name": "Peacock",
     "level": 5,
-    "type": "Winged Beast",
+    "type": "WingedBeast",
     "guardianStars": [
-      "jpt",
-      "mrc"
+      "Jupiter",
+      "Mercury"
     ],
     "attack": 1700,
     "defense": 1500,
@@ -7014,8 +7014,8 @@
     "level": 2,
     "type": "Fairy",
     "guardianStars": [
-      "sun",
-      "npt"
+      "Sun",
+      "Neptune"
     ],
     "attack": 500,
     "defense": 700,
@@ -7029,8 +7029,8 @@
     "level": 6,
     "type": "Spellcaster",
     "guardianStars": [
-      "sun",
-      "vns"
+      "Sun",
+      "Venus"
     ],
     "attack": 1550,
     "defense": 1400,
@@ -7044,8 +7044,8 @@
     "level": 5,
     "type": "Fish",
     "guardianStars": [
-      "npt",
-      "vns"
+      "Neptune",
+      "Venus"
     ],
     "attack": 1550,
     "defense": 1700,
@@ -7059,8 +7059,8 @@
     "level": 5,
     "type": "Spellcaster",
     "guardianStars": [
-      "sun",
-      "mrs"
+      "Sun",
+      "Mars"
     ],
     "attack": 1750,
     "defense": 1500,
@@ -7074,8 +7074,8 @@
     "level": 4,
     "type": "Beast",
     "guardianStars": [
-      "jpt",
-      "urn"
+      "Jupiter",
+      "Uranus"
     ],
     "attack": 1000,
     "defense": 1200,
@@ -7089,8 +7089,8 @@
     "level": 4,
     "type": "Aqua",
     "guardianStars": [
-      "npt",
-      "mrc"
+      "Neptune",
+      "Mercury"
     ],
     "attack": 900,
     "defense": 1700,
@@ -7104,8 +7104,8 @@
     "level": 5,
     "type": "Fiend",
     "guardianStars": [
-      "mon",
-      "npt"
+      "Moon",
+      "Neptune"
     ],
     "attack": 1550,
     "defense": 1300,
@@ -7119,8 +7119,8 @@
     "level": 1,
     "type": "Insect",
     "guardianStars": [
-      "jpt",
-      "npt"
+      "Jupiter",
+      "Neptune"
     ],
     "attack": 250,
     "defense": 300,
@@ -7134,8 +7134,8 @@
     "level": 6,
     "type": "Dragon",
     "guardianStars": [
-      "mon",
-      "mrc"
+      "Moon",
+      "Mercury"
     ],
     "attack": 2100,
     "defense": 2000,
@@ -7149,8 +7149,8 @@
     "level": 2,
     "type": "Insect",
     "guardianStars": [
-      "jpt",
-      "plt"
+      "Jupiter",
+      "Pluto"
     ],
     "attack": 450,
     "defense": 600,
@@ -7164,8 +7164,8 @@
     "level": 4,
     "type": "Warrior",
     "guardianStars": [
-      "urn",
-      "mrs"
+      "Uranus",
+      "Mars"
     ],
     "attack": 1300,
     "defense": 1100,
@@ -7179,8 +7179,8 @@
     "level": 3,
     "type": "Aqua",
     "guardianStars": [
-      "jpt",
-      "sun"
+      "Jupiter",
+      "Sun"
     ],
     "attack": 700,
     "defense": 900,
@@ -7194,8 +7194,8 @@
     "level": 1,
     "type": "Plant",
     "guardianStars": [
-      "jpt",
-      "mon"
+      "Jupiter",
+      "Moon"
     ],
     "attack": 400,
     "defense": 300,
@@ -7209,8 +7209,8 @@
     "level": 3,
     "type": "Rock",
     "guardianStars": [
-      "urn",
-      "jpt"
+      "Uranus",
+      "Jupiter"
     ],
     "attack": 800,
     "defense": 1000,
@@ -7224,8 +7224,8 @@
     "level": 2,
     "type": "Insect",
     "guardianStars": [
-      "jpt",
-      "vns"
+      "Jupiter",
+      "Venus"
     ],
     "attack": 650,
     "defense": 600,
@@ -7239,8 +7239,8 @@
     "level": 4,
     "type": "Fish",
     "guardianStars": [
-      "npt",
-      "jpt"
+      "Neptune",
+      "Jupiter"
     ],
     "attack": 1600,
     "defense": 1200,
@@ -7254,8 +7254,8 @@
     "level": 5,
     "type": "Machine",
     "guardianStars": [
-      "urn",
-      "sun"
+      "Uranus",
+      "Sun"
     ],
     "attack": 1800,
     "defense": 1400,
@@ -7269,8 +7269,8 @@
     "level": 6,
     "type": "Dinosaur",
     "guardianStars": [
-      "urn",
-      "mon"
+      "Uranus",
+      "Moon"
     ],
     "attack": 2200,
     "defense": 2000,
@@ -7284,8 +7284,8 @@
     "level": 2,
     "type": "Plant",
     "guardianStars": [
-      "jpt",
-      "mrc"
+      "Jupiter",
+      "Mercury"
     ],
     "attack": 900,
     "defense": 500,
@@ -7299,8 +7299,8 @@
     "level": 4,
     "type": "Plant",
     "guardianStars": [
-      "jpt",
-      "urn"
+      "Jupiter",
+      "Uranus"
     ],
     "attack": 1400,
     "defense": 1300,
@@ -7314,8 +7314,8 @@
     "level": 4,
     "type": "Machine",
     "guardianStars": [
-      "mon",
-      "mrs"
+      "Moon",
+      "Mars"
     ],
     "attack": 1400,
     "defense": 1300,
@@ -7329,8 +7329,8 @@
     "level": 5,
     "type": "Machine",
     "guardianStars": [
-      "sun",
-      "stn"
+      "Sun",
+      "Saturn"
     ],
     "attack": 1650,
     "defense": 1600,
@@ -7344,8 +7344,8 @@
     "level": 4,
     "type": "Machine",
     "guardianStars": [
-      "mon",
-      "jpt"
+      "Moon",
+      "Jupiter"
     ],
     "attack": 1300,
     "defense": 1000,
@@ -7359,8 +7359,8 @@
     "level": 4,
     "type": "Rock",
     "guardianStars": [
-      "urn",
-      "vns"
+      "Uranus",
+      "Venus"
     ],
     "attack": 1100,
     "defense": 1400,
@@ -7374,8 +7374,8 @@
     "level": 2,
     "type": "Insect",
     "guardianStars": [
-      "urn",
-      "mrc"
+      "Uranus",
+      "Mercury"
     ],
     "attack": 600,
     "defense": 300,
@@ -7389,8 +7389,8 @@
     "level": 5,
     "type": "Rock",
     "guardianStars": [
-      "urn",
-      "mrs"
+      "Uranus",
+      "Mars"
     ],
     "attack": 1300,
     "defense": 1600,
@@ -7404,8 +7404,8 @@
     "level": 6,
     "type": "Aqua",
     "guardianStars": [
-      "urn",
-      "npt"
+      "Uranus",
+      "Neptune"
     ],
     "attack": 1450,
     "defense": 2200,
@@ -7419,8 +7419,8 @@
     "level": 5,
     "type": "Aqua",
     "guardianStars": [
-      "mrs",
-      "stn"
+      "Mars",
+      "Saturn"
     ],
     "attack": 1600,
     "defense": 1500,
@@ -7434,8 +7434,8 @@
     "level": 6,
     "type": "Aqua",
     "guardianStars": [
-      "stn",
-      "mrs"
+      "Saturn",
+      "Mars"
     ],
     "attack": 1900,
     "defense": 1700,
@@ -7447,10 +7447,10 @@
     "number": 521,
     "name": "Skullbird",
     "level": 6,
-    "type": "Winged Beast",
+    "type": "WingedBeast",
     "guardianStars": [
-      "stn",
-      "vns"
+      "Saturn",
+      "Venus"
     ],
     "attack": 1900,
     "defense": 1700,
@@ -7462,10 +7462,10 @@
     "number": 522,
     "name": "Monstrous Bird",
     "level": 6,
-    "type": "Winged Beast",
+    "type": "WingedBeast",
     "guardianStars": [
-      "stn",
-      "mrc"
+      "Saturn",
+      "Mercury"
     ],
     "attack": 2000,
     "defense": 1900,
@@ -7479,8 +7479,8 @@
     "level": 4,
     "type": "Fiend",
     "guardianStars": [
-      "mon",
-      "stn"
+      "Moon",
+      "Saturn"
     ],
     "attack": 1800,
     "defense": 1000,
@@ -7494,8 +7494,8 @@
     "level": 2,
     "type": "Aqua",
     "guardianStars": [
-      "npt",
-      "mrs"
+      "Neptune",
+      "Mars"
     ],
     "attack": 550,
     "defense": 500,
@@ -7509,8 +7509,8 @@
     "level": 5,
     "type": "Spellcaster",
     "guardianStars": [
-      "urn",
-      "jpt"
+      "Uranus",
+      "Jupiter"
     ],
     "attack": 1300,
     "defense": 1800,
@@ -7524,8 +7524,8 @@
     "level": 6,
     "type": "Fiend",
     "guardianStars": [
-      "mon",
-      "urn"
+      "Moon",
+      "Uranus"
     ],
     "attack": 1750,
     "defense": 1900,
@@ -7539,8 +7539,8 @@
     "level": 1,
     "type": "Beast",
     "guardianStars": [
-      "jpt",
-      "npt"
+      "Jupiter",
+      "Neptune"
     ],
     "attack": 300,
     "defense": 250,
@@ -7554,8 +7554,8 @@
     "level": 5,
     "type": "Beast",
     "guardianStars": [
-      "urn",
-      "sun"
+      "Uranus",
+      "Sun"
     ],
     "attack": 1600,
     "defense": 1800,
@@ -7569,8 +7569,8 @@
     "level": 6,
     "type": "Pyro",
     "guardianStars": [
-      "mrs",
-      "plt"
+      "Mars",
+      "Pluto"
     ],
     "attack": 2100,
     "defense": 1800,
@@ -7584,8 +7584,8 @@
     "level": 3,
     "type": "Spellcaster",
     "guardianStars": [
-      "mrc",
-      "mon"
+      "Mercury",
+      "Moon"
     ],
     "attack": 950,
     "defense": 1000,
@@ -7599,8 +7599,8 @@
     "level": 6,
     "type": "Rock",
     "guardianStars": [
-      "mrc",
-      "stn"
+      "Mercury",
+      "Saturn"
     ],
     "attack": 2100,
     "defense": 1700,
@@ -7614,8 +7614,8 @@
     "level": 4,
     "type": "Spellcaster",
     "guardianStars": [
-      "sun",
-      "urn"
+      "Sun",
+      "Uranus"
     ],
     "attack": 1900,
     "defense": 900,
@@ -7629,8 +7629,8 @@
     "level": 6,
     "type": "Insect",
     "guardianStars": [
-      "jpt",
-      "sun"
+      "Jupiter",
+      "Sun"
     ],
     "attack": 1900,
     "defense": 1700,
@@ -7644,8 +7644,8 @@
     "level": 3,
     "type": "Insect",
     "guardianStars": [
-      "mon",
-      "npt"
+      "Moon",
+      "Neptune"
     ],
     "attack": 850,
     "defense": 750,
@@ -7659,8 +7659,8 @@
     "level": 4,
     "type": "Insect",
     "guardianStars": [
-      "jpt",
-      "mon"
+      "Jupiter",
+      "Moon"
     ],
     "attack": 1150,
     "defense": 1400,
@@ -7674,8 +7674,8 @@
     "level": 2,
     "type": "Reptile",
     "guardianStars": [
-      "npt",
-      "stn"
+      "Neptune",
+      "Saturn"
     ],
     "attack": 800,
     "defense": 600,
@@ -7689,8 +7689,8 @@
     "level": 2,
     "type": "Thunder",
     "guardianStars": [
-      "plt",
-      "mrc"
+      "Pluto",
+      "Mercury"
     ],
     "attack": 750,
     "defense": 600,
@@ -7702,10 +7702,10 @@
     "number": 538,
     "name": "Niwatori",
     "level": 3,
-    "type": "Winged Beast",
+    "type": "WingedBeast",
     "guardianStars": [
-      "jpt",
-      "vns"
+      "Jupiter",
+      "Venus"
     ],
     "attack": 900,
     "defense": 800,
@@ -7719,8 +7719,8 @@
     "level": 3,
     "type": "Zombie",
     "guardianStars": [
-      "mon",
-      "plt"
+      "Moon",
+      "Pluto"
     ],
     "attack": 110,
     "defense": 700,
@@ -7734,8 +7734,8 @@
     "level": 2,
     "type": "Fairy",
     "guardianStars": [
-      "sun",
-      "plt"
+      "Sun",
+      "Pluto"
     ],
     "attack": 900,
     "defense": 400,
@@ -7749,8 +7749,8 @@
     "level": 2,
     "type": "Beast",
     "guardianStars": [
-      "stn",
-      "plt"
+      "Saturn",
+      "Pluto"
     ],
     "attack": 450,
     "defense": 500,
@@ -7764,8 +7764,8 @@
     "level": 5,
     "type": "Fish",
     "guardianStars": [
-      "npt",
-      "sun"
+      "Neptune",
+      "Sun"
     ],
     "attack": 1400,
     "defense": 1600,
@@ -7779,8 +7779,8 @@
     "level": 4,
     "type": "Fish",
     "guardianStars": [
-      "npt",
-      "mon"
+      "Neptune",
+      "Moon"
     ],
     "attack": 1350,
     "defense": 800,
@@ -7794,8 +7794,8 @@
     "level": 2,
     "type": "Machine",
     "guardianStars": [
-      "mon",
-      "mrc"
+      "Moon",
+      "Mercury"
     ],
     "attack": 900,
     "defense": 500,
@@ -7809,8 +7809,8 @@
     "level": 6,
     "type": "Zombie",
     "guardianStars": [
-      "mon",
-      "plt"
+      "Moon",
+      "Pluto"
     ],
     "attack": 1700,
     "defense": 1900,
@@ -7824,8 +7824,8 @@
     "level": 4,
     "type": "Fish",
     "guardianStars": [
-      "npt",
-      "mrs"
+      "Neptune",
+      "Mars"
     ],
     "attack": 1250,
     "defense": 900,
@@ -7839,8 +7839,8 @@
     "level": 1,
     "type": "Plant",
     "guardianStars": [
-      "jpt",
-      "mrc"
+      "Jupiter",
+      "Mercury"
     ],
     "attack": 350,
     "defense": 300,
@@ -7854,8 +7854,8 @@
     "level": 1,
     "type": "Zombie",
     "guardianStars": [
-      "mon",
-      "plt"
+      "Moon",
+      "Pluto"
     ],
     "attack": 400,
     "defense": 300,
@@ -7869,8 +7869,8 @@
     "level": 2,
     "type": "Aqua",
     "guardianStars": [
-      "npt",
-      "jpt"
+      "Neptune",
+      "Jupiter"
     ],
     "attack": 700,
     "defense": 500,
@@ -7884,8 +7884,8 @@
     "level": 4,
     "type": "Aqua",
     "guardianStars": [
-      "npt",
-      "stn"
+      "Neptune",
+      "Saturn"
     ],
     "attack": 1350,
     "defense": 1000,
@@ -7899,8 +7899,8 @@
     "level": 4,
     "type": "Spellcaster",
     "guardianStars": [
-      "mrc",
-      "jpt"
+      "Mercury",
+      "Jupiter"
     ],
     "attack": 2000,
     "defense": 800,
@@ -7912,10 +7912,10 @@
     "number": 552,
     "name": "Winged Dragon #2",
     "level": 4,
-    "type": "Winged Beast",
+    "type": "WingedBeast",
     "guardianStars": [
-      "stn",
-      "npt"
+      "Saturn",
+      "Neptune"
     ],
     "attack": 1200,
     "defense": 1000,
@@ -7929,8 +7929,8 @@
     "level": 3,
     "type": "Warrior",
     "guardianStars": [
-      "jpt",
-      "urn"
+      "Jupiter",
+      "Uranus"
     ],
     "attack": 1250,
     "defense": 800,
@@ -7944,8 +7944,8 @@
     "level": 5,
     "type": "Warrior",
     "guardianStars": [
-      "mrc",
-      "mrs"
+      "Mercury",
+      "Mars"
     ],
     "attack": 1550,
     "defense": 1800,
@@ -7959,8 +7959,8 @@
     "level": 6,
     "type": "Dragon",
     "guardianStars": [
-      "mrs",
-      "urn"
+      "Mars",
+      "Uranus"
     ],
     "attack": 1700,
     "defense": 1900,
@@ -7974,8 +7974,8 @@
     "level": 2,
     "type": "Zombie",
     "guardianStars": [
-      "mon",
-      "plt"
+      "Moon",
+      "Pluto"
     ],
     "attack": 800,
     "defense": 600,
@@ -7989,8 +7989,8 @@
     "level": 5,
     "type": "Machine",
     "guardianStars": [
-      "mon",
-      "mrs"
+      "Moon",
+      "Mars"
     ],
     "attack": 1400,
     "defense": 1800,
@@ -8004,8 +8004,8 @@
     "level": 2,
     "type": "Rock",
     "guardianStars": [
-      "mon",
-      "jpt"
+      "Moon",
+      "Jupiter"
     ],
     "attack": 400,
     "defense": 400,
@@ -8019,8 +8019,8 @@
     "level": 3,
     "type": "Warrior",
     "guardianStars": [
-      "vns",
-      "sun"
+      "Venus",
+      "Sun"
     ],
     "attack": 1250,
     "defense": 700,
@@ -8034,8 +8034,8 @@
     "level": 4,
     "type": "Fiend",
     "guardianStars": [
-      "vns",
-      "mrs"
+      "Venus",
+      "Mars"
     ],
     "attack": 950,
     "defense": 1400,
@@ -8049,8 +8049,8 @@
     "level": 4,
     "type": "Dragon",
     "guardianStars": [
-      "mon",
-      "stn"
+      "Moon",
+      "Saturn"
     ],
     "attack": 1200,
     "defense": 1000,
@@ -8064,8 +8064,8 @@
     "level": 2,
     "type": "Insect",
     "guardianStars": [
-      "jpt",
-      "plt"
+      "Jupiter",
+      "Pluto"
     ],
     "attack": 750,
     "defense": 600,
@@ -8079,8 +8079,8 @@
     "level": 2,
     "type": "Fiend",
     "guardianStars": [
-      "mrc",
-      "urn"
+      "Mercury",
+      "Uranus"
     ],
     "attack": 550,
     "defense": 400,
@@ -8094,8 +8094,8 @@
     "level": 6,
     "type": "Zombie",
     "guardianStars": [
-      "mon",
-      "plt"
+      "Moon",
+      "Pluto"
     ],
     "attack": 2200,
     "defense": 1800,
@@ -8109,8 +8109,8 @@
     "level": 5,
     "type": "Fish",
     "guardianStars": [
-      "npt",
-      "sun"
+      "Neptune",
+      "Sun"
     ],
     "attack": 2100,
     "defense": 1300,
@@ -8124,8 +8124,8 @@
     "level": 3,
     "type": "Reptile",
     "guardianStars": [
-      "npt",
-      "mon"
+      "Neptune",
+      "Moon"
     ],
     "attack": 1200,
     "defense": 900,
@@ -8139,8 +8139,8 @@
     "level": 3,
     "type": "Plant",
     "guardianStars": [
-      "mon",
-      "jpt"
+      "Moon",
+      "Jupiter"
     ],
     "attack": 1200,
     "defense": 900,
@@ -8154,8 +8154,8 @@
     "level": 3,
     "type": "Dinosaur",
     "guardianStars": [
-      "urn",
-      "mon"
+      "Uranus",
+      "Moon"
     ],
     "attack": 1000,
     "defense": 850,
@@ -8169,8 +8169,8 @@
     "level": 3,
     "type": "Reptile",
     "guardianStars": [
-      "npt",
-      "vns"
+      "Neptune",
+      "Venus"
     ],
     "attack": 900,
     "defense": 800,
@@ -8184,8 +8184,8 @@
     "level": 3,
     "type": "Dinosaur",
     "guardianStars": [
-      "urn",
-      "vns"
+      "Uranus",
+      "Venus"
     ],
     "attack": 1300,
     "defense": 800,
@@ -8199,8 +8199,8 @@
     "level": 6,
     "type": "Dragon",
     "guardianStars": [
-      "jpt",
-      "npt"
+      "Jupiter",
+      "Neptune"
     ],
     "attack": 2100,
     "defense": 1800,
@@ -8214,8 +8214,8 @@
     "level": 6,
     "type": "Warrior",
     "guardianStars": [
-      "urn",
-      "vns"
+      "Uranus",
+      "Venus"
     ],
     "attack": 2100,
     "defense": 1700,
@@ -8229,8 +8229,8 @@
     "level": 3,
     "type": "Dinosaur",
     "guardianStars": [
-      "urn",
-      "mrc"
+      "Uranus",
+      "Mercury"
     ],
     "attack": 1100,
     "defense": 700,
@@ -8244,8 +8244,8 @@
     "level": 4,
     "type": "Spellcaster",
     "guardianStars": [
-      "mrc",
-      "plt"
+      "Mercury",
+      "Pluto"
     ],
     "attack": 1100,
     "defense": 1200,
@@ -8259,8 +8259,8 @@
     "level": 6,
     "type": "Beast",
     "guardianStars": [
-      "jpt",
-      "sun"
+      "Jupiter",
+      "Sun"
     ],
     "attack": 1800,
     "defense": 1900,
@@ -8274,8 +8274,8 @@
     "level": 3,
     "type": "Insect",
     "guardianStars": [
-      "jpt",
-      "mon"
+      "Jupiter",
+      "Moon"
     ],
     "attack": 1100,
     "defense": 1000,
@@ -8287,10 +8287,10 @@
     "number": 577,
     "name": "Crow Goblin",
     "level": 5,
-    "type": "Winged Beast",
+    "type": "WingedBeast",
     "guardianStars": [
-      "stn",
-      "mrs"
+      "Saturn",
+      "Mars"
     ],
     "attack": 1850,
     "defense": 1600,
@@ -8304,8 +8304,8 @@
     "level": 5,
     "type": "Spellcaster",
     "guardianStars": [
-      "mrc",
-      "npt"
+      "Mercury",
+      "Neptune"
     ],
     "attack": 1350,
     "defense": 1200,
@@ -8319,8 +8319,8 @@
     "level": 2,
     "type": "Plant",
     "guardianStars": [
-      "jpt",
-      "vns"
+      "Jupiter",
+      "Venus"
     ],
     "attack": 750,
     "defense": 400,
@@ -8334,8 +8334,8 @@
     "level": 3,
     "type": "Machine",
     "guardianStars": [
-      "mon",
-      "urn"
+      "Moon",
+      "Uranus"
     ],
     "attack": 1100,
     "defense": 900,
@@ -8347,10 +8347,10 @@
     "number": 581,
     "name": "Takuhee",
     "level": 4,
-    "type": "Winged Beast",
+    "type": "WingedBeast",
     "guardianStars": [
-      "stn",
-      "sun"
+      "Saturn",
+      "Sun"
     ],
     "attack": 1450,
     "defense": 1000,
@@ -8364,8 +8364,8 @@
     "level": 5,
     "type": "Fairy",
     "guardianStars": [
-      "sun",
-      "npt"
+      "Sun",
+      "Neptune"
     ],
     "attack": 1800,
     "defense": 1700,
@@ -8379,8 +8379,8 @@
     "level": 4,
     "type": "Aqua",
     "guardianStars": [
-      "npt",
-      "mrc"
+      "Neptune",
+      "Mercury"
     ],
     "attack": 950,
     "defense": 1500,
@@ -8394,8 +8394,8 @@
     "level": 3,
     "type": "Fairy",
     "guardianStars": [
-      "sun",
-      "vns"
+      "Sun",
+      "Venus"
     ],
     "attack": 1000,
     "defense": 1100,
@@ -8409,8 +8409,8 @@
     "level": 3,
     "type": "Machine",
     "guardianStars": [
-      "mon",
-      "npt"
+      "Moon",
+      "Neptune"
     ],
     "attack": 800,
     "defense": 1000,
@@ -8424,8 +8424,8 @@
     "level": 3,
     "type": "Warrior",
     "guardianStars": [
-      "mon",
-      "mrc"
+      "Moon",
+      "Mercury"
     ],
     "attack": 650,
     "defense": 900,
@@ -8439,8 +8439,8 @@
     "level": 4,
     "type": "Beast",
     "guardianStars": [
-      "jpt",
-      "mrc"
+      "Jupiter",
+      "Mercury"
     ],
     "attack": 1300,
     "defense": 1400,
@@ -8454,8 +8454,8 @@
     "level": 3,
     "type": "Plant",
     "guardianStars": [
-      "jpt",
-      "urn"
+      "Jupiter",
+      "Uranus"
     ],
     "attack": 900,
     "defense": 1100,
@@ -8469,8 +8469,8 @@
     "level": 2,
     "type": "Aqua",
     "guardianStars": [
-      "jpt",
-      "plt"
+      "Jupiter",
+      "Pluto"
     ],
     "attack": 500,
     "defense": 600,
@@ -8484,8 +8484,8 @@
     "level": 3,
     "type": "Reptile",
     "guardianStars": [
-      "npt",
-      "jpt"
+      "Neptune",
+      "Jupiter"
     ],
     "attack": 800,
     "defense": 900,
@@ -8499,8 +8499,8 @@
     "level": 2,
     "type": "Rock",
     "guardianStars": [
-      "urn",
-      "npt"
+      "Uranus",
+      "Neptune"
     ],
     "attack": 700,
     "defense": 600,
@@ -8514,8 +8514,8 @@
     "level": 3,
     "type": "Fairy",
     "guardianStars": [
-      "sun",
-      "mrs"
+      "Sun",
+      "Mars"
     ],
     "attack": 850,
     "defense": 900,
@@ -8529,8 +8529,8 @@
     "level": 5,
     "type": "Aqua",
     "guardianStars": [
-      "npt",
-      "mrs"
+      "Neptune",
+      "Mars"
     ],
     "attack": 1400,
     "defense": 1800,
@@ -8544,8 +8544,8 @@
     "level": 6,
     "type": "Plant",
     "guardianStars": [
-      "mon",
-      "jpt"
+      "Moon",
+      "Jupiter"
     ],
     "attack": 2000,
     "defense": 1800,
@@ -8557,10 +8557,10 @@
     "number": 595,
     "name": "Fiend Refrection #1",
     "level": 4,
-    "type": "Winged Beast",
+    "type": "WingedBeast",
     "guardianStars": [
-      "vns",
-      "jpt"
+      "Venus",
+      "Jupiter"
     ],
     "attack": 1300,
     "defense": 1400,
@@ -8574,8 +8574,8 @@
     "level": 4,
     "type": "Zombie",
     "guardianStars": [
-      "mon",
-      "plt"
+      "Moon",
+      "Pluto"
     ],
     "attack": 1600,
     "defense": 1200,
@@ -8589,8 +8589,8 @@
     "level": 4,
     "type": "Beast",
     "guardianStars": [
-      "jpt",
-      "npt"
+      "Jupiter",
+      "Neptune"
     ],
     "attack": 1500,
     "defense": 1200,
@@ -8604,8 +8604,8 @@
     "level": 2,
     "type": "Beast",
     "guardianStars": [
-      "stn",
-      "mon"
+      "Saturn",
+      "Moon"
     ],
     "attack": 600,
     "defense": 550,
@@ -8619,8 +8619,8 @@
     "level": 4,
     "type": "Aqua",
     "guardianStars": [
-      "npt",
-      "mrc"
+      "Neptune",
+      "Mercury"
     ],
     "attack": 1550,
     "defense": 800,
@@ -8634,8 +8634,8 @@
     "level": 4,
     "type": "Fiend",
     "guardianStars": [
-      "mrc",
-      "mon"
+      "Mercury",
+      "Moon"
     ],
     "attack": 1050,
     "defense": 1200,
@@ -8649,8 +8649,8 @@
     "level": 3,
     "type": "Fairy",
     "guardianStars": [
-      "sun",
-      "jpt"
+      "Sun",
+      "Jupiter"
     ],
     "attack": 700,
     "defense": 1400,
@@ -8664,8 +8664,8 @@
     "level": 2,
     "type": "Aqua",
     "guardianStars": [
-      "npt",
-      "mrs"
+      "Neptune",
+      "Mars"
     ],
     "attack": 750,
     "defense": 500,
@@ -8679,8 +8679,8 @@
     "level": 4,
     "type": "Dragon",
     "guardianStars": [
-      "sun",
-      "stn"
+      "Sun",
+      "Saturn"
     ],
     "attack": 1100,
     "defense": 1200,
@@ -8694,8 +8694,8 @@
     "level": 3,
     "type": "Beast",
     "guardianStars": [
-      "mon",
-      "mrs"
+      "Moon",
+      "Mars"
     ],
     "attack": 750,
     "defense": 800,
@@ -8709,8 +8709,8 @@
     "level": 3,
     "type": "Aqua",
     "guardianStars": [
-      "npt",
-      "stn"
+      "Neptune",
+      "Saturn"
     ],
     "attack": 950,
     "defense": 800,
@@ -8724,8 +8724,8 @@
     "level": 3,
     "type": "Aqua",
     "guardianStars": [
-      "npt",
-      "sun"
+      "Neptune",
+      "Sun"
     ],
     "attack": 850,
     "defense": 700,
@@ -8739,8 +8739,8 @@
     "level": 4,
     "type": "Beast",
     "guardianStars": [
-      "jpt",
-      "sun"
+      "Jupiter",
+      "Sun"
     ],
     "attack": 1250,
     "defense": 1300,
@@ -8754,8 +8754,8 @@
     "level": 4,
     "type": "Fairy",
     "guardianStars": [
-      "sun",
-      "urn"
+      "Sun",
+      "Uranus"
     ],
     "attack": 1300,
     "defense": 1100,
@@ -8769,8 +8769,8 @@
     "level": 2,
     "type": "Insect",
     "guardianStars": [
-      "jpt",
-      "mon"
+      "Jupiter",
+      "Moon"
     ],
     "attack": 600,
     "defense": 700,
@@ -8784,8 +8784,8 @@
     "level": 3,
     "type": "Thunder",
     "guardianStars": [
-      "plt",
-      "sun"
+      "Pluto",
+      "Sun"
     ],
     "attack": 850,
     "defense": 800,
@@ -8799,8 +8799,8 @@
     "level": 2,
     "type": "Fiend",
     "guardianStars": [
-      "mon",
-      "stn"
+      "Moon",
+      "Saturn"
     ],
     "attack": 650,
     "defense": 500,
@@ -8814,8 +8814,8 @@
     "level": 3,
     "type": "Spellcaster",
     "guardianStars": [
-      "sun",
-      "plt"
+      "Sun",
+      "Pluto"
     ],
     "attack": 1100,
     "defense": 800,
@@ -8829,8 +8829,8 @@
     "level": 7,
     "type": "Thunder",
     "guardianStars": [
-      "plt",
-      "mon"
+      "Pluto",
+      "Moon"
     ],
     "attack": 2800,
     "defense": 2100,
@@ -8844,8 +8844,8 @@
     "level": 5,
     "type": "Insect",
     "guardianStars": [
-      "jpt",
-      "vns"
+      "Jupiter",
+      "Venus"
     ],
     "attack": 1600,
     "defense": 1400,
@@ -8859,8 +8859,8 @@
     "level": 4,
     "type": "Aqua",
     "guardianStars": [
-      "npt",
-      "mon"
+      "Neptune",
+      "Moon"
     ],
     "attack": 850,
     "defense": 1400,
@@ -8874,8 +8874,8 @@
     "level": 4,
     "type": "Fairy",
     "guardianStars": [
-      "sun",
-      "npt"
+      "Sun",
+      "Neptune"
     ],
     "attack": 1100,
     "defense": 1200,
@@ -8889,8 +8889,8 @@
     "level": 5,
     "type": "Fish",
     "guardianStars": [
-      "npt",
-      "mrc"
+      "Neptune",
+      "Mercury"
     ],
     "attack": 1700,
     "defense": 1600,
@@ -8904,8 +8904,8 @@
     "level": 6,
     "type": "Warrior",
     "guardianStars": [
-      "mrc",
-      "mrs"
+      "Mercury",
+      "Mars"
     ],
     "attack": 1900,
     "defense": 1700,
@@ -8919,8 +8919,8 @@
     "level": 5,
     "type": "Spellcaster",
     "guardianStars": [
-      "urn",
-      "mrs"
+      "Uranus",
+      "Mars"
     ],
     "attack": 1650,
     "defense": 1900,
@@ -8934,8 +8934,8 @@
     "level": 4,
     "type": "Plant",
     "guardianStars": [
-      "jpt",
-      "mrc"
+      "Jupiter",
+      "Mercury"
     ],
     "attack": 1000,
     "defense": 1200,
@@ -8949,8 +8949,8 @@
     "level": 5,
     "type": "Warrior",
     "guardianStars": [
-      "mrc",
-      "jpt"
+      "Mercury",
+      "Jupiter"
     ],
     "attack": 1650,
     "defense": 1300,
@@ -8964,8 +8964,8 @@
     "level": 5,
     "type": "Spellcaster",
     "guardianStars": [
-      "sun",
-      "vns"
+      "Sun",
+      "Venus"
     ],
     "attack": 1600,
     "defense": 1500,
@@ -8979,8 +8979,8 @@
     "level": 4,
     "type": "Rock",
     "guardianStars": [
-      "urn",
-      "jpt"
+      "Uranus",
+      "Jupiter"
     ],
     "attack": 1200,
     "defense": 1300,
@@ -8994,8 +8994,8 @@
     "level": 5,
     "type": "Aqua",
     "guardianStars": [
-      "npt",
-      "mrc"
+      "Neptune",
+      "Mercury"
     ],
     "attack": 1650,
     "defense": 1300,
@@ -9009,8 +9009,8 @@
     "level": 4,
     "type": "Aqua",
     "guardianStars": [
-      "npt",
-      "vns"
+      "Neptune",
+      "Venus"
     ],
     "attack": 1600,
     "defense": 1100,
@@ -9024,8 +9024,8 @@
     "level": 4,
     "type": "Fish",
     "guardianStars": [
-      "npt",
-      "mrs"
+      "Neptune",
+      "Mars"
     ],
     "attack": 1300,
     "defense": 1400,
@@ -9037,10 +9037,10 @@
     "number": 627,
     "name": "Nekogal #2",
     "level": 6,
-    "type": "Beast Warrior",
+    "type": "BeastWarrior",
     "guardianStars": [
-      "jpt",
-      "urn"
+      "Jupiter",
+      "Uranus"
     ],
     "attack": 1900,
     "defense": 2000,
@@ -9054,8 +9054,8 @@
     "level": 2,
     "type": "Spellcaster",
     "guardianStars": [
-      "mrc",
-      "stn"
+      "Mercury",
+      "Saturn"
     ],
     "attack": 550,
     "defense": 500,
@@ -9069,8 +9069,8 @@
     "level": 3,
     "type": "Beast",
     "guardianStars": [
-      "jpt",
-      "plt"
+      "Jupiter",
+      "Pluto"
     ],
     "attack": 950,
     "defense": 1100,
@@ -9084,8 +9084,8 @@
     "level": 4,
     "type": "Reptile",
     "guardianStars": [
-      "npt",
-      "stn"
+      "Neptune",
+      "Saturn"
     ],
     "attack": 1400,
     "defense": 1100,
@@ -9099,8 +9099,8 @@
     "level": 4,
     "type": "Spellcaster",
     "guardianStars": [
-      "mon",
-      "vns"
+      "Moon",
+      "Venus"
     ],
     "attack": 1500,
     "defense": 1300,
@@ -9114,8 +9114,8 @@
     "level": 5,
     "type": "Rock",
     "guardianStars": [
-      "urn",
-      "sun"
+      "Uranus",
+      "Sun"
     ],
     "attack": 1600,
     "defense": 1500,
@@ -9129,8 +9129,8 @@
     "level": 5,
     "type": "Fairy",
     "guardianStars": [
-      "sun",
-      "mrs"
+      "Sun",
+      "Mars"
     ],
     "attack": 1400,
     "defense": 1700,
@@ -9144,8 +9144,8 @@
     "level": 4,
     "type": "Aqua",
     "guardianStars": [
-      "npt",
-      "jpt"
+      "Neptune",
+      "Jupiter"
     ],
     "attack": 1150,
     "defense": 1300,
@@ -9159,8 +9159,8 @@
     "level": 1,
     "type": "Warrior",
     "guardianStars": [
-      "urn",
-      "mon"
+      "Uranus",
+      "Moon"
     ],
     "attack": 350,
     "defense": 300,
@@ -9172,10 +9172,10 @@
     "number": 636,
     "name": "Blue-Winged Crown",
     "level": 4,
-    "type": "Winged Beast",
+    "type": "WingedBeast",
     "guardianStars": [
-      "stn",
-      "vns"
+      "Saturn",
+      "Venus"
     ],
     "attack": 1600,
     "defense": 1200,
@@ -9189,8 +9189,8 @@
     "level": 6,
     "type": "Plant",
     "guardianStars": [
-      "jpt",
-      "sun"
+      "Jupiter",
+      "Sun"
     ],
     "attack": 1500,
     "defense": 1800,
@@ -9204,8 +9204,8 @@
     "level": 5,
     "type": "Plant",
     "guardianStars": [
-      "jpt",
-      "mon"
+      "Jupiter",
+      "Moon"
     ],
     "attack": 1800,
     "defense": 1500,
@@ -9219,8 +9219,8 @@
     "level": 5,
     "type": "Aqua",
     "guardianStars": [
-      "npt",
-      "sun"
+      "Neptune",
+      "Sun"
     ],
     "attack": 1850,
     "defense": 1300,
@@ -9234,8 +9234,8 @@
     "level": 3,
     "type": "Insect",
     "guardianStars": [
-      "jpt",
-      "vns"
+      "Jupiter",
+      "Venus"
     ],
     "attack": 900,
     "defense": 700,
@@ -9249,8 +9249,8 @@
     "level": 5,
     "type": "Warrior",
     "guardianStars": [
-      "urn",
-      "vns"
+      "Uranus",
+      "Venus"
     ],
     "attack": 1350,
     "defense": 1700,
@@ -9264,8 +9264,8 @@
     "level": 3,
     "type": "Beast",
     "guardianStars": [
-      "vns",
-      "stn"
+      "Venus",
+      "Saturn"
     ],
     "attack": 1150,
     "defense": 900,
@@ -9279,8 +9279,8 @@
     "level": 4,
     "type": "Machine",
     "guardianStars": [
-      "mon",
-      "urn"
+      "Moon",
+      "Uranus"
     ],
     "attack": 1350,
     "defense": 1000,
@@ -9294,8 +9294,8 @@
     "level": 2,
     "type": "Pyro",
     "guardianStars": [
-      "mrs",
-      "plt"
+      "Mars",
+      "Pluto"
     ],
     "attack": 400,
     "defense": 450,
@@ -9309,8 +9309,8 @@
     "level": 6,
     "type": "Machine",
     "guardianStars": [
-      "urn",
-      "mrc"
+      "Uranus",
+      "Mercury"
     ],
     "attack": 1900,
     "defense": 2200,
@@ -9324,8 +9324,8 @@
     "level": 3,
     "type": "Aqua",
     "guardianStars": [
-      "npt",
-      "mon"
+      "Neptune",
+      "Moon"
     ],
     "attack": 1300,
     "defense": 700,
@@ -9339,8 +9339,8 @@
     "level": 4,
     "type": "Aqua",
     "guardianStars": [
-      "npt",
-      "vns"
+      "Neptune",
+      "Venus"
     ],
     "attack": 1500,
     "defense": 900,
@@ -9354,8 +9354,8 @@
     "level": 5,
     "type": "Machine",
     "guardianStars": [
-      "mon",
-      "npt"
+      "Moon",
+      "Neptune"
     ],
     "attack": 1600,
     "defense": 1300,
@@ -9369,8 +9369,8 @@
     "level": 4,
     "type": "Warrior",
     "guardianStars": [
-      "mrc",
-      "urn"
+      "Mercury",
+      "Uranus"
     ],
     "attack": 1450,
     "defense": 1000,
@@ -9384,8 +9384,8 @@
     "level": 5,
     "type": "Fiend",
     "guardianStars": [
-      "mon",
-      "mrc"
+      "Moon",
+      "Mercury"
     ],
     "attack": 1650,
     "defense": 1600,
@@ -9396,7 +9396,7 @@
   {
     "number": 651,
     "name": "Kunai with Chain",
-    "type": "Equip Magic",
+    "type": "Equip",
     "purchasable": true,
     "password": "37390589",
     "starCost": 800
@@ -9420,7 +9420,7 @@
   {
     "number": 654,
     "name": "Salamandra",
-    "type": "Equip Magic",
+    "type": "Equip",
     "purchasable": true,
     "password": "32268901",
     "starCost": 800
@@ -9452,7 +9452,7 @@
   {
     "number": 658,
     "name": "Metalmorph",
-    "type": "Equip Magic",
+    "type": "Equip",
     "purchasable": true,
     "password": "68540058",
     "starCost": 999999
@@ -9799,8 +9799,8 @@
     "level": 6,
     "type": "Warrior",
     "guardianStars": [
-      "sun",
-      "stn"
+      "Sun",
+      "Saturn"
     ],
     "attack": 1950,
     "defense": 1850,
@@ -9812,8 +9812,8 @@
     "level": 6,
     "type": "Warrior",
     "guardianStars": [
-      "mon",
-      "mrs"
+      "Moon",
+      "Mars"
     ],
     "attack": 2000,
     "defense": 1800,
@@ -9823,10 +9823,10 @@
     "number": 703,
     "name": "Sengenjin",
     "level": 8,
-    "type": "Beast Warrior",
+    "type": "BeastWarrior",
     "guardianStars": [
-      "jpt",
-      "mrc"
+      "Jupiter",
+      "Mercury"
     ],
     "attack": 2750,
     "defense": 2500,
@@ -9838,8 +9838,8 @@
     "level": 7,
     "type": "Warrior",
     "guardianStars": [
-      "sun",
-      "jpt"
+      "Sun",
+      "Jupiter"
     ],
     "attack": 2050,
     "defense": 2500,
@@ -9851,8 +9851,8 @@
     "level": 8,
     "type": "Dragon",
     "guardianStars": [
-      "mon",
-      "jpt"
+      "Moon",
+      "Jupiter"
     ],
     "attack": 2850,
     "defense": 2350,
@@ -9864,8 +9864,8 @@
     "level": 7,
     "type": "Dragon",
     "guardianStars": [
-      "mrc",
-      "plt"
+      "Mercury",
+      "Pluto"
     ],
     "attack": 2350,
     "defense": 2400,
@@ -9877,8 +9877,8 @@
     "level": 7,
     "type": "Spellcaster",
     "guardianStars": [
-      "mrc",
-      "npt"
+      "Mercury",
+      "Neptune"
     ],
     "attack": 2650,
     "defense": 2250,
@@ -9892,8 +9892,8 @@
     "level": 8,
     "type": "Spellcaster",
     "guardianStars": [
-      "vns",
-      "urn"
+      "Venus",
+      "Uranus"
     ],
     "attack": 2900,
     "defense": 2450,
@@ -9905,8 +9905,8 @@
     "level": 8,
     "type": "Fiend",
     "guardianStars": [
-      "mrc",
-      "mon"
+      "Mercury",
+      "Moon"
     ],
     "attack": 2450,
     "defense": 2000,
@@ -9918,8 +9918,8 @@
     "level": 8,
     "type": "Aqua",
     "guardianStars": [
-      "npt",
-      "jpt"
+      "Neptune",
+      "Jupiter"
     ],
     "attack": 2550,
     "defense": 2500,
@@ -9931,8 +9931,8 @@
     "level": 7,
     "type": "Dragon",
     "guardianStars": [
-      "sun",
-      "urn"
+      "Sun",
+      "Uranus"
     ],
     "attack": 2200,
     "defense": 2350,
@@ -9946,8 +9946,8 @@
     "level": 6,
     "type": "Dragon",
     "guardianStars": [
-      "urn",
-      "npt"
+      "Uranus",
+      "Neptune"
     ],
     "attack": 1800,
     "defense": 2000,
@@ -9961,8 +9961,8 @@
     "level": 8,
     "type": "Dragon",
     "guardianStars": [
-      "mrs",
-      "sun"
+      "Mars",
+      "Sun"
     ],
     "attack": 3500,
     "defense": 2000,
@@ -9974,8 +9974,8 @@
     "level": 3,
     "type": "Beast",
     "guardianStars": [
-      "mrs",
-      "mon"
+      "Mars",
+      "Moon"
     ],
     "attack": 2250,
     "defense": 1800,
@@ -9989,8 +9989,8 @@
     "level": 7,
     "type": "Fiend",
     "guardianStars": [
-      "mon",
-      "stn"
+      "Moon",
+      "Saturn"
     ],
     "attack": 2000,
     "defense": 2350,
@@ -10002,8 +10002,8 @@
     "level": 7,
     "type": "Warrior",
     "guardianStars": [
-      "mon",
-      "urn"
+      "Moon",
+      "Uranus"
     ],
     "attack": 2550,
     "defense": 2150,
@@ -10015,8 +10015,8 @@
     "level": 8,
     "type": "Insect",
     "guardianStars": [
-      "jpt",
-      "urn"
+      "Jupiter",
+      "Uranus"
     ],
     "attack": 2450,
     "defense": 2550,
@@ -10028,8 +10028,8 @@
     "level": 8,
     "type": "Fish",
     "guardianStars": [
-      "npt",
-      "stn"
+      "Neptune",
+      "Saturn"
     ],
     "attack": 2350,
     "defense": 2150,
@@ -10041,8 +10041,8 @@
     "level": 6,
     "type": "Zombie",
     "guardianStars": [
-      "urn",
-      "mrs"
+      "Uranus",
+      "Mars"
     ],
     "attack": 1900,
     "defense": 1850,
@@ -10054,8 +10054,8 @@
     "level": 6,
     "type": "Spellcaster",
     "guardianStars": [
-      "vns",
-      "plt"
+      "Venus",
+      "Pluto"
     ],
     "attack": 2000,
     "defense": 1800,
@@ -10073,8 +10073,8 @@
     "level": 8,
     "type": "Spellcaster",
     "guardianStars": [
-      "mrc",
-      "mrs"
+      "Mercury",
+      "Mars"
     ],
     "attack": 2800,
     "defense": 2600,
