@@ -6,14 +6,14 @@
     ],
     "products": [
       {
+        "name": "Garvas",
         "lessThan": [
           "Mystical Sheep #1",
           "Mon Larvas",
           "Winged Egg of New Life",
           "Dark Witch",
           "Nekogal #2"
-        ],
-        "name": "Garvas"
+        ]
       }
     ]
   },
@@ -24,14 +24,14 @@
     ],
     "products": [
       {
+        "name": "Winged Egg of New Life",
         "lessThan": [
           "Mystical Elf",
           "Tiger Axe",
           "Celtic Guardian",
           "Dark Witch",
           "Dark Elf"
-        ],
-        "name": "Winged Egg of New Life"
+        ]
       }
     ]
   },
@@ -42,8 +42,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Spike Seadra"
+        "name": "Spike Seadra",
+        "lessThan": []
       },
       {
         "name": "Kairyu-shin",
@@ -60,8 +60,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Bolt Escargot"
+        "name": "Bolt Escargot",
+        "lessThan": []
       }
     ]
   },
@@ -72,8 +72,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Hyosube"
+        "name": "Hyosube",
+        "lessThan": []
       }
     ]
   },
@@ -84,8 +84,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Mon Larvas"
+        "name": "Mon Larvas",
+        "lessThan": []
       }
     ]
   },
@@ -96,14 +96,14 @@
     ],
     "products": [
       {
+        "name": "Garvas",
         "lessThan": [
           "Mystical Sheep #1",
           "Mon Larvas",
           "Winged Egg of New Life",
           "Dark Witch",
           "Nekogal #2"
-        ],
-        "name": "Garvas"
+        ]
       }
     ]
   },
@@ -114,10 +114,10 @@
     ],
     "products": [
       {
+        "name": "Tatsunootoshigo",
         "lessThan": [
           "Nekogal #2"
-        ],
-        "name": "Tatsunootoshigo"
+        ]
       },
       {
         "name": "Rare Fish",
@@ -138,8 +138,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Tripwire Beast"
+        "name": "Tripwire Beast",
+        "lessThan": []
       }
     ]
   },
@@ -150,8 +150,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Turtle Tiger"
+        "name": "Turtle Tiger",
+        "lessThan": []
       }
     ]
   },
@@ -162,8 +162,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Shadow Specter"
+        "name": "Shadow Specter",
+        "lessThan": []
       }
     ]
   },
@@ -174,8 +174,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Amphibious Bugroth"
+        "name": "Amphibious Bugroth",
+        "lessThan": []
       }
     ]
   },
@@ -186,8 +186,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Cyber Saurus"
+        "name": "Cyber Saurus",
+        "lessThan": []
       }
     ]
   },
@@ -198,8 +198,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Harpie's Pet Dragon"
+        "name": "Harpie's Pet Dragon",
+        "lessThan": []
       }
     ]
   },
@@ -210,8 +210,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Thousand Dragon"
+        "name": "Thousand Dragon",
+        "lessThan": []
       }
     ]
   },
@@ -222,8 +222,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Spike Seadra"
+        "name": "Spike Seadra",
+        "lessThan": []
       },
       {
         "name": "Kairyu-shin",
@@ -240,12 +240,12 @@
     ],
     "products": [
       {
+        "name": "Koumori Dragon",
         "lessThan": [
           "Dragoness the Wicked Knight",
           "D. Human",
           "Tiger Axe"
-        ],
-        "name": "Koumori Dragon"
+        ]
       }
     ]
   },
@@ -256,12 +256,12 @@
     ],
     "products": [
       {
+        "name": "Metal Dragon",
         "lessThan": [
           "Cyber Soldier",
           "Cyber Saurus",
           "Flame Swordsman"
-        ],
-        "name": "Metal Dragon"
+        ]
       }
     ]
   },
@@ -272,14 +272,14 @@
     ],
     "products": [
       {
+        "name": "Blackland Fire Dragon",
         "lessThan": [
           "Dragon Zombie",
           "Dragon Statue",
           "Dragoness the Wicked Knight",
           "D. Human",
           "Sword Arm of Dragon"
-        ],
-        "name": "Blackland Fire Dragon"
+        ]
       }
     ]
   },
@@ -290,12 +290,12 @@
     ],
     "products": [
       {
+        "name": "B. Dragon Jungle King",
         "lessThan": [
           "Bean Soldier",
           "Flame Swordsman",
           "Pumpking the King of Ghosts"
-        ],
-        "name": "B. Dragon Jungle King"
+        ]
       }
     ]
   },
@@ -306,10 +306,10 @@
     ],
     "products": [
       {
+        "name": "Stone D.",
         "lessThan": [
           "Flame Swordsman"
-        ],
-        "name": "Stone D."
+        ]
       }
     ]
   },
@@ -320,8 +320,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Thunder Dragon"
+        "name": "Thunder Dragon",
+        "lessThan": []
       },
       {
         "name": "Twin-headed Thunder Dragon",
@@ -339,11 +339,11 @@
     ],
     "products": [
       {
+        "name": "Sea King Dragon",
         "lessThan": [
           "Spike Seadra",
           "Kairyu-shin"
-        ],
-        "name": "Sea King Dragon"
+        ]
       }
     ]
   },
@@ -354,8 +354,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Dragon Statue"
+        "name": "Dragon Statue",
+        "lessThan": []
       },
       {
         "name": "Dragoness the Wicked Knight",
@@ -384,8 +384,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Dragon Zombie"
+        "name": "Dragon Zombie",
+        "lessThan": []
       },
       {
         "name": "Skelgon",
@@ -407,14 +407,14 @@
     ],
     "products": [
       {
+        "name": "Winged Egg of New Life",
         "lessThan": [
           "Mystical Elf",
           "Tiger Axe",
           "Celtic Guardian",
           "Dark Witch",
           "Dark Elf"
-        ],
-        "name": "Winged Egg of New Life"
+        ]
       }
     ]
   },
@@ -425,8 +425,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Dark Elf"
+        "name": "Dark Elf",
+        "lessThan": []
       }
     ]
   },
@@ -437,8 +437,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Mystical Elf"
+        "name": "Mystical Elf",
+        "lessThan": []
       }
     ]
   },
@@ -449,10 +449,10 @@
     ],
     "products": [
       {
+        "name": "Celtic Guardian",
         "lessThan": [
           "Dark Elf"
-        ],
-        "name": "Celtic Guardian"
+        ]
       }
     ]
   },
@@ -463,68 +463,14 @@
     ],
     "products": [
       {
-        "lessThan": [
-          "Mystical Elf",
-          "Celtic Guardian",
-          "Musician King",
-          "Queen of Autumn Leaves",
-          "Dark Elf"
-        ],
-        "name": "Dark Witch"
-      }
-    ]
-  },
-  {
-    "reactants": [
-      "TODO1",
-      "TODO2"
-    ],
-    "products": [
-      {
-        "lessThan": [],
-        "name": "Harpie's Feather Duster"
-      }
-    ]
-  },
-  {
-    "reactants": [
-      "TODO1",
-      "TODO2"
-    ],
-    "products": [
-      {
-        "lessThan": [],
-        "name": "Harpie's Feather Duster"
-      }
-    ]
-  },
-  {
-    "reactants": [
-      "TODO1",
-      "TODO2"
-    ],
-    "products": [
-      {
-        "lessThan": [],
-        "name": "Harpie's Feather Duster"
-      }
-    ]
-  },
-  {
-    "reactants": [
-      "TODO1",
-      "TODO2"
-    ],
-    "products": [
-      {
+        "name": "Dark Witch",
         "lessThan": [
           "Mystical Elf",
           "Celtic Guardian",
           "Musician King",
           "Queen of Autumn Leaves",
           "Dark Elf"
-        ],
-        "name": "Dark Witch"
+        ]
       }
     ]
   },
@@ -535,11 +481,65 @@
     ],
     "products": [
       {
+        "name": "Harpie's Feather Duster",
+        "lessThan": []
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "name": "Harpie's Feather Duster",
+        "lessThan": []
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "name": "Harpie's Feather Duster",
+        "lessThan": []
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "name": "Dark Witch",
+        "lessThan": [
+          "Mystical Elf",
+          "Celtic Guardian",
+          "Musician King",
+          "Queen of Autumn Leaves",
+          "Dark Elf"
+        ]
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "name": "Ice Water",
         "lessThan": [
           "Wow Warrior",
           "Tatsunootoshigo"
-        ],
-        "name": "Ice Water"
+        ]
       },
       {
         "name": "Enchanting Mermaid",
@@ -563,8 +563,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Queen of Autumn Leaves"
+        "name": "Queen of Autumn Leaves",
+        "lessThan": []
       }
     ]
   },
@@ -575,12 +575,12 @@
     ],
     "products": [
       {
+        "name": "Mystical Sand",
         "lessThan": [
           "Charubin the Fire Knight",
           "Flame Swordsman",
           "B. Dragon Jungle King"
-        ],
-        "name": "Mystical Sand"
+        ]
       }
     ]
   },
@@ -591,8 +591,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Nekogal #2"
+        "name": "Nekogal #2",
+        "lessThan": []
       }
     ]
   },
@@ -603,10 +603,10 @@
     ],
     "products": [
       {
+        "name": "Rose Spectre of Dunn",
         "lessThan": [
           "Queen of Autumn Leaves"
-        ],
-        "name": "Rose Spectre of Dunn"
+        ]
       }
     ]
   },
@@ -617,8 +617,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Darkworld Thorns"
+        "name": "Darkworld Thorns",
+        "lessThan": []
       }
     ]
   },
@@ -629,10 +629,10 @@
     ],
     "products": [
       {
+        "name": "Summoned Skull",
         "lessThan": [
           "Darkworld Thorns"
-        ],
-        "name": "Summoned Skull"
+        ]
       }
     ]
   },
@@ -643,8 +643,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Kappa Avenger"
+        "name": "Kappa Avenger",
+        "lessThan": []
       }
     ]
   },
@@ -655,10 +655,10 @@
     ],
     "products": [
       {
+        "name": "Tatsunootoshigo",
         "lessThan": [
           "Nekogal #2"
-        ],
-        "name": "Tatsunootoshigo"
+        ]
       },
       {
         "name": "Rare Fish",
@@ -679,11 +679,11 @@
     ],
     "products": [
       {
+        "name": "Ice Water",
         "lessThan": [
           "Wow Warrior",
           "Tatsunootoshigo"
-        ],
-        "name": "Ice Water"
+        ]
       },
       {
         "name": "Enchanting Mermaid",
@@ -707,8 +707,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Misairuzame"
+        "name": "Misairuzame",
+        "lessThan": []
       },
       {
         "name": "Metal Fish",
@@ -723,11 +723,11 @@
     ],
     "products": [
       {
+        "name": "7 Colored Fish",
         "lessThan": [
           "Queen of Autumn Leaves",
           "Dark Witch"
-        ],
-        "name": "7 Colored Fish"
+        ]
       }
     ]
   },
@@ -738,8 +738,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Wow Warrior"
+        "name": "Wow Warrior",
+        "lessThan": []
       }
     ]
   },
@@ -750,8 +750,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Corroding Shark"
+        "name": "Corroding Shark",
+        "lessThan": []
       }
     ]
   },
@@ -762,8 +762,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Kwagar Hercules"
+        "name": "Kwagar Hercules",
+        "lessThan": []
       }
     ]
   },
@@ -774,8 +774,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Cockroach Knight"
+        "name": "Cockroach Knight",
+        "lessThan": []
       }
     ]
   },
@@ -786,10 +786,10 @@
     ],
     "products": [
       {
+        "name": "Ushi Oni",
         "lessThan": [
           "Mystical Sand"
-        ],
-        "name": "Ushi Oni"
+        ]
       }
     ]
   },
@@ -800,12 +800,12 @@
     ],
     "products": [
       {
+        "name": "Koumori Dragon",
         "lessThan": [
           "Dragoness the Wicked Knight",
           "D. Human",
           "Tiger Axe"
-        ],
-        "name": "Koumori Dragon"
+        ]
       }
     ]
   },
@@ -816,8 +816,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Cyber Saurus"
+        "name": "Cyber Saurus",
+        "lessThan": []
       }
     ]
   },
@@ -828,12 +828,12 @@
     ],
     "products": [
       {
+        "name": "Metal Dragon",
         "lessThan": [
           "Cyber Soldier",
           "Cyber Saurus",
           "Flame Swordsman"
-        ],
-        "name": "Metal Dragon"
+        ]
       }
     ]
   },
@@ -844,8 +844,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Misairuzame"
+        "name": "Misairuzame",
+        "lessThan": []
       },
       {
         "name": "Metal Fish",
@@ -860,8 +860,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Disk Magician"
+        "name": "Disk Magician",
+        "lessThan": []
       }
     ]
   },
@@ -872,10 +872,10 @@
     ],
     "products": [
       {
+        "name": "Giga-tech Wolf",
         "lessThan": [
           "Flame Cerebrus"
-        ],
-        "name": "Giga-tech Wolf"
+        ]
       },
       {
         "name": "Dice Armadillo",
@@ -892,11 +892,11 @@
     ],
     "products": [
       {
+        "name": "Cyber Soldier",
         "lessThan": [
           "Charubin the Fire Knight",
           "Flame Swordsman"
-        ],
-        "name": "Cyber Soldier"
+        ]
       }
     ]
   },
@@ -907,14 +907,14 @@
     ],
     "products": [
       {
+        "name": "Blackland Fire Dragon",
         "lessThan": [
           "Dragon Zombie",
           "Dragon Statue",
           "Dragoness the Wicked Knight",
           "D. Human",
           "Sword Arm of Dragon"
-        ],
-        "name": "Blackland Fire Dragon"
+        ]
       }
     ]
   },
@@ -925,8 +925,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Dark Elf"
+        "name": "Dark Elf",
+        "lessThan": []
       }
     ]
   },
@@ -937,8 +937,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Ryu-kishin Powered"
+        "name": "Ryu-kishin Powered",
+        "lessThan": []
       }
     ]
   },
@@ -949,10 +949,10 @@
     ],
     "products": [
       {
+        "name": "Ushi Oni",
         "lessThan": [
           "Mystical Sand"
-        ],
-        "name": "Ushi Oni"
+        ]
       }
     ]
   },
@@ -963,8 +963,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Disk Magician"
+        "name": "Disk Magician",
+        "lessThan": []
       }
     ]
   },
@@ -975,8 +975,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Fiend Refrection #1"
+        "name": "Fiend Refrection #1",
+        "lessThan": []
       }
     ]
   },
@@ -987,8 +987,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Musician King"
+        "name": "Musician King",
+        "lessThan": []
       }
     ]
   },
@@ -999,8 +999,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Mystical Elf"
+        "name": "Mystical Elf",
+        "lessThan": []
       }
     ]
   },
@@ -1011,12 +1011,12 @@
     ],
     "products": [
       {
+        "name": "B. Dragon Jungle King",
         "lessThan": [
           "Bean Soldier",
           "Flame Swordsman",
           "Pumpking the King of Ghosts"
-        ],
-        "name": "B. Dragon Jungle King"
+        ]
       }
     ]
   },
@@ -1027,8 +1027,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Queen of Autumn Leaves"
+        "name": "Queen of Autumn Leaves",
+        "lessThan": []
       }
     ]
   },
@@ -1039,8 +1039,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Firegrass"
+        "name": "Firegrass",
+        "lessThan": []
       }
     ]
   },
@@ -1051,8 +1051,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Snakeyashi"
+        "name": "Snakeyashi",
+        "lessThan": []
       }
     ]
   },
@@ -1063,11 +1063,11 @@
     ],
     "products": [
       {
+        "name": "Flower Wolf",
         "lessThan": [
           "Nekogal #2",
           "Flame Cerebrus"
-        ],
-        "name": "Flower Wolf"
+        ]
       }
     ]
   },
@@ -1078,12 +1078,12 @@
     ],
     "products": [
       {
+        "name": "Bean Soldier",
         "lessThan": [
           "Charubin the Fire Knight",
           "Flame Swordsman",
           "Queen of Autumn Leaves"
-        ],
-        "name": "Bean Soldier"
+        ]
       }
     ]
   },
@@ -1094,8 +1094,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Wood Remains"
+        "name": "Wood Remains",
+        "lessThan": []
       },
       {
         "name": "Pumpking the King of Ghosts",
@@ -1110,10 +1110,10 @@
     ],
     "products": [
       {
+        "name": "Fire Kraken",
         "lessThan": [
           "Spike Seadra"
-        ],
-        "name": "Fire Kraken"
+        ]
       }
     ]
   },
@@ -1124,8 +1124,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Firegrass"
+        "name": "Firegrass",
+        "lessThan": []
       }
     ]
   },
@@ -1136,11 +1136,11 @@
     ],
     "products": [
       {
+        "name": "Dissolverock",
         "lessThan": [
           "Stone Ghost",
           "Minomushi Warrior"
-        ],
-        "name": "Dissolverock"
+        ]
       }
     ]
   },
@@ -1151,12 +1151,12 @@
     ],
     "products": [
       {
+        "name": "Giant Turtle Who Feeds on Flames",
         "lessThan": [
           "Year White Turtle",
           "Boulder Tortoise",
           "Turtle Bird"
-        ],
-        "name": "Giant Turtle Who Feeds on Flames"
+        ]
       }
     ]
   },
@@ -1167,8 +1167,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Flame Cerebrus"
+        "name": "Flame Cerebrus",
+        "lessThan": []
       }
     ]
   },
@@ -1179,11 +1179,11 @@
     ],
     "products": [
       {
+        "name": "Charubin the Fire Knight",
         "lessThan": [
           "Zombie Warrior",
           "Queen of Autumn Leaves"
-        ],
-        "name": "Charubin the Fire Knight"
+        ]
       },
       {
         "name": "Flame Swordsman",
@@ -1207,8 +1207,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Mavelus"
+        "name": "Mavelus",
+        "lessThan": []
       },
       {
         "name": "Crimson Sunbird",
@@ -1229,8 +1229,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Fire Reaper"
+        "name": "Fire Reaper",
+        "lessThan": []
       },
       {
         "name": "Flame Ghost",
@@ -1251,11 +1251,11 @@
     ],
     "products": [
       {
+        "name": "7 Colored Fish",
         "lessThan": [
           "Queen of Autumn Leaves",
           "Dark Witch"
-        ],
-        "name": "7 Colored Fish"
+        ]
       }
     ]
   },
@@ -1266,8 +1266,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Snakeyashi"
+        "name": "Snakeyashi",
+        "lessThan": []
       }
     ]
   },
@@ -1278,8 +1278,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Electric Lizard"
+        "name": "Electric Lizard",
+        "lessThan": []
       }
     ]
   },
@@ -1290,8 +1290,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Soul Hunter"
+        "name": "Soul Hunter",
+        "lessThan": []
       }
     ]
   },
@@ -1302,10 +1302,10 @@
     ],
     "products": [
       {
+        "name": "Stone D.",
         "lessThan": [
           "Flame Swordsman"
-        ],
-        "name": "Stone D."
+        ]
       }
     ]
   },
@@ -1316,12 +1316,12 @@
     ],
     "products": [
       {
+        "name": "Mystical Sand",
         "lessThan": [
           "Charubin the Fire Knight",
           "Flame Swordsman",
           "B. Dragon Jungle King"
-        ],
-        "name": "Mystical Sand"
+        ]
       }
     ]
   },
@@ -1332,11 +1332,11 @@
     ],
     "products": [
       {
+        "name": "Dissolverock",
         "lessThan": [
           "Stone Ghost",
           "Minomushi Warrior"
-        ],
-        "name": "Dissolverock"
+        ]
       }
     ]
   },
@@ -1347,8 +1347,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Boulder Tortoise"
+        "name": "Boulder Tortoise",
+        "lessThan": []
       }
     ]
   },
@@ -1359,13 +1359,13 @@
     ],
     "products": [
       {
+        "name": "Minomushi Warrior",
         "lessThan": [
           "Charubin the Fire Knight",
           "Flame Swordsman",
           "Stone D.",
           "Mystical Sand"
-        ],
-        "name": "Minomushi Warrior"
+        ]
       }
     ]
   },
@@ -1376,8 +1376,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Stone Ghost"
+        "name": "Stone Ghost",
+        "lessThan": []
       }
     ]
   },
@@ -1388,8 +1388,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Mystical Sheep #1"
+        "name": "Mystical Sheep #1",
+        "lessThan": []
       }
     ]
   },
@@ -1400,10 +1400,10 @@
     ],
     "products": [
       {
+        "name": "Lord of the Lamp",
         "lessThan": [
           "Dark Elf"
-        ],
-        "name": "Lord of the Lamp"
+        ]
       }
     ]
   },
@@ -1414,10 +1414,10 @@
     ],
     "products": [
       {
+        "name": "Kaminari Attack",
         "lessThan": [
           "Thousand Dragon"
-        ],
-        "name": "Kaminari Attack"
+        ]
       }
     ]
   },
@@ -1428,8 +1428,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "The Immortal of Thunder"
+        "name": "The Immortal of Thunder",
+        "lessThan": []
       },
       {
         "name": "Kaminari Attack",
@@ -1446,8 +1446,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "30,000-Year White Turtle"
+        "name": "30,000-Year White Turtle",
+        "lessThan": []
       }
     ]
   },
@@ -1458,10 +1458,10 @@
     ],
     "products": [
       {
+        "name": "Magical Ghost",
         "lessThan": [
           "Dark Elf"
-        ],
-        "name": "Magical Ghost"
+        ]
       }
     ]
   },
@@ -1472,8 +1472,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Invader of the Throne"
+        "name": "Invader of the Throne",
+        "lessThan": []
       }
     ]
   },
@@ -1484,8 +1484,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Bolt Escargot"
+        "name": "Bolt Escargot",
+        "lessThan": []
       }
     ]
   },
@@ -1496,8 +1496,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Tripwire Beast"
+        "name": "Tripwire Beast",
+        "lessThan": []
       }
     ]
   },
@@ -1508,8 +1508,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Thunder Dragon"
+        "name": "Thunder Dragon",
+        "lessThan": []
       },
       {
         "name": "Twin-headed Thunder Dragon",
@@ -1527,8 +1527,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Electric Lizard"
+        "name": "Electric Lizard",
+        "lessThan": []
       }
     ]
   },
@@ -1539,8 +1539,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "The Immortal of Thunder"
+        "name": "The Immortal of Thunder",
+        "lessThan": []
       },
       {
         "name": "Kaminari Attack",
@@ -1557,8 +1557,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Turtle Tiger"
+        "name": "Turtle Tiger",
+        "lessThan": []
       }
     ]
   },
@@ -1569,11 +1569,11 @@
     ],
     "products": [
       {
+        "name": "Sea King Dragon",
         "lessThan": [
           "Spike Seadra",
           "Kairyu-shin"
-        ],
-        "name": "Sea King Dragon"
+        ]
       }
     ]
   },
@@ -1584,12 +1584,12 @@
     ],
     "products": [
       {
+        "name": "Giant Turtle Who Feeds on Flames",
         "lessThan": [
           "Year White Turtle",
           "Boulder Tortoise",
           "Turtle Bird"
-        ],
-        "name": "Giant Turtle Who Feeds on Flames"
+        ]
       }
     ]
   },
@@ -1600,8 +1600,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Boulder Tortoise"
+        "name": "Boulder Tortoise",
+        "lessThan": []
       }
     ]
   },
@@ -1612,8 +1612,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "30,000-Year White Turtle"
+        "name": "30,000-Year White Turtle",
+        "lessThan": []
       }
     ]
   },
@@ -1624,8 +1624,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Turtle Bird"
+        "name": "Turtle Bird",
+        "lessThan": []
       }
     ]
   },
@@ -1636,8 +1636,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Nekogal #2"
+        "name": "Nekogal #2",
+        "lessThan": []
       }
     ]
   },
@@ -1648,10 +1648,10 @@
     ],
     "products": [
       {
+        "name": "Giga-tech Wolf",
         "lessThan": [
           "Flame Cerebrus"
-        ],
-        "name": "Giga-tech Wolf"
+        ]
       },
       {
         "name": "Dice Armadillo",
@@ -1668,11 +1668,11 @@
     ],
     "products": [
       {
+        "name": "Flower Wolf",
         "lessThan": [
           "Nekogal #2",
           "Flame Cerebrus"
-        ],
-        "name": "Flower Wolf"
+        ]
       }
     ]
   },
@@ -1683,8 +1683,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Flame Cerebrus"
+        "name": "Flame Cerebrus",
+        "lessThan": []
       }
     ]
   },
@@ -1695,11 +1695,11 @@
     ],
     "products": [
       {
+        "name": "Tiger Axe",
         "lessThan": [
           "Nekogal #2",
           "Flame Cerebrus"
-        ],
-        "name": "Tiger Axe"
+        ]
       }
     ]
   },
@@ -1710,13 +1710,13 @@
     ],
     "products": [
       {
+        "name": "Judge Man",
         "lessThan": [
           "Sword Arm of Dragon",
           "Musician King",
           "Flame Swordsman",
           "Vermillion Sparrow"
-        ],
-        "name": "Judge Man"
+        ]
       }
     ]
   },
@@ -1727,8 +1727,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Dragon Statue"
+        "name": "Dragon Statue",
+        "lessThan": []
       },
       {
         "name": "Dragoness the Wicked Knight",
@@ -1757,10 +1757,10 @@
     ],
     "products": [
       {
+        "name": "Celtic Guardian",
         "lessThan": [
           "Dark Elf"
-        ],
-        "name": "Celtic Guardian"
+        ]
       }
     ]
   },
@@ -1771,8 +1771,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Wow Warrior"
+        "name": "Wow Warrior",
+        "lessThan": []
       }
     ]
   },
@@ -1783,8 +1783,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Cockroach Knight"
+        "name": "Cockroach Knight",
+        "lessThan": []
       }
     ]
   },
@@ -1795,11 +1795,11 @@
     ],
     "products": [
       {
+        "name": "Cyber Soldier",
         "lessThan": [
           "Charubin the Fire Knight",
           "Flame Swordsman"
-        ],
-        "name": "Cyber Soldier"
+        ]
       }
     ]
   },
@@ -1810,12 +1810,12 @@
     ],
     "products": [
       {
+        "name": "Bean Soldier",
         "lessThan": [
           "Charubin the Fire Knight",
           "Flame Swordsman",
           "Queen of Autumn Leaves"
-        ],
-        "name": "Bean Soldier"
+        ]
       }
     ]
   },
@@ -1826,11 +1826,11 @@
     ],
     "products": [
       {
+        "name": "Charubin the Fire Knight",
         "lessThan": [
           "Zombie Warrior",
           "Queen of Autumn Leaves"
-        ],
-        "name": "Charubin the Fire Knight"
+        ]
       },
       {
         "name": "Flame Swordsman",
@@ -1854,13 +1854,13 @@
     ],
     "products": [
       {
+        "name": "Minomushi Warrior",
         "lessThan": [
           "Charubin the Fire Knight",
           "Flame Swordsman",
           "Stone D.",
           "Mystical Sand"
-        ],
-        "name": "Minomushi Warrior"
+        ]
       }
     ]
   },
@@ -1871,11 +1871,11 @@
     ],
     "products": [
       {
+        "name": "Tiger Axe",
         "lessThan": [
           "Nekogal #2",
           "Flame Cerebrus"
-        ],
-        "name": "Tiger Axe"
+        ]
       }
     ]
   },
@@ -1886,10 +1886,10 @@
     ],
     "products": [
       {
+        "name": "Zombie Warrior",
         "lessThan": [
           "Dragon Zombie"
-        ],
-        "name": "Zombie Warrior"
+        ]
       },
       {
         "name": "Armored Zombie",
@@ -1907,8 +1907,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Spirit of the Books"
+        "name": "Spirit of the Books",
+        "lessThan": []
       }
     ]
   },
@@ -1919,8 +1919,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Whiptail Crow"
+        "name": "Whiptail Crow",
+        "lessThan": []
       }
     ]
   },
@@ -1931,10 +1931,10 @@
     ],
     "products": [
       {
+        "name": "Punished Eagle",
         "lessThan": [
           "Flame Swordsman"
-        ],
-        "name": "Punished Eagle"
+        ]
       }
     ]
   },
@@ -1945,8 +1945,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Fiend Refrection #1"
+        "name": "Fiend Refrection #1",
+        "lessThan": []
       }
     ]
   },
@@ -1957,8 +1957,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Mavelus"
+        "name": "Mavelus",
+        "lessThan": []
       },
       {
         "name": "Crimson Sunbird",
@@ -1979,8 +1979,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Turtle Bird"
+        "name": "Turtle Bird",
+        "lessThan": []
       }
     ]
   },
@@ -1991,8 +1991,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "The Snake Hair"
+        "name": "The Snake Hair",
+        "lessThan": []
       }
     ]
   },
@@ -2003,8 +2003,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Great Mammoth of Goldfine"
+        "name": "Great Mammoth of Goldfine",
+        "lessThan": []
       }
     ]
   },
@@ -2015,8 +2015,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Shadow Specter"
+        "name": "Shadow Specter",
+        "lessThan": []
       }
     ]
   },
@@ -2027,8 +2027,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Dragon Zombie"
+        "name": "Dragon Zombie",
+        "lessThan": []
       },
       {
         "name": "Skelgon",
@@ -2050,8 +2050,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Corroding Shark"
+        "name": "Corroding Shark",
+        "lessThan": []
       }
     ]
   },
@@ -2062,8 +2062,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Wood Remains"
+        "name": "Wood Remains",
+        "lessThan": []
       },
       {
         "name": "Pumpking the King of Ghosts",
@@ -2078,8 +2078,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Fire Reaper"
+        "name": "Fire Reaper",
+        "lessThan": []
       },
       {
         "name": "Flame Ghost",
@@ -2100,8 +2100,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Stone Ghost"
+        "name": "Stone Ghost",
+        "lessThan": []
       }
     ]
   },
@@ -2112,10 +2112,10 @@
     ],
     "products": [
       {
+        "name": "Magical Ghost",
         "lessThan": [
           "Dark Elf"
-        ],
-        "name": "Magical Ghost"
+        ]
       }
     ]
   },
@@ -2126,10 +2126,10 @@
     ],
     "products": [
       {
+        "name": "Zombie Warrior",
         "lessThan": [
           "Dragon Zombie"
-        ],
-        "name": "Zombie Warrior"
+        ]
       },
       {
         "name": "Armored Zombie",
@@ -2147,8 +2147,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Acid Trap Hole"
+        "name": "Acid Trap Hole",
+        "lessThan": []
       }
     ]
   },
@@ -2159,8 +2159,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Ancient Elf"
+        "name": "Ancient Elf",
+        "lessThan": []
       }
     ]
   },
@@ -2171,8 +2171,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Armored Zombie"
+        "name": "Armored Zombie",
+        "lessThan": []
       }
     ]
   },
@@ -2183,8 +2183,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Axe of Despair"
+        "name": "Axe of Despair",
+        "lessThan": []
       }
     ]
   },
@@ -2195,8 +2195,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "B. Skull Dragon"
+        "name": "B. Skull Dragon",
+        "lessThan": []
       }
     ]
   },
@@ -2207,8 +2207,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Baby Dragon"
+        "name": "Baby Dragon",
+        "lessThan": []
       }
     ]
   },
@@ -2219,8 +2219,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Baby Dragon"
+        "name": "Baby Dragon",
+        "lessThan": []
       }
     ]
   },
@@ -2231,8 +2231,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Baby Dragon"
+        "name": "Baby Dragon",
+        "lessThan": []
       }
     ]
   },
@@ -2243,8 +2243,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Bad Reaction to Simochi"
+        "name": "Bad Reaction to Simochi",
+        "lessThan": []
       }
     ]
   },
@@ -2255,8 +2255,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Battle Warrior"
+        "name": "Battle Warrior",
+        "lessThan": []
       }
     ]
   },
@@ -2267,8 +2267,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Bear Trap"
+        "name": "Bear Trap",
+        "lessThan": []
       }
     ]
   },
@@ -2279,8 +2279,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Beast Fangs"
+        "name": "Beast Fangs",
+        "lessThan": []
       }
     ]
   },
@@ -2291,8 +2291,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Beastry Mirror Ritual"
+        "name": "Beastry Mirror Ritual",
+        "lessThan": []
       }
     ]
   },
@@ -2303,8 +2303,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Beautiful Beast Trainer"
+        "name": "Beautiful Beast Trainer",
+        "lessThan": []
       }
     ]
   },
@@ -2315,8 +2315,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Big Eye"
+        "name": "Big Eye",
+        "lessThan": []
       }
     ]
   },
@@ -2327,8 +2327,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Black Luster Ritual"
+        "name": "Black Luster Ritual",
+        "lessThan": []
       }
     ]
   },
@@ -2339,8 +2339,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Black Pendant"
+        "name": "Black Pendant",
+        "lessThan": []
       }
     ]
   },
@@ -2351,8 +2351,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Book of Secret Arts"
+        "name": "Book of Secret Arts",
+        "lessThan": []
       }
     ]
   },
@@ -2363,8 +2363,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Breath of Light"
+        "name": "Breath of Light",
+        "lessThan": []
       }
     ]
   },
@@ -2375,8 +2375,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Breath of Light"
+        "name": "Breath of Light",
+        "lessThan": []
       }
     ]
   },
@@ -2387,8 +2387,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Bright Castle"
+        "name": "Bright Castle",
+        "lessThan": []
       }
     ]
   },
@@ -2399,8 +2399,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Clown Zombie"
+        "name": "Clown Zombie",
+        "lessThan": []
       }
     ]
   },
@@ -2411,8 +2411,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Cocoon of Evolution"
+        "name": "Cocoon of Evolution",
+        "lessThan": []
       }
     ]
   },
@@ -2423,8 +2423,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Cocoon of Evolution"
+        "name": "Cocoon of Evolution",
+        "lessThan": []
       }
     ]
   },
@@ -2435,8 +2435,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Cocoon of Evolution"
+        "name": "Cocoon of Evolution",
+        "lessThan": []
       }
     ]
   },
@@ -2447,8 +2447,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Cocoon of Evolution"
+        "name": "Cocoon of Evolution",
+        "lessThan": []
       }
     ]
   },
@@ -2459,8 +2459,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Commencement Dance"
+        "name": "Commencement Dance",
+        "lessThan": []
       }
     ]
   },
@@ -2471,8 +2471,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Contruct of Mask"
+        "name": "Contruct of Mask",
+        "lessThan": []
       }
     ]
   },
@@ -2483,8 +2483,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Cosmo Queen's Prayer"
+        "name": "Cosmo Queen's Prayer",
+        "lessThan": []
       }
     ]
   },
@@ -2495,8 +2495,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Crush Card"
+        "name": "Crush Card",
+        "lessThan": []
       }
     ]
   },
@@ -2507,8 +2507,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Curse of Millennium Shield"
+        "name": "Curse of Millennium Shield",
+        "lessThan": []
       }
     ]
   },
@@ -2519,8 +2519,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Curse of Tri-Horned Dragon"
+        "name": "Curse of Tri-Horned Dragon",
+        "lessThan": []
       }
     ]
   },
@@ -2531,8 +2531,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Curse of Tri-Horned Dragon"
+        "name": "Curse of Tri-Horned Dragon",
+        "lessThan": []
       }
     ]
   },
@@ -2543,8 +2543,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Cursebreaker"
+        "name": "Cursebreaker",
+        "lessThan": []
       }
     ]
   },
@@ -2555,8 +2555,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Dark Energy"
+        "name": "Dark Energy",
+        "lessThan": []
       }
     ]
   },
@@ -2567,8 +2567,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Dark Hole"
+        "name": "Dark Hole",
+        "lessThan": []
       }
     ]
   },
@@ -2579,8 +2579,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Darkfire Dragon"
+        "name": "Darkfire Dragon",
+        "lessThan": []
       }
     ]
   },
@@ -2591,8 +2591,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Dian Keto the Cure Master"
+        "name": "Dian Keto the Cure Master",
+        "lessThan": []
       }
     ]
   },
@@ -2603,8 +2603,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Dragon Capture Jar"
+        "name": "Dragon Capture Jar",
+        "lessThan": []
       }
     ]
   },
@@ -2615,8 +2615,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Dragon Zombie"
+        "name": "Dragon Zombie",
+        "lessThan": []
       }
     ]
   },
@@ -2627,8 +2627,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Dragon Zombie"
+        "name": "Dragon Zombie",
+        "lessThan": []
       }
     ]
   },
@@ -2639,8 +2639,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Dungeon Worm"
+        "name": "Dungeon Worm",
+        "lessThan": []
       }
     ]
   },
@@ -2651,8 +2651,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Eatgaboon"
+        "name": "Eatgaboon",
+        "lessThan": []
       }
     ]
   },
@@ -2663,8 +2663,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Electro-whip"
+        "name": "Electro-whip",
+        "lessThan": []
       }
     ]
   },
@@ -2675,8 +2675,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Electro-whip"
+        "name": "Electro-whip",
+        "lessThan": []
       }
     ]
   },
@@ -2687,8 +2687,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Elegant Egotist"
+        "name": "Elegant Egotist",
+        "lessThan": []
       }
     ]
   },
@@ -2699,8 +2699,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Elegant Egotist"
+        "name": "Elegant Egotist",
+        "lessThan": []
       }
     ]
   },
@@ -2711,8 +2711,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Elegant Egotist"
+        "name": "Elegant Egotist",
+        "lessThan": []
       }
     ]
   },
@@ -2723,8 +2723,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Elf's Light"
+        "name": "Elf's Light",
+        "lessThan": []
       }
     ]
   },
@@ -2735,8 +2735,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Eradicating Aerosol"
+        "name": "Eradicating Aerosol",
+        "lessThan": []
       }
     ]
   },
@@ -2747,8 +2747,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Eradicating Aerosol"
+        "name": "Eradicating Aerosol",
+        "lessThan": []
       }
     ]
   },
@@ -2759,8 +2759,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Eternal Draught"
+        "name": "Eternal Draught",
+        "lessThan": []
       }
     ]
   },
@@ -2771,8 +2771,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Eternal Draught"
+        "name": "Eternal Draught",
+        "lessThan": []
       }
     ]
   },
@@ -2783,8 +2783,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Eternal Draught"
+        "name": "Eternal Draught",
+        "lessThan": []
       }
     ]
   },
@@ -2795,8 +2795,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Eternal Rest"
+        "name": "Eternal Rest",
+        "lessThan": []
       }
     ]
   },
@@ -2807,8 +2807,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Fake Trap"
+        "name": "Fake Trap",
+        "lessThan": []
       }
     ]
   },
@@ -2819,8 +2819,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Fake Trap"
+        "name": "Fake Trap",
+        "lessThan": []
       }
     ]
   },
@@ -2831,8 +2831,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Final Flame"
+        "name": "Final Flame",
+        "lessThan": []
       }
     ]
   },
@@ -2843,8 +2843,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Forest"
+        "name": "Forest",
+        "lessThan": []
       }
     ]
   },
@@ -2855,8 +2855,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Fortress Whale's Oath"
+        "name": "Fortress Whale's Oath",
+        "lessThan": []
       }
     ]
   },
@@ -2867,8 +2867,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Gaia the Dragon Champion"
+        "name": "Gaia the Dragon Champion",
+        "lessThan": []
       }
     ]
   },
@@ -2879,8 +2879,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Garma Sword Oath"
+        "name": "Garma Sword Oath",
+        "lessThan": []
       }
     ]
   },
@@ -2891,8 +2891,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Gate Guardian Ritual"
+        "name": "Gate Guardian Ritual",
+        "lessThan": []
       }
     ]
   },
@@ -2903,8 +2903,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Goblin Fan"
+        "name": "Goblin Fan",
+        "lessThan": []
       }
     ]
   },
@@ -2915,8 +2915,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Goblin's Secret Remedy"
+        "name": "Goblin's Secret Remedy",
+        "lessThan": []
       }
     ]
   },
@@ -2927,8 +2927,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Hamburger Recipe"
+        "name": "Hamburger Recipe",
+        "lessThan": []
       }
     ]
   },
@@ -2939,8 +2939,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Harpie Lady Sisters"
+        "name": "Harpie Lady Sisters",
+        "lessThan": []
       }
     ]
   },
@@ -2951,8 +2951,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Harpie's Feather Duster"
+        "name": "Harpie's Feather Duster",
+        "lessThan": []
       }
     ]
   },
@@ -2963,8 +2963,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Hinotama"
+        "name": "Hinotama",
+        "lessThan": []
       }
     ]
   },
@@ -2975,8 +2975,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Horn of the Unicorn"
+        "name": "Horn of the Unicorn",
+        "lessThan": []
       }
     ]
   },
@@ -2987,8 +2987,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "House of Adhesive Tape"
+        "name": "House of Adhesive Tape",
+        "lessThan": []
       }
     ]
   },
@@ -2999,8 +2999,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Insect Armor with Laser Cannon"
+        "name": "Insect Armor with Laser Cannon",
+        "lessThan": []
       }
     ]
   },
@@ -3011,8 +3011,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Invader of the Throne"
+        "name": "Invader of the Throne",
+        "lessThan": []
       }
     ]
   },
@@ -3023,8 +3023,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Invigoration"
+        "name": "Invigoration",
+        "lessThan": []
       }
     ]
   },
@@ -3035,8 +3035,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Invisible Wire"
+        "name": "Invisible Wire",
+        "lessThan": []
       }
     ]
   },
@@ -3047,8 +3047,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Javelin Beetle Pact"
+        "name": "Javelin Beetle Pact",
+        "lessThan": []
       }
     ]
   },
@@ -3059,8 +3059,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Kairyu-shin"
+        "name": "Kairyu-shin",
+        "lessThan": []
       }
     ]
   },
@@ -3071,8 +3071,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Kairyu-shin"
+        "name": "Kairyu-shin",
+        "lessThan": []
       }
     ]
   },
@@ -3083,8 +3083,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Korogashi"
+        "name": "Korogashi",
+        "lessThan": []
       }
     ]
   },
@@ -3095,8 +3095,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Kunai with Chain"
+        "name": "Kunai with Chain",
+        "lessThan": []
       }
     ]
   },
@@ -3107,8 +3107,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Laser Cannon Armor"
+        "name": "Laser Cannon Armor",
+        "lessThan": []
       }
     ]
   },
@@ -3119,8 +3119,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Launcher Spider"
+        "name": "Launcher Spider",
+        "lessThan": []
       }
     ]
   },
@@ -3131,8 +3131,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Legendary Sword"
+        "name": "Legendary Sword",
+        "lessThan": []
       }
     ]
   },
@@ -3143,8 +3143,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Machine Conversion Factory"
+        "name": "Machine Conversion Factory",
+        "lessThan": []
       }
     ]
   },
@@ -3155,8 +3155,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Megamorph"
+        "name": "Megamorph",
+        "lessThan": []
       }
     ]
   },
@@ -3167,8 +3167,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Metalmorph"
+        "name": "Metalmorph",
+        "lessThan": []
       }
     ]
   },
@@ -3179,8 +3179,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Metalmorph"
+        "name": "Metalmorph",
+        "lessThan": []
       }
     ]
   },
@@ -3191,8 +3191,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Metal Dragon"
+        "name": "Metal Dragon",
+        "lessThan": []
       }
     ]
   },
@@ -3203,8 +3203,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Metal Fish"
+        "name": "Metal Fish",
+        "lessThan": []
       }
     ]
   },
@@ -3215,8 +3215,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Metalzoa"
+        "name": "Metalzoa",
+        "lessThan": []
       }
     ]
   },
@@ -3227,8 +3227,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Meteor B. Dragon"
+        "name": "Meteor B. Dragon",
+        "lessThan": []
       }
     ]
   },
@@ -3239,8 +3239,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Musician King"
+        "name": "Musician King",
+        "lessThan": []
       }
     ]
   },
@@ -3251,8 +3251,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Musician King"
+        "name": "Musician King",
+        "lessThan": []
       }
     ]
   },
@@ -3263,8 +3263,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Mystical Sheep #1"
+        "name": "Mystical Sheep #1",
+        "lessThan": []
       }
     ]
   },
@@ -3275,8 +3275,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Monster Tamer"
+        "name": "Monster Tamer",
+        "lessThan": []
       }
     ]
   },
@@ -3287,8 +3287,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Novox's Prayer"
+        "name": "Novox's Prayer",
+        "lessThan": []
       }
     ]
   },
@@ -3299,8 +3299,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Ookazi"
+        "name": "Ookazi",
+        "lessThan": []
       }
     ]
   },
@@ -3311,8 +3311,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Power of Kaishin"
+        "name": "Power of Kaishin",
+        "lessThan": []
       }
     ]
   },
@@ -3323,8 +3323,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Puppet Ritual"
+        "name": "Puppet Ritual",
+        "lessThan": []
       }
     ]
   },
@@ -3335,8 +3335,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Rabid Horseman"
+        "name": "Rabid Horseman",
+        "lessThan": []
       }
     ]
   },
@@ -3347,8 +3347,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Raigeki"
+        "name": "Raigeki",
+        "lessThan": []
       }
     ]
   },
@@ -3359,8 +3359,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Raise Body Heat"
+        "name": "Raise Body Heat",
+        "lessThan": []
       }
     ]
   },
@@ -3371,8 +3371,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Reaper of the Cards"
+        "name": "Reaper of the Cards",
+        "lessThan": []
       }
     ]
   },
@@ -3383,8 +3383,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Red-eyes B. Dragon"
+        "name": "Red-eyes B. Dragon",
+        "lessThan": []
       }
     ]
   },
@@ -3395,8 +3395,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Red-eyes B. Dragon"
+        "name": "Red-eyes B. Dragon",
+        "lessThan": []
       }
     ]
   },
@@ -3407,8 +3407,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Red-eyes B. Dragon"
+        "name": "Red-eyes B. Dragon",
+        "lessThan": []
       }
     ]
   },
@@ -3419,8 +3419,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Resurrection of Chakra"
+        "name": "Resurrection of Chakra",
+        "lessThan": []
       }
     ]
   },
@@ -3431,8 +3431,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Reverse Trap"
+        "name": "Reverse Trap",
+        "lessThan": []
       }
     ]
   },
@@ -3443,8 +3443,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Reverse Trap"
+        "name": "Reverse Trap",
+        "lessThan": []
       }
     ]
   },
@@ -3455,8 +3455,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Revival of Sennen Genjin"
+        "name": "Revival of Sennen Genjin",
+        "lessThan": []
       }
     ]
   },
@@ -3467,8 +3467,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Revival of Sennen Genjin"
+        "name": "Revival of Sennen Genjin",
+        "lessThan": []
       }
     ]
   },
@@ -3479,8 +3479,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Revival of Skeleton Rider"
+        "name": "Revival of Skeleton Rider",
+        "lessThan": []
       }
     ]
   },
@@ -3491,8 +3491,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Revived of Serpent Night Dragon"
+        "name": "Revived of Serpent Night Dragon",
+        "lessThan": []
       }
     ]
   },
@@ -3503,8 +3503,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Salamandra"
+        "name": "Salamandra",
+        "lessThan": []
       }
     ]
   },
@@ -3515,8 +3515,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Shadow Specter"
+        "name": "Shadow Specter",
+        "lessThan": []
       }
     ]
   },
@@ -3527,8 +3527,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Shadow Spell"
+        "name": "Shadow Spell",
+        "lessThan": []
       }
     ]
   },
@@ -3539,8 +3539,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Soul of the Pure"
+        "name": "Soul of the Pure",
+        "lessThan": []
       }
     ]
   },
@@ -3551,8 +3551,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Soul of the Pure"
+        "name": "Soul of the Pure",
+        "lessThan": []
       }
     ]
   },
@@ -3563,8 +3563,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Stain Storm"
+        "name": "Stain Storm",
+        "lessThan": []
       }
     ]
   },
@@ -3575,8 +3575,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Stain Storm"
+        "name": "Stain Storm",
+        "lessThan": []
       }
     ]
   },
@@ -3587,8 +3587,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Steel Shell"
+        "name": "Steel Shell",
+        "lessThan": []
       }
     ]
   },
@@ -3599,8 +3599,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Stop Defense"
+        "name": "Stop Defense",
+        "lessThan": []
       }
     ]
   },
@@ -3611,8 +3611,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Summoned Skull"
+        "name": "Summoned Skull",
+        "lessThan": []
       }
     ]
   },
@@ -3623,8 +3623,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Sword of Dark Destruction"
+        "name": "Sword of Dark Destruction",
+        "lessThan": []
       }
     ]
   },
@@ -3635,8 +3635,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Swords of Revealing Light"
+        "name": "Swords of Revealing Light",
+        "lessThan": []
       }
     ]
   },
@@ -3647,8 +3647,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Tainted Wisdom"
+        "name": "Tainted Wisdom",
+        "lessThan": []
       }
     ]
   },
@@ -3659,8 +3659,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "The 13th Grave"
+        "name": "The 13th Grave",
+        "lessThan": []
       }
     ]
   },
@@ -3671,8 +3671,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "The 13th Grave"
+        "name": "The 13th Grave",
+        "lessThan": []
       }
     ]
   },
@@ -3683,8 +3683,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "The Wicked Worm Beast"
+        "name": "The Wicked Worm Beast",
+        "lessThan": []
       }
     ]
   },
@@ -3695,8 +3695,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Tiger Axe"
+        "name": "Tiger Axe",
+        "lessThan": []
       }
     ]
   },
@@ -3707,8 +3707,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Trakadon"
+        "name": "Trakadon",
+        "lessThan": []
       }
     ]
   },
@@ -3719,8 +3719,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Tremendous Fire"
+        "name": "Tremendous Fire",
+        "lessThan": []
       }
     ]
   },
@@ -3731,8 +3731,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Turtle Oath"
+        "name": "Turtle Oath",
+        "lessThan": []
       }
     ]
   },
@@ -3743,8 +3743,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Turtle Oath"
+        "name": "Turtle Oath",
+        "lessThan": []
       }
     ]
   },
@@ -3755,8 +3755,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Ultimate Dragon"
+        "name": "Ultimate Dragon",
+        "lessThan": []
       }
     ]
   },
@@ -3767,8 +3767,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Vile Germs"
+        "name": "Vile Germs",
+        "lessThan": []
       }
     ]
   },
@@ -3779,8 +3779,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Vile Germs"
+        "name": "Vile Germs",
+        "lessThan": []
       }
     ]
   },
@@ -3791,8 +3791,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Violet Crystal"
+        "name": "Violet Crystal",
+        "lessThan": []
       }
     ]
   },
@@ -3803,8 +3803,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "War-lion Ritual"
+        "name": "War-lion Ritual",
+        "lessThan": []
       }
     ]
   },
@@ -3815,8 +3815,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Wasteland"
+        "name": "Wasteland",
+        "lessThan": []
       }
     ]
   },
@@ -3827,8 +3827,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Water Magician"
+        "name": "Water Magician",
+        "lessThan": []
       }
     ]
   },
@@ -3839,8 +3839,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Widespread Ruin"
+        "name": "Widespread Ruin",
+        "lessThan": []
       }
     ]
   },
@@ -3851,8 +3851,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Winged Trumpeter"
+        "name": "Winged Trumpeter",
+        "lessThan": []
       }
     ]
   },
@@ -3863,8 +3863,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Witty Phantom"
+        "name": "Witty Phantom",
+        "lessThan": []
       }
     ]
   },
@@ -3875,8 +3875,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Witty Phantom"
+        "name": "Witty Phantom",
+        "lessThan": []
       }
     ]
   },
@@ -3887,8 +3887,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Witty Phantom"
+        "name": "Witty Phantom",
+        "lessThan": []
       }
     ]
   },
@@ -3899,8 +3899,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Witty Phantom"
+        "name": "Witty Phantom",
+        "lessThan": []
       }
     ]
   },
@@ -3911,8 +3911,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Yamadron"
+        "name": "Yamadron",
+        "lessThan": []
       }
     ]
   },
@@ -3923,8 +3923,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Yamadron Ritual"
+        "name": "Yamadron Ritual",
+        "lessThan": []
       }
     ]
   },
@@ -3935,8 +3935,8 @@
     ],
     "products": [
       {
-        "lessThan": [],
-        "name": "Zera Ritual"
+        "name": "Zera Ritual",
+        "lessThan": []
       }
     ]
   }

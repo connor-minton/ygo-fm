@@ -44,16 +44,15 @@ class FusionRulesParser {
       throw new Error('unexpected buffer length: ' + this.buffer.length);
     }
 
-    let product = {
-      lessThan: []
-    };
-
     let firstMonBegin = equalityLine.indexOf('=') + 1;
     let firstMonEnd = equalityLine.indexOf('(');
     if (firstMonEnd === -1)
       firstMonEnd = equalityLine.length;
 
-    product.name = equalityLine.substring(firstMonBegin, firstMonEnd).trim();
+    let product = {
+      name: equalityLine.substring(firstMonBegin, firstMonEnd).trim(),
+      lessThan: []
+    };
 
     while (this.scanner.hasNextLine()) {
       const line = this.scanner.getNextLine();
