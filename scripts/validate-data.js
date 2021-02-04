@@ -10,6 +10,10 @@ const validators = [
   {
     validate: require('./validators/fusion-vs-fandom'),
     name: 'fusion names in fandom'
+  },
+  {
+    validate: require('./validators/cards'),
+    name: 'merged cards.json'
   }
 ];
 

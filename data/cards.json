@@ -7355,10 +7355,7 @@
     "purchasable": true,
     "fusionTypes": [
       "Aqua",
-      "Bugrothian",
-      "Restore",
-      "Page",
-      ""
+      "Bugrothian"
     ],
     "guardianStars": [
       "Sun",

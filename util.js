@@ -36,6 +36,7 @@ typeNorm.addIdentity('MercuryMagicUser');
 typeNorm.addIdentity('MercurySpellcaster');
 typeNorm.addIdentity('Mirror');
 typeNorm.addIdentity('MusKingian');
+typeNorm.addIdentity('MystElfian');
 typeNorm.addIdentity('Rainbow');
 typeNorm.addIdentity('Sheepian');
 typeNorm.addIdentity('Thronian');

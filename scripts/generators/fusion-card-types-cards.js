@@ -35,7 +35,9 @@ class CardTypesParser {
     this.lineNum++;
     let line = this.lines[this.lineNum];
     while (this.lineNum < this.lines.length && !line.includes('|')) {
-      card.types = card.types.concat(line.trim().split(/\s+/));
+      if (line.trim()) {
+        card.types = card.types.concat(line.trim().split(/\s+/));
+      }
       this.lineNum++;
       line = this.lines[this.lineNum];
     }
