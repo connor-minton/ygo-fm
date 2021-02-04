@@ -1,0 +1,3943 @@
+[
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [
+          "Mystical Sheep #1",
+          "Mon Larvas",
+          "Winged Egg of New Life",
+          "Dark Witch",
+          "Nekogal #2"
+        ],
+        "name": "Garvas"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [
+          "Mystical Elf",
+          "Tiger Axe",
+          "Celtic Guardian",
+          "Dark Witch",
+          "Dark Elf"
+        ],
+        "name": "Winged Egg of New Life"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Spike Seadra"
+      },
+      {
+        "name": "Kairyu-shin",
+        "lessThan": [
+          "Flame Swordsman"
+        ]
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Bolt Escargot"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Hyosube"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Mon Larvas"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [
+          "Mystical Sheep #1",
+          "Mon Larvas",
+          "Winged Egg of New Life",
+          "Dark Witch",
+          "Nekogal #2"
+        ],
+        "name": "Garvas"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [
+          "Nekogal #2"
+        ],
+        "name": "Tatsunootoshigo"
+      },
+      {
+        "name": "Rare Fish",
+        "lessThan": []
+      },
+      {
+        "name": "Marine Beast",
+        "lessThan": [
+          "Nekogal #2"
+        ]
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Tripwire Beast"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Turtle Tiger"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Shadow Specter"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Amphibious Bugroth"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Cyber Saurus"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Harpie's Pet Dragon"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Thousand Dragon"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Spike Seadra"
+      },
+      {
+        "name": "Kairyu-shin",
+        "lessThan": [
+          "Flame Swordsman"
+        ]
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [
+          "Dragoness the Wicked Knight",
+          "D. Human",
+          "Tiger Axe"
+        ],
+        "name": "Koumori Dragon"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [
+          "Cyber Soldier",
+          "Cyber Saurus",
+          "Flame Swordsman"
+        ],
+        "name": "Metal Dragon"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [
+          "Dragon Zombie",
+          "Dragon Statue",
+          "Dragoness the Wicked Knight",
+          "D. Human",
+          "Sword Arm of Dragon"
+        ],
+        "name": "Blackland Fire Dragon"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [
+          "Bean Soldier",
+          "Flame Swordsman",
+          "Pumpking the King of Ghosts"
+        ],
+        "name": "B. Dragon Jungle King"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [
+          "Flame Swordsman"
+        ],
+        "name": "Stone D."
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Thunder Dragon"
+      },
+      {
+        "name": "Twin-headed Thunder Dragon",
+        "lessThan": [
+          "Skelgon",
+          "Sword Arm of Dragon"
+        ]
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [
+          "Spike Seadra",
+          "Kairyu-shin"
+        ],
+        "name": "Sea King Dragon"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Dragon Statue"
+      },
+      {
+        "name": "Dragoness the Wicked Knight",
+        "lessThan": [
+          "Flame Swordsman"
+        ]
+      },
+      {
+        "name": "D. Human",
+        "lessThan": []
+      },
+      {
+        "name": "Sword Arm of Dragon",
+        "lessThan": [
+          "Skelgon",
+          "Flame Swordsman",
+          "Dark Elf"
+        ]
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Dragon Zombie"
+      },
+      {
+        "name": "Skelgon",
+        "lessThan": []
+      },
+      {
+        "name": "Curse of Dragon",
+        "lessThan": [
+          "Sword Arm of Dragon",
+          "Twin-headed Thunder Dragon"
+        ]
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [
+          "Mystical Elf",
+          "Tiger Axe",
+          "Celtic Guardian",
+          "Dark Witch",
+          "Dark Elf"
+        ],
+        "name": "Winged Egg of New Life"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Dark Elf"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Mystical Elf"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [
+          "Dark Elf"
+        ],
+        "name": "Celtic Guardian"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [
+          "Mystical Elf",
+          "Celtic Guardian",
+          "Musician King",
+          "Queen of Autumn Leaves",
+          "Dark Elf"
+        ],
+        "name": "Dark Witch"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Harpie's Feather Duster"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Harpie's Feather Duster"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Harpie's Feather Duster"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [
+          "Mystical Elf",
+          "Celtic Guardian",
+          "Musician King",
+          "Queen of Autumn Leaves",
+          "Dark Elf"
+        ],
+        "name": "Dark Witch"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [
+          "Wow Warrior",
+          "Tatsunootoshigo"
+        ],
+        "name": "Ice Water"
+      },
+      {
+        "name": "Enchanting Mermaid",
+        "lessThan": []
+      },
+      {
+        "name": "Amazon of the Seas",
+        "lessThan": [
+          "Wow Warrior",
+          "Tatsunootoshigo",
+          "Dark Witch",
+          "Queen of Autumn Leaves"
+        ]
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Queen of Autumn Leaves"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [
+          "Charubin the Fire Knight",
+          "Flame Swordsman",
+          "B. Dragon Jungle King"
+        ],
+        "name": "Mystical Sand"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Nekogal #2"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [
+          "Queen of Autumn Leaves"
+        ],
+        "name": "Rose Spectre of Dunn"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Darkworld Thorns"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [
+          "Darkworld Thorns"
+        ],
+        "name": "Summoned Skull"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Kappa Avenger"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [
+          "Nekogal #2"
+        ],
+        "name": "Tatsunootoshigo"
+      },
+      {
+        "name": "Rare Fish",
+        "lessThan": []
+      },
+      {
+        "name": "Marine Beast",
+        "lessThan": [
+          "Nekogal #2"
+        ]
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [
+          "Wow Warrior",
+          "Tatsunootoshigo"
+        ],
+        "name": "Ice Water"
+      },
+      {
+        "name": "Enchanting Mermaid",
+        "lessThan": []
+      },
+      {
+        "name": "Amazon of the Seas",
+        "lessThan": [
+          "Wow Warrior",
+          "Tatsunootoshigo",
+          "Dark Witch",
+          "Queen of Autumn Leaves"
+        ]
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Misairuzame"
+      },
+      {
+        "name": "Metal Fish",
+        "lessThan": []
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [
+          "Queen of Autumn Leaves",
+          "Dark Witch"
+        ],
+        "name": "7 Colored Fish"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Wow Warrior"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Corroding Shark"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Kwagar Hercules"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Cockroach Knight"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [
+          "Mystical Sand"
+        ],
+        "name": "Ushi Oni"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [
+          "Dragoness the Wicked Knight",
+          "D. Human",
+          "Tiger Axe"
+        ],
+        "name": "Koumori Dragon"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Cyber Saurus"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [
+          "Cyber Soldier",
+          "Cyber Saurus",
+          "Flame Swordsman"
+        ],
+        "name": "Metal Dragon"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Misairuzame"
+      },
+      {
+        "name": "Metal Fish",
+        "lessThan": []
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Disk Magician"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [
+          "Flame Cerebrus"
+        ],
+        "name": "Giga-tech Wolf"
+      },
+      {
+        "name": "Dice Armadillo",
+        "lessThan": [
+          "Flame Cerebrus"
+        ]
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [
+          "Charubin the Fire Knight",
+          "Flame Swordsman"
+        ],
+        "name": "Cyber Soldier"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [
+          "Dragon Zombie",
+          "Dragon Statue",
+          "Dragoness the Wicked Knight",
+          "D. Human",
+          "Sword Arm of Dragon"
+        ],
+        "name": "Blackland Fire Dragon"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Dark Elf"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Ryu-kishin Powered"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [
+          "Mystical Sand"
+        ],
+        "name": "Ushi Oni"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Disk Magician"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Fiend Refrection #1"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Musician King"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Mystical Elf"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [
+          "Bean Soldier",
+          "Flame Swordsman",
+          "Pumpking the King of Ghosts"
+        ],
+        "name": "B. Dragon Jungle King"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Queen of Autumn Leaves"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Firegrass"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Snakeyashi"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [
+          "Nekogal #2",
+          "Flame Cerebrus"
+        ],
+        "name": "Flower Wolf"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [
+          "Charubin the Fire Knight",
+          "Flame Swordsman",
+          "Queen of Autumn Leaves"
+        ],
+        "name": "Bean Soldier"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Wood Remains"
+      },
+      {
+        "name": "Pumpking the King of Ghosts",
+        "lessThan": []
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [
+          "Spike Seadra"
+        ],
+        "name": "Fire Kraken"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Firegrass"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [
+          "Stone Ghost",
+          "Minomushi Warrior"
+        ],
+        "name": "Dissolverock"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [
+          "Year White Turtle",
+          "Boulder Tortoise",
+          "Turtle Bird"
+        ],
+        "name": "Giant Turtle Who Feeds on Flames"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Flame Cerebrus"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [
+          "Zombie Warrior",
+          "Queen of Autumn Leaves"
+        ],
+        "name": "Charubin the Fire Knight"
+      },
+      {
+        "name": "Flame Swordsman",
+        "lessThan": [
+          "Zombie Warrior",
+          "Armored Zombie",
+          "Dragon Zombie",
+          "Queen of Autumn Leaves"
+        ]
+      },
+      {
+        "name": "Vermillion Sparrow",
+        "lessThan": []
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Mavelus"
+      },
+      {
+        "name": "Crimson Sunbird",
+        "lessThan": [
+          "Flame Swordsman",
+          "Vermillion Sparrow",
+          "Queen of Autumn Leaves",
+          "Harpie's Pet Dragon",
+          "Mystical Sand"
+        ]
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Fire Reaper"
+      },
+      {
+        "name": "Flame Ghost",
+        "lessThan": [
+          "Wood Remains",
+          "Zombie Warrior",
+          "Stone Ghost",
+          "Magical Ghost",
+          "The Snake Hair"
+        ]
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [
+          "Queen of Autumn Leaves",
+          "Dark Witch"
+        ],
+        "name": "7 Colored Fish"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Snakeyashi"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Electric Lizard"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Soul Hunter"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [
+          "Flame Swordsman"
+        ],
+        "name": "Stone D."
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [
+          "Charubin the Fire Knight",
+          "Flame Swordsman",
+          "B. Dragon Jungle King"
+        ],
+        "name": "Mystical Sand"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [
+          "Stone Ghost",
+          "Minomushi Warrior"
+        ],
+        "name": "Dissolverock"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Boulder Tortoise"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [
+          "Charubin the Fire Knight",
+          "Flame Swordsman",
+          "Stone D.",
+          "Mystical Sand"
+        ],
+        "name": "Minomushi Warrior"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Stone Ghost"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Mystical Sheep #1"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [
+          "Dark Elf"
+        ],
+        "name": "Lord of the Lamp"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [
+          "Thousand Dragon"
+        ],
+        "name": "Kaminari Attack"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "The Immortal of Thunder"
+      },
+      {
+        "name": "Kaminari Attack",
+        "lessThan": [
+          "Thousand Dragon"
+        ]
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "30,000-Year White Turtle"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [
+          "Dark Elf"
+        ],
+        "name": "Magical Ghost"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Invader of the Throne"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Bolt Escargot"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Tripwire Beast"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Thunder Dragon"
+      },
+      {
+        "name": "Twin-headed Thunder Dragon",
+        "lessThan": [
+          "Skelgon",
+          "Sword Arm of Dragon"
+        ]
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Electric Lizard"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "The Immortal of Thunder"
+      },
+      {
+        "name": "Kaminari Attack",
+        "lessThan": [
+          "Thousand Dragon"
+        ]
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Turtle Tiger"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [
+          "Spike Seadra",
+          "Kairyu-shin"
+        ],
+        "name": "Sea King Dragon"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [
+          "Year White Turtle",
+          "Boulder Tortoise",
+          "Turtle Bird"
+        ],
+        "name": "Giant Turtle Who Feeds on Flames"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Boulder Tortoise"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "30,000-Year White Turtle"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Turtle Bird"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Nekogal #2"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [
+          "Flame Cerebrus"
+        ],
+        "name": "Giga-tech Wolf"
+      },
+      {
+        "name": "Dice Armadillo",
+        "lessThan": [
+          "Flame Cerebrus"
+        ]
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [
+          "Nekogal #2",
+          "Flame Cerebrus"
+        ],
+        "name": "Flower Wolf"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Flame Cerebrus"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [
+          "Nekogal #2",
+          "Flame Cerebrus"
+        ],
+        "name": "Tiger Axe"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [
+          "Sword Arm of Dragon",
+          "Musician King",
+          "Flame Swordsman",
+          "Vermillion Sparrow"
+        ],
+        "name": "Judge Man"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Dragon Statue"
+      },
+      {
+        "name": "Dragoness the Wicked Knight",
+        "lessThan": [
+          "Flame Swordsman"
+        ]
+      },
+      {
+        "name": "D. Human",
+        "lessThan": []
+      },
+      {
+        "name": "Sword Arm of Dragon",
+        "lessThan": [
+          "Skelgon",
+          "Flame Swordsman",
+          "Dark Elf"
+        ]
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [
+          "Dark Elf"
+        ],
+        "name": "Celtic Guardian"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Wow Warrior"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Cockroach Knight"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [
+          "Charubin the Fire Knight",
+          "Flame Swordsman"
+        ],
+        "name": "Cyber Soldier"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [
+          "Charubin the Fire Knight",
+          "Flame Swordsman",
+          "Queen of Autumn Leaves"
+        ],
+        "name": "Bean Soldier"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [
+          "Zombie Warrior",
+          "Queen of Autumn Leaves"
+        ],
+        "name": "Charubin the Fire Knight"
+      },
+      {
+        "name": "Flame Swordsman",
+        "lessThan": [
+          "Zombie Warrior",
+          "Armored Zombie",
+          "Dragon Zombie",
+          "Queen of Autumn Leaves"
+        ]
+      },
+      {
+        "name": "Vermillion Sparrow",
+        "lessThan": []
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [
+          "Charubin the Fire Knight",
+          "Flame Swordsman",
+          "Stone D.",
+          "Mystical Sand"
+        ],
+        "name": "Minomushi Warrior"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [
+          "Nekogal #2",
+          "Flame Cerebrus"
+        ],
+        "name": "Tiger Axe"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [
+          "Dragon Zombie"
+        ],
+        "name": "Zombie Warrior"
+      },
+      {
+        "name": "Armored Zombie",
+        "lessThan": [
+          "Dragon Zombie",
+          "Dark Elf"
+        ]
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Spirit of the Books"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Whiptail Crow"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [
+          "Flame Swordsman"
+        ],
+        "name": "Punished Eagle"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Fiend Refrection #1"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Mavelus"
+      },
+      {
+        "name": "Crimson Sunbird",
+        "lessThan": [
+          "Flame Swordsman",
+          "Vermillion Sparrow",
+          "Queen of Autumn Leaves",
+          "Harpie's Pet Dragon",
+          "Mystical Sand"
+        ]
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Turtle Bird"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "The Snake Hair"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Great Mammoth of Goldfine"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Shadow Specter"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Dragon Zombie"
+      },
+      {
+        "name": "Skelgon",
+        "lessThan": []
+      },
+      {
+        "name": "Curse of Dragon",
+        "lessThan": [
+          "Sword Arm of Dragon",
+          "Twin-headed Thunder Dragon"
+        ]
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Corroding Shark"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Wood Remains"
+      },
+      {
+        "name": "Pumpking the King of Ghosts",
+        "lessThan": []
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Fire Reaper"
+      },
+      {
+        "name": "Flame Ghost",
+        "lessThan": [
+          "Wood Remains",
+          "Zombie Warrior",
+          "Stone Ghost",
+          "Magical Ghost",
+          "The Snake Hair"
+        ]
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Stone Ghost"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [
+          "Dark Elf"
+        ],
+        "name": "Magical Ghost"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [
+          "Dragon Zombie"
+        ],
+        "name": "Zombie Warrior"
+      },
+      {
+        "name": "Armored Zombie",
+        "lessThan": [
+          "Dragon Zombie",
+          "Dark Elf"
+        ]
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Acid Trap Hole"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Ancient Elf"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Armored Zombie"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Axe of Despair"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "B. Skull Dragon"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Baby Dragon"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Baby Dragon"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Baby Dragon"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Bad Reaction to Simochi"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Battle Warrior"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Bear Trap"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Beast Fangs"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Beastry Mirror Ritual"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Beautiful Beast Trainer"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Big Eye"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Black Luster Ritual"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Black Pendant"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Book of Secret Arts"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Breath of Light"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Breath of Light"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Bright Castle"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Clown Zombie"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Cocoon of Evolution"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Cocoon of Evolution"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Cocoon of Evolution"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Cocoon of Evolution"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Commencement Dance"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Contruct of Mask"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Cosmo Queen's Prayer"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Crush Card"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Curse of Millennium Shield"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Curse of Tri-Horned Dragon"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Curse of Tri-Horned Dragon"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Cursebreaker"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Dark Energy"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Dark Hole"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Darkfire Dragon"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Dian Keto the Cure Master"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Dragon Capture Jar"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Dragon Zombie"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Dragon Zombie"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Dungeon Worm"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Eatgaboon"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Electro-whip"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Electro-whip"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Elegant Egotist"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Elegant Egotist"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Elegant Egotist"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Elf's Light"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Eradicating Aerosol"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Eradicating Aerosol"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Eternal Draught"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Eternal Draught"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Eternal Draught"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Eternal Rest"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Fake Trap"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Fake Trap"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Final Flame"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Forest"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Fortress Whale's Oath"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Gaia the Dragon Champion"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Garma Sword Oath"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Gate Guardian Ritual"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Goblin Fan"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Goblin's Secret Remedy"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Hamburger Recipe"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Harpie Lady Sisters"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Harpie's Feather Duster"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Hinotama"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Horn of the Unicorn"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "House of Adhesive Tape"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Insect Armor with Laser Cannon"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Invader of the Throne"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Invigoration"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Invisible Wire"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Javelin Beetle Pact"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Kairyu-shin"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Kairyu-shin"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Korogashi"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Kunai with Chain"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Laser Cannon Armor"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Launcher Spider"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Legendary Sword"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Machine Conversion Factory"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Megamorph"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Metalmorph"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Metalmorph"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Metal Dragon"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Metal Fish"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Metalzoa"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Meteor B. Dragon"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Musician King"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Musician King"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Mystical Sheep #1"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Monster Tamer"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Novox's Prayer"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Ookazi"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Power of Kaishin"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Puppet Ritual"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Rabid Horseman"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Raigeki"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Raise Body Heat"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Reaper of the Cards"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Red-eyes B. Dragon"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Red-eyes B. Dragon"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Red-eyes B. Dragon"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Resurrection of Chakra"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Reverse Trap"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Reverse Trap"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Revival of Sennen Genjin"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Revival of Sennen Genjin"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Revival of Skeleton Rider"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Revived of Serpent Night Dragon"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Salamandra"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Shadow Specter"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Shadow Spell"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Soul of the Pure"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Soul of the Pure"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Stain Storm"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Stain Storm"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Steel Shell"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Stop Defense"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Summoned Skull"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Sword of Dark Destruction"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Swords of Revealing Light"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Tainted Wisdom"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "The 13th Grave"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "The 13th Grave"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "The Wicked Worm Beast"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Tiger Axe"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Trakadon"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Tremendous Fire"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Turtle Oath"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Turtle Oath"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Ultimate Dragon"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Vile Germs"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Vile Germs"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Violet Crystal"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "War-lion Ritual"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Wasteland"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Water Magician"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Widespread Ruin"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Winged Trumpeter"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Witty Phantom"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Witty Phantom"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Witty Phantom"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Witty Phantom"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Yamadron"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Yamadron Ritual"
+      }
+    ]
+  },
+  {
+    "reactants": [
+      "TODO1",
+      "TODO2"
+    ],
+    "products": [
+      {
+        "lessThan": [],
+        "name": "Zera Ritual"
+      }
+    ]
+  }
+]

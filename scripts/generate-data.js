@@ -15,6 +15,10 @@ const generators = [
   {
     generate: require('./generators/cards'),
     filename: 'cards.json'
+  },
+  {
+    generate: require('./generators/fusion-rules'),
+    filename: 'fusion-rules.json'
   }
 ];
 
