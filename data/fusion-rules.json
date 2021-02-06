@@ -1,12 +1,13 @@
 [
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[AngelWinged]",
+      "[Beast]"
     ],
     "products": [
       {
         "name": "Garvas",
+        "attack": 2000,
         "lessThan": [
           "Mystical Sheep #1",
           "Mon Larvas",
@@ -19,12 +20,13 @@
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[AngelWinged]",
+      "[Egg]"
     ],
     "products": [
       {
         "name": "Winged Egg of New Life",
+        "attack": 1400,
         "lessThan": [
           "Mystical Elf",
           "Tiger Axe",
@@ -37,16 +39,18 @@
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[Aqua]",
+      "[Dragon]"
     ],
     "products": [
       {
         "name": "Spike Seadra",
+        "attack": 1600,
         "lessThan": []
       },
       {
         "name": "Kairyu-shin",
+        "attack": 1800,
         "lessThan": [
           "Flame Swordsman"
         ]
@@ -55,48 +59,52 @@
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[Aqua]",
+      "[Thunder]"
     ],
     "products": [
       {
         "name": "Bolt Escargot",
+        "attack": 1400,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[Aqua]",
+      "{Kappa Avenger, Psychic Kappa}"
     ],
     "products": [
       {
         "name": "Hyosube",
+        "attack": 1500,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[Beast]",
+      "Larvas"
     ],
     "products": [
       {
         "name": "Mon Larvas",
+        "attack": 1300,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[Beast]",
+      "[AngelWinged]"
     ],
     "products": [
       {
         "name": "Garvas",
+        "attack": 2000,
         "lessThan": [
           "Mystical Sheep #1",
           "Mon Larvas",
@@ -109,22 +117,25 @@
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[Beast]",
+      "[Fish]"
     ],
     "products": [
       {
         "name": "Tatsunootoshigo",
+        "attack": 1350,
         "lessThan": [
           "Nekogal #2"
         ]
       },
       {
         "name": "Rare Fish",
+        "attack": 1500,
         "lessThan": []
       },
       {
         "name": "Marine Beast",
+        "attack": 1700,
         "lessThan": [
           "Nekogal #2"
         ]
@@ -133,100 +144,109 @@
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[Beast]",
+      "[Thunder]"
     ],
     "products": [
       {
         "name": "Tripwire Beast",
+        "attack": 1200,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[Beast]",
+      "[Turtle]"
     ],
     "products": [
       {
         "name": "Turtle Tiger",
+        "attack": 1000,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[Beast]",
+      "[Zombie]"
     ],
     "products": [
       {
         "name": "Shadow Specter",
+        "attack": 500,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[Bugrothian]",
+      "Ground Attacker Bugroth"
     ],
     "products": [
       {
         "name": "Amphibious Bugroth",
+        "attack": 1850,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[Dinosaur]",
+      "[Machine]"
     ],
     "products": [
       {
         "name": "Cyber Saurus",
+        "attack": 1800,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[Dragon]",
+      "Harpie Lady"
     ],
     "products": [
       {
         "name": "Harpie's Pet Dragon",
+        "attack": 2000,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[Dragon]",
+      "Time Wizard"
     ],
     "products": [
       {
         "name": "Thousand Dragon",
+        "attack": 2400,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[Dragon]",
+      "[Aqua]"
     ],
     "products": [
       {
         "name": "Spike Seadra",
+        "attack": 1600,
         "lessThan": []
       },
       {
         "name": "Kairyu-shin",
+        "attack": 1800,
         "lessThan": [
           "Flame Swordsman"
         ]
@@ -235,12 +255,13 @@
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[Dragon]",
+      "[Koumorian]"
     ],
     "products": [
       {
         "name": "Koumori Dragon",
+        "attack": 1500,
         "lessThan": [
           "Dragoness the Wicked Knight",
           "D. Human",
@@ -251,12 +272,13 @@
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[Dragon]",
+      "[Machine]"
     ],
     "products": [
       {
         "name": "Metal Dragon",
+        "attack": 1850,
         "lessThan": [
           "Cyber Soldier",
           "Cyber Saurus",
@@ -267,12 +289,13 @@
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[Dragon]",
+      "[MercuryMagicUser]"
     ],
     "products": [
       {
         "name": "Blackland Fire Dragon",
+        "attack": 1500,
         "lessThan": [
           "Dragon Zombie",
           "Dragon Statue",
@@ -285,12 +308,13 @@
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[Dragon]",
+      "[Plant]"
     ],
     "products": [
       {
         "name": "B. Dragon Jungle King",
+        "attack": 2100,
         "lessThan": [
           "Bean Soldier",
           "Flame Swordsman",
@@ -301,12 +325,13 @@
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[Dragon]",
+      "[Rock]"
     ],
     "products": [
       {
         "name": "Stone D.",
+        "attack": 2000,
         "lessThan": [
           "Flame Swordsman"
         ]
@@ -315,16 +340,18 @@
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[Dragon]",
+      "[Thunder]"
     ],
     "products": [
       {
         "name": "Thunder Dragon",
+        "attack": 1600,
         "lessThan": []
       },
       {
         "name": "Twin-headed Thunder Dragon",
+        "attack": 2800,
         "lessThan": [
           "Skelgon",
           "Sword Arm of Dragon"
@@ -334,12 +361,13 @@
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[Dragon]",
+      "[Turtle]"
     ],
     "products": [
       {
         "name": "Sea King Dragon",
+        "attack": 2000,
         "lessThan": [
           "Spike Seadra",
           "Kairyu-shin"
@@ -349,26 +377,30 @@
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[Dragon]",
+      "[Warrior]"
     ],
     "products": [
       {
         "name": "Dragon Statue",
+        "attack": 1100,
         "lessThan": []
       },
       {
         "name": "Dragoness the Wicked Knight",
+        "attack": 1200,
         "lessThan": [
           "Flame Swordsman"
         ]
       },
       {
         "name": "D. Human",
+        "attack": 1300,
         "lessThan": []
       },
       {
         "name": "Sword Arm of Dragon",
+        "attack": 1750,
         "lessThan": [
           "Skelgon",
           "Flame Swordsman",
@@ -379,20 +411,23 @@
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[Dragon]",
+      "[Zombie]"
     ],
     "products": [
       {
         "name": "Dragon Zombie",
+        "attack": 1600,
         "lessThan": []
       },
       {
         "name": "Skelgon",
+        "attack": 1700,
         "lessThan": []
       },
       {
         "name": "Curse of Dragon",
+        "attack": 2000,
         "lessThan": [
           "Sword Arm of Dragon",
           "Twin-headed Thunder Dragon"
@@ -402,12 +437,13 @@
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[Egg]",
+      "[AngelWinged]"
     ],
     "products": [
       {
         "name": "Winged Egg of New Life",
+        "attack": 1400,
         "lessThan": [
           "Mystical Elf",
           "Tiger Axe",
@@ -420,36 +456,39 @@
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[Elf]",
+      "[MercuryMagicUser]"
     ],
     "products": [
       {
         "name": "Dark Elf",
+        "attack": 2000,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[Elf]",
+      "[MystElfian]"
     ],
     "products": [
       {
         "name": "Mystical Elf",
+        "attack": 800,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[Elf]",
+      "[Warrior]"
     ],
     "products": [
       {
         "name": "Celtic Guardian",
+        "attack": 1400,
         "lessThan": [
           "Dark Elf"
         ]
@@ -458,12 +497,13 @@
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[Fairy]",
+      "[Female]"
     ],
     "products": [
       {
         "name": "Dark Witch",
+        "attack": 1800,
         "lessThan": [
           "Mystical Elf",
           "Celtic Guardian",
@@ -476,48 +516,52 @@
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[FeatherFromBear]",
+      "Bear Trap"
     ],
     "products": [
       {
         "name": "Harpie's Feather Duster",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[FeatherFromHarpie]",
+      "{Harpie Lady, Harpie Lady Sisters}"
     ],
     "products": [
       {
         "name": "Harpie's Feather Duster",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[FeatherFromMachine]",
+      "Machine Conversion Factory"
     ],
     "products": [
       {
         "name": "Harpie's Feather Duster",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[Female]",
+      "[Fairy]"
     ],
     "products": [
       {
         "name": "Dark Witch",
+        "attack": 1800,
         "lessThan": [
           "Mystical Elf",
           "Celtic Guardian",
@@ -530,12 +574,13 @@
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[Female]",
+      "[Fish]"
     ],
     "products": [
       {
         "name": "Ice Water",
+        "attack": 1150,
         "lessThan": [
           "Wow Warrior",
           "Tatsunootoshigo"
@@ -543,10 +588,12 @@
       },
       {
         "name": "Enchanting Mermaid",
+        "attack": 1200,
         "lessThan": []
       },
       {
         "name": "Amazon of the Seas",
+        "attack": 1300,
         "lessThan": [
           "Wow Warrior",
           "Tatsunootoshigo",
@@ -558,24 +605,26 @@
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[Female]",
+      "[Plant]"
     ],
     "products": [
       {
         "name": "Queen of Autumn Leaves",
+        "attack": 1800,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[Female]",
+      "[Rock]"
     ],
     "products": [
       {
         "name": "Mystical Sand",
+        "attack": 2100,
         "lessThan": [
           "Charubin the Fire Knight",
           "Flame Swordsman",
@@ -586,24 +635,26 @@
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[Female]",
+      "[UsableBeast]"
     ],
     "products": [
       {
         "name": "Nekogal #2",
+        "attack": 1900,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[Fiend]",
+      "Arlownay"
     ],
     "products": [
       {
         "name": "Rose Spectre of Dunn",
+        "attack": 2000,
         "lessThan": [
           "Queen of Autumn Leaves"
         ]
@@ -612,24 +663,26 @@
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[Fiend]",
+      "Fungi of the Musk"
     ],
     "products": [
       {
         "name": "Darkworld Thorns",
+        "attack": 1200,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[Fiend]",
+      "Job-change Mirror"
     ],
     "products": [
       {
         "name": "Summoned Skull",
+        "attack": 2500,
         "lessThan": [
           "Darkworld Thorns"
         ]
@@ -638,34 +691,38 @@
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[Fiend]",
+      "Psychic Kappa"
     ],
     "products": [
       {
         "name": "Kappa Avenger",
+        "attack": 1200,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[Fish]",
+      "[Beast]"
     ],
     "products": [
       {
         "name": "Tatsunootoshigo",
+        "attack": 1350,
         "lessThan": [
           "Nekogal #2"
         ]
       },
       {
         "name": "Rare Fish",
+        "attack": 1500,
         "lessThan": []
       },
       {
         "name": "Marine Beast",
+        "attack": 1700,
         "lessThan": [
           "Nekogal #2"
         ]
@@ -674,12 +731,13 @@
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[Fish]",
+      "[Female]"
     ],
     "products": [
       {
         "name": "Ice Water",
+        "attack": 1150,
         "lessThan": [
           "Wow Warrior",
           "Tatsunootoshigo"
@@ -687,10 +745,12 @@
       },
       {
         "name": "Enchanting Mermaid",
+        "attack": 1200,
         "lessThan": []
       },
       {
         "name": "Amazon of the Seas",
+        "attack": 1300,
         "lessThan": [
           "Wow Warrior",
           "Tatsunootoshigo",
@@ -702,28 +762,31 @@
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[Fish]",
+      "[Machine]"
     ],
     "products": [
       {
         "name": "Misairuzame",
+        "attack": 1400,
         "lessThan": []
       },
       {
         "name": "Metal Fish",
+        "attack": 1600,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[Fish]",
+      "[Rainbow]"
     ],
     "products": [
       {
         "name": "7 Colored Fish",
+        "attack": 1800,
         "lessThan": [
           "Queen of Autumn Leaves",
           "Dark Witch"
@@ -733,60 +796,65 @@
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[Fish]",
+      "[Warrior]"
     ],
     "products": [
       {
         "name": "Wow Warrior",
+        "attack": 1250,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[Fish]",
+      "[Zombie]"
     ],
     "products": [
       {
         "name": "Corroding Shark",
+        "attack": 1100,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[Insect]",
+      "Kuwagata a"
     ],
     "products": [
       {
         "name": "Kwagar Hercules",
+        "attack": 1900,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[Insect]",
+      "[Warrior]"
     ],
     "products": [
       {
         "name": "Cockroach Knight",
+        "attack": 800,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[Jar]",
+      "[MercurySpellcaster]"
     ],
     "products": [
       {
         "name": "Ushi Oni",
+        "attack": 2150,
         "lessThan": [
           "Mystical Sand"
         ]
@@ -795,12 +863,13 @@
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[Koumorian]",
+      "[Dragon]"
     ],
     "products": [
       {
         "name": "Koumori Dragon",
+        "attack": 1500,
         "lessThan": [
           "Dragoness the Wicked Knight",
           "D. Human",
@@ -811,24 +880,26 @@
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[Machine]",
+      "[Dinosaur]"
     ],
     "products": [
       {
         "name": "Cyber Saurus",
+        "attack": 1800,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[Machine]",
+      "[Dragon]"
     ],
     "products": [
       {
         "name": "Metal Dragon",
+        "attack": 1850,
         "lessThan": [
           "Cyber Soldier",
           "Cyber Saurus",
@@ -839,46 +910,51 @@
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[Machine]",
+      "[Fish]"
     ],
     "products": [
       {
         "name": "Misairuzame",
+        "attack": 1400,
         "lessThan": []
       },
       {
         "name": "Metal Fish",
+        "attack": 1600,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[Machine]",
+      "[MercurySpellcaster]"
     ],
     "products": [
       {
         "name": "Disk Magician",
+        "attack": 1350,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[Machine]",
+      "[UsableBeast]"
     ],
     "products": [
       {
         "name": "Giga-tech Wolf",
+        "attack": 1200,
         "lessThan": [
           "Flame Cerebrus"
         ]
       },
       {
         "name": "Dice Armadillo",
+        "attack": 1650,
         "lessThan": [
           "Flame Cerebrus"
         ]
@@ -887,12 +963,13 @@
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[Machine]",
+      "[Warrior]"
     ],
     "products": [
       {
         "name": "Cyber Soldier",
+        "attack": 1500,
         "lessThan": [
           "Charubin the Fire Knight",
           "Flame Swordsman"
@@ -902,12 +979,13 @@
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[MercuryMagicUser]",
+      "[Dragon]"
     ],
     "products": [
       {
         "name": "Blackland Fire Dragon",
+        "attack": 1500,
         "lessThan": [
           "Dragon Zombie",
           "Dragon Statue",
@@ -920,36 +998,39 @@
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[MercuryMagicUser]",
+      "[Elf]"
     ],
     "products": [
       {
         "name": "Dark Elf",
+        "attack": 2000,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[MercurySpellcaster]",
+      "Ryu-kishin"
     ],
     "products": [
       {
         "name": "Ryu-kishin Powered",
+        "attack": 1600,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[MercurySpellcaster]",
+      "[Jar]"
     ],
     "products": [
       {
         "name": "Ushi Oni",
+        "attack": 2150,
         "lessThan": [
           "Mystical Sand"
         ]
@@ -958,60 +1039,65 @@
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[MercurySpellcaster]",
+      "[Machine]"
     ],
     "products": [
       {
         "name": "Disk Magician",
+        "attack": 1350,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[Mirror]",
+      "[Winged Beast]"
     ],
     "products": [
       {
         "name": "Fiend Refrection #1",
+        "attack": 1300,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[MusKingian]",
+      "{Hibikime, Sonic Maid}"
     ],
     "products": [
       {
         "name": "Musician King",
+        "attack": 1750,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[MystElfian]",
+      "[Elf]"
     ],
     "products": [
       {
         "name": "Mystical Elf",
+        "attack": 800,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[Plant]",
+      "[Dragon]"
     ],
     "products": [
       {
         "name": "B. Dragon Jungle King",
+        "attack": 2100,
         "lessThan": [
           "Bean Soldier",
           "Flame Swordsman",
@@ -1022,48 +1108,52 @@
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[Plant]",
+      "[Female]"
     ],
     "products": [
       {
         "name": "Queen of Autumn Leaves",
+        "attack": 1800,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[Plant]",
+      "[Pyro]"
     ],
     "products": [
       {
         "name": "Firegrass",
+        "attack": 700,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[Plant]",
+      "[Reptile]"
     ],
     "products": [
       {
         "name": "Snakeyashi",
+        "attack": 1000,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[Plant]",
+      "[UsableBeast]"
     ],
     "products": [
       {
         "name": "Flower Wolf",
+        "attack": 1800,
         "lessThan": [
           "Nekogal #2",
           "Flame Cerebrus"
@@ -1073,12 +1163,13 @@
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[Plant]",
+      "[Warrior]"
     ],
     "products": [
       {
         "name": "Bean Soldier",
+        "attack": 1400,
         "lessThan": [
           "Charubin the Fire Knight",
           "Flame Swordsman",
@@ -1089,28 +1180,31 @@
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[Plant]",
+      "[Zombie]"
     ],
     "products": [
       {
         "name": "Wood Remains",
+        "attack": 1000,
         "lessThan": []
       },
       {
         "name": "Pumpking the King of Ghosts",
+        "attack": 1800,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[Pyro]",
+      "Fiend Kraken"
     ],
     "products": [
       {
         "name": "Fire Kraken",
+        "attack": 1600,
         "lessThan": [
           "Spike Seadra"
         ]
@@ -1119,24 +1213,26 @@
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[Pyro]",
+      "[Plant]"
     ],
     "products": [
       {
         "name": "Firegrass",
+        "attack": 700,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[Pyro]",
+      "[Rock]"
     ],
     "products": [
       {
         "name": "Dissolverock",
+        "attack": 900,
         "lessThan": [
           "Stone Ghost",
           "Minomushi Warrior"
@@ -1146,12 +1242,13 @@
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[Pyro]",
+      "[Turtle]"
     ],
     "products": [
       {
         "name": "Giant Turtle Who Feeds on Flames",
+        "attack": 1400,
         "lessThan": [
           "Year White Turtle",
           "Boulder Tortoise",
@@ -1162,24 +1259,26 @@
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[Pyro]",
+      "[UsableBeast]"
     ],
     "products": [
       {
         "name": "Flame Cerebrus",
+        "attack": 2100,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[Pyro]",
+      "[Warrior]"
     ],
     "products": [
       {
         "name": "Charubin the Fire Knight",
+        "attack": 1100,
         "lessThan": [
           "Zombie Warrior",
           "Queen of Autumn Leaves"
@@ -1187,6 +1286,7 @@
       },
       {
         "name": "Flame Swordsman",
+        "attack": 1800,
         "lessThan": [
           "Zombie Warrior",
           "Armored Zombie",
@@ -1196,22 +1296,25 @@
       },
       {
         "name": "Vermillion Sparrow",
+        "attack": 1900,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[Pyro]",
+      "[Winged Beast]"
     ],
     "products": [
       {
         "name": "Mavelus",
+        "attack": 1300,
         "lessThan": []
       },
       {
         "name": "Crimson Sunbird",
+        "attack": 2300,
         "lessThan": [
           "Flame Swordsman",
           "Vermillion Sparrow",
@@ -1224,16 +1327,18 @@
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[Pyro]",
+      "[Zombie]"
     ],
     "products": [
       {
         "name": "Fire Reaper",
+        "attack": 700,
         "lessThan": []
       },
       {
         "name": "Flame Ghost",
+        "attack": 1000,
         "lessThan": [
           "Wood Remains",
           "Zombie Warrior",
@@ -1246,12 +1351,13 @@
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[Rainbow]",
+      "[Fish]"
     ],
     "products": [
       {
         "name": "7 Colored Fish",
+        "attack": 1800,
         "lessThan": [
           "Queen of Autumn Leaves",
           "Dark Witch"
@@ -1261,48 +1367,52 @@
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[Reptile]",
+      "[Plant]"
     ],
     "products": [
       {
         "name": "Snakeyashi",
+        "attack": 1000,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[Reptile]",
+      "[Thunder]"
     ],
     "products": [
       {
         "name": "Electric Lizard",
+        "attack": 850,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[Reptile]",
+      "{Clown Zombie, Crass Clown}"
     ],
     "products": [
       {
         "name": "Soul Hunter",
+        "attack": 2200,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[Rock]",
+      "[Dragon]"
     ],
     "products": [
       {
         "name": "Stone D.",
+        "attack": 2000,
         "lessThan": [
           "Flame Swordsman"
         ]
@@ -1311,12 +1421,13 @@
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[Rock]",
+      "[Female]"
     ],
     "products": [
       {
         "name": "Mystical Sand",
+        "attack": 2100,
         "lessThan": [
           "Charubin the Fire Knight",
           "Flame Swordsman",
@@ -1327,12 +1438,13 @@
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[Rock]",
+      "[Pyro]"
     ],
     "products": [
       {
         "name": "Dissolverock",
+        "attack": 900,
         "lessThan": [
           "Stone Ghost",
           "Minomushi Warrior"
@@ -1342,24 +1454,26 @@
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[Rock]",
+      "[Turtle]"
     ],
     "products": [
       {
         "name": "Boulder Tortoise",
+        "attack": 1450,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[Rock]",
+      "[Warrior]"
     ],
     "products": [
       {
         "name": "Minomushi Warrior",
+        "attack": 1300,
         "lessThan": [
           "Charubin the Fire Knight",
           "Flame Swordsman",
@@ -1371,36 +1485,39 @@
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[Rock]",
+      "[Zombie]"
     ],
     "products": [
       {
         "name": "Stone Ghost",
+        "attack": 1200,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[Sheepian]",
+      "Mystical Sheep #2"
     ],
     "products": [
       {
         "name": "Mystical Sheep #1",
+        "attack": 1150,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[Spellcaster]",
+      "Mystic Lamp"
     ],
     "products": [
       {
         "name": "Lord of the Lamp",
+        "attack": 1400,
         "lessThan": [
           "Dark Elf"
         ]
@@ -1409,12 +1526,13 @@
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[Spellcaster]",
+      "Spike Seadra"
     ],
     "products": [
       {
         "name": "Kaminari Attack",
+        "attack": 1900,
         "lessThan": [
           "Thousand Dragon"
         ]
@@ -1423,16 +1541,18 @@
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[Spellcaster]",
+      "[Thunder]"
     ],
     "products": [
       {
         "name": "The Immortal of Thunder",
+        "attack": 1500,
         "lessThan": []
       },
       {
         "name": "Kaminari Attack",
+        "attack": 1900,
         "lessThan": [
           "Thousand Dragon"
         ]
@@ -1441,24 +1561,26 @@
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[Spellcaster]",
+      "[Turtle]"
     ],
     "products": [
       {
         "name": "30,000-Year White Turtle",
+        "attack": 1250,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[Spellcaster]",
+      "[Zombie]"
     ],
     "products": [
       {
         "name": "Magical Ghost",
+        "attack": 1300,
         "lessThan": [
           "Dark Elf"
         ]
@@ -1467,52 +1589,57 @@
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[Thronian]",
+      "Protector of the Throne"
     ],
     "products": [
       {
         "name": "Invader of the Throne",
+        "attack": 1350,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[Thunder]",
+      "[Aqua]"
     ],
     "products": [
       {
         "name": "Bolt Escargot",
+        "attack": 1400,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[Thunder]",
+      "[Beast]"
     ],
     "products": [
       {
         "name": "Tripwire Beast",
+        "attack": 1200,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[Thunder]",
+      "[Dragon]"
     ],
     "products": [
       {
         "name": "Thunder Dragon",
+        "attack": 1600,
         "lessThan": []
       },
       {
         "name": "Twin-headed Thunder Dragon",
+        "attack": 2800,
         "lessThan": [
           "Skelgon",
           "Sword Arm of Dragon"
@@ -1522,28 +1649,31 @@
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[Thunder]",
+      "[Reptile]"
     ],
     "products": [
       {
         "name": "Electric Lizard",
+        "attack": 850,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[Thunder]",
+      "[Spellcaster]"
     ],
     "products": [
       {
         "name": "The Immortal of Thunder",
+        "attack": 1500,
         "lessThan": []
       },
       {
         "name": "Kaminari Attack",
+        "attack": 1900,
         "lessThan": [
           "Thousand Dragon"
         ]
@@ -1552,24 +1682,26 @@
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[Turtle]",
+      "[Beast]"
     ],
     "products": [
       {
         "name": "Turtle Tiger",
+        "attack": 1000,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[Turtle]",
+      "[Dragon]"
     ],
     "products": [
       {
         "name": "Sea King Dragon",
+        "attack": 2000,
         "lessThan": [
           "Spike Seadra",
           "Kairyu-shin"
@@ -1579,12 +1711,13 @@
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[Turtle]",
+      "[Pyro]"
     ],
     "products": [
       {
         "name": "Giant Turtle Who Feeds on Flames",
+        "attack": 1400,
         "lessThan": [
           "Year White Turtle",
           "Boulder Tortoise",
@@ -1595,66 +1728,72 @@
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[Turtle]",
+      "[Rock]"
     ],
     "products": [
       {
         "name": "Boulder Tortoise",
+        "attack": 1450,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[Turtle]",
+      "[Spellcaster]"
     ],
     "products": [
       {
         "name": "30,000-Year White Turtle",
+        "attack": 1250,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[Turtle]",
+      "[Winged Beast]"
     ],
     "products": [
       {
         "name": "Turtle Bird",
+        "attack": 1900,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[UsableBeast]",
+      "[Female]"
     ],
     "products": [
       {
         "name": "Nekogal #2",
+        "attack": 1900,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[UsableBeast]",
+      "[Machine]"
     ],
     "products": [
       {
         "name": "Giga-tech Wolf",
+        "attack": 1200,
         "lessThan": [
           "Flame Cerebrus"
         ]
       },
       {
         "name": "Dice Armadillo",
+        "attack": 1650,
         "lessThan": [
           "Flame Cerebrus"
         ]
@@ -1663,12 +1802,13 @@
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[UsableBeast]",
+      "[Plant]"
     ],
     "products": [
       {
         "name": "Flower Wolf",
+        "attack": 1800,
         "lessThan": [
           "Nekogal #2",
           "Flame Cerebrus"
@@ -1678,24 +1818,26 @@
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[UsableBeast]",
+      "[Pyro]"
     ],
     "products": [
       {
         "name": "Flame Cerebrus",
+        "attack": 2100,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[UsableBeast]",
+      "[Warrior]"
     ],
     "products": [
       {
         "name": "Tiger Axe",
+        "attack": 1300,
         "lessThan": [
           "Nekogal #2",
           "Flame Cerebrus"
@@ -1705,12 +1847,13 @@
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[Warrior]",
+      "The Judgement Hand"
     ],
     "products": [
       {
         "name": "Judge Man",
+        "attack": 2200,
         "lessThan": [
           "Sword Arm of Dragon",
           "Musician King",
@@ -1722,26 +1865,30 @@
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[Warrior]",
+      "[Dragon]"
     ],
     "products": [
       {
         "name": "Dragon Statue",
+        "attack": 1100,
         "lessThan": []
       },
       {
         "name": "Dragoness the Wicked Knight",
+        "attack": 1200,
         "lessThan": [
           "Flame Swordsman"
         ]
       },
       {
         "name": "D. Human",
+        "attack": 1300,
         "lessThan": []
       },
       {
         "name": "Sword Arm of Dragon",
+        "attack": 1750,
         "lessThan": [
           "Skelgon",
           "Flame Swordsman",
@@ -1752,12 +1899,13 @@
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[Warrior]",
+      "[Elf]"
     ],
     "products": [
       {
         "name": "Celtic Guardian",
+        "attack": 1400,
         "lessThan": [
           "Dark Elf"
         ]
@@ -1766,36 +1914,39 @@
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[Warrior]",
+      "[Fish]"
     ],
     "products": [
       {
         "name": "Wow Warrior",
+        "attack": 1250,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[Warrior]",
+      "[Insect]"
     ],
     "products": [
       {
         "name": "Cockroach Knight",
+        "attack": 800,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[Warrior]",
+      "[Machine]"
     ],
     "products": [
       {
         "name": "Cyber Soldier",
+        "attack": 1500,
         "lessThan": [
           "Charubin the Fire Knight",
           "Flame Swordsman"
@@ -1805,12 +1956,13 @@
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[Warrior]",
+      "[Plant]"
     ],
     "products": [
       {
         "name": "Bean Soldier",
+        "attack": 1400,
         "lessThan": [
           "Charubin the Fire Knight",
           "Flame Swordsman",
@@ -1821,12 +1973,13 @@
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[Warrior]",
+      "[Pyro]"
     ],
     "products": [
       {
         "name": "Charubin the Fire Knight",
+        "attack": 1100,
         "lessThan": [
           "Zombie Warrior",
           "Queen of Autumn Leaves"
@@ -1834,6 +1987,7 @@
       },
       {
         "name": "Flame Swordsman",
+        "attack": 1800,
         "lessThan": [
           "Zombie Warrior",
           "Armored Zombie",
@@ -1843,18 +1997,20 @@
       },
       {
         "name": "Vermillion Sparrow",
+        "attack": 1900,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[Warrior]",
+      "[Rock]"
     ],
     "products": [
       {
         "name": "Minomushi Warrior",
+        "attack": 1300,
         "lessThan": [
           "Charubin the Fire Knight",
           "Flame Swordsman",
@@ -1866,12 +2022,13 @@
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[Warrior]",
+      "[UsableBeast]"
     ],
     "products": [
       {
         "name": "Tiger Axe",
+        "attack": 1300,
         "lessThan": [
           "Nekogal #2",
           "Flame Cerebrus"
@@ -1881,18 +2038,20 @@
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[Warrior]",
+      "[Zombie]"
     ],
     "products": [
       {
         "name": "Zombie Warrior",
+        "attack": 1200,
         "lessThan": [
           "Dragon Zombie"
         ]
       },
       {
         "name": "Armored Zombie",
+        "attack": 1500,
         "lessThan": [
           "Dragon Zombie",
           "Dark Elf"
@@ -1902,36 +2061,39 @@
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[Winged Beast]",
+      "Boo Koo"
     ],
     "products": [
       {
         "name": "Spirit of the Books",
+        "attack": 1400,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[Winged Beast]",
+      "Ryu-kishin"
     ],
     "products": [
       {
         "name": "Whiptail Crow",
+        "attack": 1650,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[Winged Beast]",
+      "The Judgement Hand"
     ],
     "products": [
       {
         "name": "Punished Eagle",
+        "attack": 2100,
         "lessThan": [
           "Flame Swordsman"
         ]
@@ -1940,28 +2102,31 @@
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[Winged Beast]",
+      "[Mirror]"
     ],
     "products": [
       {
         "name": "Fiend Refrection #1",
+        "attack": 1300,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[Winged Beast]",
+      "[Pyro]"
     ],
     "products": [
       {
         "name": "Mavelus",
+        "attack": 1300,
         "lessThan": []
       },
       {
         "name": "Crimson Sunbird",
+        "attack": 2300,
         "lessThan": [
           "Flame Swordsman",
           "Vermillion Sparrow",
@@ -1974,68 +2139,75 @@
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[Winged Beast]",
+      "[Turtle]"
     ],
     "products": [
       {
         "name": "Turtle Bird",
+        "attack": 1900,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[Zombie]",
+      "Graveyard and the Hand of Invitation"
     ],
     "products": [
       {
         "name": "The Snake Hair",
+        "attack": 1500,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[Zombie]",
+      "Mammoth Graveyard"
     ],
     "products": [
       {
         "name": "Great Mammoth of Goldfine",
+        "attack": 2200,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[Zombie]",
+      "[Beast]"
     ],
     "products": [
       {
         "name": "Shadow Specter",
+        "attack": 500,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[Zombie]",
+      "[Dragon]"
     ],
     "products": [
       {
         "name": "Dragon Zombie",
+        "attack": 1600,
         "lessThan": []
       },
       {
         "name": "Skelgon",
+        "attack": 1700,
         "lessThan": []
       },
       {
         "name": "Curse of Dragon",
+        "attack": 2000,
         "lessThan": [
           "Sword Arm of Dragon",
           "Twin-headed Thunder Dragon"
@@ -2045,44 +2217,49 @@
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[Zombie]",
+      "[Fish]"
     ],
     "products": [
       {
         "name": "Corroding Shark",
+        "attack": 1100,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[Zombie]",
+      "[Plant]"
     ],
     "products": [
       {
         "name": "Wood Remains",
+        "attack": 1000,
         "lessThan": []
       },
       {
         "name": "Pumpking the King of Ghosts",
+        "attack": 1800,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[Zombie]",
+      "[Pyro]"
     ],
     "products": [
       {
         "name": "Fire Reaper",
+        "attack": 700,
         "lessThan": []
       },
       {
         "name": "Flame Ghost",
+        "attack": 1000,
         "lessThan": [
           "Wood Remains",
           "Zombie Warrior",
@@ -2095,24 +2272,26 @@
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[Zombie]",
+      "[Rock]"
     ],
     "products": [
       {
         "name": "Stone Ghost",
+        "attack": 1200,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[Zombie]",
+      "[Spellcaster]"
     ],
     "products": [
       {
         "name": "Magical Ghost",
+        "attack": 1300,
         "lessThan": [
           "Dark Elf"
         ]
@@ -2121,18 +2300,20 @@
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "[Zombie]",
+      "[Warrior]"
     ],
     "products": [
       {
         "name": "Zombie Warrior",
+        "attack": 1200,
         "lessThan": [
           "Dragon Zombie"
         ]
       },
       {
         "name": "Armored Zombie",
+        "attack": 1500,
         "lessThan": [
           "Dragon Zombie",
           "Dark Elf"
@@ -2142,1800 +2323,1950 @@
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Dark Hole",
+      "Stain Storm"
     ],
     "products": [
       {
         "name": "Acid Trap Hole",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Magician of Faith",
+      "Metalmorph"
     ],
     "products": [
       {
         "name": "Ancient Elf",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Zanki",
+      "Warrior Elimination"
     ],
     "products": [
       {
         "name": "Armored Zombie",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Bear Trap",
+      "Tiger Axe"
     ],
     "products": [
       {
         "name": "Axe of Despair",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Red-eyes B. Dragon",
+      "Summoned Skull"
     ],
     "products": [
       {
         "name": "B. Skull Dragon",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Battle Ox",
+      "Dragon Statue"
     ],
     "products": [
       {
         "name": "Baby Dragon",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Dragon Piper",
+      "Orion the Battle King"
     ],
     "products": [
       {
         "name": "Baby Dragon",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Monster Egg",
+      "The Wicked Worm Beast"
     ],
     "products": [
       {
         "name": "Baby Dragon",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Mooyan Curry",
+      "Mooyan Curry"
     ],
     "products": [
       {
         "name": "Bad Reaction to Simochi",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Key Mace",
+      "Shadow Specter"
     ],
     "products": [
       {
         "name": "Battle Warrior",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Beast Fangs",
+      "Megamorph"
     ],
     "products": [
       {
         "name": "Bear Trap",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Final Flame",
+      "Ooguchi"
     ],
     "products": [
       {
         "name": "Beast Fangs",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Dark Energy",
+      "Elegant Egotist"
     ],
     "products": [
       {
         "name": "Beastry Mirror Ritual",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Cyber Shield",
+      "Monster Tamer"
     ],
     "products": [
       {
         "name": "Beautiful Beast Trainer",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "House of Adhesive Tape",
+      "Monster Eye"
     ],
     "products": [
       {
         "name": "Big Eye",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Dark Energy",
+      "Dark-piercing Light"
     ],
     "products": [
       {
         "name": "Black Luster Ritual",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Dark Energy",
+      "Machine Conversion Factory"
     ],
     "products": [
       {
         "name": "Black Pendant",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Boo Koo",
+      "Dark-piercing Light"
     ],
     "products": [
       {
         "name": "Book of Secret Arts",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Bad Reaction to Simochi",
+      "Goblin Fan"
     ],
     "products": [
       {
         "name": "Breath of Light",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Follow Wind",
+      "Wasteland"
     ],
     "products": [
       {
         "name": "Breath of Light",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Castle of Dark Illusions",
+      "Dark-piercing Light"
     ],
     "products": [
       {
         "name": "Bright Castle",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Crass Clown",
+      "Final Flame"
     ],
     "products": [
       {
         "name": "Clown Zombie",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Akihiron",
+      "Giant Soldier of Stone"
     ],
     "products": [
       {
         "name": "Cocoon of Evolution",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Ansatsu",
+      "LaMoon"
     ],
     "products": [
       {
         "name": "Cocoon of Evolution",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Darkfire Dragon",
+      "Tiger Axe"
     ],
     "products": [
       {
         "name": "Cocoon of Evolution",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Koumori Dragon",
+      "Summoned Skull"
     ],
     "products": [
       {
         "name": "Cocoon of Evolution",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Cyber Shield",
+      "Winged Trumpeter"
     ],
     "products": [
       {
         "name": "Commencement Dance",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Elf's Light",
+      "Malevolent Nuzzler"
     ],
     "products": [
       {
         "name": "Contruct of Mask",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Cyber Shield",
+      "Malevolent Nuzzler"
     ],
     "products": [
       {
         "name": "Cosmo Queen's Prayer",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Metalmorph",
+      "Vile Germs"
     ],
     "products": [
       {
         "name": "Crush Card",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Metalmorph",
+      "Metalmorph"
     ],
     "products": [
       {
         "name": "Curse of Millennium Shield",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Elegant Egotist",
+      "Horn of Light"
     ],
     "products": [
       {
         "name": "Curse of Tri-Horned Dragon",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Elegant Egotist",
+      "Horn of the Unicorn"
     ],
     "products": [
       {
         "name": "Curse of Tri-Horned Dragon",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Elegant Egotist",
+      "Key Mace"
     ],
     "products": [
       {
         "name": "Cursebreaker",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Yami",
+      "Yami"
     ],
     "products": [
       {
         "name": "Dark Energy",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Acid Trap Hole",
+      "Dark Energy"
     ],
     "products": [
       {
         "name": "Dark Hole",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Widespread Ruin",
+      "Zone Eater"
     ],
     "products": [
       {
         "name": "Darkfire Dragon",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Soul of the Pure",
+      "Soul of the Pure"
     ],
     "products": [
       {
         "name": "Dian Keto the Cure Master",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Dragon Treasure",
+      "Mooyan Curry"
     ],
     "products": [
       {
         "name": "Dragon Capture Jar",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Crawling Dragon",
+      "Dragon Capture Jar"
     ],
     "products": [
       {
         "name": "Dragon Zombie",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Twin Long Rods #2",
+      "Graveyard and the Hand of Invitation"
     ],
     "products": [
       {
         "name": "Dragon Zombie",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Labyrinth Wall",
+      "Zone Eater"
     ],
     "products": [
       {
         "name": "Dungeon Worm",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Beast Fangs",
+      "Beast Fangs"
     ],
     "products": [
       {
         "name": "Eatgaboon",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Beautiful Beast Trainer",
+      "Warrior Elimination"
     ],
     "products": [
       {
         "name": "Electro-whip",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Monster Tamer",
+      "Warrior Elimination"
     ],
     "products": [
       {
         "name": "Electro-whip",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Electro-whip",
+      "Job-change Mirror"
     ],
     "products": [
       {
         "name": "Elegant Egotist",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Electro-whip",
+      "Wicked Mirror"
     ],
     "products": [
       {
         "name": "Elegant Egotist",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Electro-whip",
+      "Fiend's Mirror"
     ],
     "products": [
       {
         "name": "Elegant Egotist",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Ancient Elf",
+      "House of Adhesive Tape"
     ],
     "products": [
       {
         "name": "Elf's Light",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Follow Wind",
+      "Goblin's Secret Remedy"
     ],
     "products": [
       {
         "name": "Eradicating Aerosol",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Goblin's Secret Remedy",
+      "Machine Conversion Factory"
     ],
     "products": [
       {
         "name": "Eradicating Aerosol",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Dark Hole",
+      "Umi"
     ],
     "products": [
       {
         "name": "Eternal Draught",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Mystical Moon",
+      "Umi"
     ],
     "products": [
       {
         "name": "Eternal Draught",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Tremendous Fire",
+      "Umi"
     ],
     "products": [
       {
         "name": "Eternal Draught",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Elf's Light",
+      "Silver Bow and Arrow"
     ],
     "products": [
       {
         "name": "Eternal Rest",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Cursebreaker",
+      "Spellbinding Circle"
     ],
     "products": [
       {
         "name": "Fake Trap",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Reverse Trap",
+      "Widespread Ruin"
     ],
     "products": [
       {
         "name": "Fake Trap",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Hinotama",
+      "Hinotama"
     ],
     "products": [
       {
         "name": "Final Flame",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Megamorph",
+      "Vile Germs"
     ],
     "products": [
       {
         "name": "Forest",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Machine Conversion Factory",
+      "Umi"
     ],
     "products": [
       {
         "name": "Fortress Whale's Oath",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Curse of Dragon",
+      "Gaia the Fierce Knight"
     ],
     "products": [
       {
         "name": "Gaia the Dragon Champion",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Elegant Egotist",
+      "Legendary Sword"
     ],
     "products": [
       {
         "name": "Garma Sword Oath",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Magical Labyrinth",
+      "Metalmorph"
     ],
     "products": [
       {
         "name": "Gate Guardian Ritual",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Breath of Light",
+      "Follow Wind"
     ],
     "products": [
       {
         "name": "Goblin Fan",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Red Medicine",
+      "Red Medicine"
     ],
     "products": [
       {
         "name": "Goblin's Secret Remedy",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Book of Secret Arts",
+      "Mooyan Curry"
     ],
     "products": [
       {
         "name": "Hamburger Recipe",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Elegant Egotist",
+      "Harpie Lady"
     ],
     "products": [
       {
         "name": "Harpie Lady Sisters",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Flying Penguin",
+      "Invisible Wire"
     ],
     "products": [
       {
         "name": "Harpie's Feather Duster",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Sparks",
+      "Sparks"
     ],
     "products": [
       {
         "name": "Hinotama",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Raise Body Heat",
+      "Reverse Trap"
     ],
     "products": [
       {
         "name": "Horn of the Unicorn",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Eradicating Aerosol",
+      "Magical Labyrinth"
     ],
     "products": [
       {
         "name": "House of Adhesive Tape",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Machine Conversion Factory",
+      "Hinotama"
     ],
     "products": [
       {
         "name": "Insect Armor with Laser Cannon",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Mammoth Graveyard",
+      "Protector of the Throne"
     ],
     "products": [
       {
         "name": "Invader of the Throne",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Elegant Egotist",
+      "Raigeki"
     ],
     "products": [
       {
         "name": "Invigoration",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Black Pendant",
+      "Yami"
     ],
     "products": [
       {
         "name": "Invisible Wire",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Forest",
+      "Power of Kaishin"
     ],
     "products": [
       {
         "name": "Javelin Beetle Pact",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Darkfire Dragon",
+      "Reverse Trap"
     ],
     "products": [
       {
         "name": "Kairyu-shin",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Final Flame",
+      "Waterdragon Fairy"
     ],
     "products": [
       {
         "name": "Kairyu-shin",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Armed Ninja",
+      "Sinister Serpent"
     ],
     "products": [
       {
         "name": "Korogashi",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Legendary Sword",
+      "Sword of Dark Destruction"
     ],
     "products": [
       {
         "name": "Kunai with Chain",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Machine Conversion Factory",
+      "Violet Crystal"
     ],
     "products": [
       {
         "name": "Laser Cannon Armor",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Jirai Gumo",
+      "Metalmorph"
     ],
     "products": [
       {
         "name": "Launcher Spider",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Flame Swordsman",
+      "Umi"
     ],
     "products": [
       {
         "name": "Legendary Sword",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "House of Adhesive Tape",
+      "Metalmorph"
     ],
     "products": [
       {
         "name": "Machine Conversion Factory",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Dian Keto the Cure Master",
+      "Dian Keto the Cure Master"
     ],
     "products": [
       {
         "name": "Megamorph",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Electro-whip",
+      "Metal Guardian"
     ],
     "products": [
       {
         "name": "Metalmorph",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Machine Conversion Factory",
+      "Metal Guardian"
     ],
     "products": [
       {
         "name": "Metalmorph",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Baby Dragon",
+      "Metalmorph"
     ],
     "products": [
       {
         "name": "Metal Dragon",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Tongyo",
+      "Metalmorph"
     ],
     "products": [
       {
         "name": "Metal Fish",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Metalmorph",
+      "Zoa"
     ],
     "products": [
       {
         "name": "Metalzoa",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Meteor Dragon",
+      "Red-eyes B. Dragon"
     ],
     "products": [
       {
         "name": "Meteor B. Dragon",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Celtic Guardian",
+      "Sonic Maid"
     ],
     "products": [
       {
         "name": "Musician King",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Ancient Elf",
+      "Sonic Maid"
     ],
     "products": [
       {
         "name": "Musician King",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Blue-eyed Silver Zombie",
+      "Mystical Sheep #2"
     ],
     "products": [
       {
         "name": "Mystical Sheep #1",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Beautiful Beast Trainer",
+      "Mooyan Curry"
     ],
     "products": [
       {
         "name": "Monster Tamer",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Eternal Rest",
+      "Kunai with Chain"
     ],
     "products": [
       {
         "name": "Novox's Prayer",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Final Flame",
+      "Final Flame"
     ],
     "products": [
       {
         "name": "Ookazi",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Breath of Light",
+      "Umi"
     ],
     "products": [
       {
         "name": "Power of Kaishin",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Metalmorph",
+      "Stain Storm"
     ],
     "products": [
       {
         "name": "Puppet Ritual",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Battle Ox",
+      "Mystic Horseman"
     ],
     "products": [
       {
         "name": "Rabid Horseman",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Electro-whip",
+      "Metalmorph"
     ],
     "products": [
       {
         "name": "Raigeki",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Mooyan Curry",
+      "Sparks"
     ],
     "products": [
       {
         "name": "Raise Body Heat",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Koumori Dragon",
+      "Saggi the Dark Clown"
     ],
     "products": [
       {
         "name": "Reaper of the Cards",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "B. Dragon Jungle King",
+      "Tyhone #2"
     ],
     "products": [
       {
         "name": "Red-eyes B. Dragon",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Blackland Fire Dragon",
+      "Tyhone #2"
     ],
     "products": [
       {
         "name": "Red-eyes B. Dragon",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Darkfire Dragon",
+      "Tyhone #2"
     ],
     "products": [
       {
         "name": "Red-eyes B. Dragon",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Malevolent Nuzzler",
+      "Malevolent Nuzzler"
     ],
     "products": [
       {
         "name": "Resurrection of Chakra",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Cursebreaker",
+      "Megamorph"
     ],
     "products": [
       {
         "name": "Reverse Trap",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Fake Trap",
+      "Megamorph"
     ],
     "products": [
       {
         "name": "Reverse Trap",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Curse of Millennium Shield",
+      "Puppet Ritual"
     ],
     "products": [
       {
         "name": "Revival of Sennen Genjin",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Elegant Egotist",
+      "Mystical Moon"
     ],
     "products": [
       {
         "name": "Revival of Sennen Genjin",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Machine Conversion Factory",
+      "Wasteland"
     ],
     "products": [
       {
         "name": "Revival of Skeleton Rider",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Dark Energy",
+      "Dragon Treasure"
     ],
     "products": [
       {
         "name": "Revived of Serpent Night Dragon",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Legendary Sword",
+      "Sparks"
     ],
     "products": [
       {
         "name": "Salamandra",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Kuriboh",
+      "Skull Servant"
     ],
     "products": [
       {
         "name": "Shadow Specter",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Spellbinding Circle",
+      "Spellbinding Circle"
     ],
     "products": [
       {
         "name": "Shadow Spell",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Goblin's Secret Remedy",
+      "Goblin's Secret Remedy"
     ],
     "products": [
       {
         "name": "Soul of the Pure",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Winged Trumpeter",
+      "Winged Trumpeter"
     ],
     "products": [
       {
         "name": "Soul of the Pure",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Acid Trap Hole",
+      "Follow Wind"
     ],
     "products": [
       {
         "name": "Stain Storm",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Electro-whip",
+      "Umi"
     ],
     "products": [
       {
         "name": "Stain Storm",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Final Flame",
+      "Monsturtle"
     ],
     "products": [
       {
         "name": "Steel Shell",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Millennium Shield",
+      "Reverse Trap"
     ],
     "products": [
       {
         "name": "Stop Defense",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Time Wizard",
+      "Embryonic Beast"
     ],
     "products": [
       {
         "name": "Summoned Skull",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Armored Zombie",
+      "Eternal Rest"
     ],
     "products": [
       {
         "name": "Sword of Dark Destruction",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Dark-piercing Light",
+      "Shadow Spell"
     ],
     "products": [
       {
         "name": "Swords of Revealing Light",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Ancient Brain",
+      "Invisible Wire"
     ],
     "products": [
       {
         "name": "Tainted Wisdom",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Clown Zombie",
+      "Kojikocy"
     ],
     "products": [
       {
         "name": "The 13th Grave",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Dream Clown",
+      "Mysterious Puppeteer"
     ],
     "products": [
       {
         "name": "The 13th Grave",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Ancient Jar",
+      "Mystery Hand"
     ],
     "products": [
       {
         "name": "The Wicked Worm Beast",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Ancient Jar",
+      "Fiend Sword"
     ],
     "products": [
       {
         "name": "Tiger Axe",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Petit Dragon",
+      "Serpent Marauder"
     ],
     "products": [
       {
         "name": "Trakadon",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Ookazi",
+      "Ookazi"
     ],
     "products": [
       {
         "name": "Tremendous Fire",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Fake Trap",
+      "Steel Shell"
     ],
     "products": [
       {
         "name": "Turtle Oath",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Power of Kaishin",
+      "Umi"
     ],
     "products": [
       {
         "name": "Turtle Oath",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Dragon Treasure",
+      "Megamorph"
     ],
     "products": [
       {
         "name": "Ultimate Dragon",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Crush Card",
+      "Forest"
     ],
     "products": [
       {
         "name": "Vile Germs",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Elegant Egotist",
+      "Kuriboh"
     ],
     "products": [
       {
         "name": "Vile Germs",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Breath of Light",
+      "Prisman"
     ],
     "products": [
       {
         "name": "Violet Crystal",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Beast Fangs",
+      "Elegant Egotist"
     ],
     "products": [
       {
         "name": "War-lion Ritual",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Forest",
+      "Ookazi"
     ],
     "products": [
       {
         "name": "Wasteland",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Aqua Snake",
+      "Waterdragon Fairy"
     ],
     "products": [
       {
         "name": "Water Magician",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Dragon Capture Jar",
+      "Tremendous Fire"
     ],
     "products": [
       {
         "name": "Widespread Ruin",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Machine Conversion Factory",
+      "Silver Bow and Arrow"
     ],
     "products": [
       {
         "name": "Winged Trumpeter",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Armored Zombie",
+      "Wood Clown"
     ],
     "products": [
       {
         "name": "Witty Phantom",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Djinn the Watcher of the Wind",
+      "Wolf"
     ],
     "products": [
       {
         "name": "Witty Phantom",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Gyakutenno Megami",
+      "Weather Control"
     ],
     "products": [
       {
         "name": "Witty Phantom",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Oscillo Hero #2",
+      "Spirit of the Harp"
     ],
     "products": [
       {
         "name": "Witty Phantom",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Elegant Egotist",
+      "Wicked Dragon with the Ersatz Head"
     ],
     "products": [
       {
         "name": "Yamadron",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Dragon Treasure",
+      "Elegant Egotist"
     ],
     "products": [
       {
         "name": "Yamadron Ritual",
+        "attack": 0,
         "lessThan": []
       }
     ]
   },
   {
     "reactants": [
-      "TODO1",
-      "TODO2"
+      "Dark Energy",
+      "Malevolent Nuzzler"
     ],
     "products": [
       {
         "name": "Zera Ritual",
+        "attack": 0,
         "lessThan": []
       }
     ]

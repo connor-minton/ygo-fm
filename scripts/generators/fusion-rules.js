@@ -27,11 +27,6 @@ class FusionRulesParser {
     if (!this._advanceToRule())
       return null;
 
-    const rule = {
-      reactants: ['TODO1', 'TODO2'],
-      products: []
-    };
-
     let equalityLine;
 
     if (this.buffer.length === 1) {
@@ -44,13 +39,24 @@ class FusionRulesParser {
       throw new Error('unexpected buffer length: ' + this.buffer.length);
     }
 
+    const rule = {
+      reactants: equalityLine.split(/[+=]/, 2).map(s => s.trim()),
+      products: []
+    };
+
     let firstMonBegin = equalityLine.indexOf('=') + 1;
     let firstMonEnd = equalityLine.indexOf('(');
+    let attackEnd = equalityLine.indexOf('/', firstMonEnd);
+    let attack = 0;
+
     if (firstMonEnd === -1)
       firstMonEnd = equalityLine.length;
+    else
+      attack = Number.parseInt(equalityLine.substring(firstMonEnd+1, attackEnd));
 
     let product = {
       name: equalityLine.substring(firstMonBegin, firstMonEnd).trim(),
+      attack: attack,
       lessThan: []
     };
 
@@ -66,6 +72,7 @@ class FusionRulesParser {
 
       let monBegin = line.search(/[a-z]/i);
       let monEnd = line.indexOf('(');
+      attackEnd = line.indexOf('/', monEnd);
 
       if (monEnd === -1)
         monEnd = line.length;
@@ -78,6 +85,7 @@ class FusionRulesParser {
         rule.products.push(product);
         product = {
           name: name,
+          attack: Number.parseInt(line.substring(monEnd+1, attackEnd)),
           lessThan: []
         };
       }
