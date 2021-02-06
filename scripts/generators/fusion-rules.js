@@ -1,6 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 const Scanner = require('../../scanner');
+const _ = require('lodash');
 
 class FusionRulesParser {
   constructor(buf) {
@@ -11,16 +12,30 @@ class FusionRulesParser {
   getRules() {
     const rules = [];
     while (this.hasNextRule()) {
-      rules.push(this.getNextRule());
+      const rule = this.getNextRule();
+      if (!this._containsRule(rules, rule)) {
+        rules.push(rule);
+      }
     }
     return rules;
   }
 
-  _getNextRule() {
-    this._advanceToRule();
-    const bufCopy = this.buffer.slice();
-    this.buffer = [];
-    return bufCopy;
+  _containsRule(rules, rule) {
+    for (let r of rules) {
+      if (_.isEqual(r.reactants, rule.reactants)
+       || _.isEqual(r.reactants, rule.reactants.slice().reverse()))
+      {
+        if (!_.isEqual(r.products, rule.products)) {
+          console.error('WARNING: detected reverse reactants with different products:');
+          console.error(' - ' + r.reactants.join(' + '));
+        }
+        else {
+          return true;
+        }
+      }
+    }
+
+    return false;
   }
 
   getNextRule() {

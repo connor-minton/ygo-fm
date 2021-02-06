@@ -99,25 +99,6 @@
   {
     "reactants": [
       "[Beast]",
-      "[AngelWinged]"
-    ],
-    "products": [
-      {
-        "name": "Garvas",
-        "attack": 2000,
-        "lessThan": [
-          "Mystical Sheep #1",
-          "Mon Larvas",
-          "Winged Egg of New Life",
-          "Dark Witch",
-          "Nekogal #2"
-        ]
-      }
-    ]
-  },
-  {
-    "reactants": [
-      "[Beast]",
       "[Fish]"
     ],
     "products": [
@@ -230,26 +211,6 @@
         "name": "Thousand Dragon",
         "attack": 2400,
         "lessThan": []
-      }
-    ]
-  },
-  {
-    "reactants": [
-      "[Dragon]",
-      "[Aqua]"
-    ],
-    "products": [
-      {
-        "name": "Spike Seadra",
-        "attack": 1600,
-        "lessThan": []
-      },
-      {
-        "name": "Kairyu-shin",
-        "attack": 1800,
-        "lessThan": [
-          "Flame Swordsman"
-        ]
       }
     ]
   },
@@ -437,25 +398,6 @@
   },
   {
     "reactants": [
-      "[Egg]",
-      "[AngelWinged]"
-    ],
-    "products": [
-      {
-        "name": "Winged Egg of New Life",
-        "attack": 1400,
-        "lessThan": [
-          "Mystical Elf",
-          "Tiger Axe",
-          "Celtic Guardian",
-          "Dark Witch",
-          "Dark Elf"
-        ]
-      }
-    ]
-  },
-  {
-    "reactants": [
       "[Elf]",
       "[MercuryMagicUser]"
     ],
@@ -550,25 +492,6 @@
         "name": "Harpie's Feather Duster",
         "attack": 0,
         "lessThan": []
-      }
-    ]
-  },
-  {
-    "reactants": [
-      "[Female]",
-      "[Fairy]"
-    ],
-    "products": [
-      {
-        "name": "Dark Witch",
-        "attack": 1800,
-        "lessThan": [
-          "Mystical Elf",
-          "Celtic Guardian",
-          "Musician King",
-          "Queen of Autumn Leaves",
-          "Dark Elf"
-        ]
       }
     ]
   },
@@ -705,64 +628,6 @@
   {
     "reactants": [
       "[Fish]",
-      "[Beast]"
-    ],
-    "products": [
-      {
-        "name": "Tatsunootoshigo",
-        "attack": 1350,
-        "lessThan": [
-          "Nekogal #2"
-        ]
-      },
-      {
-        "name": "Rare Fish",
-        "attack": 1500,
-        "lessThan": []
-      },
-      {
-        "name": "Marine Beast",
-        "attack": 1700,
-        "lessThan": [
-          "Nekogal #2"
-        ]
-      }
-    ]
-  },
-  {
-    "reactants": [
-      "[Fish]",
-      "[Female]"
-    ],
-    "products": [
-      {
-        "name": "Ice Water",
-        "attack": 1150,
-        "lessThan": [
-          "Wow Warrior",
-          "Tatsunootoshigo"
-        ]
-      },
-      {
-        "name": "Enchanting Mermaid",
-        "attack": 1200,
-        "lessThan": []
-      },
-      {
-        "name": "Amazon of the Seas",
-        "attack": 1300,
-        "lessThan": [
-          "Wow Warrior",
-          "Tatsunootoshigo",
-          "Dark Witch",
-          "Queen of Autumn Leaves"
-        ]
-      }
-    ]
-  },
-  {
-    "reactants": [
-      "[Fish]",
       "[Machine]"
     ],
     "products": [
@@ -863,71 +728,6 @@
   },
   {
     "reactants": [
-      "[Koumorian]",
-      "[Dragon]"
-    ],
-    "products": [
-      {
-        "name": "Koumori Dragon",
-        "attack": 1500,
-        "lessThan": [
-          "Dragoness the Wicked Knight",
-          "D. Human",
-          "Tiger Axe"
-        ]
-      }
-    ]
-  },
-  {
-    "reactants": [
-      "[Machine]",
-      "[Dinosaur]"
-    ],
-    "products": [
-      {
-        "name": "Cyber Saurus",
-        "attack": 1800,
-        "lessThan": []
-      }
-    ]
-  },
-  {
-    "reactants": [
-      "[Machine]",
-      "[Dragon]"
-    ],
-    "products": [
-      {
-        "name": "Metal Dragon",
-        "attack": 1850,
-        "lessThan": [
-          "Cyber Soldier",
-          "Cyber Saurus",
-          "Flame Swordsman"
-        ]
-      }
-    ]
-  },
-  {
-    "reactants": [
-      "[Machine]",
-      "[Fish]"
-    ],
-    "products": [
-      {
-        "name": "Misairuzame",
-        "attack": 1400,
-        "lessThan": []
-      },
-      {
-        "name": "Metal Fish",
-        "attack": 1600,
-        "lessThan": []
-      }
-    ]
-  },
-  {
-    "reactants": [
       "[Machine]",
       "[MercurySpellcaster]"
     ],
@@ -979,38 +779,6 @@
   },
   {
     "reactants": [
-      "[MercuryMagicUser]",
-      "[Dragon]"
-    ],
-    "products": [
-      {
-        "name": "Blackland Fire Dragon",
-        "attack": 1500,
-        "lessThan": [
-          "Dragon Zombie",
-          "Dragon Statue",
-          "Dragoness the Wicked Knight",
-          "D. Human",
-          "Sword Arm of Dragon"
-        ]
-      }
-    ]
-  },
-  {
-    "reactants": [
-      "[MercuryMagicUser]",
-      "[Elf]"
-    ],
-    "products": [
-      {
-        "name": "Dark Elf",
-        "attack": 2000,
-        "lessThan": []
-      }
-    ]
-  },
-  {
-    "reactants": [
       "[MercurySpellcaster]",
       "Ryu-kishin"
     ],
@@ -1018,34 +786,6 @@
       {
         "name": "Ryu-kishin Powered",
         "attack": 1600,
-        "lessThan": []
-      }
-    ]
-  },
-  {
-    "reactants": [
-      "[MercurySpellcaster]",
-      "[Jar]"
-    ],
-    "products": [
-      {
-        "name": "Ushi Oni",
-        "attack": 2150,
-        "lessThan": [
-          "Mystical Sand"
-        ]
-      }
-    ]
-  },
-  {
-    "reactants": [
-      "[MercurySpellcaster]",
-      "[Machine]"
-    ],
-    "products": [
-      {
-        "name": "Disk Magician",
-        "attack": 1350,
         "lessThan": []
       }
     ]
@@ -1072,49 +812,6 @@
       {
         "name": "Musician King",
         "attack": 1750,
-        "lessThan": []
-      }
-    ]
-  },
-  {
-    "reactants": [
-      "[MystElfian]",
-      "[Elf]"
-    ],
-    "products": [
-      {
-        "name": "Mystical Elf",
-        "attack": 800,
-        "lessThan": []
-      }
-    ]
-  },
-  {
-    "reactants": [
-      "[Plant]",
-      "[Dragon]"
-    ],
-    "products": [
-      {
-        "name": "B. Dragon Jungle King",
-        "attack": 2100,
-        "lessThan": [
-          "Bean Soldier",
-          "Flame Swordsman",
-          "Pumpking the King of Ghosts"
-        ]
-      }
-    ]
-  },
-  {
-    "reactants": [
-      "[Plant]",
-      "[Female]"
-    ],
-    "products": [
-      {
-        "name": "Queen of Autumn Leaves",
-        "attack": 1800,
         "lessThan": []
       }
     ]
@@ -1208,19 +905,6 @@
         "lessThan": [
           "Spike Seadra"
         ]
-      }
-    ]
-  },
-  {
-    "reactants": [
-      "[Pyro]",
-      "[Plant]"
-    ],
-    "products": [
-      {
-        "name": "Firegrass",
-        "attack": 700,
-        "lessThan": []
       }
     ]
   },
@@ -1351,35 +1035,6 @@
   },
   {
     "reactants": [
-      "[Rainbow]",
-      "[Fish]"
-    ],
-    "products": [
-      {
-        "name": "7 Colored Fish",
-        "attack": 1800,
-        "lessThan": [
-          "Queen of Autumn Leaves",
-          "Dark Witch"
-        ]
-      }
-    ]
-  },
-  {
-    "reactants": [
-      "[Reptile]",
-      "[Plant]"
-    ],
-    "products": [
-      {
-        "name": "Snakeyashi",
-        "attack": 1000,
-        "lessThan": []
-      }
-    ]
-  },
-  {
-    "reactants": [
       "[Reptile]",
       "[Thunder]"
     ],
@@ -1401,54 +1056,6 @@
         "name": "Soul Hunter",
         "attack": 2200,
         "lessThan": []
-      }
-    ]
-  },
-  {
-    "reactants": [
-      "[Rock]",
-      "[Dragon]"
-    ],
-    "products": [
-      {
-        "name": "Stone D.",
-        "attack": 2000,
-        "lessThan": [
-          "Flame Swordsman"
-        ]
-      }
-    ]
-  },
-  {
-    "reactants": [
-      "[Rock]",
-      "[Female]"
-    ],
-    "products": [
-      {
-        "name": "Mystical Sand",
-        "attack": 2100,
-        "lessThan": [
-          "Charubin the Fire Knight",
-          "Flame Swordsman",
-          "B. Dragon Jungle King"
-        ]
-      }
-    ]
-  },
-  {
-    "reactants": [
-      "[Rock]",
-      "[Pyro]"
-    ],
-    "products": [
-      {
-        "name": "Dissolverock",
-        "attack": 900,
-        "lessThan": [
-          "Stone Ghost",
-          "Minomushi Warrior"
-        ]
       }
     ]
   },
@@ -1602,158 +1209,6 @@
   },
   {
     "reactants": [
-      "[Thunder]",
-      "[Aqua]"
-    ],
-    "products": [
-      {
-        "name": "Bolt Escargot",
-        "attack": 1400,
-        "lessThan": []
-      }
-    ]
-  },
-  {
-    "reactants": [
-      "[Thunder]",
-      "[Beast]"
-    ],
-    "products": [
-      {
-        "name": "Tripwire Beast",
-        "attack": 1200,
-        "lessThan": []
-      }
-    ]
-  },
-  {
-    "reactants": [
-      "[Thunder]",
-      "[Dragon]"
-    ],
-    "products": [
-      {
-        "name": "Thunder Dragon",
-        "attack": 1600,
-        "lessThan": []
-      },
-      {
-        "name": "Twin-headed Thunder Dragon",
-        "attack": 2800,
-        "lessThan": [
-          "Skelgon",
-          "Sword Arm of Dragon"
-        ]
-      }
-    ]
-  },
-  {
-    "reactants": [
-      "[Thunder]",
-      "[Reptile]"
-    ],
-    "products": [
-      {
-        "name": "Electric Lizard",
-        "attack": 850,
-        "lessThan": []
-      }
-    ]
-  },
-  {
-    "reactants": [
-      "[Thunder]",
-      "[Spellcaster]"
-    ],
-    "products": [
-      {
-        "name": "The Immortal of Thunder",
-        "attack": 1500,
-        "lessThan": []
-      },
-      {
-        "name": "Kaminari Attack",
-        "attack": 1900,
-        "lessThan": [
-          "Thousand Dragon"
-        ]
-      }
-    ]
-  },
-  {
-    "reactants": [
-      "[Turtle]",
-      "[Beast]"
-    ],
-    "products": [
-      {
-        "name": "Turtle Tiger",
-        "attack": 1000,
-        "lessThan": []
-      }
-    ]
-  },
-  {
-    "reactants": [
-      "[Turtle]",
-      "[Dragon]"
-    ],
-    "products": [
-      {
-        "name": "Sea King Dragon",
-        "attack": 2000,
-        "lessThan": [
-          "Spike Seadra",
-          "Kairyu-shin"
-        ]
-      }
-    ]
-  },
-  {
-    "reactants": [
-      "[Turtle]",
-      "[Pyro]"
-    ],
-    "products": [
-      {
-        "name": "Giant Turtle Who Feeds on Flames",
-        "attack": 1400,
-        "lessThan": [
-          "Year White Turtle",
-          "Boulder Tortoise",
-          "Turtle Bird"
-        ]
-      }
-    ]
-  },
-  {
-    "reactants": [
-      "[Turtle]",
-      "[Rock]"
-    ],
-    "products": [
-      {
-        "name": "Boulder Tortoise",
-        "attack": 1450,
-        "lessThan": []
-      }
-    ]
-  },
-  {
-    "reactants": [
-      "[Turtle]",
-      "[Spellcaster]"
-    ],
-    "products": [
-      {
-        "name": "30,000-Year White Turtle",
-        "attack": 1250,
-        "lessThan": []
-      }
-    ]
-  },
-  {
-    "reactants": [
       "[Turtle]",
       "[Winged Beast]"
     ],
@@ -1761,70 +1216,6 @@
       {
         "name": "Turtle Bird",
         "attack": 1900,
-        "lessThan": []
-      }
-    ]
-  },
-  {
-    "reactants": [
-      "[UsableBeast]",
-      "[Female]"
-    ],
-    "products": [
-      {
-        "name": "Nekogal #2",
-        "attack": 1900,
-        "lessThan": []
-      }
-    ]
-  },
-  {
-    "reactants": [
-      "[UsableBeast]",
-      "[Machine]"
-    ],
-    "products": [
-      {
-        "name": "Giga-tech Wolf",
-        "attack": 1200,
-        "lessThan": [
-          "Flame Cerebrus"
-        ]
-      },
-      {
-        "name": "Dice Armadillo",
-        "attack": 1650,
-        "lessThan": [
-          "Flame Cerebrus"
-        ]
-      }
-    ]
-  },
-  {
-    "reactants": [
-      "[UsableBeast]",
-      "[Plant]"
-    ],
-    "products": [
-      {
-        "name": "Flower Wolf",
-        "attack": 1800,
-        "lessThan": [
-          "Nekogal #2",
-          "Flame Cerebrus"
-        ]
-      }
-    ]
-  },
-  {
-    "reactants": [
-      "[UsableBeast]",
-      "[Pyro]"
-    ],
-    "products": [
-      {
-        "name": "Flame Cerebrus",
-        "attack": 2100,
         "lessThan": []
       }
     ]
@@ -1859,179 +1250,6 @@
           "Musician King",
           "Flame Swordsman",
           "Vermillion Sparrow"
-        ]
-      }
-    ]
-  },
-  {
-    "reactants": [
-      "[Warrior]",
-      "[Dragon]"
-    ],
-    "products": [
-      {
-        "name": "Dragon Statue",
-        "attack": 1100,
-        "lessThan": []
-      },
-      {
-        "name": "Dragoness the Wicked Knight",
-        "attack": 1200,
-        "lessThan": [
-          "Flame Swordsman"
-        ]
-      },
-      {
-        "name": "D. Human",
-        "attack": 1300,
-        "lessThan": []
-      },
-      {
-        "name": "Sword Arm of Dragon",
-        "attack": 1750,
-        "lessThan": [
-          "Skelgon",
-          "Flame Swordsman",
-          "Dark Elf"
-        ]
-      }
-    ]
-  },
-  {
-    "reactants": [
-      "[Warrior]",
-      "[Elf]"
-    ],
-    "products": [
-      {
-        "name": "Celtic Guardian",
-        "attack": 1400,
-        "lessThan": [
-          "Dark Elf"
-        ]
-      }
-    ]
-  },
-  {
-    "reactants": [
-      "[Warrior]",
-      "[Fish]"
-    ],
-    "products": [
-      {
-        "name": "Wow Warrior",
-        "attack": 1250,
-        "lessThan": []
-      }
-    ]
-  },
-  {
-    "reactants": [
-      "[Warrior]",
-      "[Insect]"
-    ],
-    "products": [
-      {
-        "name": "Cockroach Knight",
-        "attack": 800,
-        "lessThan": []
-      }
-    ]
-  },
-  {
-    "reactants": [
-      "[Warrior]",
-      "[Machine]"
-    ],
-    "products": [
-      {
-        "name": "Cyber Soldier",
-        "attack": 1500,
-        "lessThan": [
-          "Charubin the Fire Knight",
-          "Flame Swordsman"
-        ]
-      }
-    ]
-  },
-  {
-    "reactants": [
-      "[Warrior]",
-      "[Plant]"
-    ],
-    "products": [
-      {
-        "name": "Bean Soldier",
-        "attack": 1400,
-        "lessThan": [
-          "Charubin the Fire Knight",
-          "Flame Swordsman",
-          "Queen of Autumn Leaves"
-        ]
-      }
-    ]
-  },
-  {
-    "reactants": [
-      "[Warrior]",
-      "[Pyro]"
-    ],
-    "products": [
-      {
-        "name": "Charubin the Fire Knight",
-        "attack": 1100,
-        "lessThan": [
-          "Zombie Warrior",
-          "Queen of Autumn Leaves"
-        ]
-      },
-      {
-        "name": "Flame Swordsman",
-        "attack": 1800,
-        "lessThan": [
-          "Zombie Warrior",
-          "Armored Zombie",
-          "Dragon Zombie",
-          "Queen of Autumn Leaves"
-        ]
-      },
-      {
-        "name": "Vermillion Sparrow",
-        "attack": 1900,
-        "lessThan": []
-      }
-    ]
-  },
-  {
-    "reactants": [
-      "[Warrior]",
-      "[Rock]"
-    ],
-    "products": [
-      {
-        "name": "Minomushi Warrior",
-        "attack": 1300,
-        "lessThan": [
-          "Charubin the Fire Knight",
-          "Flame Swordsman",
-          "Stone D.",
-          "Mystical Sand"
-        ]
-      }
-    ]
-  },
-  {
-    "reactants": [
-      "[Warrior]",
-      "[UsableBeast]"
-    ],
-    "products": [
-      {
-        "name": "Tiger Axe",
-        "attack": 1300,
-        "lessThan": [
-          "Nekogal #2",
-          "Flame Cerebrus"
         ]
       }
     ]
@@ -2102,56 +1320,6 @@
   },
   {
     "reactants": [
-      "[Winged Beast]",
-      "[Mirror]"
-    ],
-    "products": [
-      {
-        "name": "Fiend Refrection #1",
-        "attack": 1300,
-        "lessThan": []
-      }
-    ]
-  },
-  {
-    "reactants": [
-      "[Winged Beast]",
-      "[Pyro]"
-    ],
-    "products": [
-      {
-        "name": "Mavelus",
-        "attack": 1300,
-        "lessThan": []
-      },
-      {
-        "name": "Crimson Sunbird",
-        "attack": 2300,
-        "lessThan": [
-          "Flame Swordsman",
-          "Vermillion Sparrow",
-          "Queen of Autumn Leaves",
-          "Harpie's Pet Dragon",
-          "Mystical Sand"
-        ]
-      }
-    ]
-  },
-  {
-    "reactants": [
-      "[Winged Beast]",
-      "[Turtle]"
-    ],
-    "products": [
-      {
-        "name": "Turtle Bird",
-        "attack": 1900,
-        "lessThan": []
-      }
-    ]
-  },
-  {
-    "reactants": [
       "[Zombie]",
       "Graveyard and the Hand of Invitation"
     ],
@@ -2173,151 +1341,6 @@
         "name": "Great Mammoth of Goldfine",
         "attack": 2200,
         "lessThan": []
-      }
-    ]
-  },
-  {
-    "reactants": [
-      "[Zombie]",
-      "[Beast]"
-    ],
-    "products": [
-      {
-        "name": "Shadow Specter",
-        "attack": 500,
-        "lessThan": []
-      }
-    ]
-  },
-  {
-    "reactants": [
-      "[Zombie]",
-      "[Dragon]"
-    ],
-    "products": [
-      {
-        "name": "Dragon Zombie",
-        "attack": 1600,
-        "lessThan": []
-      },
-      {
-        "name": "Skelgon",
-        "attack": 1700,
-        "lessThan": []
-      },
-      {
-        "name": "Curse of Dragon",
-        "attack": 2000,
-        "lessThan": [
-          "Sword Arm of Dragon",
-          "Twin-headed Thunder Dragon"
-        ]
-      }
-    ]
-  },
-  {
-    "reactants": [
-      "[Zombie]",
-      "[Fish]"
-    ],
-    "products": [
-      {
-        "name": "Corroding Shark",
-        "attack": 1100,
-        "lessThan": []
-      }
-    ]
-  },
-  {
-    "reactants": [
-      "[Zombie]",
-      "[Plant]"
-    ],
-    "products": [
-      {
-        "name": "Wood Remains",
-        "attack": 1000,
-        "lessThan": []
-      },
-      {
-        "name": "Pumpking the King of Ghosts",
-        "attack": 1800,
-        "lessThan": []
-      }
-    ]
-  },
-  {
-    "reactants": [
-      "[Zombie]",
-      "[Pyro]"
-    ],
-    "products": [
-      {
-        "name": "Fire Reaper",
-        "attack": 700,
-        "lessThan": []
-      },
-      {
-        "name": "Flame Ghost",
-        "attack": 1000,
-        "lessThan": [
-          "Wood Remains",
-          "Zombie Warrior",
-          "Stone Ghost",
-          "Magical Ghost",
-          "The Snake Hair"
-        ]
-      }
-    ]
-  },
-  {
-    "reactants": [
-      "[Zombie]",
-      "[Rock]"
-    ],
-    "products": [
-      {
-        "name": "Stone Ghost",
-        "attack": 1200,
-        "lessThan": []
-      }
-    ]
-  },
-  {
-    "reactants": [
-      "[Zombie]",
-      "[Spellcaster]"
-    ],
-    "products": [
-      {
-        "name": "Magical Ghost",
-        "attack": 1300,
-        "lessThan": [
-          "Dark Elf"
-        ]
-      }
-    ]
-  },
-  {
-    "reactants": [
-      "[Zombie]",
-      "[Warrior]"
-    ],
-    "products": [
-      {
-        "name": "Zombie Warrior",
-        "attack": 1200,
-        "lessThan": [
-          "Dragon Zombie"
-        ]
-      },
-      {
-        "name": "Armored Zombie",
-        "attack": 1500,
-        "lessThan": [
-          "Dragon Zombie",
-          "Dark Elf"
-        ]
       }
     ]
   },
