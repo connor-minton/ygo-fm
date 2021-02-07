@@ -2,6 +2,20 @@ const fs = require('fs');
 const path = require('path');
 const Scanner = require('../../scanner');
 const _ = require('lodash');
+const util = require('../../util');
+
+function parseReactants(line) {
+  const reactants = line.split(/[+=]/, 2).map(s => s.trim());
+  for (let i = 0; i < reactants.length; i++) {
+    if (reactants[i][0] === '[') {
+      const fusionType =
+        util.normalizeType(reactants[i].substring(1, reactants[i].length-1));
+      reactants[i] = `[${fusionType}]`;
+    }
+  }
+
+  return reactants;
+}
 
 class FusionRulesParser {
   constructor(buf) {
@@ -55,7 +69,7 @@ class FusionRulesParser {
     }
 
     const rule = {
-      reactants: equalityLine.split(/[+=]/, 2).map(s => s.trim()),
+      reactants: parseReactants(equalityLine),
       products: []
     };
 

@@ -793,7 +793,7 @@
   {
     "reactants": [
       "[Mirror]",
-      "[Winged Beast]"
+      "[WingedBeast]"
     ],
     "products": [
       {
@@ -988,7 +988,7 @@
   {
     "reactants": [
       "[Pyro]",
-      "[Winged Beast]"
+      "[WingedBeast]"
     ],
     "products": [
       {
@@ -1210,7 +1210,7 @@
   {
     "reactants": [
       "[Turtle]",
-      "[Winged Beast]"
+      "[WingedBeast]"
     ],
     "products": [
       {
@@ -1279,7 +1279,7 @@
   },
   {
     "reactants": [
-      "[Winged Beast]",
+      "[WingedBeast]",
       "Boo Koo"
     ],
     "products": [
@@ -1292,7 +1292,7 @@
   },
   {
     "reactants": [
-      "[Winged Beast]",
+      "[WingedBeast]",
       "Ryu-kishin"
     ],
     "products": [
@@ -1305,7 +1305,7 @@
   },
   {
     "reactants": [
-      "[Winged Beast]",
+      "[WingedBeast]",
       "The Judgement Hand"
     ],
     "products": [
