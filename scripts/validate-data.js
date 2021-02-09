@@ -14,6 +14,10 @@ const validators = [
   {
     validate: require('./validators/cards'),
     name: 'merged cards.json'
+  },
+  {
+    validate: require('./validators/fusion-rules'),
+    name: 'fusion-rules.json'
   }
 ];
 

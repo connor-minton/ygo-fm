@@ -99,7 +99,7 @@ class FusionRulesParser {
         break;
       }
 
-      let monBegin = line.search(/[a-z]/i);
+      let monBegin = line.search(/[a-z0-9]/i);
       let monEnd = line.indexOf('(');
       attackEnd = line.indexOf('/', monEnd);
 

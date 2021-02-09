@@ -934,7 +934,7 @@
         "name": "Giant Turtle Who Feeds on Flames",
         "attack": 1400,
         "lessThan": [
-          "Year White Turtle",
+          "30,000-Year White Turtle",
           "Boulder Tortoise",
           "Turtle Bird"
         ]
