@@ -92,6 +92,46 @@ gsNorm.addRule(['mrs', /^ma/], 'Mars');
 gsNorm.addRule(['jpt', /^ju/], 'Jupiter');
 
 module.exports = {
+  // returns [[selected items], [remaining items]]
+  choose(indices, sourceArray) {
+    if (!Array.isArray(indices)) {
+      indices = [indices];
+    }
+
+    indices = [...indices];
+    indices.sort();
+    let j = 0;
+
+    const selected = [];
+    const remaining = [];
+
+    for (let i = 0; i < sourceArray.length; i++) {
+      if (i === indices[j]) {
+        selected.push(sourceArray[i]);
+        j++;
+      }
+      else {
+        remaining.push(sourceArray[i]);
+      }
+    }
+
+    return [selected, remaining];
+  },
+
+  // card is a Card object
+  // returns an array of all of the searchable fusion types (including the card
+  // name) for this card
+  getFusionTypes(card) {
+    if (!card || !Array.isArray(card.fusionTypes)) {
+      return;
+    }
+
+    const searchableFusionTypes = card.fusionTypes.map(t => `[${t}]`);
+    searchableFusionTypes.push(card.name);
+
+    return searchableFusionTypes;
+  },
+
   normalizeGuardianStar(gs) {
     return gsNorm.normalize(gs);
   },
@@ -115,5 +155,18 @@ module.exports = {
     }
 
     return diff;
+  },
+
+  // returns new set s U t
+  setUnion(s, t) {
+    if (!(t instanceof Set))
+      t = new Set(t);
+
+    const union = new Set(s);
+    for (let item of t) {
+      union.add(item);
+    }
+
+    return union;
   }
 };
