@@ -1,0 +1,4490 @@
+[
+  {
+    "name": "Blue-eyes White Dragon",
+    "fusionTypes": []
+  },
+  {
+    "name": "Mystical Elf",
+    "fusionTypes": [
+      "Elf",
+      "Female",
+      "Spellcaster"
+    ]
+  },
+  {
+    "name": "Hitotsu-me Giant",
+    "fusionTypes": [
+      "Fiend Summon"
+    ]
+  },
+  {
+    "name": "Baby Dragon",
+    "fusionTypes": [
+      "Dragon"
+    ]
+  },
+  {
+    "name": "Ryu-kishin",
+    "fusionTypes": [
+      "Fiend"
+    ]
+  },
+  {
+    "name": "Feral Imp",
+    "fusionTypes": [
+      "Fiend",
+      "Fiend Summon"
+    ]
+  },
+  {
+    "name": "Winged Dragon #1",
+    "fusionTypes": [
+      "Dragon"
+    ]
+  },
+  {
+    "name": "Mushroom Man",
+    "fusionTypes": [
+      "Plant"
+    ]
+  },
+  {
+    "name": "Shadow Specter",
+    "fusionTypes": [
+      "Fiend Summon",
+      "Zombie"
+    ]
+  },
+  {
+    "name": "Blackland Fire Dragon",
+    "fusionTypes": [
+      "Dragon",
+      "Shadow"
+    ]
+  },
+  {
+    "name": "Sword Arm of Dragon",
+    "fusionTypes": [
+      "Dinosaur",
+      "Dragon"
+    ]
+  },
+  {
+    "name": "Swamp Battleguard",
+    "fusionTypes": [
+      "Shadow",
+      "Warrior"
+    ]
+  },
+  {
+    "name": "Tyhone",
+    "fusionTypes": [
+      "Winged Beast"
+    ]
+  },
+  {
+    "name": "Battle Steer",
+    "fusionTypes": []
+  },
+  {
+    "name": "Flame Swordsman",
+    "fusionTypes": [
+      "Pyro",
+      "Warrior"
+    ]
+  },
+  {
+    "name": "Time Wizard",
+    "fusionTypes": [
+      "Spellcaster"
+    ]
+  },
+  {
+    "name": "Right Leg of the Forbidden One",
+    "fusionTypes": [
+      "Dark Spellcaster",
+      "Shadow",
+      "Spellcaster"
+    ]
+  },
+  {
+    "name": "Left Leg of the Forbidden One",
+    "fusionTypes": [
+      "Dark Spellcaster",
+      "Shadow",
+      "Spellcaster"
+    ]
+  },
+  {
+    "name": "Right Arm of the Forbidden One",
+    "fusionTypes": [
+      "Dark Spellcaster",
+      "Shadow",
+      "Spellcaster"
+    ]
+  },
+  {
+    "name": "Left Arm of the Forbidden One",
+    "fusionTypes": [
+      "Dark Spellcaster",
+      "Shadow",
+      "Spellcaster"
+    ]
+  },
+  {
+    "name": "Exodia the Forbidden",
+    "fusionTypes": [
+      "Dark Spellcaster",
+      "Shadow",
+      "Spellcaster"
+    ]
+  },
+  {
+    "name": "Summoned Skull",
+    "fusionTypes": []
+  },
+  {
+    "name": "The Wicked Worm Beast",
+    "fusionTypes": [
+      "Beast"
+    ]
+  },
+  {
+    "name": "Skull Servant",
+    "fusionTypes": [
+      "Fiend Summon",
+      "Zombie"
+    ]
+  },
+  {
+    "name": "Horn Imp",
+    "fusionTypes": [
+      "Fiend",
+      "Fiend Summon"
+    ]
+  },
+  {
+    "name": "Battle Ox",
+    "fusionTypes": []
+  },
+  {
+    "name": "Beaver Warrior",
+    "fusionTypes": []
+  },
+  {
+    "name": "Rock Ogre Grotto #1",
+    "fusionTypes": [
+      "Rock"
+    ]
+  },
+  {
+    "name": "Mountain Warrior",
+    "fusionTypes": []
+  },
+  {
+    "name": "Zombie Warrior",
+    "fusionTypes": [
+      "Zombie"
+    ]
+  },
+  {
+    "name": "Koumori Dragon",
+    "fusionTypes": [
+      "Dragon"
+    ]
+  },
+  {
+    "name": "Two-headed King Rex",
+    "fusionTypes": [
+      "Dinosaur"
+    ]
+  },
+  {
+    "name": "Judge Man",
+    "fusionTypes": []
+  },
+  {
+    "name": "Saggi the Dark Clown",
+    "fusionTypes": [
+      "Dark Spellcaster",
+      "Shadow",
+      "Spellcaster"
+    ]
+  },
+  {
+    "name": "Dark Magician",
+    "fusionTypes": []
+  },
+  {
+    "name": "The Snake Hair",
+    "fusionTypes": [
+      "Zombie"
+    ]
+  },
+  {
+    "name": "Gaia the Dragon Champion",
+    "fusionTypes": [
+      "Dragon"
+    ]
+  },
+  {
+    "name": "Gaia the Fierce Knight",
+    "fusionTypes": []
+  },
+  {
+    "name": "Curse of Dragon",
+    "fusionTypes": [
+      "Dragon"
+    ]
+  },
+  {
+    "name": "Dragon Piper",
+    "fusionTypes": [
+      "Jar",
+      "Pyro"
+    ]
+  },
+  {
+    "name": "Celtic Guardian",
+    "fusionTypes": [
+      "Elf",
+      "Light",
+      "Warrior"
+    ]
+  },
+  {
+    "name": "Illusionist Faceless Mage",
+    "fusionTypes": [
+      "Spellcaster"
+    ]
+  },
+  {
+    "name": "Karbonala Warrior",
+    "fusionTypes": [
+      "Warrior"
+    ]
+  },
+  {
+    "name": "Rogue Doll",
+    "fusionTypes": [
+      "Light",
+      "Spellcaster"
+    ]
+  },
+  {
+    "name": "Oscillo Hero #2",
+    "fusionTypes": [
+      "Thunder"
+    ]
+  },
+  {
+    "name": "Griffore",
+    "fusionTypes": [
+      "Animal",
+      "Beast"
+    ]
+  },
+  {
+    "name": "Torike",
+    "fusionTypes": [
+      "Animal",
+      "Beast"
+    ]
+  },
+  {
+    "name": "Sangan",
+    "fusionTypes": [
+      "Fiend",
+      "Fiend Summon"
+    ]
+  },
+  {
+    "name": "Big Insect",
+    "fusionTypes": [
+      "Insect"
+    ]
+  },
+  {
+    "name": "Basic Insect",
+    "fusionTypes": [
+      "Insect"
+    ]
+  },
+  {
+    "name": "Armored Lizard",
+    "fusionTypes": [
+      "Neptune",
+      "Reptile"
+    ]
+  },
+  {
+    "name": "Hercules Beetle",
+    "fusionTypes": [
+      "Insect"
+    ]
+  },
+  {
+    "name": "Killer Needle",
+    "fusionTypes": [
+      "Insect"
+    ]
+  },
+  {
+    "name": "Gokibore",
+    "fusionTypes": [
+      "Insect"
+    ]
+  },
+  {
+    "name": "Giant Flea",
+    "fusionTypes": [
+      "Insect"
+    ]
+  },
+  {
+    "name": "Larvae Moth",
+    "fusionTypes": [
+      "Insect"
+    ]
+  },
+  {
+    "name": "Great Moth",
+    "fusionTypes": []
+  },
+  {
+    "name": "Kuriboh",
+    "fusionTypes": [
+      "Fiend",
+      "Fiend Summon"
+    ]
+  },
+  {
+    "name": "Mammoth Graveyard",
+    "fusionTypes": [
+      "Dinosaur",
+      "Fiend Summon"
+    ]
+  },
+  {
+    "name": "Great White",
+    "fusionTypes": [
+      "Fish",
+      "Neptune"
+    ]
+  },
+  {
+    "name": "Wolf",
+    "fusionTypes": [
+      "Animal",
+      "Beast"
+    ]
+  },
+  {
+    "name": "Harpie Lady",
+    "fusionTypes": [
+      "Feathered A",
+      "Feathered B",
+      "Female",
+      "Harpie",
+      "Harpie Killer",
+      "Winged Beast"
+    ]
+  },
+  {
+    "name": "Harpie Lady Sisters",
+    "fusionTypes": [
+      "Feathered A",
+      "Feathered B",
+      "Female",
+      "Harpie",
+      "Harpie Killer",
+      "Winged Beast"
+    ]
+  },
+  {
+    "name": "Tiger Axe",
+    "fusionTypes": []
+  },
+  {
+    "name": "Silver Fang",
+    "fusionTypes": [
+      "Animal",
+      "Beast"
+    ]
+  },
+  {
+    "name": "Kojikocy",
+    "fusionTypes": [
+      "Warrior"
+    ]
+  },
+  {
+    "name": "Perfectly Ultimate Great Moth",
+    "fusionTypes": []
+  },
+  {
+    "name": "Garoozis",
+    "fusionTypes": [
+      "Pyro"
+    ]
+  },
+  {
+    "name": "Thousand Dragon",
+    "fusionTypes": [
+      "Dragon"
+    ]
+  },
+  {
+    "name": "Fiend Kraken",
+    "fusionTypes": [
+      "Aqua",
+      "Neptune"
+    ]
+  },
+  {
+    "name": "Jellyfish",
+    "fusionTypes": [
+      "Aqua",
+      "Neptune"
+    ]
+  },
+  {
+    "name": "Cocoon of Evolution",
+    "fusionTypes": [
+      "Insect"
+    ]
+  },
+  {
+    "name": "Kairyu-shin",
+    "fusionTypes": [
+      "Dragon",
+      "Neptune"
+    ]
+  },
+  {
+    "name": "Giant Soldier of Stone",
+    "fusionTypes": [
+      "Rock"
+    ]
+  },
+  {
+    "name": "Man-eating Plant",
+    "fusionTypes": [
+      "Plant"
+    ]
+  },
+  {
+    "name": "Krokodilus",
+    "fusionTypes": [
+      "Neptune",
+      "Reptile"
+    ]
+  },
+  {
+    "name": "Grappler",
+    "fusionTypes": [
+      "Neptune",
+      "Reptile"
+    ]
+  },
+  {
+    "name": "Axe Raider",
+    "fusionTypes": [
+      "Warrior"
+    ]
+  },
+  {
+    "name": "Megazowler",
+    "fusionTypes": []
+  },
+  {
+    "name": "Uraby",
+    "fusionTypes": [
+      "Dinosaur"
+    ]
+  },
+  {
+    "name": "Crawling Dragon #2",
+    "fusionTypes": [
+      "Dinosaur",
+      "Dragon"
+    ]
+  },
+  {
+    "name": "Red-eyes B. Dragon",
+    "fusionTypes": [
+      "Dragon"
+    ]
+  },
+  {
+    "name": "Castle of Dark Illusions",
+    "fusionTypes": [
+      "Fiend",
+      "Shadow"
+    ]
+  },
+  {
+    "name": "Reaper of the Cards",
+    "fusionTypes": [
+      "Fiend",
+      "Fiend Summon"
+    ]
+  },
+  {
+    "name": "King of Yamimakai",
+    "fusionTypes": [
+      "Fiend"
+    ]
+  },
+  {
+    "name": "Barox",
+    "fusionTypes": [
+      "Fiend"
+    ]
+  },
+  {
+    "name": "Dark Chimera",
+    "fusionTypes": [
+      "Fiend"
+    ]
+  },
+  {
+    "name": "Metal Guardian",
+    "fusionTypes": [
+      "Fiend",
+      "Fiend Summon"
+    ]
+  },
+  {
+    "name": "Catapult Turtle",
+    "fusionTypes": [
+      "Aqua",
+      "Neptune",
+      "Turtle"
+    ]
+  },
+  {
+    "name": "Gyakutenno Megami",
+    "fusionTypes": [
+      "Female"
+    ]
+  },
+  {
+    "name": "Mystic Horseman",
+    "fusionTypes": [
+      "Animal",
+      "Beast"
+    ]
+  },
+  {
+    "name": "Rabid Horseman",
+    "fusionTypes": []
+  },
+  {
+    "name": "Zanki",
+    "fusionTypes": [
+      "Warrior"
+    ]
+  },
+  {
+    "name": "Crawling Dragon",
+    "fusionTypes": [
+      "Dragon"
+    ]
+  },
+  {
+    "name": "Crass Clown",
+    "fusionTypes": [
+      "Fiend"
+    ]
+  },
+  {
+    "name": "Armored Zombie",
+    "fusionTypes": [
+      "Zombie"
+    ]
+  },
+  {
+    "name": "Dragon Zombie",
+    "fusionTypes": [
+      "Dragon",
+      "Zombie"
+    ]
+  },
+  {
+    "name": "Clown Zombie",
+    "fusionTypes": [
+      "Zombie"
+    ]
+  },
+  {
+    "name": "Pumpking the King of Ghosts",
+    "fusionTypes": [
+      "Zombie"
+    ]
+  },
+  {
+    "name": "Battle Warrior",
+    "fusionTypes": [
+      "Warrior"
+    ]
+  },
+  {
+    "name": "Wings of Wicked Flame",
+    "fusionTypes": [
+      "Pyro"
+    ]
+  },
+  {
+    "name": "Mask of Darkness",
+    "fusionTypes": [
+      "Fiend",
+      "Shadow"
+    ]
+  },
+  {
+    "name": "Job-change Mirror",
+    "fusionTypes": [
+      "Fiend",
+      "Mirror",
+      "Shadow"
+    ]
+  },
+  {
+    "name": "Curtain of the Dark Ones",
+    "fusionTypes": [
+      "Dark Spellcaster",
+      "Shadow",
+      "Spellcaster"
+    ]
+  },
+  {
+    "name": "Tomozaurus",
+    "fusionTypes": [
+      "Dinosaur"
+    ]
+  },
+  {
+    "name": "Spirit of the Winds",
+    "fusionTypes": [
+      "Spellcaster"
+    ]
+  },
+  {
+    "name": "Kageningen",
+    "fusionTypes": [
+      "Fiend Summon",
+      "Warrior"
+    ]
+  },
+  {
+    "name": "Graveyard and the Hand of Invitation",
+    "fusionTypes": [
+      "Fiend Summon",
+      "Zombie"
+    ]
+  },
+  {
+    "name": "Goddess with the Third Eye",
+    "fusionTypes": [
+      "Fairy",
+      "Female",
+      "Light"
+    ]
+  },
+  {
+    "name": "Hero of the East",
+    "fusionTypes": [
+      "Warrior"
+    ]
+  },
+  {
+    "name": "Doma The Angel of Silence",
+    "fusionTypes": [
+      "Fairy",
+      "Shadow"
+    ]
+  },
+  {
+    "name": "That Which Feeds on Life",
+    "fusionTypes": [
+      "Fiend",
+      "Shadow"
+    ]
+  },
+  {
+    "name": "Dark Gray",
+    "fusionTypes": [
+      "Animal",
+      "Beast"
+    ]
+  },
+  {
+    "name": "White Magical Hat",
+    "fusionTypes": [
+      "Light",
+      "Spellcaster"
+    ]
+  },
+  {
+    "name": "Kamion Wizard",
+    "fusionTypes": [
+      "Dark Spellcaster",
+      "Shadow",
+      "Spellcaster"
+    ]
+  },
+  {
+    "name": "Nightmare Scorpion",
+    "fusionTypes": [
+      "Insect"
+    ]
+  },
+  {
+    "name": "Spirit of the Books",
+    "fusionTypes": [
+      "Winged Beast"
+    ]
+  },
+  {
+    "name": "Supporter in the Shadows",
+    "fusionTypes": [
+      "Warrior"
+    ]
+  },
+  {
+    "name": "Trial of Nightmares",
+    "fusionTypes": [
+      "Fiend",
+      "Fiend Summon"
+    ]
+  },
+  {
+    "name": "Dream Clown",
+    "fusionTypes": [
+      "Warrior"
+    ]
+  },
+  {
+    "name": "Sleeping Lion",
+    "fusionTypes": [
+      "Animal",
+      "Beast"
+    ]
+  },
+  {
+    "name": "Yamatano Dragon Scroll",
+    "fusionTypes": [
+      "Dragon"
+    ]
+  },
+  {
+    "name": "Dark Plant",
+    "fusionTypes": [
+      "Plant"
+    ]
+  },
+  {
+    "name": "Ancient Tool",
+    "fusionTypes": [
+      "Machine"
+    ]
+  },
+  {
+    "name": "Faith Bird",
+    "fusionTypes": [
+      "Feathered A",
+      "Feathered B",
+      "Light",
+      "Winged Beast"
+    ]
+  },
+  {
+    "name": "Orion the Battle King",
+    "fusionTypes": []
+  },
+  {
+    "name": "Ansatsu",
+    "fusionTypes": [
+      "Shadow",
+      "Warrior"
+    ]
+  },
+  {
+    "name": "LaMoon",
+    "fusionTypes": [
+      "Feathered A",
+      "Feathered B",
+      "Female",
+      "Light",
+      "Spellcaster",
+      "Winged"
+    ]
+  },
+  {
+    "name": "Nemuriko",
+    "fusionTypes": [
+      "Dark Spellcaster",
+      "Female",
+      "Shadow",
+      "Spellcaster"
+    ]
+  },
+  {
+    "name": "Weather Control",
+    "fusionTypes": [
+      "Fairy",
+      "Light"
+    ]
+  },
+  {
+    "name": "Octoberser",
+    "fusionTypes": [
+      "Aqua",
+      "Neptune"
+    ]
+  },
+  {
+    "name": "The 13th Grave",
+    "fusionTypes": [
+      "Zombie"
+    ]
+  },
+  {
+    "name": "Charubin the Fire Knight",
+    "fusionTypes": [
+      "Pyro"
+    ]
+  },
+  {
+    "name": "Mystical Capture Chain",
+    "fusionTypes": [
+      "Fairy",
+      "Light"
+    ]
+  },
+  {
+    "name": "Fiend's Hand",
+    "fusionTypes": [
+      "Fiend Summon",
+      "Zombie"
+    ]
+  },
+  {
+    "name": "Witty Phantom",
+    "fusionTypes": [
+      "Fiend",
+      "Shadow"
+    ]
+  },
+  {
+    "name": "Mystery Hand",
+    "fusionTypes": [
+      "Fiend",
+      "Fiend Summon"
+    ]
+  },
+  {
+    "name": "Dragon Statue",
+    "fusionTypes": [
+      "Dragon",
+      "Warrior"
+    ]
+  },
+  {
+    "name": "Blue-eyed Silver Zombie",
+    "fusionTypes": [
+      "Fiend Summon",
+      "Zombie"
+    ]
+  },
+  {
+    "name": "Toad Master",
+    "fusionTypes": [
+      "Aqua",
+      "Neptune"
+    ]
+  },
+  {
+    "name": "Spiked Snail",
+    "fusionTypes": [
+      "Fiend Summon",
+      "Insect"
+    ]
+  },
+  {
+    "name": "Flame Manipulator",
+    "fusionTypes": [
+      "Pyro",
+      "Spellcaster"
+    ]
+  },
+  {
+    "name": "Necrolancer the Timelord",
+    "fusionTypes": [
+      "Spellcaster"
+    ]
+  },
+  {
+    "name": "Djinn the Watcher of the Wind",
+    "fusionTypes": [
+      "Spellcaster"
+    ]
+  },
+  {
+    "name": "The Bewitching Phantom Thief",
+    "fusionTypes": [
+      "Spellcaster"
+    ]
+  },
+  {
+    "name": "Temple of Skulls",
+    "fusionTypes": [
+      "Shadow",
+      "Zombie"
+    ]
+  },
+  {
+    "name": "Monster Egg",
+    "fusionTypes": [
+      "Egg",
+      "Warrior"
+    ]
+  },
+  {
+    "name": "The Shadow Who Controls the Dark",
+    "fusionTypes": [
+      "Fiend",
+      "Shadow"
+    ]
+  },
+  {
+    "name": "Lord of the Lamp",
+    "fusionTypes": [
+      "Fiend",
+      "Shadow"
+    ]
+  },
+  {
+    "name": "Akihiron",
+    "fusionTypes": [
+      "Aqua",
+      "Neptune"
+    ]
+  },
+  {
+    "name": "Rhaimundos of the Red Sword",
+    "fusionTypes": [
+      "Neptune",
+      "Warrior"
+    ]
+  },
+  {
+    "name": "The Melting Red Shadow",
+    "fusionTypes": [
+      "Aqua",
+      "Fiend Summon"
+    ]
+  },
+  {
+    "name": "Dokuroizo the Grim Reaper",
+    "fusionTypes": [
+      "Fiend Summon",
+      "Zombie"
+    ]
+  },
+  {
+    "name": "Fire Reaper",
+    "fusionTypes": [
+      "Pyro",
+      "Zombie"
+    ]
+  },
+  {
+    "name": "Larvas",
+    "fusionTypes": [
+      "Beast"
+    ]
+  },
+  {
+    "name": "Hard Armor",
+    "fusionTypes": [
+      "Warrior"
+    ]
+  },
+  {
+    "name": "Firegrass",
+    "fusionTypes": [
+      "Plant",
+      "Pyro"
+    ]
+  },
+  {
+    "name": "Man Eater",
+    "fusionTypes": [
+      "Plant"
+    ]
+  },
+  {
+    "name": "Dig Beak",
+    "fusionTypes": [
+      "Beast"
+    ]
+  },
+  {
+    "name": "M-warrior #1",
+    "fusionTypes": [
+      "Warrior"
+    ]
+  },
+  {
+    "name": "M-warrior #2",
+    "fusionTypes": [
+      "Warrior"
+    ]
+  },
+  {
+    "name": "Tainted Wisdom",
+    "fusionTypes": [
+      "Fiend",
+      "Fiend Summon"
+    ]
+  },
+  {
+    "name": "Lisark",
+    "fusionTypes": [
+      "Beast",
+      "Feathered A",
+      "Feathered B"
+    ]
+  },
+  {
+    "name": "Lord of Zemia",
+    "fusionTypes": [
+      "Fiend",
+      "Shadow"
+    ]
+  },
+  {
+    "name": "The Judgement Hand",
+    "fusionTypes": [
+      "Light",
+      "Warrior"
+    ]
+  },
+  {
+    "name": "Mysterious Puppeteer",
+    "fusionTypes": [
+      "Warrior"
+    ]
+  },
+  {
+    "name": "Ancient Jar",
+    "fusionTypes": [
+      "Jar",
+      "Rock"
+    ]
+  },
+  {
+    "name": "Darkfire Dragon",
+    "fusionTypes": [
+      "Dragon",
+      "Pyro"
+    ]
+  },
+  {
+    "name": "Dark King of the Abyss",
+    "fusionTypes": [
+      "Fiend",
+      "Shadow"
+    ]
+  },
+  {
+    "name": "Spirit of the Harp",
+    "fusionTypes": [
+      "Fairy",
+      "Light"
+    ]
+  },
+  {
+    "name": "Big Eye",
+    "fusionTypes": [
+      "Fiend"
+    ]
+  },
+  {
+    "name": "Armaill",
+    "fusionTypes": [
+      "Pyro",
+      "Warrior"
+    ]
+  },
+  {
+    "name": "Dark Prisoner",
+    "fusionTypes": [
+      "Fiend",
+      "Shadow"
+    ]
+  },
+  {
+    "name": "Hurricail",
+    "fusionTypes": [
+      "Spellcaster"
+    ]
+  },
+  {
+    "name": "Ancient Brain",
+    "fusionTypes": [
+      "Fiend",
+      "Shadow",
+      "Winged"
+    ]
+  },
+  {
+    "name": "Fire Eye",
+    "fusionTypes": [
+      "Pyro"
+    ]
+  },
+  {
+    "name": "Monsturtle",
+    "fusionTypes": [
+      "Aqua",
+      "Neptune",
+      "Turtle"
+    ]
+  },
+  {
+    "name": "Claw Reacher",
+    "fusionTypes": [
+      "Fiend",
+      "Shadow"
+    ]
+  },
+  {
+    "name": "Phantom Dewan",
+    "fusionTypes": [
+      "Dark Spellcaster",
+      "Shadow",
+      "Spellcaster"
+    ]
+  },
+  {
+    "name": "Arlownay",
+    "fusionTypes": [
+      "Female",
+      "Plant"
+    ]
+  },
+  {
+    "name": "Dark Shade",
+    "fusionTypes": [
+      "Fiend"
+    ]
+  },
+  {
+    "name": "Masked Clown",
+    "fusionTypes": [
+      "Shadow",
+      "Warrior"
+    ]
+  },
+  {
+    "name": "Lucky Trinket",
+    "fusionTypes": [
+      "Light",
+      "Spellcaster"
+    ]
+  },
+  {
+    "name": "Genin",
+    "fusionTypes": [
+      "Spellcaster"
+    ]
+  },
+  {
+    "name": "Eyearmor",
+    "fusionTypes": [
+      "Warrior"
+    ]
+  },
+  {
+    "name": "Fiend Refrection #2",
+    "fusionTypes": [
+      "Feathered B",
+      "Mirror",
+      "Winged Beast"
+    ]
+  },
+  {
+    "name": "Gate Deeg",
+    "fusionTypes": [
+      "Beast",
+      "Fiend Summon"
+    ]
+  },
+  {
+    "name": "Synchar",
+    "fusionTypes": [
+      "Animal",
+      "Beast"
+    ]
+  },
+  {
+    "name": "Fusionist",
+    "fusionTypes": [
+      "Animal",
+      "Beast",
+      "Feathered A",
+      "Feathered B",
+      "Winged"
+    ]
+  },
+  {
+    "name": "Akakieisu",
+    "fusionTypes": [
+      "Dark Spellcaster",
+      "Shadow",
+      "Spellcaster"
+    ]
+  },
+  {
+    "name": "LaLa Li-oon",
+    "fusionTypes": [
+      "Thunder"
+    ]
+  },
+  {
+    "name": "Key Mace",
+    "fusionTypes": [
+      "Fairy",
+      "Female",
+      "Light"
+    ]
+  },
+  {
+    "name": "Turtle Tiger",
+    "fusionTypes": [
+      "Aqua",
+      "Neptune",
+      "Turtle"
+    ]
+  },
+  {
+    "name": "Terra the Terrible",
+    "fusionTypes": [
+      "Fiend",
+      "Fiend Summon"
+    ]
+  },
+  {
+    "name": "Doron",
+    "fusionTypes": [
+      "Neptune",
+      "Warrior"
+    ]
+  },
+  {
+    "name": "Arma Knight",
+    "fusionTypes": [
+      "Aqua",
+      "Neptune"
+    ]
+  },
+  {
+    "name": "Mech Mole Zombie",
+    "fusionTypes": [
+      "Fiend Summon",
+      "Zombie"
+    ]
+  },
+  {
+    "name": "Happy Lover",
+    "fusionTypes": [
+      "Fairy",
+      "Feathered A",
+      "Feathered B",
+      "Light",
+      "Winged"
+    ]
+  },
+  {
+    "name": "Penguin Knight",
+    "fusionTypes": [
+      "Aqua"
+    ]
+  },
+  {
+    "name": "Petit Dragon",
+    "fusionTypes": [
+      "Dragon"
+    ]
+  },
+  {
+    "name": "Frenzied Panda",
+    "fusionTypes": [
+      "Animal",
+      "Beast"
+    ]
+  },
+  {
+    "name": "Air Marmot of Nefariousness",
+    "fusionTypes": [
+      "Animal",
+      "Beast",
+      "Fiend Summon"
+    ]
+  },
+  {
+    "name": "Phantom Ghost",
+    "fusionTypes": [
+      "Fiend Summon",
+      "Zombie"
+    ]
+  },
+  {
+    "name": "Mabarrel",
+    "fusionTypes": [
+      "Fiend"
+    ]
+  },
+  {
+    "name": "Dorover",
+    "fusionTypes": [
+      "Aqua",
+      "Neptune"
+    ]
+  },
+  {
+    "name": "Twin Long Rods #1",
+    "fusionTypes": [
+      "Aqua",
+      "Fiend Summon"
+    ]
+  },
+  {
+    "name": "Droll Bird",
+    "fusionTypes": [
+      "Winged Beast"
+    ]
+  },
+  {
+    "name": "Petit Angel",
+    "fusionTypes": [
+      "Fairy",
+      "Light",
+      "Winged"
+    ]
+  },
+  {
+    "name": "Winged Cleaver",
+    "fusionTypes": [
+      "Insect"
+    ]
+  },
+  {
+    "name": "Hinotama Soul",
+    "fusionTypes": [
+      "Pyro"
+    ]
+  },
+  {
+    "name": "Kaminarikozou",
+    "fusionTypes": [
+      "Thunder"
+    ]
+  },
+  {
+    "name": "Meotoko",
+    "fusionTypes": [
+      "Beast",
+      "Fiend Summon"
+    ]
+  },
+  {
+    "name": "Aqua Madoor",
+    "fusionTypes": [
+      "Neptune",
+      "Spellcaster"
+    ]
+  },
+  {
+    "name": "Kagemusha of the Blue Flame",
+    "fusionTypes": [
+      "Pyro",
+      "Warrior"
+    ]
+  },
+  {
+    "name": "Flame Ghost",
+    "fusionTypes": [
+      "Pyro",
+      "Zombie"
+    ]
+  },
+  {
+    "name": "Dryad",
+    "fusionTypes": [
+      "Female",
+      "Spellcaster"
+    ]
+  },
+  {
+    "name": "B. Skull Dragon",
+    "fusionTypes": []
+  },
+  {
+    "name": "Two-mouth Darkruler",
+    "fusionTypes": [
+      "Dinosaur",
+      "Fiend Summon"
+    ]
+  },
+  {
+    "name": "Solitude",
+    "fusionTypes": [
+      "Fiend Summon"
+    ]
+  },
+  {
+    "name": "Masked Sorcerer",
+    "fusionTypes": [
+      "Dark Spellcaster",
+      "Shadow",
+      "Spellcaster"
+    ]
+  },
+  {
+    "name": "Kumootoko",
+    "fusionTypes": [
+      "Insect"
+    ]
+  },
+  {
+    "name": "Midnight Fiend",
+    "fusionTypes": [
+      "Fiend",
+      "Fiend Summon"
+    ]
+  },
+  {
+    "name": "Roaring Ocean Snake",
+    "fusionTypes": []
+  },
+  {
+    "name": "Trap Master",
+    "fusionTypes": [
+      "Shadow",
+      "Warrior"
+    ]
+  },
+  {
+    "name": "Fiend Sword",
+    "fusionTypes": [
+      "Warrior"
+    ]
+  },
+  {
+    "name": "Skull Stalker",
+    "fusionTypes": [
+      "Fiend Summon",
+      "Warrior"
+    ]
+  },
+  {
+    "name": "Hitodenchak",
+    "fusionTypes": [
+      "Aqua",
+      "Neptune"
+    ]
+  },
+  {
+    "name": "Wood Remains",
+    "fusionTypes": [
+      "Zombie"
+    ]
+  },
+  {
+    "name": "Hourglass of Life",
+    "fusionTypes": [
+      "Fairy",
+      "Feathered A",
+      "Feathered B",
+      "Light",
+      "Winged"
+    ]
+  },
+  {
+    "name": "Rare Fish",
+    "fusionTypes": [
+      "Fish",
+      "Neptune"
+    ]
+  },
+  {
+    "name": "Wood Clown",
+    "fusionTypes": [
+      "Shadow",
+      "Warrior"
+    ]
+  },
+  {
+    "name": "Madjinn Gunn",
+    "fusionTypes": [
+      "Fiend",
+      "Fiend Summon"
+    ]
+  },
+  {
+    "name": "Dark Titan of Terror",
+    "fusionTypes": [
+      "Fiend",
+      "Shadow"
+    ]
+  },
+  {
+    "name": "Beautiful Headhuntress",
+    "fusionTypes": [
+      "Female",
+      "Shadow",
+      "Warrior"
+    ]
+  },
+  {
+    "name": "Wodan the Resident of the Forest",
+    "fusionTypes": [
+      "Warrior"
+    ]
+  },
+  {
+    "name": "Guardian of the Labyrinth",
+    "fusionTypes": [
+      "Shadow",
+      "Warrior"
+    ]
+  },
+  {
+    "name": "Haniwa",
+    "fusionTypes": [
+      "Rock"
+    ]
+  },
+  {
+    "name": "Yashinoki",
+    "fusionTypes": [
+      "Plant"
+    ]
+  },
+  {
+    "name": "Vishwar Randi",
+    "fusionTypes": [
+      "Female",
+      "Shadow",
+      "Warrior"
+    ]
+  },
+  {
+    "name": "The Drdek",
+    "fusionTypes": [
+      "Fiend",
+      "Fiend Summon"
+    ]
+  },
+  {
+    "name": "Dark Assailant",
+    "fusionTypes": [
+      "Zombie"
+    ]
+  },
+  {
+    "name": "Candle of Fate",
+    "fusionTypes": [
+      "Fiend",
+      "Pyro"
+    ]
+  },
+  {
+    "name": "Water Element",
+    "fusionTypes": [
+      "Aqua",
+      "Female",
+      "Neptune"
+    ]
+  },
+  {
+    "name": "Dissolverock",
+    "fusionTypes": [
+      "Pyro",
+      "Rock"
+    ]
+  },
+  {
+    "name": "Meda Bat",
+    "fusionTypes": [
+      "Fiend",
+      "Fiend Summon"
+    ]
+  },
+  {
+    "name": "One Who Hunts Souls",
+    "fusionTypes": [
+      "Fiend Summon"
+    ]
+  },
+  {
+    "name": "Root Water",
+    "fusionTypes": [
+      "Fish",
+      "Neptune"
+    ]
+  },
+  {
+    "name": "Master & Expert",
+    "fusionTypes": [
+      "Animal",
+      "Beast"
+    ]
+  },
+  {
+    "name": "Water Omotics",
+    "fusionTypes": [
+      "Aqua",
+      "Female",
+      "Neptune"
+    ]
+  },
+  {
+    "name": "Hyo",
+    "fusionTypes": [
+      "Neptune",
+      "Warrior"
+    ]
+  },
+  {
+    "name": "Enchanting Mermaid",
+    "fusionTypes": [
+      "Female",
+      "Fish",
+      "Neptune"
+    ]
+  },
+  {
+    "name": "Nekogal #1",
+    "fusionTypes": [
+      "Beast",
+      "Female"
+    ]
+  },
+  {
+    "name": "Angelwitch",
+    "fusionTypes": [
+      "Dark Spellcaster",
+      "Feathered A",
+      "Feathered B",
+      "Female",
+      "Shadow",
+      "Spellcaster",
+      "Winged"
+    ]
+  },
+  {
+    "name": "Embryonic Beast",
+    "fusionTypes": [
+      "Fiend",
+      "Fiend Summon"
+    ]
+  },
+  {
+    "name": "Prevent Rat",
+    "fusionTypes": [
+      "Animal",
+      "Beast"
+    ]
+  },
+  {
+    "name": "Dimensional Warrior",
+    "fusionTypes": [
+      "Warrior"
+    ]
+  },
+  {
+    "name": "Stone Armadiller",
+    "fusionTypes": [
+      "Rock"
+    ]
+  },
+  {
+    "name": "Beastking of the Swamps",
+    "fusionTypes": [
+      "Aqua"
+    ]
+  },
+  {
+    "name": "Ancient Sorcerer",
+    "fusionTypes": [
+      "Dark Spellcaster",
+      "Shadow",
+      "Spellcaster"
+    ]
+  },
+  {
+    "name": "Lunar Queen Elzaim",
+    "fusionTypes": [
+      "Fairy",
+      "Female",
+      "Light",
+      "Winged"
+    ]
+  },
+  {
+    "name": "Wicked Mirror",
+    "fusionTypes": [
+      "Fiend",
+      "Mirror"
+    ]
+  },
+  {
+    "name": "The Little Swordsman of Aile",
+    "fusionTypes": [
+      "Neptune",
+      "Warrior"
+    ]
+  },
+  {
+    "name": "Rock Ogre Grotto #2",
+    "fusionTypes": [
+      "Rock"
+    ]
+  },
+  {
+    "name": "Wing Egg Elf",
+    "fusionTypes": [
+      "Egg",
+      "Elf",
+      "Fairy",
+      "Feathered A",
+      "Feathered B",
+      "Light",
+      "Winged"
+    ]
+  },
+  {
+    "name": "The Furious Sea King",
+    "fusionTypes": [
+      "Aqua",
+      "Neptune"
+    ]
+  },
+  {
+    "name": "Princess of Tsurugi",
+    "fusionTypes": [
+      "Female",
+      "Warrior"
+    ]
+  },
+  {
+    "name": "Unknown Warrior of Fiend",
+    "fusionTypes": [
+      "Shadow",
+      "Warrior"
+    ]
+  },
+  {
+    "name": "Sectarian of Secrets",
+    "fusionTypes": [
+      "Dark Spellcaster",
+      "Shadow",
+      "Spellcaster"
+    ]
+  },
+  {
+    "name": "Versago the Destroyer",
+    "fusionTypes": [
+      "Fiend",
+      "Shadow"
+    ]
+  },
+  {
+    "name": "Wetha",
+    "fusionTypes": [
+      "Aqua",
+      "Neptune"
+    ]
+  },
+  {
+    "name": "Megirus Light",
+    "fusionTypes": [
+      "Fiend",
+      "Shadow"
+    ]
+  },
+  {
+    "name": "Mavelus",
+    "fusionTypes": [
+      "Feathered A",
+      "Feathered B",
+      "Pyro",
+      "Winged Beast"
+    ]
+  },
+  {
+    "name": "Ancient Tree of Enlightenment",
+    "fusionTypes": [
+      "Plant"
+    ]
+  },
+  {
+    "name": "Green Phantom King",
+    "fusionTypes": [
+      "Plant"
+    ]
+  },
+  {
+    "name": "Ground Attacker Bugroth",
+    "fusionTypes": [
+      "Machine"
+    ]
+  },
+  {
+    "name": "Ray & Temperature",
+    "fusionTypes": [
+      "Fairy"
+    ]
+  },
+  {
+    "name": "Gorgon Egg",
+    "fusionTypes": [
+      "Egg",
+      "Fiend",
+      "Fiend Summon"
+    ]
+  },
+  {
+    "name": "Petit Moth",
+    "fusionTypes": [
+      "Insect"
+    ]
+  },
+  {
+    "name": "King Fog",
+    "fusionTypes": [
+      "Fiend",
+      "Shadow"
+    ]
+  },
+  {
+    "name": "Protector of the Throne",
+    "fusionTypes": [
+      "Female",
+      "Warrior"
+    ]
+  },
+  {
+    "name": "Mystic Clown",
+    "fusionTypes": [
+      "Fiend",
+      "Shadow"
+    ]
+  },
+  {
+    "name": "Mystical Sheep #2",
+    "fusionTypes": [
+      "Animal",
+      "Beast"
+    ]
+  },
+  {
+    "name": "Holograh",
+    "fusionTypes": [
+      "Machine"
+    ]
+  },
+  {
+    "name": "Tao the Chanter",
+    "fusionTypes": [
+      "Spellcaster"
+    ]
+  },
+  {
+    "name": "Serpent Marauder",
+    "fusionTypes": [
+      "Neptune",
+      "Reptile"
+    ]
+  },
+  {
+    "name": "Gatekeeper",
+    "fusionTypes": [
+      "Machine",
+      "Shadow"
+    ]
+  },
+  {
+    "name": "Ogre of the Black Shadow",
+    "fusionTypes": [
+      "Fiend Summon"
+    ]
+  },
+  {
+    "name": "Dark Artist",
+    "fusionTypes": [
+      "Fiend",
+      "Shadow"
+    ]
+  },
+  {
+    "name": "Change Slime",
+    "fusionTypes": [
+      "Aqua",
+      "Neptune"
+    ]
+  },
+  {
+    "name": "Moon Envoy",
+    "fusionTypes": [
+      "Light",
+      "Warrior"
+    ]
+  },
+  {
+    "name": "Fireyarou",
+    "fusionTypes": [
+      "Pyro"
+    ]
+  },
+  {
+    "name": "Psychic Kappa",
+    "fusionTypes": [
+      "Aqua",
+      "Neptune"
+    ]
+  },
+  {
+    "name": "Masaki the Legendary Swordsman",
+    "fusionTypes": [
+      "Light",
+      "Warrior"
+    ]
+  },
+  {
+    "name": "Dragoness the Wicked Knight",
+    "fusionTypes": [
+      "Warrior"
+    ]
+  },
+  {
+    "name": "Bio Plant",
+    "fusionTypes": [
+      "Fiend"
+    ]
+  },
+  {
+    "name": "One-eyed Shield Dragon",
+    "fusionTypes": [
+      "Dragon"
+    ]
+  },
+  {
+    "name": "Cyber Soldier of Darkworld",
+    "fusionTypes": [
+      "Machine"
+    ]
+  },
+  {
+    "name": "Wicked Dragon with the Ersatz Head",
+    "fusionTypes": [
+      "Dragon",
+      "Fiend Summon"
+    ]
+  },
+  {
+    "name": "Sonic Maid",
+    "fusionTypes": [
+      "Female",
+      "Light",
+      "Warrior"
+    ]
+  },
+  {
+    "name": "Kurama",
+    "fusionTypes": [
+      "Winged Beast"
+    ]
+  },
+  {
+    "name": "Legendary Sword",
+    "fusionTypes": []
+  },
+  {
+    "name": "Sword of Dark Destruction",
+    "fusionTypes": []
+  },
+  {
+    "name": "Dark Energy",
+    "fusionTypes": []
+  },
+  {
+    "name": "Axe of Despair",
+    "fusionTypes": []
+  },
+  {
+    "name": "Laser Cannon Armor",
+    "fusionTypes": []
+  },
+  {
+    "name": "Insect Armor with Laser Cannon",
+    "fusionTypes": []
+  },
+  {
+    "name": "Elf's Light",
+    "fusionTypes": []
+  },
+  {
+    "name": "Beast Fangs",
+    "fusionTypes": []
+  },
+  {
+    "name": "Steel Shell",
+    "fusionTypes": []
+  },
+  {
+    "name": "Vile Germs",
+    "fusionTypes": []
+  },
+  {
+    "name": "Black Pendant",
+    "fusionTypes": []
+  },
+  {
+    "name": "Silver Bow and Arrow",
+    "fusionTypes": []
+  },
+  {
+    "name": "Horn of Light",
+    "fusionTypes": []
+  },
+  {
+    "name": "Horn of the Unicorn",
+    "fusionTypes": []
+  },
+  {
+    "name": "Dragon Treasure",
+    "fusionTypes": []
+  },
+  {
+    "name": "Electro-whip",
+    "fusionTypes": []
+  },
+  {
+    "name": "Cyber Shield",
+    "fusionTypes": []
+  },
+  {
+    "name": "Elegant Egotist",
+    "fusionTypes": []
+  },
+  {
+    "name": "Mystical Moon",
+    "fusionTypes": []
+  },
+  {
+    "name": "Stop Defense",
+    "fusionTypes": []
+  },
+  {
+    "name": "Malevolent Nuzzler",
+    "fusionTypes": []
+  },
+  {
+    "name": "Violet Crystal",
+    "fusionTypes": []
+  },
+  {
+    "name": "Book of Secret Arts",
+    "fusionTypes": []
+  },
+  {
+    "name": "Invigoration",
+    "fusionTypes": []
+  },
+  {
+    "name": "Machine Conversion Factory",
+    "fusionTypes": [
+      "Harpie Killer"
+    ]
+  },
+  {
+    "name": "Raise Body Heat",
+    "fusionTypes": []
+  },
+  {
+    "name": "Follow Wind",
+    "fusionTypes": [
+      "Feathered B"
+    ]
+  },
+  {
+    "name": "Power of Kaishin",
+    "fusionTypes": []
+  },
+  {
+    "name": "Dragon Capture Jar",
+    "fusionTypes": []
+  },
+  {
+    "name": "Forest",
+    "fusionTypes": []
+  },
+  {
+    "name": "Wasteland",
+    "fusionTypes": []
+  },
+  {
+    "name": "Mountain",
+    "fusionTypes": []
+  },
+  {
+    "name": "Sogen",
+    "fusionTypes": []
+  },
+  {
+    "name": "Umi",
+    "fusionTypes": []
+  },
+  {
+    "name": "Yami",
+    "fusionTypes": []
+  },
+  {
+    "name": "Dark Hole",
+    "fusionTypes": []
+  },
+  {
+    "name": "Raigeki",
+    "fusionTypes": []
+  },
+  {
+    "name": "Mooyan Curry",
+    "fusionTypes": []
+  },
+  {
+    "name": "Red Medicine",
+    "fusionTypes": []
+  },
+  {
+    "name": "Goblin's Secret Remedy",
+    "fusionTypes": []
+  },
+  {
+    "name": "Soul of the Pure",
+    "fusionTypes": []
+  },
+  {
+    "name": "Dian Keto the Cure Master",
+    "fusionTypes": []
+  },
+  {
+    "name": "Sparks",
+    "fusionTypes": []
+  },
+  {
+    "name": "Hinotama",
+    "fusionTypes": []
+  },
+  {
+    "name": "Final Flame",
+    "fusionTypes": []
+  },
+  {
+    "name": "Ookazi",
+    "fusionTypes": []
+  },
+  {
+    "name": "Tremendous Fire",
+    "fusionTypes": []
+  },
+  {
+    "name": "Swords of Revealing Light",
+    "fusionTypes": []
+  },
+  {
+    "name": "Spellbinding Circle",
+    "fusionTypes": []
+  },
+  {
+    "name": "Dark-piercing Light",
+    "fusionTypes": []
+  },
+  {
+    "name": "Yaranzo",
+    "fusionTypes": [
+      "Zombie"
+    ]
+  },
+  {
+    "name": "Kanan the Swordmistress",
+    "fusionTypes": [
+      "Female",
+      "Warrior"
+    ]
+  },
+  {
+    "name": "Takriminos",
+    "fusionTypes": [
+      "Dragon",
+      "Neptune"
+    ]
+  },
+  {
+    "name": "Stuffed Animal",
+    "fusionTypes": [
+      "Fiend Summon",
+      "Warrior"
+    ]
+  },
+  {
+    "name": "Megasonic Eye",
+    "fusionTypes": [
+      "Machine"
+    ]
+  },
+  {
+    "name": "Super War-lion",
+    "fusionTypes": []
+  },
+  {
+    "name": "Yamadron",
+    "fusionTypes": [
+      "Dragon",
+      "Pyro"
+    ]
+  },
+  {
+    "name": "Seiyaryu",
+    "fusionTypes": [
+      "Dragon"
+    ]
+  },
+  {
+    "name": "Three-legged Zombies",
+    "fusionTypes": [
+      "Fiend Summon",
+      "Zombie"
+    ]
+  },
+  {
+    "name": "Zera The Mant",
+    "fusionTypes": []
+  },
+  {
+    "name": "Flying Penguin",
+    "fusionTypes": [
+      "Aqua",
+      "Feathered B",
+      "Neptune"
+    ]
+  },
+  {
+    "name": "Millennium Shield",
+    "fusionTypes": [
+      "Warrior"
+    ]
+  },
+  {
+    "name": "Fairy's Gift",
+    "fusionTypes": [
+      "Female",
+      "Spellcaster"
+    ]
+  },
+  {
+    "name": "Black Luster Soldier",
+    "fusionTypes": []
+  },
+  {
+    "name": "Fiend's Mirror",
+    "fusionTypes": [
+      "Fiend"
+    ]
+  },
+  {
+    "name": "Labyrinth Wall",
+    "fusionTypes": [
+      "Rock"
+    ]
+  },
+  {
+    "name": "Jirai Gumo",
+    "fusionTypes": []
+  },
+  {
+    "name": "Shadow Ghoul",
+    "fusionTypes": [
+      "Zombie"
+    ]
+  },
+  {
+    "name": "Wall Shadow",
+    "fusionTypes": [
+      "Warrior"
+    ]
+  },
+  {
+    "name": "Labyrinth Tank",
+    "fusionTypes": []
+  },
+  {
+    "name": "Sanga of the Thunder",
+    "fusionTypes": [
+      "Thunder"
+    ]
+  },
+  {
+    "name": "Kazejin",
+    "fusionTypes": []
+  },
+  {
+    "name": "Suijin",
+    "fusionTypes": []
+  },
+  {
+    "name": "Gate Guardian",
+    "fusionTypes": []
+  },
+  {
+    "name": "Dungeon Worm",
+    "fusionTypes": [
+      "Insect"
+    ]
+  },
+  {
+    "name": "Monster Tamer",
+    "fusionTypes": [
+      "Warrior"
+    ]
+  },
+  {
+    "name": "Ryu-kishin Powered",
+    "fusionTypes": [
+      "Fiend"
+    ]
+  },
+  {
+    "name": "Swordstalker",
+    "fusionTypes": [
+      "Warrior"
+    ]
+  },
+  {
+    "name": "La Jinn the Mystical Genie",
+    "fusionTypes": [
+      "Fiend",
+      "Shadow"
+    ]
+  },
+  {
+    "name": "Blue-eyes Ultimate Dragon",
+    "fusionTypes": []
+  },
+  {
+    "name": "Toon Alligator",
+    "fusionTypes": [
+      "Neptune",
+      "Reptile"
+    ]
+  },
+  {
+    "name": "Rude Kaiser",
+    "fusionTypes": []
+  },
+  {
+    "name": "Parrot Dragon",
+    "fusionTypes": [
+      "Dragon"
+    ]
+  },
+  {
+    "name": "Dark Rabbit",
+    "fusionTypes": [
+      "Beast",
+      "Fiend Summon"
+    ]
+  },
+  {
+    "name": "Bickuribox",
+    "fusionTypes": [
+      "Fiend"
+    ]
+  },
+  {
+    "name": "Harpie's Pet Dragon",
+    "fusionTypes": [
+      "Dragon"
+    ]
+  },
+  {
+    "name": "Mystic Lamp",
+    "fusionTypes": [
+      "Dark Spellcaster",
+      "Shadow",
+      "Spellcaster"
+    ]
+  },
+  {
+    "name": "Pendulum Machine",
+    "fusionTypes": [
+      "Machine",
+      "Shadow"
+    ]
+  },
+  {
+    "name": "Giltia the D. Knight",
+    "fusionTypes": [
+      "Warrior"
+    ]
+  },
+  {
+    "name": "Launcher Spider",
+    "fusionTypes": [
+      "Pyro"
+    ]
+  },
+  {
+    "name": "Zoa",
+    "fusionTypes": []
+  },
+  {
+    "name": "Metalzoa",
+    "fusionTypes": []
+  },
+  {
+    "name": "Zone Eater",
+    "fusionTypes": [
+      "Aqua",
+      "Neptune"
+    ]
+  },
+  {
+    "name": "Steel Scorpion",
+    "fusionTypes": [
+      "Machine"
+    ]
+  },
+  {
+    "name": "Dancing Elf",
+    "fusionTypes": [
+      "Elf",
+      "Fairy",
+      "Female",
+      "Winged"
+    ]
+  },
+  {
+    "name": "Ocubeam",
+    "fusionTypes": [
+      "Fairy",
+      "Winged"
+    ]
+  },
+  {
+    "name": "Leghul",
+    "fusionTypes": [
+      "Insect"
+    ]
+  },
+  {
+    "name": "Ooguchi",
+    "fusionTypes": [
+      "Aqua",
+      "Neptune"
+    ]
+  },
+  {
+    "name": "Swordsman from a Foreign Land",
+    "fusionTypes": [
+      "Warrior"
+    ]
+  },
+  {
+    "name": "Emperor of the Land and Sea",
+    "fusionTypes": [
+      "Neptune",
+      "Reptile"
+    ]
+  },
+  {
+    "name": "Ushi Oni",
+    "fusionTypes": [
+      "Fiend"
+    ]
+  },
+  {
+    "name": "Monster Eye",
+    "fusionTypes": [
+      "Fiend",
+      "Fiend Summon"
+    ]
+  },
+  {
+    "name": "Leogun",
+    "fusionTypes": [
+      "Animal",
+      "Beast"
+    ]
+  },
+  {
+    "name": "Tatsunootoshigo",
+    "fusionTypes": [
+      "Beast",
+      "Neptune"
+    ]
+  },
+  {
+    "name": "Saber Slasher",
+    "fusionTypes": [
+      "Machine"
+    ]
+  },
+  {
+    "name": "Yaiba Robo",
+    "fusionTypes": [
+      "Machine"
+    ]
+  },
+  {
+    "name": "Machine King",
+    "fusionTypes": [
+      "Pyro"
+    ]
+  },
+  {
+    "name": "Giant Mech-soldier",
+    "fusionTypes": [
+      "Machine"
+    ]
+  },
+  {
+    "name": "Metal Dragon",
+    "fusionTypes": [
+      "Dragon",
+      "Pyro"
+    ]
+  },
+  {
+    "name": "Mechanical Spider",
+    "fusionTypes": [
+      "Machine"
+    ]
+  },
+  {
+    "name": "Bat",
+    "fusionTypes": [
+      "Machine"
+    ]
+  },
+  {
+    "name": "Giga-tech Wolf",
+    "fusionTypes": [
+      "Machine"
+    ]
+  },
+  {
+    "name": "Cyber Soldier",
+    "fusionTypes": [
+      "Machine"
+    ]
+  },
+  {
+    "name": "Shovel Crusher",
+    "fusionTypes": [
+      "Machine"
+    ]
+  },
+  {
+    "name": "Mechanicalchacer",
+    "fusionTypes": []
+  },
+  {
+    "name": "Blocker",
+    "fusionTypes": [
+      "Machine"
+    ]
+  },
+  {
+    "name": "Blast Juggler",
+    "fusionTypes": [
+      "Machine",
+      "Pyro"
+    ]
+  },
+  {
+    "name": "Golgoil",
+    "fusionTypes": [
+      "Machine"
+    ]
+  },
+  {
+    "name": "Giganto",
+    "fusionTypes": [
+      "Machine"
+    ]
+  },
+  {
+    "name": "Cyber-Stein",
+    "fusionTypes": [
+      "Machine"
+    ]
+  },
+  {
+    "name": "Cyber Commander",
+    "fusionTypes": [
+      "Machine"
+    ]
+  },
+  {
+    "name": "Jinzo #7",
+    "fusionTypes": [
+      "Machine"
+    ]
+  },
+  {
+    "name": "Dice Armadillo",
+    "fusionTypes": [
+      "Machine"
+    ]
+  },
+  {
+    "name": "Sky Dragon",
+    "fusionTypes": [
+      "Dragon",
+      "Feathered B"
+    ]
+  },
+  {
+    "name": "Thunder Dragon",
+    "fusionTypes": [
+      "Dragon",
+      "Thunder"
+    ]
+  },
+  {
+    "name": "Stone D.",
+    "fusionTypes": [
+      "Dragon",
+      "Rock"
+    ]
+  },
+  {
+    "name": "Kaiser Dragon",
+    "fusionTypes": [
+      "Dragon"
+    ]
+  },
+  {
+    "name": "Magician of Faith",
+    "fusionTypes": [
+      "Female",
+      "Light",
+      "Spellcaster"
+    ]
+  },
+  {
+    "name": "Goddess of Whim",
+    "fusionTypes": [
+      "Fairy",
+      "Female",
+      "Light"
+    ]
+  },
+  {
+    "name": "Water Magician",
+    "fusionTypes": [
+      "Aqua",
+      "Female",
+      "Neptune"
+    ]
+  },
+  {
+    "name": "Ice Water",
+    "fusionTypes": [
+      "Aqua",
+      "Female",
+      "Neptune"
+    ]
+  },
+  {
+    "name": "Waterdragon Fairy",
+    "fusionTypes": [
+      "Aqua",
+      "Female",
+      "Neptune"
+    ]
+  },
+  {
+    "name": "Ancient Elf",
+    "fusionTypes": [
+      "Elf",
+      "Female",
+      "Light",
+      "Spellcaster"
+    ]
+  },
+  {
+    "name": "Beautiful Beast Trainer",
+    "fusionTypes": [
+      "Female",
+      "Warrior"
+    ]
+  },
+  {
+    "name": "Water Girl",
+    "fusionTypes": [
+      "Aqua",
+      "Female",
+      "Neptune"
+    ]
+  },
+  {
+    "name": "White Dolphin",
+    "fusionTypes": [
+      "Fish",
+      "Neptune"
+    ]
+  },
+  {
+    "name": "Deepsea Shark",
+    "fusionTypes": []
+  },
+  {
+    "name": "Metal Fish",
+    "fusionTypes": [
+      "Machine",
+      "Neptune"
+    ]
+  },
+  {
+    "name": "Bottom Dweller",
+    "fusionTypes": [
+      "Fish",
+      "Neptune"
+    ]
+  },
+  {
+    "name": "7 Colored Fish",
+    "fusionTypes": [
+      "Neptune"
+    ]
+  },
+  {
+    "name": "Mech Bass",
+    "fusionTypes": [
+      "Machine",
+      "Neptune"
+    ]
+  },
+  {
+    "name": "Aqua Dragon",
+    "fusionTypes": [
+      "Dragon"
+    ]
+  },
+  {
+    "name": "Sea King Dragon",
+    "fusionTypes": [
+      "Dragon"
+    ]
+  },
+  {
+    "name": "Turu-Purun",
+    "fusionTypes": [
+      "Aqua",
+      "Neptune"
+    ]
+  },
+  {
+    "name": "Guardian of the Sea",
+    "fusionTypes": [
+      "Aqua",
+      "Neptune"
+    ]
+  },
+  {
+    "name": "Aqua Snake",
+    "fusionTypes": [
+      "Aqua",
+      "Neptune"
+    ]
+  },
+  {
+    "name": "Giant Red Seasnake",
+    "fusionTypes": [
+      "Aqua",
+      "Neptune"
+    ]
+  },
+  {
+    "name": "Spike Seadra",
+    "fusionTypes": [
+      "Dragon"
+    ]
+  },
+  {
+    "name": "30,000-Year White Turtle",
+    "fusionTypes": [
+      "Aqua",
+      "Neptune",
+      "Turtle"
+    ]
+  },
+  {
+    "name": "Kappa Avenger",
+    "fusionTypes": [
+      "Aqua",
+      "Neptune"
+    ]
+  },
+  {
+    "name": "Kanikabuto",
+    "fusionTypes": [
+      "Aqua",
+      "Neptune"
+    ]
+  },
+  {
+    "name": "Zarigun",
+    "fusionTypes": [
+      "Aqua",
+      "Neptune"
+    ]
+  },
+  {
+    "name": "Millennium Golem",
+    "fusionTypes": [
+      "Rock"
+    ]
+  },
+  {
+    "name": "Destroyer Golem",
+    "fusionTypes": [
+      "Rock"
+    ]
+  },
+  {
+    "name": "Barrel Rock",
+    "fusionTypes": [
+      "Rock"
+    ]
+  },
+  {
+    "name": "Minomushi Warrior",
+    "fusionTypes": [
+      "Rock"
+    ]
+  },
+  {
+    "name": "Stone Ghost",
+    "fusionTypes": [
+      "Rock"
+    ]
+  },
+  {
+    "name": "Kaminari Attack",
+    "fusionTypes": [
+      "Thunder"
+    ]
+  },
+  {
+    "name": "Tripwire Beast",
+    "fusionTypes": [
+      "Thunder"
+    ]
+  },
+  {
+    "name": "Bolt Escargot",
+    "fusionTypes": [
+      "Thunder"
+    ]
+  },
+  {
+    "name": "Bolt Penguin",
+    "fusionTypes": [
+      "Thunder"
+    ]
+  },
+  {
+    "name": "The Immortal of Thunder",
+    "fusionTypes": [
+      "Thunder"
+    ]
+  },
+  {
+    "name": "Electric Snake",
+    "fusionTypes": [
+      "Thunder"
+    ]
+  },
+  {
+    "name": "Wing Eagle",
+    "fusionTypes": [
+      "Feathered A",
+      "Feathered B",
+      "Winged Beast"
+    ]
+  },
+  {
+    "name": "Punished Eagle",
+    "fusionTypes": [
+      "Feathered A",
+      "Feathered B",
+      "Winged Beast"
+    ]
+  },
+  {
+    "name": "Skull Red Bird",
+    "fusionTypes": [
+      "Feathered A",
+      "Feathered B",
+      "Winged Beast"
+    ]
+  },
+  {
+    "name": "Crimson Sunbird",
+    "fusionTypes": [
+      "Feathered B"
+    ]
+  },
+  {
+    "name": "Queen Bird",
+    "fusionTypes": [
+      "Feathered A",
+      "Feathered B",
+      "Winged Beast"
+    ]
+  },
+  {
+    "name": "Armed Ninja",
+    "fusionTypes": [
+      "Neptune",
+      "Warrior"
+    ]
+  },
+  {
+    "name": "Magical Ghost",
+    "fusionTypes": [
+      "Zombie"
+    ]
+  },
+  {
+    "name": "Soul Hunter",
+    "fusionTypes": [
+      "Fiend"
+    ]
+  },
+  {
+    "name": "Air Eater",
+    "fusionTypes": [
+      "Fiend"
+    ]
+  },
+  {
+    "name": "Vermillion Sparrow",
+    "fusionTypes": [
+      "Pyro"
+    ]
+  },
+  {
+    "name": "Sea Kamen",
+    "fusionTypes": [
+      "Aqua",
+      "Neptune"
+    ]
+  },
+  {
+    "name": "Sinister Serpent",
+    "fusionTypes": [
+      "Neptune",
+      "Reptile"
+    ]
+  },
+  {
+    "name": "Ganigumo",
+    "fusionTypes": [
+      "Insect"
+    ]
+  },
+  {
+    "name": "Alinsection",
+    "fusionTypes": [
+      "Insect"
+    ]
+  },
+  {
+    "name": "Insect Soldiers of the Sky",
+    "fusionTypes": [
+      "Insect"
+    ]
+  },
+  {
+    "name": "Cockroach Knight",
+    "fusionTypes": [
+      "Insect"
+    ]
+  },
+  {
+    "name": "Kuwagata a",
+    "fusionTypes": [
+      "Insect"
+    ]
+  },
+  {
+    "name": "Burglar",
+    "fusionTypes": [
+      "Animal",
+      "Beast"
+    ]
+  },
+  {
+    "name": "Pragtical",
+    "fusionTypes": []
+  },
+  {
+    "name": "Garvas",
+    "fusionTypes": [
+      "Animal"
+    ]
+  },
+  {
+    "name": "Ameba",
+    "fusionTypes": [
+      "Aqua",
+      "Neptune"
+    ]
+  },
+  {
+    "name": "Korogashi",
+    "fusionTypes": [
+      "Insect"
+    ]
+  },
+  {
+    "name": "Boo Koo",
+    "fusionTypes": [
+      "Light",
+      "Spellcaster"
+    ]
+  },
+  {
+    "name": "Flower Wolf",
+    "fusionTypes": [
+      "Animal",
+      "Beast"
+    ]
+  },
+  {
+    "name": "Rainbow Flower",
+    "fusionTypes": [
+      "Plant",
+      "Rainbow"
+    ]
+  },
+  {
+    "name": "Barrel Lily",
+    "fusionTypes": [
+      "Plant"
+    ]
+  },
+  {
+    "name": "Needle Ball",
+    "fusionTypes": [
+      "Fiend",
+      "Fiend Summon"
+    ]
+  },
+  {
+    "name": "Peacock",
+    "fusionTypes": [
+      "Feathered A",
+      "Feathered B",
+      "Winged Beast"
+    ]
+  },
+  {
+    "name": "Hoshiningen",
+    "fusionTypes": [
+      "Fairy",
+      "Light",
+      "Rainbow"
+    ]
+  },
+  {
+    "name": "Maha Vailo",
+    "fusionTypes": [
+      "Light",
+      "Spellcaster"
+    ]
+  },
+  {
+    "name": "Rainbow Marine Mermaid",
+    "fusionTypes": [
+      "Female",
+      "Fish",
+      "Neptune",
+      "Rainbow"
+    ]
+  },
+  {
+    "name": "Musician King",
+    "fusionTypes": [
+      "Spellcaster"
+    ]
+  },
+  {
+    "name": "Wilmee",
+    "fusionTypes": [
+      "Beast"
+    ]
+  },
+  {
+    "name": "Yado Karu",
+    "fusionTypes": [
+      "Aqua",
+      "Neptune"
+    ]
+  },
+  {
+    "name": "Morinphen",
+    "fusionTypes": [
+      "Fiend"
+    ]
+  },
+  {
+    "name": "Kattapillar",
+    "fusionTypes": [
+      "Insect"
+    ]
+  },
+  {
+    "name": "Dragon Seeker",
+    "fusionTypes": [
+      "Fiend"
+    ]
+  },
+  {
+    "name": "Man-eater Bug",
+    "fusionTypes": [
+      "Insect"
+    ]
+  },
+  {
+    "name": "D. Human",
+    "fusionTypes": [
+      "Warrior"
+    ]
+  },
+  {
+    "name": "Turtle Raccoon",
+    "fusionTypes": [
+      "Aqua",
+      "Turtle"
+    ]
+  },
+  {
+    "name": "Fungi of the Musk",
+    "fusionTypes": [
+      "Fiend"
+    ]
+  },
+  {
+    "name": "Prisman",
+    "fusionTypes": [
+      "Rock"
+    ]
+  },
+  {
+    "name": "Gale Dogra",
+    "fusionTypes": [
+      "Insect"
+    ]
+  },
+  {
+    "name": "Crazy Fish",
+    "fusionTypes": [
+      "Fish",
+      "Neptune"
+    ]
+  },
+  {
+    "name": "Cyber Saurus",
+    "fusionTypes": [
+      "Machine"
+    ]
+  },
+  {
+    "name": "Bracchio-raidus",
+    "fusionTypes": []
+  },
+  {
+    "name": "Laughing Flower",
+    "fusionTypes": [
+      "Plant"
+    ]
+  },
+  {
+    "name": "Bean Soldier",
+    "fusionTypes": [
+      "Plant"
+    ]
+  },
+  {
+    "name": "Cannon Soldier",
+    "fusionTypes": [
+      "Machine"
+    ]
+  },
+  {
+    "name": "Guardian of the Throne Room",
+    "fusionTypes": [
+      "Light",
+      "Machine"
+    ]
+  },
+  {
+    "name": "Brave Scizzar",
+    "fusionTypes": [
+      "Machine"
+    ]
+  },
+  {
+    "name": "The Statue of Easter Island",
+    "fusionTypes": [
+      "Rock"
+    ]
+  },
+  {
+    "name": "Muka Muka",
+    "fusionTypes": [
+      "Rock"
+    ]
+  },
+  {
+    "name": "Sand Stone",
+    "fusionTypes": [
+      "Rock"
+    ]
+  },
+  {
+    "name": "Boulder Tortoise",
+    "fusionTypes": [
+      "Aqua",
+      "Turtle"
+    ]
+  },
+  {
+    "name": "Fire Kraken",
+    "fusionTypes": [
+      "Aqua",
+      "Pyro"
+    ]
+  },
+  {
+    "name": "Turtle Bird",
+    "fusionTypes": [
+      "Turtle"
+    ]
+  },
+  {
+    "name": "Skullbird",
+    "fusionTypes": [
+      "Winged Beast"
+    ]
+  },
+  {
+    "name": "Monstrous Bird",
+    "fusionTypes": [
+      "Feathered A",
+      "Feathered B",
+      "Winged Beast"
+    ]
+  },
+  {
+    "name": "The Bistro Butcher",
+    "fusionTypes": [
+      "Fiend"
+    ]
+  },
+  {
+    "name": "Star Boy",
+    "fusionTypes": [
+      "Aqua",
+      "Neptune"
+    ]
+  },
+  {
+    "name": "Spirit of the Mountain",
+    "fusionTypes": [
+      "Spellcaster"
+    ]
+  },
+  {
+    "name": "Neck Hunter",
+    "fusionTypes": [
+      "Fiend"
+    ]
+  },
+  {
+    "name": "Milus Radiant",
+    "fusionTypes": [
+      "Animal",
+      "Beast"
+    ]
+  },
+  {
+    "name": "Togex",
+    "fusionTypes": [
+      "Animal",
+      "Beast"
+    ]
+  },
+  {
+    "name": "Flame Cerebrus",
+    "fusionTypes": []
+  },
+  {
+    "name": "Eldeen",
+    "fusionTypes": [
+      "Dark Spellcaster",
+      "Female",
+      "Shadow",
+      "Spellcaster"
+    ]
+  },
+  {
+    "name": "Mystical Sand",
+    "fusionTypes": []
+  },
+  {
+    "name": "Gemini Elf",
+    "fusionTypes": [
+      "Elf",
+      "Female"
+    ]
+  },
+  {
+    "name": "Kwagar Hercules",
+    "fusionTypes": []
+  },
+  {
+    "name": "Minar",
+    "fusionTypes": [
+      "Fiend Summon",
+      "Insect"
+    ]
+  },
+  {
+    "name": "Kamakiriman",
+    "fusionTypes": [
+      "Insect"
+    ]
+  },
+  {
+    "name": "Mechaleon",
+    "fusionTypes": [
+      "Neptune",
+      "Reptile"
+    ]
+  },
+  {
+    "name": "Mega Thunderball",
+    "fusionTypes": [
+      "Thunder"
+    ]
+  },
+  {
+    "name": "Niwatori",
+    "fusionTypes": [
+      "Winged Beast"
+    ]
+  },
+  {
+    "name": "Corroding Shark",
+    "fusionTypes": [
+      "Fiend Summon",
+      "Zombie"
+    ]
+  },
+  {
+    "name": "Skelengel",
+    "fusionTypes": [
+      "Fairy",
+      "Feathered B",
+      "Light",
+      "Winged"
+    ]
+  },
+  {
+    "name": "Hane-Hane",
+    "fusionTypes": [
+      "Beast",
+      "Feathered B"
+    ]
+  },
+  {
+    "name": "Misairuzame",
+    "fusionTypes": [
+      "Fish",
+      "Neptune"
+    ]
+  },
+  {
+    "name": "Tongyo",
+    "fusionTypes": [
+      "Fish",
+      "Neptune"
+    ]
+  },
+  {
+    "name": "Dharma Cannon",
+    "fusionTypes": [
+      "Machine"
+    ]
+  },
+  {
+    "name": "Skelgon",
+    "fusionTypes": [
+      "Dragon",
+      "Zombie"
+    ]
+  },
+  {
+    "name": "Wow Warrior",
+    "fusionTypes": [
+      "Fish",
+      "Neptune"
+    ]
+  },
+  {
+    "name": "Griggle",
+    "fusionTypes": [
+      "Plant"
+    ]
+  },
+  {
+    "name": "Bone Mouse",
+    "fusionTypes": [
+      "Fiend Summon",
+      "Zombie"
+    ]
+  },
+  {
+    "name": "Frog The Jam",
+    "fusionTypes": [
+      "Aqua",
+      "Neptune"
+    ]
+  },
+  {
+    "name": "Behegon",
+    "fusionTypes": [
+      "Aqua",
+      "Neptune"
+    ]
+  },
+  {
+    "name": "Dark Elf",
+    "fusionTypes": [
+      "Dark Spellcaster",
+      "Female"
+    ]
+  },
+  {
+    "name": "Winged Dragon #2",
+    "fusionTypes": [
+      "Winged Beast"
+    ]
+  },
+  {
+    "name": "Mushroom Man #2",
+    "fusionTypes": [
+      "Warrior"
+    ]
+  },
+  {
+    "name": "Lava Battleguard",
+    "fusionTypes": [
+      "Shadow",
+      "Warrior"
+    ]
+  },
+  {
+    "name": "Tyhone #2",
+    "fusionTypes": [
+      "Dragon",
+      "Pyro"
+    ]
+  },
+  {
+    "name": "The Wandering Doomed",
+    "fusionTypes": [
+      "Fiend Summon",
+      "Zombie"
+    ]
+  },
+  {
+    "name": "Steel Ogre Grotto #1",
+    "fusionTypes": [
+      "Machine"
+    ]
+  },
+  {
+    "name": "Pot the Trick",
+    "fusionTypes": [
+      "Fiend Summon",
+      "Jar",
+      "Rock"
+    ]
+  },
+  {
+    "name": "Oscillo Hero",
+    "fusionTypes": [
+      "Warrior"
+    ]
+  },
+  {
+    "name": "Invader from Another Dimension",
+    "fusionTypes": [
+      "Fiend"
+    ]
+  },
+  {
+    "name": "Lesser Dragon",
+    "fusionTypes": [
+      "Dragon",
+      "Fiend Summon"
+    ]
+  },
+  {
+    "name": "Needle Worm",
+    "fusionTypes": [
+      "Insect"
+    ]
+  },
+  {
+    "name": "Wretched Ghost of the Attic",
+    "fusionTypes": [
+      "Fiend",
+      "Shadow"
+    ]
+  },
+  {
+    "name": "Great Mammoth of Goldfine",
+    "fusionTypes": []
+  },
+  {
+    "name": "Man-eating Black Shark",
+    "fusionTypes": []
+  },
+  {
+    "name": "Yormungarde",
+    "fusionTypes": [
+      "Neptune",
+      "Reptile"
+    ]
+  },
+  {
+    "name": "Darkworld Thorns",
+    "fusionTypes": [
+      "Plant"
+    ]
+  },
+  {
+    "name": "Anthrosaurus",
+    "fusionTypes": [
+      "Dinosaur"
+    ]
+  },
+  {
+    "name": "Drooling Lizard",
+    "fusionTypes": [
+      "Neptune",
+      "Reptile"
+    ]
+  },
+  {
+    "name": "Trakadon",
+    "fusionTypes": [
+      "Dinosaur"
+    ]
+  },
+  {
+    "name": "B. Dragon Jungle King",
+    "fusionTypes": [
+      "Dragon"
+    ]
+  },
+  {
+    "name": "Empress Judge",
+    "fusionTypes": [
+      "Warrior"
+    ]
+  },
+  {
+    "name": "Little D",
+    "fusionTypes": [
+      "Dinosaur"
+    ]
+  },
+  {
+    "name": "Witch of the Black Forest",
+    "fusionTypes": [
+      "Dark Spellcaster",
+      "Female",
+      "Shadow",
+      "Spellcaster"
+    ]
+  },
+  {
+    "name": "Ancient One of the Deep Forest",
+    "fusionTypes": [
+      "Animal",
+      "Beast"
+    ]
+  },
+  {
+    "name": "Giant Scorpion of the Tundra",
+    "fusionTypes": [
+      "Insect"
+    ]
+  },
+  {
+    "name": "Crow Goblin",
+    "fusionTypes": [
+      "Winged Beast"
+    ]
+  },
+  {
+    "name": "Leo Wizard",
+    "fusionTypes": [
+      "Dark Spellcaster",
+      "Shadow",
+      "Spellcaster"
+    ]
+  },
+  {
+    "name": "Abyss Flower",
+    "fusionTypes": [
+      "Plant"
+    ]
+  },
+  {
+    "name": "Patrol Robo",
+    "fusionTypes": [
+      "Machine"
+    ]
+  },
+  {
+    "name": "Takuhee",
+    "fusionTypes": [
+      "Feathered A",
+      "Feathered B",
+      "Winged Beast"
+    ]
+  },
+  {
+    "name": "Dark Witch",
+    "fusionTypes": [
+      "Feathered B",
+      "Female",
+      "Winged"
+    ]
+  },
+  {
+    "name": "Weather Report",
+    "fusionTypes": [
+      "Aqua",
+      "Neptune"
+    ]
+  },
+  {
+    "name": "Binding Chain",
+    "fusionTypes": [
+      "Fairy",
+      "Light"
+    ]
+  },
+  {
+    "name": "Mechanical Snail",
+    "fusionTypes": [
+      "Machine"
+    ]
+  },
+  {
+    "name": "Greenkappa",
+    "fusionTypes": [
+      "Fiend Summon",
+      "Warrior"
+    ]
+  },
+  {
+    "name": "Mon Larvas",
+    "fusionTypes": [
+      "Beast"
+    ]
+  },
+  {
+    "name": "Living Vase",
+    "fusionTypes": [
+      "Plant"
+    ]
+  },
+  {
+    "name": "Tentacle Plant",
+    "fusionTypes": [
+      "Plant"
+    ]
+  },
+  {
+    "name": "Beaked Snake",
+    "fusionTypes": [
+      "Neptune",
+      "Reptile"
+    ]
+  },
+  {
+    "name": "Morphing Jar",
+    "fusionTypes": [
+      "Jar",
+      "Rock"
+    ]
+  },
+  {
+    "name": "Muse-A",
+    "fusionTypes": [
+      "Fairy",
+      "Female",
+      "Light"
+    ]
+  },
+  {
+    "name": "Giant Turtle Who Feeds on Flames",
+    "fusionTypes": [
+      "Aqua",
+      "Neptune",
+      "Turtle"
+    ]
+  },
+  {
+    "name": "Rose Spectre of Dunn",
+    "fusionTypes": [
+      "Female",
+      "Plant"
+    ]
+  },
+  {
+    "name": "Fiend Refrection #1",
+    "fusionTypes": [
+      "Winged Beast"
+    ]
+  },
+  {
+    "name": "Ghoul with an Appetite",
+    "fusionTypes": [
+      "Zombie"
+    ]
+  },
+  {
+    "name": "Pale Beast",
+    "fusionTypes": [
+      "Animal",
+      "Beast"
+    ]
+  },
+  {
+    "name": "Little Chimera",
+    "fusionTypes": [
+      "Animal",
+      "Beast"
+    ]
+  },
+  {
+    "name": "Violent Rain",
+    "fusionTypes": [
+      "Aqua",
+      "Neptune"
+    ]
+  },
+  {
+    "name": "Key Mace #2",
+    "fusionTypes": [
+      "Female",
+      "Fiend",
+      "Shadow"
+    ]
+  },
+  {
+    "name": "Tenderness",
+    "fusionTypes": [
+      "Fairy",
+      "Feathered B",
+      "Light",
+      "Winged"
+    ]
+  },
+  {
+    "name": "Penguin Soldier",
+    "fusionTypes": [
+      "Aqua",
+      "Neptune"
+    ]
+  },
+  {
+    "name": "Fairy Dragon",
+    "fusionTypes": [
+      "Dragon"
+    ]
+  },
+  {
+    "name": "Obese Marmot of Nefariousness",
+    "fusionTypes": [
+      "Animal",
+      "Beast",
+      "Fiend Summon"
+    ]
+  },
+  {
+    "name": "Liquid Beast",
+    "fusionTypes": [
+      "Aqua",
+      "Neptune"
+    ]
+  },
+  {
+    "name": "Twin Long Rods #2",
+    "fusionTypes": [
+      "Aqua",
+      "Neptune"
+    ]
+  },
+  {
+    "name": "Great Bill",
+    "fusionTypes": [
+      "Beast"
+    ]
+  },
+  {
+    "name": "Shining Friendship",
+    "fusionTypes": [
+      "Fairy",
+      "Feathered B",
+      "Light",
+      "Winged"
+    ]
+  },
+  {
+    "name": "Bladefly",
+    "fusionTypes": [
+      "Insect"
+    ]
+  },
+  {
+    "name": "Electric Lizard",
+    "fusionTypes": [
+      "Thunder"
+    ]
+  },
+  {
+    "name": "Hiro's Shadow Scout",
+    "fusionTypes": [
+      "Fiend",
+      "Fiend Summon"
+    ]
+  },
+  {
+    "name": "Lady of Faith",
+    "fusionTypes": [
+      "Female",
+      "Light",
+      "Spellcaster"
+    ]
+  },
+  {
+    "name": "Twin-headed Thunder Dragon",
+    "fusionTypes": []
+  },
+  {
+    "name": "Hunter Spider",
+    "fusionTypes": [
+      "Insect"
+    ]
+  },
+  {
+    "name": "Armored Starfish",
+    "fusionTypes": [
+      "Aqua",
+      "Neptune"
+    ]
+  },
+  {
+    "name": "Hourglass of Courage",
+    "fusionTypes": [
+      "Fairy",
+      "Feathered B",
+      "Light",
+      "Winged"
+    ]
+  },
+  {
+    "name": "Marine Beast",
+    "fusionTypes": [
+      "Fish",
+      "Neptune"
+    ]
+  },
+  {
+    "name": "Warrior of Tradition",
+    "fusionTypes": [
+      "Female",
+      "Shadow",
+      "Warrior"
+    ]
+  },
+  {
+    "name": "Rock Spirit",
+    "fusionTypes": [
+      "Spellcaster"
+    ]
+  },
+  {
+    "name": "Snakeyashi",
+    "fusionTypes": [
+      "Plant"
+    ]
+  },
+  {
+    "name": "Succubus Knight",
+    "fusionTypes": [
+      "Female",
+      "Shadow",
+      "Warrior"
+    ]
+  },
+  {
+    "name": "Ill Witch",
+    "fusionTypes": [
+      "Female",
+      "Light",
+      "Spellcaster"
+    ]
+  },
+  {
+    "name": "The Thing That Hides in the Mud",
+    "fusionTypes": [
+      "Rock"
+    ]
+  },
+  {
+    "name": "High Tide Gyojin",
+    "fusionTypes": [
+      "Aqua",
+      "Neptune"
+    ]
+  },
+  {
+    "name": "Fairy of the Fountain",
+    "fusionTypes": [
+      "Aqua",
+      "Female",
+      "Neptune"
+    ]
+  },
+  {
+    "name": "Amazon of the Seas",
+    "fusionTypes": [
+      "Female",
+      "Fish",
+      "Neptune"
+    ]
+  },
+  {
+    "name": "Nekogal #2",
+    "fusionTypes": [
+      "Female"
+    ]
+  },
+  {
+    "name": "Witch's Apprentice",
+    "fusionTypes": [
+      "Dark Spellcaster",
+      "Female",
+      "Shadow",
+      "Spellcaster",
+      "Winged"
+    ]
+  },
+  {
+    "name": "Armored Rat",
+    "fusionTypes": [
+      "Animal",
+      "Beast"
+    ]
+  },
+  {
+    "name": "Ancient Lizard Warrior",
+    "fusionTypes": [
+      "Neptune",
+      "Reptile"
+    ]
+  },
+  {
+    "name": "Maiden of the Moonlight",
+    "fusionTypes": [
+      "Feathered B",
+      "Female",
+      "Spellcaster",
+      "Winged"
+    ]
+  },
+  {
+    "name": "Stone Ogre Grotto",
+    "fusionTypes": [
+      "Rock"
+    ]
+  },
+  {
+    "name": "Winged Egg of New Life",
+    "fusionTypes": [
+      "Fairy",
+      "Feathered B",
+      "Light",
+      "Winged"
+    ]
+  },
+  {
+    "name": "Night Lizard",
+    "fusionTypes": [
+      "Aqua",
+      "Neptune"
+    ]
+  },
+  {
+    "name": "Queen's Double",
+    "fusionTypes": [
+      "Female",
+      "Warrior"
+    ]
+  },
+  {
+    "name": "Blue-winged Crown",
+    "fusionTypes": [
+      "Feathered A",
+      "Feathered B",
+      "Winged Beast"
+    ]
+  },
+  {
+    "name": "Trent",
+    "fusionTypes": [
+      "Plant"
+    ]
+  },
+  {
+    "name": "Queen of Autumn Leaves",
+    "fusionTypes": [
+      "Female",
+      "Plant"
+    ]
+  },
+  {
+    "name": "Amphibious Bugroth",
+    "fusionTypes": []
+  },
+  {
+    "name": "Acid Crawler",
+    "fusionTypes": [
+      "Insect"
+    ]
+  },
+  {
+    "name": "Invader of the Throne",
+    "fusionTypes": [
+      "Female",
+      "Warrior"
+    ]
+  },
+  {
+    "name": "Mystical Sheep #1",
+    "fusionTypes": [
+      "Animal",
+      "Beast"
+    ]
+  },
+  {
+    "name": "Disk Magician",
+    "fusionTypes": [
+      "Machine"
+    ]
+  },
+  {
+    "name": "Flame Viper",
+    "fusionTypes": [
+      "Pyro"
+    ]
+  },
+  {
+    "name": "Royal Guard",
+    "fusionTypes": []
+  },
+  {
+    "name": "Gruesome Goo",
+    "fusionTypes": [
+      "Aqua",
+      "Neptune"
+    ]
+  },
+  {
+    "name": "Hyosube",
+    "fusionTypes": [
+      "Aqua",
+      "Neptune"
+    ]
+  },
+  {
+    "name": "Machine Attacker",
+    "fusionTypes": [
+      "Machine"
+    ]
+  },
+  {
+    "name": "Hibikime",
+    "fusionTypes": [
+      "Female",
+      "Shadow",
+      "Warrior"
+    ]
+  },
+  {
+    "name": "Whiptail Crow",
+    "fusionTypes": [
+      "Fiend"
+    ]
+  },
+  {
+    "name": "Kunai with Chain",
+    "fusionTypes": []
+  },
+  {
+    "name": "Magical Labyrinth",
+    "fusionTypes": [
+      "Harpie Killer"
+    ]
+  },
+  {
+    "name": "Warrior Elimination",
+    "fusionTypes": []
+  },
+  {
+    "name": "Salamandra",
+    "fusionTypes": []
+  },
+  {
+    "name": "Cursebreaker",
+    "fusionTypes": []
+  },
+  {
+    "name": "Eternal Rest",
+    "fusionTypes": []
+  },
+  {
+    "name": "Megamorph",
+    "fusionTypes": []
+  },
+  {
+    "name": "Metalmorph",
+    "fusionTypes": []
+  },
+  {
+    "name": "Winged Trumpeter",
+    "fusionTypes": [
+      "Feathered B"
+    ]
+  },
+  {
+    "name": "Stain Storm",
+    "fusionTypes": []
+  },
+  {
+    "name": "Crush Card",
+    "fusionTypes": []
+  },
+  {
+    "name": "Eradicating Aerosol",
+    "fusionTypes": []
+  },
+  {
+    "name": "Breath of Light",
+    "fusionTypes": []
+  },
+  {
+    "name": "Eternal Draught",
+    "fusionTypes": []
+  },
+  {
+    "name": "Curse of Millennium Shield",
+    "fusionTypes": []
+  },
+  {
+    "name": "Yamadron Ritual",
+    "fusionTypes": []
+  },
+  {
+    "name": "Gate Guardian Ritual",
+    "fusionTypes": []
+  },
+  {
+    "name": "Bright Castle",
+    "fusionTypes": []
+  },
+  {
+    "name": "Shadow Spell",
+    "fusionTypes": []
+  },
+  {
+    "name": "Black Luster Ritual",
+    "fusionTypes": []
+  },
+  {
+    "name": "Zera Ritual",
+    "fusionTypes": []
+  },
+  {
+    "name": "Harpie's Feather Duster",
+    "fusionTypes": []
+  },
+  {
+    "name": "War-lion Ritual",
+    "fusionTypes": []
+  },
+  {
+    "name": "Beastry Mirror Ritual",
+    "fusionTypes": []
+  },
+  {
+    "name": "Ultimate Dragon",
+    "fusionTypes": []
+  },
+  {
+    "name": "Commencement Dance",
+    "fusionTypes": []
+  },
+  {
+    "name": "Hamburger Recipe",
+    "fusionTypes": []
+  },
+  {
+    "name": "Revival of Sennen Genjin",
+    "fusionTypes": []
+  },
+  {
+    "name": "Novox's Prayer",
+    "fusionTypes": []
+  },
+  {
+    "name": "Curse of Tri-Horned Dragon",
+    "fusionTypes": []
+  },
+  {
+    "name": "House of Adhesive Tape",
+    "fusionTypes": [
+      "Harpie Killer"
+    ]
+  },
+  {
+    "name": "Eatgaboon",
+    "fusionTypes": [
+      "Harpie Killer"
+    ]
+  },
+  {
+    "name": "Bear Trap",
+    "fusionTypes": [
+      "Harpie Killer"
+    ]
+  },
+  {
+    "name": "Invisible Wire",
+    "fusionTypes": [
+      "Harpie Killer"
+    ]
+  },
+  {
+    "name": "Acid Trap Hole",
+    "fusionTypes": []
+  },
+  {
+    "name": "Widespread Ruin",
+    "fusionTypes": []
+  },
+  {
+    "name": "Goblin Fan",
+    "fusionTypes": []
+  },
+  {
+    "name": "Bad Reaction to Simochi",
+    "fusionTypes": []
+  },
+  {
+    "name": "Reverse Trap",
+    "fusionTypes": []
+  },
+  {
+    "name": "Fake Trap",
+    "fusionTypes": []
+  },
+  {
+    "name": "Revived of Serpent Night Dragon",
+    "fusionTypes": []
+  },
+  {
+    "name": "Turtle Oath",
+    "fusionTypes": []
+  },
+  {
+    "name": "Contruct of Mask",
+    "fusionTypes": []
+  },
+  {
+    "name": "Resurrection of Chakra",
+    "fusionTypes": []
+  },
+  {
+    "name": "Puppet Ritual",
+    "fusionTypes": []
+  },
+  {
+    "name": "Javelin Beetle Pact",
+    "fusionTypes": []
+  },
+  {
+    "name": "Garma Sword Oath",
+    "fusionTypes": []
+  },
+  {
+    "name": "Cosmo Queen's Prayer",
+    "fusionTypes": []
+  },
+  {
+    "name": "Revival of Skeleton Rider",
+    "fusionTypes": []
+  },
+  {
+    "name": "Fortress Whale's Oath",
+    "fusionTypes": []
+  },
+  {
+    "name": "Performance of Sword",
+    "fusionTypes": [
+      "Warrior"
+    ]
+  },
+  {
+    "name": "Hungry Burger",
+    "fusionTypes": [
+      "Warrior"
+    ]
+  },
+  {
+    "name": "Sengenjin",
+    "fusionTypes": []
+  },
+  {
+    "name": "Skull Guardian",
+    "fusionTypes": [
+      "Warrior"
+    ]
+  },
+  {
+    "name": "Tri-horned Dragon",
+    "fusionTypes": []
+  },
+  {
+    "name": "Serpent Night Dragon",
+    "fusionTypes": [
+      "Dragon"
+    ]
+  },
+  {
+    "name": "Skull Knight",
+    "fusionTypes": []
+  },
+  {
+    "name": "Cosmo Queen",
+    "fusionTypes": []
+  },
+  {
+    "name": "Chakra",
+    "fusionTypes": [
+      "Fiend"
+    ]
+  },
+  {
+    "name": "Crab Turtle",
+    "fusionTypes": []
+  },
+  {
+    "name": "Mikazukinoyaiba",
+    "fusionTypes": [
+      "Dragon"
+    ]
+  },
+  {
+    "name": "Meteor Dragon",
+    "fusionTypes": [
+      "Dragon"
+    ]
+  },
+  {
+    "name": "Meteor B. Dragon",
+    "fusionTypes": []
+  },
+  {
+    "name": "Firewing Pegasus",
+    "fusionTypes": [
+      "Pyro"
+    ]
+  },
+  {
+    "name": "Psycho-Puppet",
+    "fusionTypes": [
+      "Fiend"
+    ]
+  },
+  {
+    "name": "Garma Sword",
+    "fusionTypes": []
+  },
+  {
+    "name": "Javelin Beetle",
+    "fusionTypes": []
+  },
+  {
+    "name": "Fortress Whale",
+    "fusionTypes": []
+  },
+  {
+    "name": "Dokurorider",
+    "fusionTypes": [
+      "Zombie"
+    ]
+  },
+  {
+    "name": "Mask of Shine & Dark",
+    "fusionTypes": []
+  },
+  {
+    "name": "Dark Magic Ritual",
+    "fusionTypes": []
+  },
+  {
+    "name": "Magician of Black Chaos",
+    "fusionTypes": []
+  }
+]

@@ -10,9 +10,7 @@
     "password": "89631139",
     "starCost": 999999,
     "purchasable": true,
-    "fusionTypes": [
-      "Dragon"
-    ],
+    "fusionTypes": [],
     "guardianStars": [
       "Sun",
       "Mars"
@@ -51,7 +49,6 @@
     "starCost": 70,
     "purchasable": true,
     "fusionTypes": [
-      "BeastWarrior",
       "Koumorian",
       "Thronian"
     ],
@@ -269,9 +266,7 @@
     "password": "18246479",
     "starCost": 230,
     "purchasable": true,
-    "fusionTypes": [
-      "BeastWarrior"
-    ],
+    "fusionTypes": [],
     "guardianStars": [
       "Moon",
       "Uranus"
@@ -432,9 +427,7 @@
     "password": "70781052",
     "starCost": 999999,
     "purchasable": true,
-    "fusionTypes": [
-      "Fiend"
-    ],
+    "fusionTypes": [],
     "guardianStars": [
       "Moon",
       "Pluto"
@@ -511,9 +504,7 @@
     "password": "05053103",
     "starCost": 999999,
     "purchasable": true,
-    "fusionTypes": [
-      "BeastWarrior"
-    ],
+    "fusionTypes": [],
     "guardianStars": [
       "Jupiter",
       "Moon"
@@ -530,9 +521,7 @@
     "password": "32452818",
     "starCost": 140,
     "purchasable": true,
-    "fusionTypes": [
-      "BeastWarrior"
-    ],
+    "fusionTypes": [],
     "guardianStars": [
       "Jupiter",
       "Venus"
@@ -568,9 +557,7 @@
     "password": "04931562",
     "starCost": 35,
     "purchasable": true,
-    "fusionTypes": [
-      "BeastWarrior"
-    ],
+    "fusionTypes": [],
     "guardianStars": [
       "Uranus",
       "Mars"
@@ -644,9 +631,7 @@
     "password": "30113682",
     "starCost": 1000,
     "purchasable": true,
-    "fusionTypes": [
-      "Warrior"
-    ],
+    "fusionTypes": [],
     "guardianStars": [
       "Sun",
       "Saturn"
@@ -684,9 +669,7 @@
     "password": "46986414",
     "starCost": 999999,
     "purchasable": true,
-    "fusionTypes": [
-      "Spellcaster"
-    ],
+    "fusionTypes": [],
     "guardianStars": [
       "Mercury",
       "Mars"
@@ -741,9 +724,7 @@
     "password": "06368038",
     "starCost": 999999,
     "purchasable": true,
-    "fusionTypes": [
-      "Warrior"
-    ],
+    "fusionTypes": [],
     "guardianStars": [
       "Mercury",
       "Jupiter"
@@ -1111,9 +1092,7 @@
     "password": "14141448",
     "starCost": 999999,
     "purchasable": true,
-    "fusionTypes": [
-      "Insect"
-    ],
+    "fusionTypes": [],
     "guardianStars": [
       "Jupiter",
       "Uranus"
@@ -1259,9 +1238,7 @@
     "password": "49791927",
     "starCost": 999999,
     "purchasable": true,
-    "fusionTypes": [
-      "BeastWarrior"
-    ],
+    "fusionTypes": [],
     "guardianStars": [
       "Jupiter",
       "Neptune"
@@ -1317,9 +1294,7 @@
     "password": "48579379",
     "starCost": 999999,
     "purchasable": true,
-    "fusionTypes": [
-      "Insect"
-    ],
+    "fusionTypes": [],
     "guardianStars": [
       "Jupiter",
       "Moon"
@@ -1337,7 +1312,6 @@
     "starCost": 290,
     "purchasable": true,
     "fusionTypes": [
-      "BeastWarrior",
       "Pyro"
     ],
     "guardianStars": [
@@ -1435,7 +1409,6 @@
     "starCost": 290,
     "purchasable": true,
     "fusionTypes": [
-      "SeaSerpent",
       "Dragon"
     ],
     "guardianStars": [
@@ -1551,9 +1524,7 @@
     "password": "75390004",
     "starCost": 500,
     "purchasable": true,
-    "fusionTypes": [
-      "Dinosaur"
-    ],
+    "fusionTypes": [],
     "guardianStars": [
       "Uranus",
       "Neptune"
@@ -1770,7 +1741,6 @@
     "starCost": 500,
     "purchasable": true,
     "fusionTypes": [
-      "Fairy",
       "Female"
     ],
     "guardianStars": [
@@ -1809,9 +1779,7 @@
     "password": "94905343",
     "starCost": 999999,
     "purchasable": true,
-    "fusionTypes": [
-      "BeastWarrior"
-    ],
+    "fusionTypes": [],
     "guardianStars": [
       "Jupiter",
       "Pluto"
@@ -2482,9 +2450,7 @@
     "password": "02971090",
     "starCost": 290,
     "purchasable": true,
-    "fusionTypes": [
-      "Fairy"
-    ],
+    "fusionTypes": [],
     "guardianStars": [
       "Sun",
       "Saturn"
@@ -4331,9 +4297,7 @@
     "password": "11901678",
     "starCost": 999999,
     "purchasable": true,
-    "fusionTypes": [
-      "Dragon"
-    ],
+    "fusionTypes": [],
     "guardianStars": [
       "Moon",
       "Jupiter"
@@ -4373,7 +4337,6 @@
     "starCost": 55,
     "purchasable": true,
     "fusionTypes": [
-      "BeastWarrior",
       "Koumorian",
       "Sheepian",
       "Thronian"
@@ -4456,9 +4419,7 @@
     "password": "19066538",
     "starCost": 550,
     "purchasable": true,
-    "fusionTypes": [
-      "Aqua"
-    ],
+    "fusionTypes": [],
     "guardianStars": [
       "Neptune",
       "Mars"
@@ -4923,7 +4884,6 @@
     "starCost": 60,
     "purchasable": true,
     "fusionTypes": [
-      "BeastWarrior",
       "Koumorian",
       "Sheepian",
       "Thronian"
@@ -5765,7 +5725,6 @@
     "starCost": 120,
     "purchasable": true,
     "fusionTypes": [
-      "BeastWarrior",
       "Koumorian",
       "Thronian"
     ],
@@ -6589,7 +6548,6 @@
     "starCost": 140,
     "purchasable": true,
     "fusionTypes": [
-      "SeaSerpent",
       "Dragon"
     ],
     "guardianStars": [
@@ -6645,9 +6603,7 @@
     "attack": 2300,
     "defense": 2100,
     "purchasable": false,
-    "fusionTypes": [
-      "Beast"
-    ],
+    "fusionTypes": [],
     "guardianStars": [
       "Jupiter",
       "Venus"
@@ -6721,9 +6677,7 @@
     "attack": 2800,
     "defense": 2300,
     "purchasable": false,
-    "fusionTypes": [
-      "Fiend"
-    ],
+    "fusionTypes": [],
     "guardianStars": [
       "Moon",
       "Saturn"
@@ -6798,9 +6752,7 @@
     "attack": 3000,
     "defense": 2500,
     "purchasable": false,
-    "fusionTypes": [
-      "Warrior"
-    ],
+    "fusionTypes": [],
     "guardianStars": [
       "Moon",
       "Uranus"
@@ -6854,9 +6806,7 @@
     "password": "94773007",
     "starCost": 80,
     "purchasable": true,
-    "fusionTypes": [
-      "Insect"
-    ],
+    "fusionTypes": [],
     "guardianStars": [
       "Jupiter",
       "Uranus"
@@ -6911,9 +6861,7 @@
     "password": "99551425",
     "starCost": 999999,
     "purchasable": true,
-    "fusionTypes": [
-      "Machine"
-    ],
+    "fusionTypes": [],
     "guardianStars": [
       "Moon",
       "Mercury"
@@ -6949,9 +6897,7 @@
     "password": "62340868",
     "starCost": 999999,
     "purchasable": true,
-    "fusionTypes": [
-      "Spellcaster"
-    ],
+    "fusionTypes": [],
     "guardianStars": [
       "Saturn",
       "Mars"
@@ -6968,9 +6914,7 @@
     "password": "98434877",
     "starCost": 999999,
     "purchasable": true,
-    "fusionTypes": [
-      "Aqua"
-    ],
+    "fusionTypes": [],
     "guardianStars": [
       "Neptune",
       "Saturn"
@@ -6985,9 +6929,7 @@
     "attack": 3750,
     "defense": 3400,
     "purchasable": false,
-    "fusionTypes": [
-      "Warrior"
-    ],
+    "fusionTypes": [],
     "guardianStars": [
       "Moon",
       "Mars"
@@ -7098,9 +7040,7 @@
     "attack": 4500,
     "defense": 3800,
     "purchasable": false,
-    "fusionTypes": [
-      "Dragon"
-    ],
+    "fusionTypes": [],
     "guardianStars": [
       "Sun",
       "Venus"
@@ -7137,9 +7077,7 @@
     "password": "26378150",
     "starCost": 320,
     "purchasable": true,
-    "fusionTypes": [
-      "BeastWarrior"
-    ],
+    "fusionTypes": [],
     "guardianStars": [
       "Uranus",
       "Sun"
@@ -7296,7 +7234,6 @@
     "starCost": 999999,
     "purchasable": true,
     "fusionTypes": [
-      "Machine",
       "Pyro"
     ],
     "guardianStars": [
@@ -7315,9 +7252,7 @@
     "password": "24311372",
     "starCost": 999999,
     "purchasable": true,
-    "fusionTypes": [
-      "Fiend"
-    ],
+    "fusionTypes": [],
     "guardianStars": [
       "Moon",
       "Mercury"
@@ -7334,9 +7269,7 @@
     "password": "50705071",
     "starCost": 999999,
     "purchasable": true,
-    "fusionTypes": [
-      "Machine"
-    ],
+    "fusionTypes": [],
     "guardianStars": [
       "Moon",
       "Mars"
@@ -7632,7 +7565,6 @@
     "starCost": 800,
     "purchasable": true,
     "fusionTypes": [
-      "Machine",
       "Pyro"
     ],
     "guardianStars": [
@@ -7671,7 +7603,6 @@
     "starCost": 350,
     "purchasable": true,
     "fusionTypes": [
-      "Machine",
       "Dragon",
       "Pyro"
     ],
@@ -7786,9 +7717,7 @@
     "password": "07359741",
     "starCost": 120,
     "purchasable": true,
-    "fusionTypes": [
-      "Machine"
-    ],
+    "fusionTypes": [],
     "guardianStars": [
       "Moon",
       "Jupiter"
@@ -8081,7 +8010,6 @@
     "starCost": 120,
     "purchasable": true,
     "fusionTypes": [
-      "Spellcaster",
       "Bugrothian",
       "Female"
     ],
@@ -8224,9 +8152,7 @@
     "password": "28593363",
     "starCost": 350,
     "purchasable": true,
-    "fusionTypes": [
-      "Fish"
-    ],
+    "fusionTypes": [],
     "guardianStars": [
       "Neptune",
       "Mars"
@@ -8284,7 +8210,6 @@
     "starCost": 120,
     "purchasable": true,
     "fusionTypes": [
-      "Fish",
       "Bugrothian"
     ],
     "guardianStars": [
@@ -8324,7 +8249,6 @@
     "starCost": 700,
     "purchasable": true,
     "fusionTypes": [
-      "SeaSerpent",
       "Dragon"
     ],
     "guardianStars": [
@@ -8344,7 +8268,6 @@
     "starCost": 1000,
     "purchasable": true,
     "fusionTypes": [
-      "SeaSerpent",
       "Dragon"
     ],
     "guardianStars": [
@@ -8444,7 +8367,6 @@
     "starCost": 180,
     "purchasable": true,
     "fusionTypes": [
-      "SeaSerpent",
       "Dragon"
     ],
     "guardianStars": [
@@ -8602,7 +8524,7 @@
     "starCost": 100,
     "purchasable": true,
     "fusionTypes": [
-      "Warrior"
+      "Rock"
     ],
     "guardianStars": [
       "Uranus",
@@ -8817,7 +8739,6 @@
     "starCost": 700,
     "purchasable": true,
     "fusionTypes": [
-      "WingedBeast",
       "FeatherFromMachine"
     ],
     "guardianStars": [
@@ -9108,9 +9029,7 @@
     "password": "33691040",
     "starCost": 320,
     "purchasable": true,
-    "fusionTypes": [
-      "Dinosaur"
-    ],
+    "fusionTypes": [],
     "guardianStars": [
       "Uranus",
       "Neptune"
@@ -9128,7 +9047,6 @@
     "starCost": 1000,
     "purchasable": true,
     "fusionTypes": [
-      "Beast",
       "UsableBeast"
     ],
     "guardianStars": [
@@ -9644,9 +9562,7 @@
     "password": "16507828",
     "starCost": 800,
     "purchasable": true,
-    "fusionTypes": [
-      "Dinosaur"
-    ],
+    "fusionTypes": [],
     "guardianStars": [
       "Uranus",
       "Moon"
@@ -9859,7 +9775,6 @@
     "starCost": 400,
     "purchasable": true,
     "fusionTypes": [
-      "Aqua",
       "Turtle"
     ],
     "guardianStars": [
@@ -10035,9 +9950,7 @@
     "password": "60862676",
     "starCost": 550,
     "purchasable": true,
-    "fusionTypes": [
-      "Pyro"
-    ],
+    "fusionTypes": [],
     "guardianStars": [
       "Mars",
       "Pluto"
@@ -10076,9 +9989,7 @@
     "password": "32751480",
     "starCost": 500,
     "purchasable": true,
-    "fusionTypes": [
-      "Rock"
-    ],
+    "fusionTypes": [],
     "guardianStars": [
       "Mercury",
       "Saturn"
@@ -10096,7 +10007,6 @@
     "starCost": 160,
     "purchasable": true,
     "fusionTypes": [
-      "Spellcaster",
       "Elf",
       "Female"
     ],
@@ -10116,9 +10026,7 @@
     "password": "95144193",
     "starCost": 400,
     "purchasable": true,
-    "fusionTypes": [
-      "Insect"
-    ],
+    "fusionTypes": [],
     "guardianStars": [
       "Jupiter",
       "Sun"
@@ -10472,7 +10380,6 @@
     "starCost": 160,
     "purchasable": true,
     "fusionTypes": [
-      "Spellcaster",
       "Female",
       "MercuryMagicUser",
       "MercurySpellcaster"
@@ -10732,9 +10639,7 @@
     "password": "54622031",
     "starCost": 800,
     "purchasable": true,
-    "fusionTypes": [
-      "Zombie"
-    ],
+    "fusionTypes": [],
     "guardianStars": [
       "Moon",
       "Pluto"
@@ -10751,9 +10656,7 @@
     "password": "80727036",
     "starCost": 320,
     "purchasable": true,
-    "fusionTypes": [
-      "Fish"
-    ],
+    "fusionTypes": [],
     "guardianStars": [
       "Neptune",
       "Sun"
@@ -11085,7 +10988,6 @@
     "starCost": 350,
     "purchasable": true,
     "fusionTypes": [
-      "Fairy",
       "AngelWinged",
       "FeatherFromMachine",
       "Female"
@@ -11711,9 +11613,7 @@
     "password": "54752875",
     "starCost": 1900,
     "purchasable": true,
-    "fusionTypes": [
-      "Thunder"
-    ],
+    "fusionTypes": [],
     "guardianStars": [
       "Pluto",
       "Moon"
@@ -11993,7 +11893,6 @@
     "starCost": 550,
     "purchasable": true,
     "fusionTypes": [
-      "BeastWarrior",
       "Female"
     ],
     "guardianStars": [
@@ -12239,9 +12138,7 @@
     "password": "40173854",
     "starCost": 230,
     "purchasable": true,
-    "fusionTypes": [
-      "Aqua"
-    ],
+    "fusionTypes": [],
     "guardianStars": [
       "Neptune",
       "Sun"
@@ -12355,9 +12252,7 @@
     "password": "39239728",
     "starCost": 700,
     "purchasable": true,
-    "fusionTypes": [
-      "Machine"
-    ],
+    "fusionTypes": [],
     "guardianStars": [
       "Uranus",
       "Mercury"
@@ -13017,9 +12912,7 @@
     "attack": 2750,
     "defense": 2500,
     "purchasable": false,
-    "fusionTypes": [
-      "BeastWarrior"
-    ],
+    "fusionTypes": [],
     "guardianStars": [
       "Jupiter",
       "Mercury"
@@ -13051,9 +12944,7 @@
     "attack": 2850,
     "defense": 2350,
     "purchasable": false,
-    "fusionTypes": [
-      "Dragon"
-    ],
+    "fusionTypes": [],
     "guardianStars": [
       "Moon",
       "Jupiter"
@@ -13087,9 +12978,7 @@
     "password": "02504891",
     "starCost": 999999,
     "purchasable": true,
-    "fusionTypes": [
-      "Spellcaster"
-    ],
+    "fusionTypes": [],
     "guardianStars": [
       "Mercury",
       "Neptune"
@@ -13104,9 +12993,7 @@
     "attack": 2900,
     "defense": 2450,
     "purchasable": false,
-    "fusionTypes": [
-      "Spellcaster"
-    ],
+    "fusionTypes": [],
     "guardianStars": [
       "Venus",
       "Uranus"
@@ -13139,7 +13026,6 @@
     "defense": 2500,
     "purchasable": false,
     "fusionTypes": [
-      "Aqua",
       "Turtle"
     ],
     "guardianStars": [
@@ -13194,9 +13080,7 @@
     "attack": 3500,
     "defense": 2000,
     "purchasable": false,
-    "fusionTypes": [
-      "Dragon"
-    ],
+    "fusionTypes": [],
     "guardianStars": [
       "Mars",
       "Sun"
@@ -13214,7 +13098,6 @@
     "starCost": 999999,
     "purchasable": true,
     "fusionTypes": [
-      "Beast",
       "Pyro"
     ],
     "guardianStars": [
@@ -13248,9 +13131,7 @@
     "attack": 2550,
     "defense": 2150,
     "purchasable": false,
-    "fusionTypes": [
-      "Warrior"
-    ],
+    "fusionTypes": [],
     "guardianStars": [
       "Moon",
       "Uranus"
@@ -13265,9 +13146,7 @@
     "attack": 2450,
     "defense": 2550,
     "purchasable": false,
-    "fusionTypes": [
-      "Insect"
-    ],
+    "fusionTypes": [],
     "guardianStars": [
       "Jupiter",
       "Uranus"
@@ -13282,9 +13161,7 @@
     "attack": 2350,
     "defense": 2150,
     "purchasable": false,
-    "fusionTypes": [
-      "Fish"
-    ],
+    "fusionTypes": [],
     "guardianStars": [
       "Neptune",
       "Saturn"
@@ -13316,9 +13193,7 @@
     "attack": 2000,
     "defense": 1800,
     "purchasable": false,
-    "fusionTypes": [
-      "Spellcaster"
-    ],
+    "fusionTypes": [],
     "guardianStars": [
       "Venus",
       "Pluto"
@@ -13341,9 +13216,7 @@
     "attack": 2800,
     "defense": 2600,
     "purchasable": false,
-    "fusionTypes": [
-      "Spellcaster"
-    ],
+    "fusionTypes": [],
     "guardianStars": [
       "Mercury",
       "Mars"

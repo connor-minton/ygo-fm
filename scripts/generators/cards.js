@@ -10,6 +10,9 @@ module.exports = (filename) => {
   const fandomCards = require('../../data/fandom-cards');
   const guideCards = require('../../data/guide-1-cards');
   const fusionCards = require('../../data/fusion-card-types-cards');
+  const sameTypeExceptions = new Set(require('../../data/same-type-exceptions.json')
+    .map(s => s.toLowerCase())
+  );
 
   const fusionCardsByName = _(fusionCards)
     .groupBy('name')
@@ -43,7 +46,7 @@ module.exports = (filename) => {
 
     const extraTypes = getExtraTypes(card.name);
     let fusionTypes;
-    if (card.cardType === 'Monster' && !extraTypes.includes(card.type)) {
+    if (card.cardType === 'Monster' && !extraTypes.includes(card.type) && !sameTypeExceptions.has(card.name.toLowerCase())) {
       fusionTypes = [card.type, ...extraTypes];
     }
     else {

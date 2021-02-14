@@ -13,6 +13,14 @@ const generators = [
     filename: 'fandom-cards.json'
   },
   {
+    generate: require('./generators/fm-fusions-card-groups'),
+    filename: 'fm-fusions-card-groups.json'
+  },
+  {
+    generate: require('./generators/same-type-exceptions'),
+    filename: 'same-type-exceptions.json'
+  },
+  {
     generate: require('./generators/cards'),
     filename: 'cards.json'
   },

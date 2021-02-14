@@ -228,6 +228,7 @@ Midnight Fiend                   | Koumorian Sheepian Thronian
 Mikazukinoyaiba                  | Dragon
 Milus Radiant                    | UsableBeast
 Minar                            | Koumorian Sheepian Thronian
+Minomushi Warrior                | Rock
 Monster Egg                      | Egg
 Monster Eye                      | Koumorian Sheepian Thronian
 Monstrous Bird                   | FeatherFromBear FeatherFromMachine

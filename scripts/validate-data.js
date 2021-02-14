@@ -12,6 +12,14 @@ const validators = [
     name: 'fusion names in fandom'
   },
   {
+    validate: require('./validators/fm-fusions-card-groups'),
+    name: 'fm-fusions-card-groups.json'
+  },
+  {
+    validate: require('./validators/same-type-exceptions'),
+    name: 'same-type-exceptions.json'
+  },
+  {
     validate: require('./validators/cards'),
     name: 'merged cards.json'
   },

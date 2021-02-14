@@ -1464,6 +1464,12 @@
     ]
   },
   {
+    "name": "Minomushi Warrior",
+    "types": [
+      "Rock"
+    ]
+  },
+  {
     "name": "Monster Egg",
     "types": [
       "Egg"
