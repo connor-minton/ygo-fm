@@ -6,7 +6,7 @@ const { JSDOM } = require('jsdom');
 const util = require('../../util');
 
 module.exports = (filename) => {
-  const dom = new JSDOM(fs.readFileSync(path.join(__dirname, '../../data/fandom-card-list.html')));
+  const dom = new JSDOM(fs.readFileSync(path.join(__dirname, '../../guides/fandom-card-list.html')));
   const doc = dom.window.document;
   const rows = doc.querySelectorAll('table.card-list > tbody > tr');
   const cards = [];
